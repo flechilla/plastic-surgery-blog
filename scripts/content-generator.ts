@@ -9,7 +9,7 @@
  * Goal: Rank #1 on Google for procedure-related queries
  */
 
-import Anthropic from '@anthropic-ai/sdk';
+import OpenAI from 'openai';
 import { execSync } from 'child_process';
 import * as fs from 'fs';
 import * as path from 'path';
@@ -200,18 +200,22 @@ function getExternalSources(category: string): typeof EXTERNAL_SOURCES {
 }
 
 async function generateContent(topic: TopicEntry): Promise<GeneratedContent> {
-  const anthropic = new Anthropic();
+  const openai = new OpenAI();
   
   const internalLinks = getInternalLinks(topic.category, topic.slug);
   const externalSources = getExternalSources(topic.category);
   
-  const prompt = `You are an expert medical content writer creating content for a luxury plastic surgery blog targeting women ages 30-55 with high household incomes ($150K+) who are actively researching procedures.
+  const systemPrompt = `You are an expert medical content writer creating content for a luxury plastic surgery blog targeting women ages 30-55 with high household incomes ($150K+) who are actively researching procedures.
 
-**WRITING STYLE:**
+WRITING STYLE:
 - Warm, knowledgeable, reassuring (like a trusted doctor friend)
 - NOT clinical jargon, NOT pushy sales, NOT fear-mongering
 - Elegant, sophisticated tone matching "Architectural Digest meets Mayo Clinic"
 - Educational and empowering, helping readers make informed decisions
+
+Always respond with valid JSON only, no markdown code blocks.`;
+
+  const userPrompt = `Create a comprehensive blog article with these specifications:
 
 **TOPIC:** ${topic.slug.replace(/-/g, ' ')}
 **CATEGORY:** ${topic.category}
@@ -251,40 +255,46 @@ For recovery articles:
 **INTERNAL LINKS TO INCLUDE:**
 ${internalLinks.length > 0 ? internalLinks.map(l => `- ${l}`).join('\n') : '- (none available yet - skip internal links)'}
 
-**EXTERNAL AUTHORITY SOURCES TO REFERENCE:**
-${externalSources.map(s => `- ${s.name} (${s.domain})`).join('\n')}
+**EXTERNAL AUTHORITY SOURCES TO REFERENCE (include 2-3 as markdown links):**
+${externalSources.map(s => `- ${s.name} (https://${s.domain})`).join('\n')}
 
 **OUTPUT FORMAT:**
-Return a JSON object with:
+Return ONLY a JSON object (no markdown, no code blocks) with:
 {
   "title": "SEO-optimized title",
   "description": "Meta description 150-160 chars",
-  "tags": ["keyword1", "keyword2", "keyword3"],
-  "content": "Full MDX content starting with first heading (no frontmatter)"
+  "tags": ["keyword1", "keyword2", "keyword3", "keyword4"],
+  "content": "Full MDX content starting with first H2 heading (no frontmatter, escape special chars properly)"
 }
 
-The content field should be complete markdown/MDX with:
-- Proper H2 (##) and H3 (###) headings
-- Tables where specified
-- Bold and italic for emphasis
-- Internal links using markdown format: [anchor text](/blog/slug)
-- External links with proper attribution
-- NO frontmatter (I'll add that separately)
+The content field must:
+- Start with ## heading (not # since that's reserved for title)
+- Use proper markdown tables where specified
+- Include the internal links naturally in the text
+- Include 2-3 external links to authoritative sources
+- Be properly escaped for JSON (newlines as \\n)`;
 
-Generate the content now:`;
-
-  const response = await anthropic.messages.create({
-    model: 'claude-sonnet-4-20250514',
+  const response = await openai.chat.completions.create({
+    model: 'gpt-4o',
     max_tokens: 8000,
-    messages: [{ role: 'user', content: prompt }],
+    temperature: 0.7,
+    messages: [
+      { role: 'system', content: systemPrompt },
+      { role: 'user', content: userPrompt }
+    ],
   });
 
-  const text = response.content[0].type === 'text' ? response.content[0].text : '';
+  const text = response.choices[0]?.message?.content || '';
   
-  // Extract JSON from response
-  const jsonMatch = text.match(/\{[\s\S]*\}/);
+  // Extract JSON from response (handle potential markdown code blocks)
+  let jsonStr = text.trim();
+  if (jsonStr.startsWith('```')) {
+    jsonStr = jsonStr.replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '');
+  }
+  
+  const jsonMatch = jsonStr.match(/\{[\s\S]*\}/);
   if (!jsonMatch) {
-    throw new Error('Failed to extract JSON from response');
+    throw new Error('Failed to extract JSON from response: ' + text.substring(0, 200));
   }
   
   return JSON.parse(jsonMatch[0]) as GeneratedContent;
@@ -295,14 +305,14 @@ async function generateCoverImage(topic: TopicEntry): Promise<string> {
   const outputFilename = `${dateStr}-${topic.slug}.png`;
   const outputPath = path.join(IMAGES_DIR, outputFilename);
   
-  // Art direction prompts by category
+  // Art direction prompts by category - Abstract, no human elements to avoid safety filters
   const categoryPrompts: Record<string, string> = {
-    facial: `Artistic editorial photograph, elegant feminine profile silhouette in soft golden hour lighting, warm ivory background with subtle blush tones, minimalist composition with generous negative space, luxury medical spa aesthetic, sophisticated and serene, suggesting facial harmony and refinement, Architectural Digest style, no text, no faces visible`,
-    body: `Elegant artistic photograph, graceful feminine silhouette draped in flowing ivory silk fabric, soft warm studio lighting creating gentle shadows, abstract body confidence composition, luxury spa aesthetic, editorial magazine quality, muted warm color palette with subtle rose gold tones, sophisticated and empowering, no faces visible`,
-    breast: `Sophisticated abstract photograph, soft flowing fabric in ivory and blush creating elegant curves, warm diffused lighting, luxury fashion editorial style, tasteful and empowering, feminine elegance, Vogue aesthetic, generous negative space, no human figures`,
-    'non-surgical': `Artistic close-up photograph of luxury skincare moment, elegant glass vessel with golden serum, soft hands in frame, warm diffused lighting, ivory and blush color palette, editorial beauty photography style, sophisticated spa aesthetic, subtle textures, magazine quality, no faces, serene and indulgent mood`,
-    recovery: `Serene artistic photograph, soft natural morning light through sheer curtains, cozy neutral textiles in ivory and warm sand tones, peaceful healing atmosphere, editorial interior design aesthetic, spa-like tranquility, generous negative space, calming and restorative composition`,
-    news: `Modern minimalist photograph, architectural forms with soft shadows, clean lines meeting organic shapes, ivory and deep sage color palette, contemporary luxury aesthetic, editorial design magazine style, sophisticated and forward-thinking, abstract composition`,
+    facial: `Artistic still life photograph, elegant arrangement of white orchids and smooth river stones, soft golden hour lighting, ivory and blush color palette, minimalist luxury spa aesthetic, Architectural Digest style, generous negative space, serene and sophisticated, premium medical wellness atmosphere`,
+    body: `Elegant abstract photograph, flowing silk fabric in ivory and rose gold creating sculptural forms, soft warm studio lighting, luxury interior design aesthetic, editorial magazine quality, muted warm tones, sophisticated and empowering, no people, contemporary art gallery style`,
+    breast: `Sophisticated still life photograph, elegant glass vessels with soft pink roses, warm diffused lighting, ivory and blush color palette, luxury fashion editorial style, Vogue aesthetic, generous negative space, premium wellness spa atmosphere`,
+    'non-surgical': `Artistic close-up photograph of luxury skincare products, elegant glass bottles with golden serums on marble surface, warm diffused lighting, ivory and blush tones, editorial beauty photography style, sophisticated spa aesthetic, subtle textures, magazine quality, premium wellness`,
+    recovery: `Serene interior photograph, soft morning light through sheer curtains, cozy cashmere throw on modern sofa, neutral textiles in ivory and warm sand, fresh eucalyptus in glass vase, peaceful healing atmosphere, editorial interior design aesthetic, spa-like tranquility`,
+    news: `Modern minimalist photograph, architectural elements with soft shadows, clean geometric forms, luxury materials like marble and brushed gold, ivory and sage green palette, contemporary design magazine style, sophisticated and forward-thinking, premium aesthetic`,
   };
   
   const prompt = categoryPrompts[topic.category] || categoryPrompts.facial;
