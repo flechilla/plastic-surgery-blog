@@ -1,0 +1,152 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import ClinicHeader from '@components/ClinicHeader.astro';
+import ClinicSidebar from '@components/ClinicSidebar.astro';
+import ReviewCard from '@components/ReviewCard.astro';
+
+export async function getStaticPaths() {
+  const clinics = await getCollection('clinics');
+
+  return clinics.map((clinic) => ({
+    params: {
+      city: clinic.data.city,
+      clinic: clinic.data.slug,
+    },
+    props: { clinic: clinic.data },
+  }));
+}
+
+const { clinic } = Astro.props;
+---
+
+<BaseLayout
+  title={`${clinic.name} - Reviews, Surgeons & Procedures | ${clinic.city}, ${clinic.state}`}
+  description={clinic.description.slice(0, 160)}
+>
+  <!-- Header -->
+  <ClinicHeader
+    name={clinic.name}
+    address={clinic.address}
+    city={clinic.city === 'miami' ? 'Miami' : clinic.city}
+    state={clinic.state}
+    rating={clinic.rating}
+    reviewCount={clinic.reviewCount}
+    verified={clinic.verified}
+    yearEstablished={clinic.yearEstablished}
+    certifications={clinic.certifications}
+  />
+
+  <div class="h-px bg-gradient-to-r from-transparent via-warm-sand/60 to-transparent"></div>
+
+  <!-- Main Content -->
+  <section class="bg-ivory py-12 md:py-16">
+    <div class="mx-auto max-w-7xl px-6 lg:px-10">
+      <div class="grid gap-8 lg:grid-cols-3">
+        <!-- Main Column -->
+        <div class="lg:col-span-2">
+          <!-- About -->
+          <div class="animate-on-scroll rounded-2xl bg-white p-6 shadow-card md:p-8">
+            <h2 class="font-serif text-2xl font-medium text-charcoal">About</h2>
+            <p class="mt-4 leading-relaxed text-charcoal/70">{clinic.description}</p>
+          </div>
+
+          <!-- Specialties -->
+          <div class="animate-on-scroll stagger-1 mt-6 rounded-2xl bg-white p-6 shadow-card md:p-8">
+            <h2 class="font-serif text-2xl font-medium text-charcoal">Specialties & Procedures</h2>
+            <div class="mt-4 flex flex-wrap gap-2">
+              {clinic.specialties.map((specialty) => (
+                <span class="rounded-lg bg-soft-blush/50 px-4 py-2 text-sm font-medium text-rose-gold-dark">
+                  {specialty}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          <!-- Surgeons -->
+          {clinic.surgeons && clinic.surgeons.length > 0 && (
+            <div class="animate-on-scroll stagger-2 mt-6 rounded-2xl bg-white p-6 shadow-card md:p-8">
+              <h2 class="font-serif text-2xl font-medium text-charcoal">Our Surgeons</h2>
+              <div class="mt-6 space-y-6">
+                {clinic.surgeons.map((surgeon) => (
+                  <div class="flex gap-4 rounded-xl border border-warm-sand/40 p-5">
+                    <div class="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-full bg-warm-sand/40">
+                      <svg class="h-7 w-7 text-charcoal/30" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
+                      </svg>
+                    </div>
+                    <div class="min-w-0 flex-1">
+                      <h3 class="font-serif text-lg font-medium text-charcoal">{surgeon.name}</h3>
+                      <p class="text-sm text-rose-gold-dark">{surgeon.title}</p>
+                      {surgeon.bio && (
+                        <p class="mt-2 text-sm leading-relaxed text-charcoal/60">{surgeon.bio}</p>
+                      )}
+                      {surgeon.specialties && surgeon.specialties.length > 0 && (
+                        <div class="mt-3 flex flex-wrap gap-1.5">
+                          {surgeon.specialties.map((s) => (
+                            <span class="rounded-md bg-warm-sand/30 px-2.5 py-0.5 text-[11px] font-medium text-charcoal/50">
+                              {s}
+                            </span>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Reviews -->
+          {clinic.reviews && clinic.reviews.length > 0 && (
+            <div class="animate-on-scroll stagger-3 mt-6">
+              <h2 class="mb-4 font-serif text-2xl font-medium text-charcoal">Patient Reviews</h2>
+              <div class="space-y-4">
+                {clinic.reviews.map((review) => (
+                  <ReviewCard
+                    author={review.author}
+                    rating={review.rating}
+                    date={review.date}
+                    procedure={review.procedure}
+                    text={review.text}
+                    source={review.source}
+                  />
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+
+        <!-- Sidebar -->
+        <div class="lg:col-span-1">
+          <div class="animate-on-scroll sticky top-24">
+            <ClinicSidebar
+              phone={clinic.phone}
+              website={clinic.website}
+              email={clinic.email}
+              address={clinic.address}
+              city={clinic.city === 'miami' ? 'Miami' : clinic.city}
+              state={clinic.state}
+              zipCode={clinic.zipCode}
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Back link -->
+  <section class="border-t border-warm-sand/40 bg-white">
+    <div class="mx-auto max-w-7xl px-6 py-10 lg:px-10">
+      <a
+        href={`/clinics/${clinic.city}/`}
+        class="group inline-flex items-center gap-2 text-sm font-medium text-charcoal/50 transition-colors hover:text-charcoal"
+      >
+        <svg class="h-4 w-4 transition-transform duration-200 group-hover:-translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+        </svg>
+        Back to {clinic.city === 'miami' ? 'Miami' : clinic.city} clinics
+      </a>
+    </div>
+  </section>
+</BaseLayout>

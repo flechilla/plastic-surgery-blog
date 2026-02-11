@@ -1,0 +1,137 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import ClinicCard from '@components/ClinicCard.astro';
+
+export async function getStaticPaths() {
+  const cities = await getCollection('cities');
+  const clinics = await getCollection('clinics');
+
+  return cities.map((city) => {
+    const cityClinics = clinics
+      .filter((c) => c.data.city === city.data.slug)
+      .sort((a, b) => {
+        // Featured first, then by rating
+        if (a.data.featured !== b.data.featured) return a.data.featured ? -1 : 1;
+        return b.data.rating - a.data.rating;
+      });
+
+    return {
+      params: { city: city.data.slug },
+      props: { city: city.data, clinics: cityClinics },
+    };
+  });
+}
+
+const { city, clinics } = Astro.props;
+---
+
+<BaseLayout
+  title={`Best Plastic Surgery Clinics in ${city.name}, ${city.state} | Reviews & Ratings`}
+  description={city.metaDescription}
+>
+  <!-- City Hero -->
+  <section class="bg-ivory">
+    <div class="mx-auto max-w-7xl px-6 py-16 md:py-24 lg:px-10">
+      <!-- Breadcrumb -->
+      <nav class="animate-on-scroll mb-8" aria-label="Breadcrumb">
+        <ol class="flex items-center gap-2 text-xs text-charcoal/40">
+          <li>
+            <a href="/" class="transition-colors hover:text-charcoal">Home</a>
+          </li>
+          <li aria-hidden="true">
+            <svg class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+            </svg>
+          </li>
+          <li>
+            <a href="/clinics/" class="transition-colors hover:text-charcoal">Clinic Directory</a>
+          </li>
+          <li aria-hidden="true">
+            <svg class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+            </svg>
+          </li>
+          <li class="text-charcoal/60">{city.name}, {city.state}</li>
+        </ol>
+      </nav>
+
+      <div class="animate-on-scroll">
+        <p class="mb-4 text-xs font-medium uppercase tracking-[0.2em] text-rose-gold">
+          {city.name}, {city.stateFullName}
+        </p>
+        <h1 class="font-serif text-4xl font-medium leading-[1.1] text-charcoal md:text-5xl">
+          Plastic surgery clinics in <span class="italic text-rose-gold-dark">{city.name}</span>
+        </h1>
+        <p class="mt-6 max-w-2xl text-lg leading-relaxed text-charcoal/60">
+          {city.description}
+        </p>
+      </div>
+
+      <!-- Stats bar -->
+      <div class="animate-on-scroll stagger-1 mt-10 flex flex-wrap items-center gap-6 rounded-xl bg-white/80 p-4 shadow-sm backdrop-blur-sm md:inline-flex">
+        <div class="flex items-center gap-2">
+          <svg class="h-5 w-5 text-rose-gold" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 3H21" />
+          </svg>
+          <span class="text-sm font-medium text-charcoal">{clinics.length}</span>
+          <span class="text-sm text-charcoal/50">{clinics.length === 1 ? 'clinic' : 'clinics'}</span>
+        </div>
+        <div class="h-5 w-px bg-warm-sand/60"></div>
+        <div class="flex items-center gap-2">
+          <svg class="h-5 w-5 text-deep-sage" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z" />
+          </svg>
+          <span class="text-sm text-charcoal/50">All verified & accredited</span>
+        </div>
+      </div>
+    </div>
+    <div class="h-px bg-gradient-to-r from-transparent via-warm-sand/60 to-transparent"></div>
+  </section>
+
+  <!-- Clinic Listings -->
+  <section class="bg-white py-16 md:py-24">
+    <div class="mx-auto max-w-7xl px-6 lg:px-10">
+      {clinics.length > 0 ? (
+        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {clinics.map((clinic, i) => (
+            <div class={`animate-on-scroll stagger-${(i % 4) + 1}`}>
+              <ClinicCard
+                name={clinic.data.name}
+                slug={clinic.data.slug}
+                citySlug={clinic.data.city}
+                address={clinic.data.address}
+                phone={clinic.data.phone}
+                rating={clinic.data.rating}
+                reviewCount={clinic.data.reviewCount}
+                specialties={clinic.data.specialties}
+                description={clinic.data.description}
+                verified={clinic.data.verified}
+                featured={clinic.data.featured}
+              />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div class="py-16 text-center">
+          <p class="text-charcoal/40">No clinics found for this city yet. Check back soon.</p>
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- Back link -->
+  <section class="border-t border-warm-sand/40 bg-ivory">
+    <div class="mx-auto max-w-7xl px-6 py-10 lg:px-10">
+      <a
+        href="/clinics/"
+        class="group inline-flex items-center gap-2 text-sm font-medium text-charcoal/50 transition-colors hover:text-charcoal"
+      >
+        <svg class="h-4 w-4 transition-transform duration-200 group-hover:-translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+        </svg>
+        Back to all cities
+      </a>
+    </div>
+  </section>
+</BaseLayout>
