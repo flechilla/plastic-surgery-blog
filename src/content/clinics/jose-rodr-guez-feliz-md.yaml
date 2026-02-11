@@ -2,52 +2,47 @@ name: Jose Rodríguez-Feliz, MD
 slug: jose-rodr-guez-feliz-md
 city: miami
 state: FL
-address: "6705 Red Rd STE 500"
+address: 6705 Red Rd STE 500
 zipCode: "33143"
-phone: "(305) 563-3030"
-website: "https://rodriguezfelizmd.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
-googleMapsUrl: "https://maps.google.com/?cid=9900541438505482126"
-description: >-
-  Jose Rodríguez-Feliz, MD is a plastic surgery practice located in Coral Gables, FL. With a 5-star rating from 269 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 563-3030
+website: https://rodriguezfelizmd.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp
+googleMapsUrl: https://maps.google.com/?cid=9900541438505482126
+description: Jose Rodríguez-Feliz, MD is a plastic surgery practice located in Coral Gables, FL. With a 5-star rating from 269 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 5
 reviewCount: 269
 reviews:
-  - author: "Nina M."
+  - author: Nina M.
     rating: 5
     date: "2025-08-12"
-    text: >-
-      I can’t say enough amazing things about Dr. Rodriguez-Feliz and his fabulous team! From the moment I walked in, I felt so cared for and comfortable. The whole process was smooth, and my results are beyond what I hoped for. The office is gorgeous, the vibe is super welcoming, & everyone treats you li...
-    source: "Google"
-  - author: "Vanessa V."
+    text: I can’t say enough amazing things about Dr. Rodriguez-Feliz and his fabulous team! From the moment I walked in, I felt so cared for and comfortable. The whole process was smooth, and my results are beyond what I hoped for. The office is gorgeous, the vibe is super welcoming, & everyone treats you li...
+    source: Google
+  - author: Vanessa V.
     rating: 5
     date: "2025-08-25"
-    text: >-
-      I recently had lower blepharoplasty with Dr. José Rodríguez Veliz, and I could not be happier with my experience and results. After doing extensive research, he was the surgeon I felt most drawn to, and from my very first consultation, I felt completely comfortable and confident in my decision. His ...
-    source: "Google"
-  - author: "sandra s."
+    text: I recently had lower blepharoplasty with Dr. José Rodríguez Veliz, and I could not be happier with my experience and results. After doing extensive research, he was the surgeon I felt most drawn to, and from my very first consultation, I felt completely comfortable and confident in my decision. His ...
+    source: Google
+  - author: sandra s.
     rating: 5
     date: "2026-01-07"
-    text: >-
-      The Best and The number 1  in Miami , Doctor Rodriguez Felix , the result of my surgery (labioplastia) was perfect and the recovery also,   , excellent attention by the  staff . I recommend him 100 %. THANK YOU DOCTOR !
-    source: "Google"
-  - author: "V T."
+    text: The Best and The number 1  in Miami , Doctor Rodriguez Felix , the result of my surgery (labioplastia) was perfect and the recovery also,   , excellent attention by the  staff . I recommend him 100 %. THANK YOU DOCTOR !
+    source: Google
+  - author: V T.
     rating: 5
     date: "2025-07-01"
-    text: >-
-      I cannot recommend Dr. Rodriguez-Feliz and his wonderful team more! I went in for an upper bleph and knew I was in the best hands. I healed nicely - hardly any bruising and his team was attentive to my post-op care. Definitely the best!
-    source: "Google"
-  - author: "Anna M."
+    text: I cannot recommend Dr. Rodriguez-Feliz and his wonderful team more! I went in for an upper bleph and knew I was in the best hands. I healed nicely - hardly any bruising and his team was attentive to my post-op care. Definitely the best!
+    source: Google
+  - author: Anna M.
     rating: 5
     date: "2024-11-11"
-    text: >-
-      If I could rate this clinic 10 stars, I would. I had an eyebrow transplant performed by Dr. RF and his team back in May and the results have changed my life. My eyebrows themselves, the shape, the density, everything, has far exceeded my expectations. My experience from the consultation to my six mo...
-    source: "Google"
+    text: If I could rate this clinic 10 stars, I would. I had an eyebrow transplant performed by Dr. RF and his team back in May and the results have changed my life. My eyebrows themselves, the shape, the density, everything, has far exceeded my expectations. My experience from the consultation to my six mo...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/jose-rodr-guez-feliz-md.jpg

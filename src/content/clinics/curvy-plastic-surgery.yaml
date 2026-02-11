@@ -4,50 +4,45 @@ city: miami
 state: FL
 address: "5040 NW 7th St # 412"
 zipCode: "33126"
-phone: "(786) 648-8841"
-website: "https://curvyplasticsurgery.com/"
-googleMapsUrl: "https://maps.google.com/?cid=10611510109885358288"
-description: >-
-  Curvy Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 25 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (786) 648-8841
+website: https://curvyplasticsurgery.com/
+googleMapsUrl: https://maps.google.com/?cid=10611510109885358288
+description: Curvy Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 25 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 5
 reviewCount: 25
 reviews:
-  - author: "Lea M."
+  - author: Lea M.
     rating: 5
     date: "2026-01-24"
-    text: >-
-      I had an absolutely great experience at this clinic from start to finish. The entire team was incredibly knowledgeable, professional, and made me feel comfortable every step of the way. They took the time to explain everything clearly, answered all of my questions, and never made me feel rushed.  Th...
-    source: "Google"
-  - author: "Leydis L."
+    text: I had an absolutely great experience at this clinic from start to finish. The entire team was incredibly knowledgeable, professional, and made me feel comfortable every step of the way. They took the time to explain everything clearly, answered all of my questions, and never made me feel rushed.  Th...
+    source: Google
+  - author: Leydis L.
     rating: 5
     date: "2026-01-20"
-    text: >-
-      I couldn’t be happier with my experience at Curvy Plastic Surgery. They took the time to understand exactly what I wanted and made me feel confident and safe every step of the way. The results are beautiful and natural, and the post-surgery care was excellent. I am very grateful and would highly rec...
-    source: "Google"
-  - author: "ChaLi T."
+    text: I couldn’t be happier with my experience at Curvy Plastic Surgery. They took the time to understand exactly what I wanted and made me feel confident and safe every step of the way. The results are beautiful and natural, and the post-surgery care was excellent. I am very grateful and would highly rec...
+    source: Google
+  - author: ChaLi T.
     rating: 5
     date: "2026-01-20"
-    text: >-
-      I had an amazing experience at Curvy Plastic Surgery. From the very first contact, the staff was professional, kind, and attentive. They explained everything clearly and made me feel safe throughout the entire process. The clinic is beautiful, clean, and very well organized. I highly recommend Curvy...
-    source: "Google"
-  - author: "Dalila A."
+    text: I had an amazing experience at Curvy Plastic Surgery. From the very first contact, the staff was professional, kind, and attentive. They explained everything clearly and made me feel safe throughout the entire process. The clinic is beautiful, clean, and very well organized. I highly recommend Curvy...
+    source: Google
+  - author: Dalila A.
     rating: 5
     date: "2025-12-23"
-    text: >-
-      From the moment I walked into the clinic, I felt welcomed, cared for, and completely confident in my decision. The entire team is incredibly professional, efficient, and genuinely kind. The staff is extremely organized and attentive, making every step of the process smooth and stress-free.  The surg...
-    source: "Google"
-  - author: "zaidi v."
+    text: From the moment I walked into the clinic, I felt welcomed, cared for, and completely confident in my decision. The entire team is incredibly professional, efficient, and genuinely kind. The staff is extremely organized and attentive, making every step of the process smooth and stress-free.  The surg...
+    source: Google
+  - author: zaidi v.
     rating: 5
     date: "2025-12-23"
-    text: >-
-      I had an outstanding experience at this clinic from start to finish. The entire team is professional, attentive, and genuinely committed to patient care. My surgeon took the time to understand exactly what I wanted, explained every step clearly, and made me feel completely at ease throughout the pro...
-    source: "Google"
+    text: I had an outstanding experience at this clinic from start to finish. The entire team is professional, attentive, and genuinely committed to patient care. My surgeon took the time to understand exactly what I wanted, explained every step clearly, and made me feel completely at ease throughout the pro...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/curvy-plastic-surgery.png

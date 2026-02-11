@@ -2,52 +2,47 @@ name: Dr. Gabriel E. Salloum, MD
 slug: dr-gabriel-e-salloum-md
 city: miami
 state: FL
-address: "Golden Medical Office Building"
+address: Golden Medical Office Building
 zipCode: "33140"
-phone: "(305) 405-6910"
-website: "https://miamicenterforplasticsurgery.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB-doctor"
-googleMapsUrl: "https://maps.google.com/?cid=7493474125544343078"
-description: >-
-  Dr. Gabriel E. Salloum, MD is a plastic surgery practice located in Miami Beach, FL. With a 4.9-star rating from 79 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 405-6910
+website: https://miamicenterforplasticsurgery.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB-doctor
+googleMapsUrl: https://maps.google.com/?cid=7493474125544343078
+description: Dr. Gabriel E. Salloum, MD is a plastic surgery practice located in Miami Beach, FL. With a 4.9-star rating from 79 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.9
 reviewCount: 79
 reviews:
-  - author: "shannon t."
+  - author: shannon t.
     rating: 5
     date: "2025-11-19"
-    text: >-
-      Absolutely outstanding experience at Dr. Salloum’s office today. From the moment I walked in, every staff member was warm, professional, and attentive. My laser treatment was handled with such care and expertise—I felt completely comfortable throughout the entire visit. Dr. Salloum and his team expl...
-    source: "Google"
-  - author: "Stephanie S."
+    text: Absolutely outstanding experience at Dr. Salloum’s office today. From the moment I walked in, every staff member was warm, professional, and attentive. My laser treatment was handled with such care and expertise—I felt completely comfortable throughout the entire visit. Dr. Salloum and his team expl...
+    source: Google
+  - author: Stephanie S.
     rating: 5
     date: "2026-01-16"
-    text: >-
-      My name is Stephanie, and I am an international patient. I can honestly say Dr. Gabriel E. Salloum and his entire team go above and beyond anything I could have hoped for — truly a 10/10 experience.  From the very beginning, Dr. Salloum demonstrated excellent bedside manner. He was kind, patient, re...
-    source: "Google"
-  - author: "Jennifer D."
+    text: My name is Stephanie, and I am an international patient. I can honestly say Dr. Gabriel E. Salloum and his entire team go above and beyond anything I could have hoped for — truly a 10/10 experience.  From the very beginning, Dr. Salloum demonstrated excellent bedside manner. He was kind, patient, re...
+    source: Google
+  - author: Jennifer D.
     rating: 5
     date: "2025-10-04"
-    text: >-
-      Dr.Salloum is so patient, kind and knowledgeable. His  calm demeanor and years of experience make you feel like you’re in good hands. He offers the latest state of the art treatments and his staff is so helpful. I love going to his office to see what new treatments they are offering. I refer him to ...
-    source: "Google"
-  - author: "Dustin H."
+    text: Dr.Salloum is so patient, kind and knowledgeable. His  calm demeanor and years of experience make you feel like you’re in good hands. He offers the latest state of the art treatments and his staff is so helpful. I love going to his office to see what new treatments they are offering. I refer him to ...
+    source: Google
+  - author: Dustin H.
     rating: 5
     date: "2025-10-21"
-    text: >-
-      After my surgery I went right in therapy and recovering well now i cannot thank the doctor enough for his ability to carry out the surgery required to repair my injury. The staff is also very pleasant and professional. very much appreciate the planning and timing and look to carry out what I needed....
-    source: "Google"
-  - author: "atif a."
+    text: After my surgery I went right in therapy and recovering well now i cannot thank the doctor enough for his ability to carry out the surgery required to repair my injury. The staff is also very pleasant and professional. very much appreciate the planning and timing and look to carry out what I needed....
+    source: Google
+  - author: atif a.
     rating: 5
     date: "2025-07-17"
-    text: >-
-      Words can’t express how grateful we are for Dr. Salloum. He was very patient and kind. He tended to my son’s facial laceration with such precision and had the best bedside manner. We never felt rushed and he took his time and did an amazing job. Rare to find a doctor that is skilled and patient thes...
-    source: "Google"
+    text: Words can’t express how grateful we are for Dr. Salloum. He was very patient and kind. He tended to my son’s facial laceration with such precision and had the best bedside manner. We never felt rushed and he took his time and did an amazing job. Rare to find a doctor that is skilled and patient thes...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/dr-gabriel-e-salloum-md.jpg

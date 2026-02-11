@@ -2,52 +2,47 @@ name: CG Cosmetic Surgery
 slug: cg-cosmetic-surgery
 city: miami
 state: FL
-address: "2601 SW 37th Ave Ste 100"
+address: 2601 SW 37th Ave Ste 100
 zipCode: "33133"
-phone: "(305) 446-7277"
-website: "https://www.cgcosmetic.com/"
-googleMapsUrl: "https://maps.google.com/?cid=18239036157319261029"
-description: >-
-  CG Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 10499 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 446-7277
+website: https://www.cgcosmetic.com/
+googleMapsUrl: https://maps.google.com/?cid=18239036157319261029
+description: CG Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 10499 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.5
 reviewCount: 10499
 reviews:
-  - author: "yenisleydis T."
+  - author: yenisleydis T.
     rating: 5
     date: "2026-01-28"
-    text: >-
-      I had surgery this past Friday, and I can honestly say my experience with CG Cosmetics surgery center was amazing from start to finish. Every single staff member was kind, professional, and truly made me feel comfortable and well cared for; from my Coordinator Norgis all the way to my anesthesiologi...
-    source: "Google"
-  - author: "juana S."
+    text: I had surgery this past Friday, and I can honestly say my experience with CG Cosmetics surgery center was amazing from start to finish. Every single staff member was kind, professional, and truly made me feel comfortable and well cared for; from my Coordinator Norgis all the way to my anesthesiologi...
+    source: Google
+  - author: juana S.
     rating: 5
     date: "2026-01-30"
-    text: >-
-      I went in for a mommy makeover; I was nervous just making the call! I was scheduled for a consultation and I was happy with not just the staff but the way I was treated. They had an appointment for the following week for the procedure. I took it! I just had my surgery last week. Went in at 6:30 am f...
-    source: "Google"
-  - author: "Dominique C."
+    text: I went in for a mommy makeover; I was nervous just making the call! I was scheduled for a consultation and I was happy with not just the staff but the way I was treated. They had an appointment for the following week for the procedure. I took it! I just had my surgery last week. Went in at 6:30 am f...
+    source: Google
+  - author: Dominique C.
     rating: 4
     date: "2026-01-07"
-    text: >-
-      Camila and Dr. Freiman were amazing, professional, knowledgeable, and genuinely great to work with. Their care and expertise were the best part of my experience. Without them this review would be much lower.  Unfortunately, communication with the office staff went downhill after I paid in full. Befo...
-    source: "Google"
-  - author: "Anderlane C."
+    text: Camila and Dr. Freiman were amazing, professional, knowledgeable, and genuinely great to work with. Their care and expertise were the best part of my experience. Without them this review would be much lower.  Unfortunately, communication with the office staff went downhill after I paid in full. Befo...
+    source: Google
+  - author: Anderlane C.
     rating: 5
     date: "2025-12-23"
-    text: >-
-      My experience was exceptional from day one. From the very first point of contact, Camila Calfaro was absolutely outstanding professional, attentive, and genuinely committed to excellence. She managed the entire process end-to-end, ensured seamless coordination, and provided continuous support, which...
-    source: "Google"
-  - author: "Koila J."
+    text: My experience was exceptional from day one. From the very first point of contact, Camila Calfaro was absolutely outstanding professional, attentive, and genuinely committed to excellence. She managed the entire process end-to-end, ensured seamless coordination, and provided continuous support, which...
+    source: Google
+  - author: Koila J.
     rating: 5
     date: "2025-12-09"
-    text: >-
-      Just want to start by saying the massage therapist EVELYN Posada Esnobol was absolutely amazing wow. She really handled me with care and she was so so sweet. You can tell that she cares about her patients. I highly recommend you request your lymphatic massages with her.  My coordinator was Maria and...
-    source: "Google"
+    text: Just want to start by saying the massage therapist EVELYN Posada Esnobol was absolutely amazing wow. She really handled me with care and she was so so sweet. You can tell that she cares about her patients. I highly recommend you request your lymphatic massages with her.  My coordinator was Maria and...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/cg-cosmetic-surgery.png

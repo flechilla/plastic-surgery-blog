@@ -2,52 +2,47 @@ name: Miami Aesthetic - Pat Pazmiño, MD, FACS
 slug: miami-aesthetic-pat-pazmi-o-md-facs
 city: miami
 state: FL
-address: "848 Brickell Ave STE 820"
+address: 848 Brickell Ave STE 820
 zipCode: "33131"
-phone: "(305) 576-3443"
-website: "https://miamiaesthetic.com/?UTM_source=GBP_listing&UTM_medium=organic&source=gmb"
-googleMapsUrl: "https://maps.google.com/?cid=5986372549133691641"
-description: >-
-  Miami Aesthetic - Pat Pazmiño, MD, FACS is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 336 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 576-3443
+website: https://miamiaesthetic.com/?UTM_source=GBP_listing&UTM_medium=organic&source=gmb
+googleMapsUrl: https://maps.google.com/?cid=5986372549133691641
+description: Miami Aesthetic - Pat Pazmiño, MD, FACS is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 336 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.7
 reviewCount: 336
 reviews:
-  - author: "Kristina K."
+  - author: Kristina K.
     rating: 5
     date: "2026-01-22"
-    text: >-
-      From my very first consultation through my recovery, my experience with Dr. Pazmino and  the entire team has been nothing short of amazing.  Dr. Pazmino is incredibly skilled, professional, and compassionate. They took the time to truly listen to my goals and concerns, explained everything thoroughl...
-    source: "Google"
-  - author: "Roxana B."
+    text: From my very first consultation through my recovery, my experience with Dr. Pazmino and  the entire team has been nothing short of amazing.  Dr. Pazmino is incredibly skilled, professional, and compassionate. They took the time to truly listen to my goals and concerns, explained everything thoroughl...
+    source: Google
+  - author: Roxana B.
     rating: 5
     date: "2025-12-08"
-    text: >-
-      I am extremely happy with the work of Dr. Pazmino. He is definitely an artist, who also cares about safety of his patients. His office was in contact with me on a daily basis during the first week of post-surgery, and they continued later on based the need. I highly recommend this doctor.
-    source: "Google"
-  - author: "Mar'Resha M."
+    text: I am extremely happy with the work of Dr. Pazmino. He is definitely an artist, who also cares about safety of his patients. His office was in contact with me on a daily basis during the first week of post-surgery, and they continued later on based the need. I highly recommend this doctor.
+    source: Google
+  - author: Mar'Resha M.
     rating: 5
     date: "2025-11-12"
-    text: >-
-      My experience with Dr.Pat was amazing my experience with surgery was amazing as well because i followed directions.Here I am 4months post op still following the WIG instructions! Call & ask questions & wait patiently for answers I do recommend to friends & family and future friends to trust the proc...
-    source: "Google"
-  - author: "Alina A."
+    text: My experience with Dr.Pat was amazing my experience with surgery was amazing as well because i followed directions.Here I am 4months post op still following the WIG instructions! Call & ask questions & wait patiently for answers I do recommend to friends & family and future friends to trust the proc...
+    source: Google
+  - author: Alina A.
     rating: 5
     date: "2025-10-03"
-    text: >-
-      I had a great experience with Dr. Pat Pasmino for scar removal. He’s highly knowledgeable, professional, and made me feel comfortable throughout the process. The results are amazing! The office staff is super welcoming and helpful, and the whole experience was smooth and stress-free. Highly recommen...
-    source: "Google"
-  - author: "Kyle P."
+    text: I had a great experience with Dr. Pat Pasmino for scar removal. He’s highly knowledgeable, professional, and made me feel comfortable throughout the process. The results are amazing! The office staff is super welcoming and helpful, and the whole experience was smooth and stress-free. Highly recommen...
+    source: Google
+  - author: Kyle P.
     rating: 5
     date: "2025-09-11"
-    text: >-
-      My wife was very nervous going into the Ultra BBL surgery. Dr Pazmino and staff made the entire experience gratifying while easing her nerves. He listened to her every concern and answered all of her questions. The day of the surgery her anxiety was super high, but Dr Pazmino’s bedside manners were ...
-    source: "Google"
+    text: My wife was very nervous going into the Ultra BBL surgery. Dr Pazmino and staff made the entire experience gratifying while easing her nerves. He listened to her every concern and answered all of her questions. The day of the surgery her anxiety was super high, but Dr Pazmino’s bedside manners were ...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/miami-aesthetic-pat-pazmi-o-md-facs.webp

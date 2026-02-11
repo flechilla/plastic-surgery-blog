@@ -2,52 +2,47 @@ name: Beautyland Plastic Surgery
 slug: beautyland-plastic-surgery
 city: miami
 state: FL
-address: "1790 SW 27th Ave"
+address: 1790 SW 27th Ave
 zipCode: "33145"
-phone: "(305) 330-2434"
-website: "https://beautylandplasticsurgery.com/?utm_source=bp&utm_medium=organic&utm_campaign=organic"
-googleMapsUrl: "https://maps.google.com/?cid=15098978256452316457"
-description: >-
-  Beautyland Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.6-star rating from 417 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 330-2434
+website: https://beautylandplasticsurgery.com/?utm_source=bp&utm_medium=organic&utm_campaign=organic
+googleMapsUrl: https://maps.google.com/?cid=15098978256452316457
+description: Beautyland Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.6-star rating from 417 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.6
 reviewCount: 417
 reviews:
-  - author: "Brilliant K."
+  - author: Brilliant K.
     rating: 5
     date: "2026-01-14"
-    text: >-
-      I recently had a BBL 360  and I want to take a moment to share my experience. From the very first consultation, the doctor and staff made me feel informed, comfortable, and genuinely cared for. Every question I had was answered thoroughly, and I never felt rushed or dismissed.  On the day of surgery...
-    source: "Google"
-  - author: "JOLENE ."
+    text: I recently had a BBL 360  and I want to take a moment to share my experience. From the very first consultation, the doctor and staff made me feel informed, comfortable, and genuinely cared for. Every question I had was answered thoroughly, and I never felt rushed or dismissed.  On the day of surgery...
+    source: Google
+  - author: JOLENE .
     rating: 5
     date: "2026-01-14"
-    text: >-
-      I cannot say enough good things about Beautyland and the girls  Kenia, Natalie, Gabriela, and Belkis. They are absolute angels. The care, patience, and warmth they show goes far beyond a typical beauty experience. They made me feel safe, supported, and truly cared for.  Every detail was thoughtful, ...
-    source: "Google"
-  - author: "Joe M."
+    text: I cannot say enough good things about Beautyland and the girls  Kenia, Natalie, Gabriela, and Belkis. They are absolute angels. The care, patience, and warmth they show goes far beyond a typical beauty experience. They made me feel safe, supported, and truly cared for.  Every detail was thoughtful, ...
+    source: Google
+  - author: Joe M.
     rating: 5
     date: "2025-10-26"
-    text: >-
-      My fiancée just had her Lipo 360 with a fat transfer to her breasts done at Beauty Land Plastic Surgery, and I’ve got to say, the whole experience really impressed me. From the first visit, everyone there was super friendly and made her feel completely at ease.  Dr. Flores was great — you can tell h...
-    source: "Google"
-  - author: "Maggie R."
+    text: My fiancée just had her Lipo 360 with a fat transfer to her breasts done at Beauty Land Plastic Surgery, and I’ve got to say, the whole experience really impressed me. From the first visit, everyone there was super friendly and made her feel completely at ease.  Dr. Flores was great — you can tell h...
+    source: Google
+  - author: Maggie R.
     rating: 3
     date: "2026-01-23"
-    text: >-
-      Real review coming from a Registered Nurse here.  1. Communication is terrible. The only time I got calls back is when I would text them saying how nervous I was about the lack of communication. I was told that I would be called weekly the last 4 weeks leading up to my surgery. I was called once bec...
-    source: "Google"
-  - author: "Martha C."
+    text: Real review coming from a Registered Nurse here.  1. Communication is terrible. The only time I got calls back is when I would text them saying how nervous I was about the lack of communication. I was told that I would be called weekly the last 4 weeks leading up to my surgery. I was called once bec...
+    source: Google
+  - author: Martha C.
     rating: 5
     date: "2026-01-28"
-    text: >-
-      I would like to express my sincere gratitude to the staff of Beauty Land Cosmetic Surgery for their exceptional kindness and attentive care. I particularly commend Dr. Oliver for executing a remarkable tummy tuck procedure. I highly recommend their services.
-    source: "Google"
+    text: I would like to express my sincere gratitude to the staff of Beauty Land Cosmetic Surgery for their exceptional kindness and attentive care. I particularly commend Dr. Oliver for executing a remarkable tummy tuck procedure. I highly recommend their services.
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/beautyland-plastic-surgery.png

@@ -2,52 +2,47 @@ name: Alexander Zuriarrain, MD, FACS
 slug: alexander-zuriarrain-md-facs
 city: miami
 state: FL
-address: "7540 SW 61st Ave"
+address: 7540 SW 61st Ave
 zipCode: "33143"
-phone: "(786) 804-1603"
-website: "https://www.zuriplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
-googleMapsUrl: "https://maps.google.com/?cid=4727240261094485539"
-description: >-
-  Alexander Zuriarrain, MD, FACS is a plastic surgery practice located in South Miami, FL. With a 5-star rating from 318 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (786) 804-1603
+website: https://www.zuriplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp
+googleMapsUrl: https://maps.google.com/?cid=4727240261094485539
+description: Alexander Zuriarrain, MD, FACS is a plastic surgery practice located in South Miami, FL. With a 5-star rating from 318 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 5
 reviewCount: 318
 reviews:
-  - author: "cathy ."
+  - author: cathy .
     rating: 5
     date: "2026-01-20"
-    text: >-
-      Dr. Zuri Has done a wonderful job with my surgery. His staff nurses are all very friendly and accommodating. I will always refer people Dr Zuri. his practice is outstanding.
-    source: "Google"
-  - author: "sofia a."
+    text: Dr. Zuri Has done a wonderful job with my surgery. His staff nurses are all very friendly and accommodating. I will always refer people Dr Zuri. his practice is outstanding.
+    source: Google
+  - author: sofia a.
     rating: 5
     date: "2026-01-05"
-    text: >-
-      Had the best experience with Dr. Z! He is super thorough when explaining procedures and gives honest feedback. He is amazing at what he does, can’t recommend him enough!
-    source: "Google"
-  - author: "Dannaeh D."
+    text: Had the best experience with Dr. Z! He is super thorough when explaining procedures and gives honest feedback. He is amazing at what he does, can’t recommend him enough!
+    source: Google
+  - author: Dannaeh D.
     rating: 5
     date: "2025-04-16"
-    text: >-
-      I first met Dr.Zuri in 2023. I had a consultation for two combo procedures. I chose him as my surgeon after an extensive research. I am not new to plastic surgery so I knew what I was looking for. Dr. Zuri is an extremely smart person that possesses an amazing gift. He is also very kind and has very...
-    source: "Google"
-  - author: "Shelly R."
+    text: I first met Dr.Zuri in 2023. I had a consultation for two combo procedures. I chose him as my surgeon after an extensive research. I am not new to plastic surgery so I knew what I was looking for. Dr. Zuri is an extremely smart person that possesses an amazing gift. He is also very kind and has very...
+    source: Google
+  - author: Shelly R.
     rating: 5
     date: "2025-04-30"
-    text: >-
-      I cannot say enough wonderful things about my experience with Dr. Zuri and his incredible team. From my very first consultation, it was clear that Dr. Zuri is not only a highly skilled and thorough surgeon, but also someone who genuinely cares about his patients. He took the time to understand my go...
-    source: "Google"
-  - author: "Valeescovar ."
+    text: I cannot say enough wonderful things about my experience with Dr. Zuri and his incredible team. From my very first consultation, it was clear that Dr. Zuri is not only a highly skilled and thorough surgeon, but also someone who genuinely cares about his patients. He took the time to understand my go...
+    source: Google
+  - author: Valeescovar .
     rating: 5
     date: "2025-04-01"
-    text: >-
-      I have done two consultations and a breast augmentation with Dr. Zuri, he is an amazing doctor! The procedure went perfectly because of him and his amazing staff! I recommend him to everyone. Thank you guys for taking such good of me!
-    source: "Google"
+    text: I have done two consultations and a breast augmentation with Dr. Zuri, he is an amazing doctor! The procedure went perfectly because of him and his amazing staff! I recommend him to everyone. Thank you guys for taking such good of me!
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/alexander-zuriarrain-md-facs.jpg

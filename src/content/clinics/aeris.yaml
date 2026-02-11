@@ -2,52 +2,47 @@ name: Aeris
 slug: aeris
 city: miami
 state: FL
-address: "550 Biltmore Way 120 Aeris"
+address: 550 Biltmore Way 120 Aeris
 zipCode: "33134"
-phone: "(305) 446-7700"
-website: "http://www.psimiami.com/"
-googleMapsUrl: "https://maps.google.com/?cid=5808341531081500749"
-description: >-
-  Aeris is a plastic surgery practice located in Coral Gables, FL. With a 4.4-star rating from 62 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 446-7700
+website: http://www.psimiami.com/
+googleMapsUrl: https://maps.google.com/?cid=5808341531081500749
+description: Aeris is a plastic surgery practice located in Coral Gables, FL. With a 4.4-star rating from 62 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.4
 reviewCount: 62
 reviews:
-  - author: "Valentina V."
+  - author: Valentina V.
     rating: 5
     date: "2025-11-19"
-    text: >-
-      I had my breast augmentation and rhinoplasty done with Dr. Ghersi four years ago, and I still can’t explain how much he changed my life. I am beyond happy and grateful for my results—people constantly compliment my breast augmentation.  Dr. Ghersi was incredibly kind, friendly, and supportive throug...
-    source: "Google"
-  - author: "Kemely L."
+    text: I had my breast augmentation and rhinoplasty done with Dr. Ghersi four years ago, and I still can’t explain how much he changed my life. I am beyond happy and grateful for my results—people constantly compliment my breast augmentation.  Dr. Ghersi was incredibly kind, friendly, and supportive throug...
+    source: Google
+  - author: Kemely L.
     rating: 5
     date: "2025-12-11"
-    text: >-
-      I couldn’t be happier with my rhinoplasty experience at this clinic. From the consultation to the postop care, everyone was so kind, attentive, and genuinely invested in my comfort. My results are beautiful and natural, exactly what I dreamed of. So grateful for the entire team DR. Ghersi was my sur...
-    source: "Google"
-  - author: "Antonella M."
+    text: I couldn’t be happier with my rhinoplasty experience at this clinic. From the consultation to the postop care, everyone was so kind, attentive, and genuinely invested in my comfort. My results are beautiful and natural, exactly what I dreamed of. So grateful for the entire team DR. Ghersi was my sur...
+    source: Google
+  - author: Antonella M.
     rating: 5
     date: "2025-10-14"
-    text: >-
-      I had my breast augmentation with Dr. Puyana at PSI Miami on May 8th, 2025, and it was the best decision ever! It was my first breast augmentation surgery, and I was nervous about choosing the right size, but Dr. Puyana guided me perfectly and made me feel confident. The recovery was insanely fast —...
-    source: "Google"
-  - author: "Stephanie C."
+    text: I had my breast augmentation with Dr. Puyana at PSI Miami on May 8th, 2025, and it was the best decision ever! It was my first breast augmentation surgery, and I was nervous about choosing the right size, but Dr. Puyana guided me perfectly and made me feel confident. The recovery was insanely fast —...
+    source: Google
+  - author: Stephanie C.
     rating: 1
     date: "2025-10-24"
-    text: >-
-      I am 8 months post-op, and I thoroughly regret having my procedure done by Dr. Ghersi. While the procedure was safe and recovery was painless, I don’t feel that he considered my aesthetic goals. I visited the clinic for a second consultation a week before my surgery and expressed a desire for a smal...
-    source: "Google"
-  - author: "T.A ."
+    text: I am 8 months post-op, and I thoroughly regret having my procedure done by Dr. Ghersi. While the procedure was safe and recovery was painless, I don’t feel that he considered my aesthetic goals. I visited the clinic for a second consultation a week before my surgery and expressed a desire for a smal...
+    source: Google
+  - author: T.A .
     rating: 5
     date: "2025-09-24"
-    text: >-
-      I had my breast augmentation with Dr. Puyana and I couldn’t be happier with the results. He is professional, caring, and truly talented. A special thank you to Noel, who recommended me and assisted throughout the procedure—he made the entire process smooth and reassuring. I highly recommend Dr. Puya...
-    source: "Google"
+    text: I had my breast augmentation with Dr. Puyana and I couldn’t be happier with the results. He is professional, caring, and truly talented. A special thank you to Noel, who recommended me and assisted throughout the procedure—he made the entire process smooth and reassuring. I highly recommend Dr. Puya...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/aeris.png

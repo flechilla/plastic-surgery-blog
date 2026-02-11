@@ -4,50 +4,45 @@ city: miami
 state: FL
 address: "350 S Miami Ave # Cu-C"
 zipCode: "33130"
-phone: "(305) 933-1838"
-website: "http://drgcosmeticsurgery.com/"
-googleMapsUrl: "https://maps.google.com/?cid=18154241686559005744"
-description: >-
-  Dr. Sam Gershenbaum is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 166 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 933-1838
+website: http://drgcosmeticsurgery.com/
+googleMapsUrl: https://maps.google.com/?cid=18154241686559005744
+description: Dr. Sam Gershenbaum is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 166 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.7
 reviewCount: 166
 reviews:
-  - author: "Scott J."
+  - author: Scott J.
     rating: 5
     date: "2026-01-18"
-    text: >-
-      I had an outstanding experience with Dr Sam Gershenbaum and cannot recommend him highly enough. I underwent pectoral implants with liposuction and fat grafting, and the result has exceeded my expectations.  It is clear that Dr Gershenbaum is a highly skilled, professional, and meticulous Plastic Sur...
-    source: "Google"
-  - author: "Ashley R."
+    text: I had an outstanding experience with Dr Sam Gershenbaum and cannot recommend him highly enough. I underwent pectoral implants with liposuction and fat grafting, and the result has exceeded my expectations.  It is clear that Dr Gershenbaum is a highly skilled, professional, and meticulous Plastic Sur...
+    source: Google
+  - author: Ashley R.
     rating: 5
     date: "2025-10-21"
-    text: >-
-      Dr. Gershenbaum has magic in his hands. As someone who has always been scared of even the smallest needle my brest augmentation was a dream. Dr. Gershenbaum is so attentive, extremely detail oriented, and most important patient. He was more than happy to hear all my questions and answer them to the ...
-    source: "Google"
-  - author: "Michael D."
+    text: Dr. Gershenbaum has magic in his hands. As someone who has always been scared of even the smallest needle my brest augmentation was a dream. Dr. Gershenbaum is so attentive, extremely detail oriented, and most important patient. He was more than happy to hear all my questions and answer them to the ...
+    source: Google
+  - author: Michael D.
     rating: 5
     date: "2025-12-11"
-    text: >-
-      I knew from my very first consultation that I would end up choosing Dr. G for my surgery. The level of humanity, empathy, care, and knowledge that the team here conveys made me feel right at home. After a botched gynecomastia surgery elsewhere, I was pretty nervous about the end result. I’m only 10 ...
-    source: "Google"
-  - author: "Eliska B."
+    text: I knew from my very first consultation that I would end up choosing Dr. G for my surgery. The level of humanity, empathy, care, and knowledge that the team here conveys made me feel right at home. After a botched gynecomastia surgery elsewhere, I was pretty nervous about the end result. I’m only 10 ...
+    source: Google
+  - author: Eliska B.
     rating: 5
     date: "2025-07-30"
-    text: >-
-      I recently had a breast lift procedure performed by Dr. G and I couldn’t be more pleased with the entire experience. From my first consultation to my post-op check-ins, everything was seamless, professional, and truly elevated. Dr. G and his team made me feel completely at ease—always kind, attentiv...
-    source: "Google"
-  - author: "Jeanne P."
+    text: I recently had a breast lift procedure performed by Dr. G and I couldn’t be more pleased with the entire experience. From my first consultation to my post-op check-ins, everything was seamless, professional, and truly elevated. Dr. G and his team made me feel completely at ease—always kind, attentiv...
+    source: Google
+  - author: Jeanne P.
     rating: 5
     date: "2025-08-06"
-    text: >-
-      I recently had a face and neck lift with Dr. Gershenbaum. I am very pleased with the result. I had loose skin in my neck area, and the corners of my mouth pointed downward. Now my neck is very tight. My mouth is straight. This procedure has taken years off of my face, and I am truly grateful his sta...
-    source: "Google"
+    text: I recently had a face and neck lift with Dr. Gershenbaum. I am very pleased with the result. I had loose skin in my neck area, and the corners of my mouth pointed downward. Now my neck is very tight. My mouth is straight. This procedure has taken years off of my face, and I am truly grateful his sta...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/dr-sam-gershenbaum.png

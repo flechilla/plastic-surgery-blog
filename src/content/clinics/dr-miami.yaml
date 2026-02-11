@@ -2,52 +2,47 @@ name: Dr. Miami
 slug: dr-miami
 city: miami
 state: FL
-address: "1140 Kane Concourse Fl 3"
+address: 1140 Kane Concourse Fl 3
 zipCode: "33154"
-phone: "(305) 861-8266"
-website: "https://therealdrmiami.com/"
-googleMapsUrl: "https://maps.google.com/?cid=17860325395993772005"
-description: >-
-  Dr. Miami is a plastic surgery practice located in Bay Harbor Islands, FL. With a 5-star rating from 148 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 861-8266
+website: https://therealdrmiami.com/
+googleMapsUrl: https://maps.google.com/?cid=17860325395993772005
+description: Dr. Miami is a plastic surgery practice located in Bay Harbor Islands, FL. With a 5-star rating from 148 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 5
 reviewCount: 148
 reviews:
-  - author: "Lisa M."
+  - author: Lisa M.
     rating: 5
     date: "2026-01-12"
-    text: >-
-      Dr. Miami and the recovery team are very professional and caring. Dr. Miami is so kind and takes the time to explain everything before surgery and makes visits at the hotel in the comfort of your room after surgery. He is so down to earth and never seems rushed. He gave me the opportunity to ask que...
-    source: "Google"
-  - author: "Cayla K."
+    text: Dr. Miami and the recovery team are very professional and caring. Dr. Miami is so kind and takes the time to explain everything before surgery and makes visits at the hotel in the comfort of your room after surgery. He is so down to earth and never seems rushed. He gave me the opportunity to ask que...
+    source: Google
+  - author: Cayla K.
     rating: 5
     date: "2025-12-31"
-    text: >-
-      The recovery team of Ashely, Milagros, felicia, ari, Mari b, sonia and all the team is so great. Dr. Miami and the surgeon team is so great as well. 10/10 I look snatched thanks to the team. They were so caring and helpful at all hours of the day. If you’re thinking about booking with Dr. Miami, do ...
-    source: "Google"
-  - author: "cinthya m."
+    text: The recovery team of Ashely, Milagros, felicia, ari, Mari b, sonia and all the team is so great. Dr. Miami and the surgeon team is so great as well. 10/10 I look snatched thanks to the team. They were so caring and helpful at all hours of the day. If you’re thinking about booking with Dr. Miami, do ...
+    source: Google
+  - author: cinthya m.
     rating: 5
     date: "2025-12-04"
-    text: >-
-      This was my second time with Dr Miami and the experience was amazing again. The whole team was great, but I especially want to mention my nurse, Milagros.  She was so kind, patient and attentive from the moment she walked in. Even though she doesn’t speak much English, she genuinely tried her best t...
-    source: "Google"
-  - author: "Makayla L."
+    text: This was my second time with Dr Miami and the experience was amazing again. The whole team was great, but I especially want to mention my nurse, Milagros.  She was so kind, patient and attentive from the moment she walked in. Even though she doesn’t speak much English, she genuinely tried her best t...
+    source: Google
+  - author: Makayla L.
     rating: 5
     date: "2025-12-20"
-    text: >-
-      Dr. Miami and his team were amazing. They really made you feel welcomed and went out of their way for you. Thorough explanation on pre op and post op care. His care team was the best! They made you feel comfortable and helped out a lot.  Milagros was one of them and was such a sweetheart! She took t...
-    source: "Google"
-  - author: "Karen C."
+    text: Dr. Miami and his team were amazing. They really made you feel welcomed and went out of their way for you. Thorough explanation on pre op and post op care. His care team was the best! They made you feel comfortable and helped out a lot.  Milagros was one of them and was such a sweetheart! She took t...
+    source: Google
+  - author: Karen C.
     rating: 5
     date: "2025-12-03"
-    text: >-
-      I truly recommend Dr. Miami for any cosmetic procedure. I recently had my first cosmetic surgery with him BBL, ab etching, and Lipo 360 and I am absolutely in love with my results. Not only were the outcomes amazing, but his entire team was incredibly kind, professional, and attentive. The all of th...
-    source: "Google"
+    text: I truly recommend Dr. Miami for any cosmetic procedure. I recently had my first cosmetic surgery with him BBL, ab etching, and Lipo 360 and I am absolutely in love with my results. Not only were the outcomes amazing, but his entire team was incredibly kind, professional, and attentive. The all of th...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/dr-miami.png

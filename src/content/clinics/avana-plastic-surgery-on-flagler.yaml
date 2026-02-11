@@ -2,52 +2,47 @@ name: Avana Plastic Surgery on Flagler
 slug: avana-plastic-surgery-on-flagler
 city: miami
 state: FL
-address: "8700 W Flagler St STE 250"
+address: 8700 W Flagler St STE 250
 zipCode: "33174"
-phone: "(305) 501-6000"
-website: "https://avanaplasticsurgery.com/"
-googleMapsUrl: "https://maps.google.com/?cid=17810771019713185745"
-description: >-
-  Avana Plastic Surgery on Flagler is a plastic surgery practice located in Miami, FL. With a 4.4-star rating from 3280 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 501-6000
+website: https://avanaplasticsurgery.com/
+googleMapsUrl: https://maps.google.com/?cid=17810771019713185745
+description: Avana Plastic Surgery on Flagler is a plastic surgery practice located in Miami, FL. With a 4.4-star rating from 3280 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.4
 reviewCount: 3280
 reviews:
-  - author: "V K."
+  - author: V K.
     rating: 5
     date: "2026-01-29"
-    text: >-
-      The pre-op staff was very professional and thorough. Everyone was courteous, answered my questions, and explained everything clearly. Dr. Mameniskis listened to my concerns and responded thoughtfully, which gave me confidence moving forward. I recommend confirming appointment times ahead of time, bu...
-    source: "Google"
-  - author: "Sasha L."
+    text: The pre-op staff was very professional and thorough. Everyone was courteous, answered my questions, and explained everything clearly. Dr. Mameniskis listened to my concerns and responded thoughtfully, which gave me confidence moving forward. I recommend confirming appointment times ahead of time, bu...
+    source: Google
+  - author: Sasha L.
     rating: 5
     date: "2025-12-18"
-    text: >-
-      Si my doctor was Dr. Mark Schusterman and let me tell you he is amazing. He made me feel so comfortable and safe. I had a breast reduction and lift with lipo 360 and transfer to the hips and he did such a beautiful job 10 out of 10 would always recommend. His staff is so friendly and sweet. If you a...
-    source: "Google"
-  - author: "Doyle L."
+    text: Si my doctor was Dr. Mark Schusterman and let me tell you he is amazing. He made me feel so comfortable and safe. I had a breast reduction and lift with lipo 360 and transfer to the hips and he did such a beautiful job 10 out of 10 would always recommend. His staff is so friendly and sweet. If you a...
+    source: Google
+  - author: Doyle L.
     rating: 5
     date: "2025-11-12"
-    text: >-
-      Honestly, my whole experience with AVANA Plastic Surgery was amazing. Everyone there was so professional, caring, and made me feel comfortable from start to finish. From the prep work to talking with the one and only Dr. Stephanie Luster, I just knew I was in good hands. She really listened to me, u...
-    source: "Google"
-  - author: "Adrienne K."
+    text: Honestly, my whole experience with AVANA Plastic Surgery was amazing. Everyone there was so professional, caring, and made me feel comfortable from start to finish. From the prep work to talking with the one and only Dr. Stephanie Luster, I just knew I was in good hands. She really listened to me, u...
+    source: Google
+  - author: Adrienne K.
     rating: 5
     date: "2026-01-18"
-    text: >-
-      I had surgery on January 5, 2026. Dr. Mameniskis was excellent! He already had a plan for my lift and augmentation. Once I told him my goals he knew what size and projection for my implants. All the staff was kind and helpful. I did have one hiccup that was resolved quickly. My surgery was reschedul...
-    source: "Google"
-  - author: "Charlene L."
+    text: I had surgery on January 5, 2026. Dr. Mameniskis was excellent! He already had a plan for my lift and augmentation. Once I told him my goals he knew what size and projection for my implants. All the staff was kind and helpful. I did have one hiccup that was resolved quickly. My surgery was reschedul...
+    source: Google
+  - author: Charlene L.
     rating: 4
     date: "2026-01-24"
-    text: >-
-      I love my doctor and I'm happy with my results but the follow through before and after with the team is bad bad. It's so bad that it makes u feel unsure you are doing the  right thing when asking for a refund or a second round because u desire your dream body and that's sad because they are sweet in...
-    source: "Google"
+    text: I love my doctor and I'm happy with my results but the follow through before and after with the team is bad bad. It's so bad that it makes u feel unsure you are doing the  right thing when asking for a refund or a second round because u desire your dream body and that's sad because they are sweet in...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/avana-plastic-surgery-on-flagler.png

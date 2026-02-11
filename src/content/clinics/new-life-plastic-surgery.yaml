@@ -2,52 +2,47 @@ name: New Life Plastic Surgery
 slug: new-life-plastic-surgery
 city: miami
 state: FL
-address: "8400 SW 8th St"
+address: 8400 SW 8th St
 zipCode: "33144"
-phone: "(305) 501-5020"
-website: "https://newlifecosmetic.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
-googleMapsUrl: "https://maps.google.com/?cid=14779914893767643388"
-description: >-
-  New Life Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.2-star rating from 3110 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 501-5020
+website: https://newlifecosmetic.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+googleMapsUrl: https://maps.google.com/?cid=14779914893767643388
+description: New Life Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.2-star rating from 3110 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.2
 reviewCount: 3110
 reviews:
-  - author: "Huda A."
+  - author: Huda A.
     rating: 5
     date: "2025-11-28"
-    text: >-
-      I had Lipo 360 and a BBL with Dr. Dress on 11/26/2025. My consultant, Valentina, was amazing, very kind, helpful, and patient. She explained everything clearly and answered all of my questions during the scheduling process. My patient coordinator, Anniel, was also wonderful. He was thorough, profess...
-    source: "Google"
-  - author: "Imad K."
+    text: I had Lipo 360 and a BBL with Dr. Dress on 11/26/2025. My consultant, Valentina, was amazing, very kind, helpful, and patient. She explained everything clearly and answered all of my questions during the scheduling process. My patient coordinator, Anniel, was also wonderful. He was thorough, profess...
+    source: Google
+  - author: Imad K.
     rating: 1
     date: "2026-01-23"
-    text: >-
-      I had an extremely disappointing experience with this plastic surgery clinic, and it comes down to one word: disorganization. From start to finish, the clinic felt chaotic and poorly managed. The coordinator team was especially problematic, unresponsive, unhelpful, rude, hostile and seemingly unawar...
-    source: "Google"
-  - author: "Inya A."
+    text: "I had an extremely disappointing experience with this plastic surgery clinic, and it comes down to one word: disorganization. From start to finish, the clinic felt chaotic and poorly managed. The coordinator team was especially problematic, unresponsive, unhelpful, rude, hostile and seemingly unawar..."
+    source: Google
+  - author: Inya A.
     rating: 5
     date: "2025-09-30"
-    text: >-
-      Mari massage therapist and Nancy the nurse were amazing. There was another lady who did my massage forget her name but she was amazing she would give good insight and also made me feel very good about my results. Dr manny did an amazing job he was very friendly and professional and enjoyed the proce...
-    source: "Google"
-  - author: "Ashley S."
+    text: Mari massage therapist and Nancy the nurse were amazing. There was another lady who did my massage forget her name but she was amazing she would give good insight and also made me feel very good about my results. Dr manny did an amazing job he was very friendly and professional and enjoyed the proce...
+    source: Google
+  - author: Ashley S.
     rating: 3
     date: "2025-12-13"
-    text: >-
-      Making an update review on my experience with this facility and doctor. I previously made a review on my experience but now that things are settle, I want to tell the real. My doctor was Dr. Dress. I originally stated in my first review that I was unsure about my butt after surgery, that thankfully ...
-    source: "Google"
-  - author: "Viviana A."
+    text: Making an update review on my experience with this facility and doctor. I previously made a review on my experience but now that things are settle, I want to tell the real. My doctor was Dr. Dress. I originally stated in my first review that I was unsure about my butt after surgery, that thankfully ...
+    source: Google
+  - author: Viviana A.
     rating: 5
     date: "2025-12-18"
-    text: >-
-      I cannot say enough wonderful things about Dr. Jc Alvarez and the entire team. From the very first consultation, I felt completely comfortable, informed, and cared for. Dr. Jc is incredibly plastic surgeon and gave me the results I was looking for. Thank you to all the team.
-    source: "Google"
+    text: I cannot say enough wonderful things about Dr. Jc Alvarez and the entire team. From the very first consultation, I felt completely comfortable, informed, and cared for. Dr. Jc is incredibly plastic surgeon and gave me the results I was looking for. Thank you to all the team.
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/new-life-plastic-surgery.png

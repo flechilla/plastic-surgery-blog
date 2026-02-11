@@ -2,52 +2,47 @@ name: Juventus Cosmetic Surgery
 slug: juventus-cosmetic-surgery
 city: miami
 state: FL
-address: "920 SW 82nd Ave B"
+address: 920 SW 82nd Ave B
 zipCode: "33144"
-phone: "(305) 575-2848"
-website: "https://juventuscosmeticsurgery.com/?utm_campaign=gmb"
-googleMapsUrl: "https://maps.google.com/?cid=18222337225659704026"
-description: >-
-  Juventus Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 710 reviews, they offer cosmetic and reconstructive surgery services.
+phone: (305) 575-2848
+website: https://juventuscosmeticsurgery.com/?utm_campaign=gmb
+googleMapsUrl: https://maps.google.com/?cid=18222337225659704026
+description: Juventus Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 710 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
+  - Plastic Surgery
+  - Cosmetic Surgery
+  - Reconstructive Surgery
 rating: 4.5
 reviewCount: 710
 reviews:
-  - author: "Lisa V."
+  - author: Lisa V.
     rating: 5
     date: "2025-07-25"
-    text: >-
-      The staff  is very professional and thorough.  The facility minimal, and extremely clean, which was one of my main concerns.   I was referred to Dr. Arronte. (Several friends)  I worked with Valeria & Jessica, they are both so sweet.   They guided me through the process. Valeria even sat with me bef...
-    source: "Google"
-  - author: "Yanitxie A."
+    text: The staff  is very professional and thorough.  The facility minimal, and extremely clean, which was one of my main concerns.   I was referred to Dr. Arronte. (Several friends)  I worked with Valeria & Jessica, they are both so sweet.   They guided me through the process. Valeria even sat with me bef...
+    source: Google
+  - author: Yanitxie A.
     rating: 5
     date: "2025-07-02"
-    text: >-
-      My coordinator Laura is the best. She took care of all my worries and went above and beyond to make sure I was settled. Dr. Rondon did an amazing job!! I had an extended tummy tuck with muscle repair and lower back lipo. I’m now 9 days post op and feel amazing!!
-    source: "Google"
-  - author: "luis l."
+    text: My coordinator Laura is the best. She took care of all my worries and went above and beyond to make sure I was settled. Dr. Rondon did an amazing job!! I had an extended tummy tuck with muscle repair and lower back lipo. I’m now 9 days post op and feel amazing!!
+    source: Google
+  - author: luis l.
     rating: 5
     date: "2025-05-22"
-    text: >-
-      I just want to take a moment to thank the team at Juventus Cosmetic Surgery for taking such great care of my wife. From the first consultation to post-op, everything was handled with professionalism and kindness. She felt safe, supported, and the results speak for themselves — she looks amazing and ...
-    source: "Google"
-  - author: "Valeria A."
+    text: I just want to take a moment to thank the team at Juventus Cosmetic Surgery for taking such great care of my wife. From the first consultation to post-op, everything was handled with professionalism and kindness. She felt safe, supported, and the results speak for themselves — she looks amazing and ...
+    source: Google
+  - author: Valeria A.
     rating: 5
     date: "2025-05-22"
-    text: >-
-      I had a wonderful experience at Juventus Cosmetic Surgery. From the moment I walked in, the staff was professional, attentive, and made me feel comfortable. The doctors are highly skilled and explained every step of the process clearly. The facility is clean, modern, and well-organized. My results e...
-    source: "Google"
-  - author: "Anabel G."
+    text: I had a wonderful experience at Juventus Cosmetic Surgery. From the moment I walked in, the staff was professional, attentive, and made me feel comfortable. The doctors are highly skilled and explained every step of the process clearly. The facility is clean, modern, and well-organized. My results e...
+    source: Google
+  - author: Anabel G.
     rating: 5
     date: "2025-01-07"
-    text: >-
-      I am here to share my experience at this place. After much searching and research, I chose this place based on the results and comments on Google... I was very nervous because surgery takes a long time and is no small feat... But I do not regret having found and chosen Juventus Cosmetic Surgery. Onc...
-    source: "Google"
+    text: I am here to share my experience at this place. After much searching and research, I chose this place based on the results and comments on Google... I was very nervous because surgery takes a long time and is no small feat... But I do not regret having found and chosen Juventus Cosmetic Surgery. Onc...
+    source: Google
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
 lastUpdated: "2026-02-11"
+logo: /images/clinics/logos/juventus-cosmetic-surgery.webp
