@@ -1,0 +1,3 @@
+# Content generator state and lock files
+.content-state.json
+.content-generator.lock

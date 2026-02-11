@@ -1,0 +1,37 @@
+#!/bin/bash
+# Content Generator Cron Wrapper
+# Runs the TypeScript content generator with proper environment
+
+set -e
+
+# Configuration
+PROJECT_DIR="/root/.openclaw/workspace/projects/plastic-surgery-blog"
+LOG_DIR="$PROJECT_DIR/logs"
+LOG_FILE="$LOG_DIR/content-generator-$(date +%Y-%m-%d).log"
+MAX_LOG_DAYS=7
+
+# Ensure log directory exists
+mkdir -p "$LOG_DIR"
+
+# Clean old logs
+find "$LOG_DIR" -name "content-generator-*.log" -mtime +$MAX_LOG_DAYS -delete
+
+# Load nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+# Use correct Node version
+nvm use 24 2>/dev/null || true
+
+# Run the generator
+cd "$PROJECT_DIR"
+
+echo "======================================" >> "$LOG_FILE"
+echo "Content Generator Run: $(date)" >> "$LOG_FILE"
+echo "======================================" >> "$LOG_FILE"
+
+npx tsx scripts/content-generator.ts >> "$LOG_FILE" 2>&1
+
+echo "" >> "$LOG_FILE"
+echo "Completed: $(date)" >> "$LOG_FILE"
+echo "" >> "$LOG_FILE"

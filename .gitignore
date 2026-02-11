@@ -29,3 +29,6 @@ Thumbs.db
 
 # Type checking cache
 *.tsbuildinfo
+
+# Content generator logs
+logs/
