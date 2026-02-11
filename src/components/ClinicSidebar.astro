@@ -1,21 +1,35 @@
 ---
 interface Props {
   phone: string;
-  website: string;
+  website?: string;
   email?: string;
   address: string;
   city: string;
   state: string;
   zipCode: string;
+  googleMapsUrl?: string;
+  logo?: string;
+  clinicName?: string;
 }
 
-const { phone, website, email, address, city, state, zipCode } = Astro.props;
+const { phone, website, email, address, city, state, zipCode, googleMapsUrl, logo, clinicName } = Astro.props;
 
 const cleanPhone = phone.replace(/[^+\d]/g, '');
-const displayWebsite = website.replace(/^https?:\/\//, '').replace(/\/$/, '');
+const displayWebsite = website ? website.replace(/^https?:\/\//, '').replace(/\/$/, '').slice(0, 30) : '';
 ---
 
 <aside class="rounded-2xl bg-white p-6 shadow-card">
+  {/* Logo */}
+  {logo && (
+    <div class="mb-5 flex justify-center">
+      <img
+        src={logo}
+        alt={`${clinicName || 'Clinic'} logo`}
+        class="h-16 max-w-[180px] object-contain"
+        loading="lazy"
+      />
+    </div>
+  )}
   <h3 class="font-serif text-lg font-medium text-charcoal">Contact Information</h3>
 
   <div class="mt-5 space-y-4">
@@ -36,22 +50,24 @@ const displayWebsite = website.replace(/^https?:\/\//, '').replace(/\/$/, '');
     </a>
 
     <!-- Website -->
-    <a
-      href={website}
-      target="_blank"
-      rel="noopener noreferrer"
-      class="group flex items-start gap-3 rounded-lg p-2 transition-colors hover:bg-soft-blush/30"
-    >
-      <div class="flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-lg bg-soft-navy/10">
-        <svg class="h-4 w-4 text-soft-navy" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418" />
-        </svg>
-      </div>
-      <div class="min-w-0">
-        <p class="text-xs font-medium uppercase tracking-wider text-charcoal/40">Website</p>
-        <p class="truncate text-sm font-medium text-charcoal group-hover:text-soft-navy">{displayWebsite}</p>
-      </div>
-    </a>
+    {website && (
+      <a
+        href={website}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group flex items-start gap-3 rounded-lg p-2 transition-colors hover:bg-soft-blush/30"
+      >
+        <div class="flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-lg bg-soft-navy/10">
+          <svg class="h-4 w-4 text-soft-navy" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418" />
+          </svg>
+        </div>
+        <div class="min-w-0">
+          <p class="text-xs font-medium uppercase tracking-wider text-charcoal/40">Website</p>
+          <p class="truncate text-sm font-medium text-charcoal group-hover:text-soft-navy">{displayWebsite}</p>
+        </div>
+      </a>
+    )}
 
     <!-- Email -->
     {email && (
@@ -83,6 +99,19 @@ const displayWebsite = website.replace(/^https?:\/\//, '').replace(/\/$/, '');
         <p class="text-xs font-medium uppercase tracking-wider text-charcoal/40">Address</p>
         <p class="text-sm text-charcoal">{address}</p>
         <p class="text-sm text-charcoal/60">{city}, {state} {zipCode}</p>
+        {googleMapsUrl && (
+          <a
+            href={googleMapsUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="mt-1 inline-flex items-center gap-1 text-xs font-medium text-rose-gold-dark hover:underline"
+          >
+            <svg class="h-3 w-3" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+            </svg>
+            View on Google Maps
+          </a>
+        )}
       </div>
     </div>
   </div>
@@ -98,13 +127,28 @@ const displayWebsite = website.replace(/^https?:\/\//, '').replace(/\/$/, '');
       </svg>
       Call Now
     </a>
-    <a
-      href={website}
-      target="_blank"
-      rel="noopener noreferrer"
-      class="flex w-full items-center justify-center gap-2 rounded-lg border border-warm-sand px-4 py-3 text-sm font-medium text-charcoal transition-all duration-200 hover:border-soft-blush hover:bg-soft-blush"
-    >
-      Visit Website
-    </a>
+    {website && (
+      <a
+        href={website}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="flex w-full items-center justify-center gap-2 rounded-lg border border-warm-sand px-4 py-3 text-sm font-medium text-charcoal transition-all duration-200 hover:border-soft-blush hover:bg-soft-blush"
+      >
+        Visit Website
+      </a>
+    )}
+    {googleMapsUrl && (
+      <a
+        href={googleMapsUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="flex w-full items-center justify-center gap-2 rounded-lg border border-warm-sand px-4 py-3 text-sm font-medium text-charcoal transition-all duration-200 hover:border-deep-sage/40 hover:bg-deep-sage/10"
+      >
+        <svg class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+        </svg>
+        Get Directions
+      </a>
+    )}
   </div>
 </aside>
