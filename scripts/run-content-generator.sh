@@ -28,6 +28,12 @@ if [ -f /root/.openclaw/.env ]; then
   export $(grep -E "^(OPENAI_API_KEY|TELEGRAM_BOT_TOKEN)=" /root/.openclaw/.env | xargs)
 fi
 
+# Load Anthropic API key from Crane agent config (same key that powers the agent)
+CRANE_CONFIG="/root/.openclaw/agents/crane/agent/config.json"
+if [ -f "$CRANE_CONFIG" ]; then
+  export ANTHROPIC_API_KEY=$(python3 -c "import json; print(json.load(open('$CRANE_CONFIG'))['profiles']['anthropic:default']['token'])" 2>/dev/null)
+fi
+
 # Run the generator
 cd "$PROJECT_DIR"
 
