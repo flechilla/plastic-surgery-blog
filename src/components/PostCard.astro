@@ -1,0 +1,119 @@
+---
+import { formatDate } from '@lib/utils';
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  category: string;
+  slug: string;
+  coverImage?: string;
+  featured?: boolean;
+}
+
+const { title, description, date, category, slug, coverImage, featured = false } = Astro.props;
+
+const categoryLabels: Record<string, string> = {
+  facial: 'Facial',
+  body: 'Body',
+  breast: 'Breast',
+  'non-surgical': 'Non-Surgical',
+  recovery: 'Recovery',
+  news: 'News',
+};
+
+const categoryColors: Record<string, string> = {
+  facial: 'bg-soft-blush text-rose-gold-dark',
+  body: 'bg-warm-sand/60 text-charcoal/70',
+  breast: 'bg-soft-blush/80 text-rose-gold-dark',
+  'non-surgical': 'bg-deep-sage/10 text-deep-sage',
+  recovery: 'bg-deep-sage/10 text-deep-sage',
+  news: 'bg-soft-navy/10 text-soft-navy',
+};
+---
+
+<a href={`/blog/${slug}`} class="group block">
+  <article
+    class:list={[
+      'overflow-hidden rounded-2xl bg-white shadow-card transition-all duration-400',
+      'hover:-translate-y-1 hover:shadow-card-hover',
+      featured && 'md:grid md:grid-cols-2',
+    ]}
+  >
+    <!-- Image -->
+    <div
+      class:list={[
+        'relative overflow-hidden bg-gradient-to-br from-warm-sand/40 to-soft-blush/40',
+        featured ? 'aspect-[4/3] md:aspect-auto md:min-h-full' : 'aspect-[16/10]',
+      ]}
+    >
+      {
+        coverImage ? (
+          <img
+            src={coverImage}
+            alt={title}
+            class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+            loading="lazy"
+          />
+        ) : (
+          <div class="flex h-full w-full items-center justify-center">
+            <svg
+              class="h-16 w-16 text-warm-sand"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              stroke-width="0.75"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909M3.75 21h16.5A2.25 2.25 0 0022.5 18.75V5.25A2.25 2.25 0 0020.25 3H3.75A2.25 2.25 0 001.5 5.25v13.5A2.25 2.25 0 003.75 21z"
+              />
+            </svg>
+          </div>
+        )
+      }
+      <!-- Category Tag -->
+      <div class="absolute top-4 left-4">
+        <span
+          class:list={[
+            'inline-block rounded-md px-3 py-1 text-[11px] font-medium uppercase tracking-[0.1em]',
+            categoryColors[category] || 'bg-warm-sand/60 text-charcoal/70',
+          ]}
+        >
+          {categoryLabels[category] || category}
+        </span>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class:list={['p-6', featured && 'flex flex-col justify-center md:p-10']}>
+      <h3
+        class:list={[
+          'font-serif font-medium leading-snug text-charcoal transition-colors duration-200 group-hover:text-rose-gold-dark',
+          featured ? 'text-2xl md:text-3xl' : 'text-xl',
+        ]}
+      >
+        {title}
+      </h3>
+      <p
+        class:list={[
+          'mt-3 leading-relaxed text-charcoal/60',
+          featured ? 'text-base' : 'line-clamp-2 text-sm',
+        ]}
+      >
+        {description}
+      </p>
+      <div class="mt-4 flex items-center justify-between">
+        <time class="text-xs tracking-wide text-charcoal/40" datetime={date.toISOString()}>
+          {formatDate(date)}
+        </time>
+        <span
+          class="text-xs font-medium tracking-wide text-rose-gold transition-all duration-200 group-hover:translate-x-1"
+        >
+          Read more &rarr;
+        </span>
+      </div>
+    </div>
+  </article>
+</a>

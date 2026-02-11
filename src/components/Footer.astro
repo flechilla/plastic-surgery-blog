@@ -1,0 +1,220 @@
+---
+const currentYear = new Date().getFullYear();
+
+const footerLinks = {
+  procedures: [
+    { label: 'Facial Procedures', href: '/procedures#facial' },
+    { label: 'Body Contouring', href: '/procedures#body' },
+    { label: 'Breast Surgery', href: '/procedures#breast' },
+    { label: 'Non-Surgical', href: '/procedures#non-surgical' },
+  ],
+  resources: [
+    { label: 'Blog', href: '/' },
+    { label: 'Recovery Guides', href: '/blog' },
+    { label: 'FAQ', href: '/faq' },
+    { label: 'Before & After', href: '/gallery' },
+  ],
+  practice: [
+    { label: 'About Us', href: '/about' },
+    { label: 'Our Surgeons', href: '/about#surgeons' },
+    { label: 'Contact', href: '/contact' },
+    { label: 'Privacy Policy', href: '/privacy' },
+  ],
+};
+---
+
+<footer class="border-t border-warm-sand/60 bg-white">
+  <!-- Newsletter Section -->
+  <div class="mx-auto max-w-7xl px-6 lg:px-10">
+    <div class="border-b border-warm-sand/40 py-16 md:py-20">
+      <div class="mx-auto max-w-2xl text-center">
+        <p class="mb-2 text-xs font-medium uppercase tracking-[0.2em] text-rose-gold">
+          Stay Informed
+        </p>
+        <h3 class="font-serif text-2xl font-medium text-charcoal md:text-3xl">
+          Expert insights, delivered with care
+        </h3>
+        <p class="mt-3 text-sm leading-relaxed text-charcoal/60">
+          Join thousands of readers who trust our board-certified surgeons for the latest in
+          aesthetic medicine.
+        </p>
+        <form class="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-center">
+          <input
+            type="email"
+            placeholder="Your email address"
+            class="h-12 rounded-lg border border-warm-sand bg-ivory px-4 text-sm text-charcoal transition-all duration-200 placeholder:text-charcoal/30 focus:border-rose-gold focus:ring-1 focus:ring-rose-gold/20 focus:outline-none sm:w-72"
+          />
+          <button
+            type="submit"
+            class="h-12 rounded-lg bg-gradient-to-br from-rose-gold to-rose-gold-dark px-6 text-sm font-medium text-white shadow-cta transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cta-hover"
+          >
+            Subscribe
+          </button>
+        </form>
+        <p class="mt-3 text-xs text-charcoal/40">
+          No spam. Unsubscribe anytime. We respect your privacy.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Links Grid -->
+  <div class="mx-auto max-w-7xl px-6 py-12 lg:px-10 lg:py-16">
+    <div class="grid grid-cols-2 gap-8 md:grid-cols-4">
+      <!-- Brand Column -->
+      <div class="col-span-2 md:col-span-1">
+        <a href="/" class="flex items-center gap-3">
+          <div
+            class="flex h-9 w-9 items-center justify-center rounded-full bg-gradient-to-br from-rose-gold to-rose-gold-dark"
+          >
+            <svg
+              class="h-4 w-4 text-white"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              stroke-width="1.5"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.455 2.456L21.75 6l-1.036.259a3.375 3.375 0 00-2.455 2.456z"
+              ></path>
+            </svg>
+          </div>
+          <span class="font-serif text-lg font-medium text-charcoal">Aesthetic</span>
+        </a>
+        <p class="mt-4 text-sm leading-relaxed text-charcoal/50">
+          Board-certified expertise meets editorial excellence. Your trusted source for aesthetic
+          surgery education.
+        </p>
+      </div>
+
+      <!-- Procedures -->
+      <div>
+        <h4 class="mb-4 text-xs font-medium uppercase tracking-[0.15em] text-charcoal/40">
+          Procedures
+        </h4>
+        <ul class="space-y-2.5">
+          {
+            footerLinks.procedures.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  class="text-sm text-charcoal/60 transition-colors duration-200 hover:text-charcoal"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      <!-- Resources -->
+      <div>
+        <h4 class="mb-4 text-xs font-medium uppercase tracking-[0.15em] text-charcoal/40">
+          Resources
+        </h4>
+        <ul class="space-y-2.5">
+          {
+            footerLinks.resources.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  class="text-sm text-charcoal/60 transition-colors duration-200 hover:text-charcoal"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      <!-- Practice -->
+      <div>
+        <h4 class="mb-4 text-xs font-medium uppercase tracking-[0.15em] text-charcoal/40">
+          Practice
+        </h4>
+        <ul class="space-y-2.5">
+          {
+            footerLinks.practice.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  class="text-sm text-charcoal/60 transition-colors duration-200 hover:text-charcoal"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Trust Bar + Copyright -->
+  <div class="border-t border-warm-sand/40">
+    <div
+      class="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 px-6 py-6 md:flex-row lg:px-10"
+    >
+      <!-- Trust Badges -->
+      <div class="flex flex-wrap items-center gap-6">
+        <div class="flex items-center gap-2 text-xs text-charcoal/40">
+          <svg
+            class="h-4 w-4"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="1.5"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z"
+            ></path>
+          </svg>
+          <span>Board Certified</span>
+        </div>
+        <div class="flex items-center gap-2 text-xs text-charcoal/40">
+          <svg
+            class="h-4 w-4"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="1.5"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"
+            ></path>
+          </svg>
+          <span>HIPAA Compliant</span>
+        </div>
+        <div class="flex items-center gap-2 text-xs text-charcoal/40">
+          <svg
+            class="h-4 w-4"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="1.5"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M4.26 10.147a60.438 60.438 0 00-.491 6.347A48.62 48.62 0 0112 20.904a48.62 48.62 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 0a50.636 50.636 0 00-2.658-.813A59.906 59.906 0 0112 3.493a59.903 59.903 0 0110.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.717 50.717 0 0112 13.489a50.702 50.702 0 017.74-3.342"
+            ></path>
+          </svg>
+          <span>Medically Reviewed</span>
+        </div>
+      </div>
+
+      <!-- Copyright -->
+      <p class="text-xs text-charcoal/30">
+        &copy; {currentYear} Aesthetic Surgery Journal. All rights reserved.
+      </p>
+    </div>
+  </div>
+</footer>

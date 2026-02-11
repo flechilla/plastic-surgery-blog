@@ -1,0 +1,198 @@
+---
+const navLinks = [
+  { label: 'Home', href: '/' },
+  { label: 'Procedures', href: '/procedures' },
+  { label: 'About', href: '/about' },
+  { label: 'Contact', href: '/contact' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header
+  id="site-header"
+  class="fixed top-0 right-0 left-0 z-50 transition-all duration-300"
+>
+  <div class="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 lg:px-10">
+    <!-- Logo -->
+    <a href="/" class="group flex items-center gap-3">
+      <div
+        class="flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-br from-rose-gold to-rose-gold-dark"
+      >
+        <svg
+          class="h-5 w-5 text-white"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          stroke-width="1.5"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.455 2.456L21.75 6l-1.036.259a3.375 3.375 0 00-2.455 2.456z"
+          ></path>
+        </svg>
+      </div>
+      <div class="flex flex-col">
+        <span class="font-serif text-xl leading-tight font-medium tracking-wide text-charcoal">
+          Aesthetic
+        </span>
+        <span class="text-[10px] font-medium uppercase tracking-[0.2em] text-charcoal/50">
+          Surgery Journal
+        </span>
+      </div>
+    </a>
+
+    <!-- Desktop Navigation -->
+    <nav class="hidden items-center gap-8 md:flex" aria-label="Main navigation">
+      {
+        navLinks.map((link) => (
+          <a
+            href={link.href}
+            class:list={[
+              'relative text-sm font-medium tracking-wide transition-colors duration-200',
+              currentPath === link.href
+                ? 'text-charcoal after:absolute after:-bottom-1 after:left-0 after:h-[1.5px] after:w-full after:bg-rose-gold'
+                : 'text-charcoal/60 hover:text-charcoal',
+            ]}
+          >
+            {link.label}
+          </a>
+        ))
+      }
+      <a
+        href="/contact"
+        class="rounded-lg bg-gradient-to-br from-rose-gold to-rose-gold-dark px-5 py-2.5 text-sm font-medium text-white shadow-cta transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cta-hover"
+      >
+        Book Consultation
+      </a>
+    </nav>
+
+    <!-- Mobile Menu Button -->
+    <button
+      id="mobile-menu-btn"
+      class="flex h-10 w-10 items-center justify-center rounded-lg transition-colors hover:bg-warm-sand/50 md:hidden"
+      aria-label="Toggle menu"
+      aria-expanded="false"
+    >
+      <svg
+        id="menu-icon-open"
+        class="h-5 w-5 text-charcoal"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+        stroke-width="1.5"
+      >
+        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 9h16.5m-16.5 6.75h16.5"
+        ></path>
+      </svg>
+      <svg
+        id="menu-icon-close"
+        class="hidden h-5 w-5 text-charcoal"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+        stroke-width="1.5"
+      >
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile Menu Overlay -->
+  <div
+    id="mobile-menu"
+    class="fixed inset-0 top-0 hidden flex-col bg-ivory/98 backdrop-blur-md md:hidden"
+  >
+    <div class="flex h-20 items-center justify-end px-6">
+      <button
+        id="mobile-menu-close"
+        class="flex h-10 w-10 items-center justify-center rounded-lg transition-colors hover:bg-warm-sand/50"
+        aria-label="Close menu"
+      >
+        <svg
+          class="h-5 w-5 text-charcoal"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          stroke-width="1.5"
+        >
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+    </div>
+    <nav class="flex flex-1 flex-col items-center justify-center gap-8" aria-label="Mobile navigation">
+      {
+        navLinks.map((link) => (
+          <a
+            href={link.href}
+            class:list={[
+              'font-serif text-3xl font-medium transition-colors duration-200',
+              currentPath === link.href ? 'text-charcoal' : 'text-charcoal/40 hover:text-charcoal',
+            ]}
+          >
+            {link.label}
+          </a>
+        ))
+      }
+      <a
+        href="/contact"
+        class="mt-4 rounded-lg bg-gradient-to-br from-rose-gold to-rose-gold-dark px-8 py-3.5 text-sm font-medium text-white shadow-cta"
+      >
+        Book Consultation
+      </a>
+    </nav>
+  </div>
+</header>
+
+<script>
+  const header = document.getElementById('site-header');
+  const mobileBtn = document.getElementById('mobile-menu-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const mobileClose = document.getElementById('mobile-menu-close');
+  const openIcon = document.getElementById('menu-icon-open');
+  const closeIcon = document.getElementById('menu-icon-close');
+
+  // Sticky header scroll behavior
+  let lastScroll = 0;
+  window.addEventListener('scroll', () => {
+    const currentScroll = window.scrollY;
+    if (header) {
+      if (currentScroll > 20) {
+        header.classList.add('bg-ivory/95', 'backdrop-blur-md', 'shadow-nav');
+        header.querySelector('div')?.classList.remove('py-5');
+        header.querySelector('div')?.classList.add('py-3');
+      } else {
+        header.classList.remove('bg-ivory/95', 'backdrop-blur-md', 'shadow-nav');
+        header.querySelector('div')?.classList.remove('py-3');
+        header.querySelector('div')?.classList.add('py-5');
+      }
+    }
+    lastScroll = currentScroll;
+  });
+
+  // Mobile menu toggle
+  function openMenu() {
+    mobileMenu?.classList.remove('hidden');
+    mobileMenu?.classList.add('flex');
+    openIcon?.classList.add('hidden');
+    closeIcon?.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeMenu() {
+    mobileMenu?.classList.add('hidden');
+    mobileMenu?.classList.remove('flex');
+    openIcon?.classList.remove('hidden');
+    closeIcon?.classList.add('hidden');
+    document.body.style.overflow = '';
+  }
+
+  mobileBtn?.addEventListener('click', openMenu);
+  mobileClose?.addEventListener('click', closeMenu);
+
+  // Close mobile menu on link click
+  mobileMenu?.querySelectorAll('a').forEach((link) => {
+    link.addEventListener('click', closeMenu);
+  });
+</script>
