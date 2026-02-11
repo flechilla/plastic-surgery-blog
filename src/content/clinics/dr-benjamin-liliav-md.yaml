@@ -1,0 +1,53 @@
+name: Dr. Benjamin Liliav, MD
+slug: dr-benjamin-liliav-md
+city: miami
+state: FL
+address: "825 Brickell Bay Dr STE 1845"
+zipCode: "33131"
+phone: "(305) 456-3666"
+website: "https://www.realself.com/dr/benjamin-liliav-new-york-ny"
+googleMapsUrl: "https://maps.google.com/?cid=8853420628054969095"
+description: >-
+  Dr. Benjamin Liliav, MD is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 153 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 153
+reviews:
+  - author: "Maria E."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      Choosing Dr. Benjamin Livav was one of the best decisions I’ve ever made. He performed my tummy tuck, breast lift, and 6-area lipo, and I am absolutely in love with my results. My body looks incredible, and I finally feel confident in my own skin again.  Dr. Livav is extremely knowledgeable, honest,...
+    source: "Google"
+  - author: "Amie D."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      Dr Benjamin did an excellent work with both breast reduction/lifting and tummy tuck. I’m extremely happy and beyond satisfied with his expertise and professionalism in performing my surgery. My  breast size  was a G and now I’m at a size C so grateful for the release from neck and back pains. I will...
+    source: "Google"
+  - author: "Yohanna V."
+    rating: 5
+    date: "2025-10-28"
+    text: >-
+      I couldn’t be happier with my experience and results with Dr. Benjamin and his amazing team. From the very first consultation, he inspired so much confidence,  he listened carefully to what I wanted, explained every detail, and made me feel completely comfortable throughout the process.  I had a bre...
+    source: "Google"
+  - author: "Greylin R."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      I had an excellent experience with Dr. Benjamín Liliav. From the first consultation to my post-operative care, he was professional, attentive, and made me feel completely comfortable throughout the entire process. The surgery went very well, and I am truly pleased with the results. Dr. Liliav took t...
+    source: "Google"
+  - author: "Julianne Y."
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      I had an absolutely amazing experience with Dr. Benjamin Liliav. From the moment I walked into his office, I felt comfortable and truly cared for. He was incredibly kind, welcoming, and patient, taking the time to explain every step of the breast augmentation process in detail. His professionalism a...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

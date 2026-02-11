@@ -1,0 +1,53 @@
+name: DASO PLASTIC SURGERY
+slug: daso-plastic-surgery
+city: miami
+state: FL
+address: "7902 NW 36th St Suite 201-202"
+zipCode: "33166"
+phone: "(305) 575-2375"
+website: "https://www.dasoplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6528527042779636860"
+description: >-
+  DASO PLASTIC SURGERY is a plastic surgery practice located in Doral, FL. With a 4.7-star rating from 1273 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 1273
+reviews:
+  - author: "Michelle H."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      I was a little skeptical about going all the way to Miami, but everyone at the clinic was extremely polite. Dr Persaud did an amazing job and explained everything with great detail. I wanted to do more and I know any other doctor probably would have said yes but he explained why he would not and gav...
+    source: "Google"
+  - author: "Melva G."
+    rating: 4
+    date: "2025-12-25"
+    text: >-
+      I chose to give 4 stars because my experience at Daso Clinic had many positive aspects. From the moment I arrived, the front desk staff was very kind and attentive. Dr. Lora was great, and Gloria, the massage therapist, was excellent and very caring.  My main issue was with the coordinator and lack ...
+    source: "Google"
+  - author: "Alex K."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I would like to thank the doctor for his professionalism and great care. Special thanks to Glauria, who helped me with many massage sessions. The experience was very relaxing and helpful. Highly recommended!
+    source: "Google"
+  - author: "whitney p."
+    rating: 5
+    date: "2026-01-02"
+    text: >-
+      Dr.Lora did an extended tummy tuck for my sister in law and the results were mind blowing... Not only did he do a great job he ordered extra after care treatments to ensure proper healing!!! This doctor is the best we found after paying 5 or more consultations at other places! Trust me don't waste y...
+    source: "Google"
+  - author: "Lizzie O."
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      I’m in love with the results from my surgery !! The staff were all so welcoming and sweet. They made me feel safe and heard throughout the whole process. The apartments were also amazing and I would definitely recommend to other patients!
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

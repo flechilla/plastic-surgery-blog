@@ -1,0 +1,53 @@
+name: Icon Cosmetic Center
+slug: icon-cosmetic-center
+city: miami
+state: FL
+address: "815 NW 57th Ave Ste 300-A"
+zipCode: "33126"
+phone: "(786) 233-7080"
+website: "https://iconcosmeticcenter.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2660797437868721945"
+description: >-
+  Icon Cosmetic Center is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 1095 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 1095
+reviews:
+  - author: "Natalie N."
+    rating: 5
+    date: "2025-12-28"
+    text: >-
+      I cannot say enough amazing things about Dr. Scott Moradian and the entire team at ICON Plastic Surgery. I actually traveled from Texas to see him, and I can confidently say it was 100% worth it. From the very first visit, I felt completely confident, comfortable, and cared for. Dr. Moradian bedside...
+    source: "Google"
+  - author: "Julie D."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      I cannot say enough amazing things about Dr Moradian and the entire team. From the first consultation to post-op follow-ups, I felt informed, supported, and truly cared for. My surgeon took the time to explain the procedure in detail, answered all of my questions, and made sure I felt confident ever...
+    source: "Google"
+  - author: "Cristina G."
+    rating: 5
+    date: "2025-11-28"
+    text: >-
+      Dr. Moradian and his team are amazing. Icon provides patient care at its finest.  Dr. Moradian truly listens to his patients and is extremely honest about expectations. Ladies, his work is impeccable.  His staff took the time to make me feel comfortable from the moment I went to preop, to the day of...
+    source: "Google"
+  - author: "Faith O."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      My post went really fast and great no delay at all. My surgery was 5 AM the next day. I was already there before five soon as I get there, some lady was already ready to take me inn. She took me in immediately and asked my mom to go downstairs to wait. I love the idea of waiting downstairs because p...
+    source: "Google"
+  - author: "Lisandra T."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      Dr. Moradian is an exceptional cosmetic surgeon. His attention to detail is truly immaculate, and I couldn’t be happier with my results. He performed a breast lift with augmentation, BBL, lipo 360, J-Plasma 360, and chin lipo — and each procedure exceeded my expectations beyond measure.  He knew exa...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

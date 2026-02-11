@@ -1,0 +1,53 @@
+name: Dr. Carlos L. Wolf, MD
+slug: dr-carlos-l-wolf-md
+city: miami
+state: FL
+address: "9408 SW 87th Ave Suite 301"
+zipCode: "33176"
+phone: "(305) 203-1424"
+website: "https://www.miamiplasticsurgery.com/surgeons/dr-carlos-wolf/"
+googleMapsUrl: "https://maps.google.com/?cid=7429601679874610380"
+description: >-
+  Dr. Carlos L. Wolf, MD is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 125 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 125
+reviews:
+  - author: "SandraF ."
+    rating: 5
+    date: "2025-11-29"
+    text: >-
+      I had upper and lower blepharoplasty with Dr. Wolf and it was a great experience.  I waited a very long time to find the right Doctor and I am happy that I waited for Dr. Wolf.  His team is also very understanding and helpful.  They walk you through everything. No question goes unanswered.  Calls al...
+    source: "Google"
+  - author: "Gina S."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      I recently had an upper blephorapsy procedure with Dr. Wolf and I love the results! Starting with the initial consultation, Dr. Wolf is very personable. He took his time to listen to my concerns, explained the procedure and he showed me pictures of his work. I left feeling comfortable.  The day of m...
+    source: "Google"
+  - author: "Marie G."
+    rating: 5
+    date: "2025-08-05"
+    text: >-
+      I had an amazing experience with Dr. Carlos Wolf. He was incredibly patient and took the time to explain all my options in detail—there was absolutely no pressure to go one way or the other. Once I decided to move forward with Botox and filler, he remained just as attentive and never made me feel ru...
+    source: "Google"
+  - author: "Natalia H."
+    rating: 5
+    date: "2025-09-16"
+    text: >-
+      I had my rhinoplasty with septoplasty  and turbinates surgery done by Dr. Wolf and I can not say enough about how amazing he is. I had no pain. Only needed tylenol the first day. Healed without bruising.  3 weeks later and can’t believe how great I can breathe which was my main priority. Best around...
+    source: "Google"
+  - author: "Libierth L."
+    rating: 5
+    date: "2025-09-02"
+    text: >-
+      I had a great experience with Dr.wolf and his amazing team, I was very nervous due to begin my first surgery for a rhinoplasty the nurse and his team were  very comforting and nice,  very happy with my  results, thank you so much.
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

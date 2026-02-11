@@ -1,0 +1,53 @@
+name: APS Plastic Surgery
+slug: aps-plastic-surgery
+city: miami
+state: FL
+address: "8415 SW 24th St Suite 202"
+zipCode: "33155"
+phone: "(305) 559-2121"
+website: "https://www.apsinstituteofsouthflo.com/?utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=678870984650299734"
+description: >-
+  APS Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 590 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 590
+reviews:
+  - author: "Megan T."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I would like to share my experience with APS and help others when searching for a good Plastic surgeon and medical clinic . From day one until now which I am 5 weeks post op, I have been treated with professionalism and respect, kindness and compassion. Dr K is very knowledgeable with many years of ...
+    source: "Google"
+  - author: "Marycarmen M."
+    rating: 5
+    date: "2025-07-21"
+    text: >-
+      I am really excited with my Results. Dr K is amazing I love my Lipo HD and my BBL and the place 10/10 everybody is Amazing.
+    source: "Google"
+  - author: "Mia B."
+    rating: 1
+    date: "2025-11-10"
+    text: >-
+      I had a very disappointing experience with this clinic. They ask for a “deposit” to supposedly approve your financing, but even if your financing is not approved, they still try to charge and keep the deposit. This is completely unfair and not respectful to customers. Be very careful before sharing ...
+    source: "Google"
+  - author: "Daniela R."
+    rating: 5
+    date: "2025-01-14"
+    text: >-
+      Great experience! It was very simple to follow the instructions, very straightforward. I’m loving my results! Dr. K was very kind and answered all my questions. My coordinators Isabella and Jennifer were very helpful and easy to communicate with. My recovery process was smooth and never got any unbe...
+    source: "Google"
+  - author: "veronica w."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Love this place staff is amazing my surgery went well. I had 3 procedures I was really scared at first but they helped me feel calm and the doctor is amazing Dr Bart Karniarz.
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

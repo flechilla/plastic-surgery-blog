@@ -1,0 +1,53 @@
+name: Rafael Gottenger MD
+slug: rafael-gottenger-md
+city: miami
+state: FL
+address: "7330 SW 62nd Pl STE 205"
+zipCode: "33143"
+phone: "(305) 669-0900"
+website: "http://www.drgottenger.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2786647480991145991"
+description: >-
+  Rafael Gottenger MD is a plastic surgery practice located in South Miami, FL. With a 4.9-star rating from 96 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 96
+reviews:
+  - author: "Federica L."
+    rating: 5
+    date: "2026-01-02"
+    text: >-
+      Dr. Gottenger is truly exceptional. From the initial consultation through post-operative care, the entire experience has been outstanding. I am only two weeks post-op from my mastopexy, but my recovery is going extremely well and everything looks very promising so far.  Dr. Gottenger’s expertise, at...
+    source: "Google"
+  - author: "Alexandra B."
+    rating: 5
+    date: "2025-11-12"
+    text: >-
+      I had an amazing experience with Dr. Gottinger for my breast augmentation — from the first consultation to my final follow-up, everything was smooth, professional, and reassuring. Dr. Gottinger took the time to truly understand what I wanted, explained every step clearly, and made me feel completely...
+    source: "Google"
+  - author: "Valery B."
+    rating: 5
+    date: "2025-10-29"
+    text: >-
+      Incredible experience from the very first day I visited Dr. Gottenger! I spent a long time searching for the right surgeon for my surgery, but the professionalism and confidence that the doctor and his entire team gave me helped me make the decision. 100% recommended — I felt very safe and calm from...
+    source: "Google"
+  - author: "Amelia M."
+    rating: 5
+    date: "2025-12-25"
+    text: >-
+      Exceptional surgeon – I’ve been a patient of Dr Gottenger for over a year as he has performed four reconstructive surgeries on me. I am very grateful to him & his whole team for their sensitive, considerate and professional care through a difficult process.
+    source: "Google"
+  - author: "Christian L."
+    rating: 5
+    date: "2025-09-02"
+    text: >-
+      Dr Gottenger is a great doctor and  human being. I had breast reconstruction with Dr Gottenger and before the surgery, he listened to me, and any ideas I had for my reconstruction. He showed me a lot of empathy and as a cancer survivor I felt like he was really there for me and reassured me of all m...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

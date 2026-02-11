@@ -1,0 +1,53 @@
+name: Spring Plastic Surgery
+slug: spring-plastic-surgery
+city: miami
+state: FL
+address: "16400 NW 2nd Ave #200"
+zipCode: "33169"
+phone: "(305) 938-0345"
+website: "https://springplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17683180359227124192"
+description: >-
+  Spring Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 606 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 606
+reviews:
+  - author: "Melanie U."
+    rating: 5
+    date: "2026-01-18"
+    text: >-
+      Posting on behalf of Yanet Urquiola- I couldn’t be happier with my experience here. From the first consultation to post-op follow-ups, everything was smooth and reassuring. The staff is so caring and attentive, and the results exceeded my expectations. Thank you for such an amazing job!
+    source: "Google"
+  - author: "ANGELICA C."
+    rating: 5
+    date: "2025-10-03"
+    text: >-
+      Really recommend this place. They are so lovely and caring. The massage lady also did a good job her name is Marien. Really recommend her. I love my results. Had a tummy tuck/ breast augmentation/lipo back and flanks Dr  Espinoza  is such a great doctor love that they check up on you .
+    source: "Google"
+  - author: "Geysi J."
+    rating: 5
+    date: "2025-10-14"
+    text: >-
+      Loved my experience at this location. I was taken care of the whole time with no issues. Loved that I got my massages here after the surgery by Marien. Dr Kreegel was more than I could have asked for. He continued to check on me when he didn’t had too. Loved my experience.
+    source: "Google"
+  - author: "Jurmani B."
+    rating: 1
+    date: "2026-01-18"
+    text: >-
+      Run and run fast. I had a breast augmentation and lift in March 2025. By June, my breasts were sagging badly, despite clearly requesting high profile implants and not wanting a natural look.  When I contacted the clinic in December for a revision, it took a month to hear back, and I was quoted more ...
+    source: "Google"
+  - author: "Heidy B."
+    rating: 5
+    date: "2025-10-22"
+    text: >-
+      10/10 experience , I did a breast reduction with Dr.Espinoza. The entire staff from receptionist to medical staff in the surgery room were great. Clean facility. Definitely did an amazing job on my breast! Only been 24 hours post-op & they look amazing
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

@@ -1,0 +1,53 @@
+name: Dr. Nirmal Nathan
+slug: dr-nirmal-nathan
+city: miami
+state: FL
+address: "4770 Biscayne Blvd STE 830"
+zipCode: "33137"
+phone: "(305) 530-8880"
+website: "https://drnathan.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11740988116401785019"
+description: >-
+  Dr. Nirmal Nathan is a plastic surgery practice located in Miami, FL. With a 5-star rating from 15 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 15
+reviews:
+  - author: "ROMAN V."
+    rating: 5
+    date: "2025-11-16"
+    text: >-
+      We had the pleasure of returning from Brooklyn New York to Dr. Nathan in Miami for a second procedure, exactly one year after my wife’s first visit. Just like the first time, Dr. Nathan and his amazing staff exceeded our expectations. My wife underwent upper arm liposuction and breast reduction, and...
+    source: "Google"
+  - author: "elisa p."
+    rating: 5
+    date: "2025-05-05"
+    text: >-
+      Dr. Nathan is hands down the BEST surgeon in Miami. I’ve had two elective surgeries with him and I couldn’t be happier with the results. From the very beginning, he made me feel like more than just a patient—he truly listens, understands your goals, and treats you with care and respect.  What really...
+    source: "Google"
+  - author: "Marjie J."
+    rating: 5
+    date: "2023-05-12"
+    text: >-
+      I recently had the pleasure of undergoing a neck lift surgery performed by Dr. Nathan, and I am beyond thrilled with the results. I cannot recommend Dr Nathan highly enough for anyone considering this procedure. From the initial consultation to the post-operative care, my experience was exceptional ...
+    source: "Google"
+  - author: "JOHANA D."
+    rating: 5
+    date: "2024-06-27"
+    text: >-
+      I recently underwent breast augmentation, abdominoplasty, and lipo360 procedures performed by Dr. Nathan, and I must say that my experience was nothing short of exceptional. Dr. Nathan is truly an outstanding plastic surgeon with a high level of professionalism and expertise.  His advanced technique...
+    source: "Google"
+  - author: "Darlene L."
+    rating: 5
+    date: "2023-10-06"
+    text: >-
+      I would like to express my heartfelt gratitude to Dr. Nathan. He is not only a brilliant professional but also a person of immense kindness and integrity. Encountering a doctor who possesses all of these qualities is truly rare, and I consider myself fortunate to have been under his care. Dr. Nathan...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

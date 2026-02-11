@@ -1,0 +1,53 @@
+name: Professional Plastic Surgery
+slug: professional-plastic-surgery
+city: miami
+state: FL
+address: "2299 SW 37th Ave Suite 201"
+zipCode: "33145"
+phone: "(305) 448-6898"
+website: "http://www.proplasticsurgerymiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2320022099056144688"
+description: >-
+  Professional Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.3-star rating from 1172 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.3
+reviewCount: 1172
+reviews:
+  - author: "ELSY R."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I had my tummy tuck performed on January 16, 2026, and I am truly pleased with my results. The entire staff was amazing from start to finish. Dr. Pacheco was incredibly detailed and took her time explaining every part of the procedure to me. Her method of suturing is exceptional — you can hardly tel...
+    source: "Google"
+  - author: "Kaela V."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      This place was phenomenal! Legna the coordinator did an amazing job with first being in contact with me leading up to the surgery! She was amazing and did a great job in making me feel comfortable in choosing them! Ana and Nivi a nurse and manager were such sweethearts in taking care of me from star...
+    source: "Google"
+  - author: "Good D."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I came from out of state and had a complete mommy makeover.bbl, tummy tuck with liposuction, breast lift. Let me just say, this was the best experience I could have ever asked for. The support and compassion I have continually received even after returning home has been incredible. Dr. Pacheco and h...
+    source: "Google"
+  - author: "Tropical K."
+    rating: 5
+    date: "2025-12-29"
+    text: >-
+      Professional Plastic Surgery was an excellent choice for my tummy tuck, liposuction, and body contouring. I had my surgery in July 2025 and intentionally waited to write this review so I could speak to the entire experience—from consultation to recovery—not just the procedure itself. My surgeon, Dr....
+    source: "Google"
+  - author: "Debbie ."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      From start to finish they took very good care of me. It was harder being an out-of-town patient, but I know they did their best to answer all my questions and reassure me that everything was going great. Dr K and his staff made me very comfortable with the procedures and gave me great confidence on ...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

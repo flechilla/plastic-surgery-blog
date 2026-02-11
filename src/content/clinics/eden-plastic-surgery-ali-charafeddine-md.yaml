@@ -1,0 +1,53 @@
+name: "Eden Plastic Surgery: Ali Charafeddine, MD"
+slug: eden-plastic-surgery-ali-charafeddine-md
+city: miami
+state: FL
+address: "3659 S Miami Ave Suite 2003"
+zipCode: "33133"
+phone: "(754) 241-3310"
+website: "https://www.edenplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2101811362052405826"
+description: >-
+  Eden Plastic Surgery: Ali Charafeddine, MD is a plastic surgery practice located in Miami, FL. With a 5-star rating from 354 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 354
+reviews:
+  - author: "Sandra W."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I cannot say enough good things about Dr. C and his whole team. Many others have written this before me, and it's so true: The second you step into his office, you feel comfortable and at ease and like you're part of a family. The surgery went really well, the after care was phenomenal and I was so ...
+    source: "Google"
+  - author: "Tetyana M."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      Dr. Sharafeddine is a truly exceptional specialist, and the team working with him provides an incredible level of care and support throughout the entire treatment process. From the initial consultation to the subsequent post-operative check-ups, my experience was truly amazing. I felt fully supporte...
+    source: "Google"
+  - author: "Cynthia C."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      Dr C is awesome. His suture detail on my procedure is the most impressive I have ever seen. The day of surgery I sent pictures post op to my sister who works for a renowned plastic surgeon  and she was like where are the sutures? That’s how amazing his suturing skills are. Truly incredible results.T...
+    source: "Google"
+  - author: "Laurie C."
+    rating: 5
+    date: "2025-11-26"
+    text: >-
+      It is impossible to describe how amazing Dr. C and his team are!  From the minute you walk in you are welcomed like family.  Every single person was enthusiastic and uplifting. I have never met a practice with such professionalism and care!!! I can promise you if he cannot fulfill your expectations ...
+    source: "Google"
+  - author: "Debbie L."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I had the Evelift, PRP, fat transfer, and Co2 Laser done with Dr. Charafeddine January 5th and I cannot tell you how wonderful he and his team were. Dr C. is so professional and warm and precious at the same time. His confidence exudes, as it should, but in an humble way.  I studied many plastic sur...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

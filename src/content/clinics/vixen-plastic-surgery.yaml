@@ -1,0 +1,53 @@
+name: Vixen Plastic Surgery
+slug: vixen-plastic-surgery
+city: miami
+state: FL
+address: "5040 NW 7th St"
+zipCode: "33126"
+phone: "(305) 260-6615"
+website: "https://vixenplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=1172967126215585499"
+description: >-
+  Vixen Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.3-star rating from 1073 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.3
+reviewCount: 1073
+reviews:
+  - author: "Anabel B."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I had an amazing experience working with my surgery coordinator Melisa Martinez. From the very beginning, she was professional, knowledgeable, and incredibly supportive. She explained every step of the process clearly, answered all my questions with patience, and always made me feel comfortable and ...
+    source: "Google"
+  - author: "Amanda K."
+    rating: 5
+    date: "2025-12-29"
+    text: >-
+      I am beyond happy I am 3 weeks post opp I had tummy tuck breast lift with Dr triggs I flew in from Cali to Miami. Dr triggs was amazing I was able to meet him twice to talk about my goals n what I had in mind for my body he was so honest which put my mind n all my worries at rest. he was right on n ...
+    source: "Google"
+  - author: "Santashae D."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      Mel was very professional and detail oriented. She was Informative and helpful. She answered all my Questions and did not leave me waiting long at all for further information. She sent emails and text messages regarding my requests right away. She was very kind and patient . She did not stop there! ...
+    source: "Google"
+  - author: "Ariannah W."
+    rating: 3
+    date: "2026-01-14"
+    text: >-
+      I am leaving this review to share my honest experience with Vixen Plastic Surgery, which was unfortunately very disappointing on the administrative and patient-care side.  To be clear, the doctor himself (Dr. Valladeres)  was excellent, kind, professional, and reassuring. However, the staff and over...
+    source: "Google"
+  - author: "Nataysia B."
+    rating: 5
+    date: "2025-10-20"
+    text: >-
+      I had an amazing experience with Keisha! She was so helpful and patient while scheduling my surgery. She took the time to explain everything clearly, made sure I understood each step, and made the whole process stress-free. Her professionalism and kindness really stood out — she truly went above and...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

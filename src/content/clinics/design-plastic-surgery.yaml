@@ -1,0 +1,53 @@
+name: Design Plastic Surgery
+slug: design-plastic-surgery
+city: miami
+state: FL
+address: "5733 NW 7th St"
+zipCode: "33126"
+phone: "(305) 591-8989"
+website: "https://www.miamisurgericalcenter.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4419036506130000345"
+description: >-
+  Design Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 137 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 137
+reviews:
+  - author: "Elvira D."
+    rating: 5
+    date: "2025-03-11"
+    text: >-
+      All I can say is THANK YOU!!! In love with my results and I’m only 2 weeks post op. Recommend Design to everyone that is looking for quality of work and excellence in post op care.
+    source: "Google"
+  - author: "Michelle Y."
+    rating: 1
+    date: "2025-11-14"
+    text: >-
+      Good morning I have been waiting on a call back from you the whole month. Can you give me a call back please? It's very important if I don't talk to someone soon I'm gonna miss my surgery date and I don't wanna do that. I’m starting to think it’s a scam! I’m having the same problems as these ppl in ...
+    source: "Google"
+  - author: "Zuamy C."
+    rating: 5
+    date: "2024-12-17"
+    text: >-
+      María Isabel at the front desk is exceptional! She is always welcoming, professional, and attentive to every detail. Her warm demeanor and efficiency create a positive first impression for the clinic. Outstanding service!
+    source: "Google"
+  - author: "Daniela G."
+    rating: 5
+    date: "2024-07-09"
+    text: >-
+      Had my breast augmentation surgery back in January this year and I cannot explain how wonderful my experience was at this center with its team. Excellent service to patients and Elena (the surgical manager) offers an outstanding attention alongside her team. I would definitely recommend this center ...
+    source: "Google"
+  - author: "Daphne R."
+    rating: 5
+    date: "2024-06-04"
+    text: >-
+      I had a Breast lift, an etching, and BBL combo at Design plastic surgery. It’s only been a few days but I’m in love with my results!! I’m still a little swollen from the liposuction but my faja is giving me good compression and I already look super snatched. My breast came out beautiful, nice and pe...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

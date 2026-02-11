@@ -1,0 +1,53 @@
+name: Smart Plastic Surgery Miami
+slug: smart-plastic-surgery-miami
+city: miami
+state: FL
+address: "10700 SW 88th St #200"
+zipCode: "33176"
+phone: "(305) 306-7282"
+website: "https://smartplasticsurgerymiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18320615290534954579"
+description: >-
+  Smart Plastic Surgery Miami is a plastic surgery practice located in Miami, FL. With a 4.4-star rating from 741 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.4
+reviewCount: 741
+reviews:
+  - author: "Isabel L."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Dr. Jeff was my surgeon for a tummy tuck and lipo, and I had a very positive experience. He took the time to listen to my concerns, explained everything thoroughly, and reassured me about my expected results. I am currently three weeks post-op, and my follow-up care has been excellent. Lilly and the...
+    source: "Google"
+  - author: "Jimmy A."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Smart has an amazing group of people That care about the best potential results.  They have operated my girlfriend and other close friends with amazing results.  These types of surgery are only best with a combination of other factors like self care and potentially other surgeries. I am very happy w...
+    source: "Google"
+  - author: "Daimary P."
+    rating: 5
+    date: "2025-12-08"
+    text: >-
+      My best friend had her surgery at Smart Plastic Surgery and she’s absolutely in love with her results! The clinic is super clean, everything feels organized and professional, and the staff is honestly amazing—very kind and always willing to help. I truly recommend this place 100%!
+    source: "Google"
+  - author: "Francesca P."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      Post-Op: 5 Weeks — Breast Augmentation, Lipo, and Abdominal Etching. My entire experience with Smart Plastic Surgery was outstanding! The process was fast, smooth, and highly professional from start to finish. The team made me feel comfortable and confident every step of the way. I’m so glad I check...
+    source: "Google"
+  - author: "nicole W."
+    rating: 5
+    date: "2025-11-22"
+    text: >-
+      I had Lipo 360 surgery on 10/29/25, and my entire experience was amazing from start to finish. Every single person I interacted with was kind, attentive, and professional. The front desk staff were welcoming, and the anesthesia provider was incredibly sweet—he asked all the right questions, answered...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

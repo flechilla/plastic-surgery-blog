@@ -1,0 +1,53 @@
+name: Divine Plastic Surgery
+slug: divine-plastic-surgery
+city: miami
+state: FL
+address: "8181 NW 154th St #230"
+zipCode: "33016"
+phone: "(305) 697-0911"
+website: "https://divineplasticsurgery.com/?utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=1060729602591205571"
+description: >-
+  Divine Plastic Surgery is a plastic surgery practice located in Miami Lakes, FL. With a 4.6-star rating from 564 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.6
+reviewCount: 564
+reviews:
+  - author: "Ashley G."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Aileen the massage therapist is so amazing, took time and made me feel like a person and not a traction. Divine is amazing, made sure I was okay. Gave instructions to my partner that were thorough.  Dr.abeer amazing. She was spot on with my breast lift and listened to my wants.  Office staff had bee...
+    source: "Google"
+  - author: "Marilyn C."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      This place is nothing like the typical factory type clinics  you find in Miami.  Everyone is so sweet and my results amazing.  From the front desk to the surgery staff everyone has been amazing.  You don't feel like you are rushed in and out and you are not scheduled with a bunch of people.  Your ti...
+    source: "Google"
+  - author: "Emily O."
+    rating: 1
+    date: "2026-01-25"
+    text: >-
+      When I was searching for the right place to have my surgery, Divine truly seemed like the perfect choice. I ultimately decided to go out of state, which made the process much more nerve-wracking since I was relying heavily on online reviews and what I saw on social media. From the outside, everythin...
+    source: "Google"
+  - author: "nita v."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      Ana has been amazing from the start. She’s super helpful, very attentive, and always quick to respond. Anytime I’ve had questions or concerns, she makes sure everything is addressed right away and never makes me feel rushed. She’s made this whole experience feel so much easier and less stressful. I’...
+    source: "Google"
+  - author: "Julie A."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      I am very happy with the service from my coordinator Jenny she is awesome. Not only is she super sweet but she listens and makes sure you don’t have questions or concerns and that we understand everything. My surgery is Monday so I can’t wait. I did my consultation by video and let me say Dr. Abeer ...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

@@ -1,0 +1,53 @@
+name: Premier Aesthetic Surgery
+slug: premier-aesthetic-surgery
+city: miami
+state: FL
+address: "11479 SW 40th St"
+zipCode: "33165"
+phone: "(305) 676-4244"
+website: "https://surgerypremier.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1561944661210664183"
+description: >-
+  Premier Aesthetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.6-star rating from 311 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.6
+reviewCount: 311
+reviews:
+  - author: "mnnn m."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      I made the perfect decision choosing this clinic. Everyone was truly an angel. I had a breast lift, and they guided me through every step of the process with so much care and professionalism. They even scheduled an extra follow-up appointment after my procedure, which many places don’t do. Thank you...
+    source: "Google"
+  - author: "Ariadna b."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      I had a wonderful experience at Premier Aesthetic Surgery. I flew in from California and completed all of my pre-op preparations out of state, and Thalia was incredibly helpful every step of the way—even after I returned home. The facility is beautiful, modern, and exceptionally clean, which made me...
+    source: "Google"
+  - author: "Isa b."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      What an amazing experience I had with Premier Aesthetic Surgery. I recommend everyone to use this facility as they do a great job and treat patients with respect and as if they are family. If you want to look and feel your best after having surgery this is the spot to keep you feeling beautiful and ...
+    source: "Google"
+  - author: "It's j."
+    rating: 1
+    date: "2026-01-24"
+    text: >-
+      After I booked and paid in full, communication drastically declined. They changed surgeons on me without notice and changed my actual surgery date twice, which caused me to lose a significant amount of money on airfare, Airbnb, and travel arrangements. Most alarming, they completely changed my surge...
+    source: "Google"
+  - author: "Erika W."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      Premier, I sincerely appreciate the wonderful girls at the front desk. Analía is a truly kind and caring young woman who genuinely looks after the patients. Additionally, Arlene took the time to massage me and attentively addressed every detail, which meant a lot to me.
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

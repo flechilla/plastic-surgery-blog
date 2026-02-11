@@ -1,0 +1,53 @@
+name: Dr. Orlando Llorente | Plastic Surgeon Miami
+slug: dr-orlando-llorente-plastic-surgeon-miami
+city: miami
+state: FL
+address: "2645 SW 37th Ave Suite 602"
+zipCode: "33133"
+phone: "(305) 712-2809"
+website: "http://www.drllorente.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7109860800217788934"
+description: >-
+  Dr. Orlando Llorente | Plastic Surgeon Miami is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 114 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.5
+reviewCount: 114
+reviews:
+  - author: "Yaima G."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      I had an amazing experience from start to finish. The entire team was incredible from the coordinator and staff to the doctor and assistants. I felt supported and taken care of before, during, and after my surgery. I didn’t leave until I was fully stable and feeling good.  I am extremely happy with ...
+    source: "Google"
+  - author: "Diana R."
+    rating: 5
+    date: "2025-02-26"
+    text: >-
+      I recently had the privilege of undergoing a plastic surgery procedure, and I must say, the experience exceeded my expectations in every way. From the moment I walked into the clinic, I was met with a level of professionalism and attentiveness that immediately put me at ease. The staff was not only ...
+    source: "Google"
+  - author: "Alex B."
+    rating: 5
+    date: "2025-02-26"
+    text: >-
+      My wife recently had a plastic surgery procedure, and I’m extremely impressed with the care she received. From the moment we arrived, the staff was welcoming, professional, and made her feel at ease. The doctor was attentive, listened to her concerns, and clearly explained every step of the process....
+    source: "Google"
+  - author: "Coco C."
+    rating: 5
+    date: "2025-05-28"
+    text: >-
+      Epic Plastic Surgery is definitely my #1 Go-to when it comes to cosmetic surgery such as Breast Augmentation , Breast Lift , Fat Transfer , Mommy Makeover , Abdominoplasty , Lipo , Injectables , & Medical Weight Loss . Not only is Dr Llorente the best at what he does , unlike many surgeons , HE SPEC...
+    source: "Google"
+  - author: "Yanisel M."
+    rating: 5
+    date: "2024-09-17"
+    text: >-
+      I recently had a breast augmentation with Dr.Llorente and my experience was beyond amazing . Staring with the coordinator and all the staff who guided me through all the steps to have a successful surgery and recovery . I am very pleased with my results and I definitely will come back for more in th...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

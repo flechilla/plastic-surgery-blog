@@ -1,0 +1,53 @@
+name: Sara Plastic Surgery
+slug: sara-plastic-surgery
+city: miami
+state: FL
+address: "10260 SW 56th St"
+zipCode: "33165"
+phone: "(305) 603-9589"
+website: "https://sarasplasticsurgerymiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12844373639824680394"
+description: >-
+  Sara Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 175 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 175
+reviews:
+  - author: "yisel l."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      “I had my liposuction and breast surgery at Sara Plastic Surgery and my experience was amazing from start to finish. The staff was professional, caring, and made me feel safe every step of the way. My results look natural, beautiful, and exactly what I wanted. I highly recommend Sara Plastic Surgery...
+    source: "Google"
+  - author: "Stephanie T."
+    rating: 5
+    date: "2023-07-28"
+    text: >-
+      I’ve been going to Sara for years when I heard of her new endeavor I knew I had to check it out, and wow is it beautiful! The location is fabulous and staff are great. I started getting laser hair removal  and have had such great results! Make sure to check this place out for your beauty needs as sh...
+    source: "Google"
+  - author: "anilay s."
+    rating: 5
+    date: "2024-05-08"
+    text: >-
+      Every time I have gone in to get a place  I feel like Im pampered, respected and my concerns treated with diligence and care. I love all the staff who go beyond the call of duty to give the best laser and Botox treatment with all the pampering from the minute you enter their office. A very sweet you...
+    source: "Google"
+  - author: "Maria F."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Was a great experience doing my breast augmentation and BBL.
+    source: "Google"
+  - author: "Gabriela R."
+    rating: 5
+    date: "2023-07-28"
+    text: >-
+      Best attention, service, and vibes. went in for laser hair removal and let me tell you… the first session was great!! can’t wait to go in for my second session. don’t think about it twice and come in for whatever service is best for you 🫶🏼
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

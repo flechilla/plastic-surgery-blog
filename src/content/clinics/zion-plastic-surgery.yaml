@@ -1,0 +1,53 @@
+name: Zion Plastic Surgery
+slug: zion-plastic-surgery
+city: miami
+state: FL
+address: "8501 SW 124th Ave. STE 102"
+zipCode: "33183"
+phone: "(305) 309-9466"
+website: "https://zionmiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15793371945183299933"
+description: >-
+  Zion Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 1080 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.5
+reviewCount: 1080
+reviews:
+  - author: "Yadian G."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      I had a great experience at this plastic surgery office from start to finish. The office is clean, modern, and very welcoming. The staff was professional and made me feel comfortable the entire time.  I especially want to highlight Yoder, who was incredibly helpful, attentive, and patient. Yoder too...
+    source: "Google"
+  - author: "Jessica g."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      ⭐⭐⭐⭐⭐ I had an excellent experience at Zion Plastic Surgery from start to finish. The entire team was professional, caring, and made me feel comfortable throughout the process.  I especially want to highlight Janet Gonzalez, who was absolutely the best surgical coordinator. She was attentive, knowle...
+    source: "Google"
+  - author: "David O."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      I had an amazing experience at Zion Plastic Surgery, and a big part of that was thanks to Yoder, my coordinator. He helped me through every step of the process and made everything simple, clear, and stress-free. He was always available to answer my questions, explained everything in detail, and made...
+    source: "Google"
+  - author: "yeneisy n."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      I couldn’t be happier with my results at Zion! I got a lipo 360 with a BBL and I got exactly what I asked for! I want to thank the entire staff from front desk to the operating room and to the young lady I spoke with in my initial first call for helping me and guiding me through the entire process. ...
+    source: "Google"
+  - author: "Nicole C."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Yeneisy at Zion Plastic Surgery was absolutely amazing! She helped me with a consultation and made the entire experience so comfortable and reassuring. She was incredibly kind, patient, and professional, and took the time to explain everything clearly. I truly appreciated how attentive she was and h...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

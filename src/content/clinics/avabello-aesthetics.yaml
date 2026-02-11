@@ -1,0 +1,53 @@
+name: Avabello Aesthetics
+slug: avabello-aesthetics
+city: miami
+state: FL
+address: "555 Washington Ave suite 360"
+zipCode: "33139"
+phone: "(305) 798-4656"
+website: "https://avabello.com/?utm_source=GOOGLE-BUSINESS"
+googleMapsUrl: "https://maps.google.com/?cid=13225668477381683893"
+description: >-
+  Avabello Aesthetics is a plastic surgery practice located in Miami Beach, FL. With a 4.9-star rating from 96 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 96
+reviews:
+  - author: "Kate M."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I first told Dr. E my boobs were sad… and I already had big boobs. They were just droopy and not doing me any favors. Now they’re living their best life.  I went from sad and defeated to perfectly perky, beautifully proportioned, and exactly what I hoped for. Dr. E absolutely nailed the size, and th...
+    source: "Google"
+  - author: "Anna I."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      Dr. Eskenazi is the best surgeon ever!!! I had my breast augmentation done by him and the results are SO natural, all of my friends and family are completely obsessed. I had a pretty complicated case and needed a lift on my right breast plus an areola reduction, and he executed everything perfectly....
+    source: "Google"
+  - author: "Nicky T."
+    rating: 5
+    date: "2025-12-29"
+    text: >-
+      Dr. Ben and his entire staff are absolutely amazing. Dr. Ben takes the time to answer every question you may have about fillers and Botox, never rushes the process, and truly listens to what you’re looking for.  What I appreciate most is that he doesn’t overdo anything — he supports taking small, th...
+    source: "Google"
+  - author: "Alexandra R."
+    rating: 5
+    date: "2025-12-27"
+    text: >-
+      I can’t say enough great things about Dr. Eskenazi and his entire team. I am beyond pleased with my Tox and Filler results—they look natural, refreshed, and exactly what I was hoping for. Dr. Eskenazi is incredibly knowledgeable, patient, and takes the time to explain everything, which immediately p...
+    source: "Google"
+  - author: "Amal Z."
+    rating: 5
+    date: "2025-12-29"
+    text: >-
+      I have been going to Avabello for the last two years for fillers and toxins, and I am extremely happy with the results. Doctor Eskenazi’s technique is very gentle and I almost never have any bruising. He always takes his time explaining procedures and options that I might need and is never pushy try...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

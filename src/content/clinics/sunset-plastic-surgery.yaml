@@ -1,0 +1,53 @@
+name: Sunset Plastic Surgery
+slug: sunset-plastic-surgery
+city: miami
+state: FL
+address: "811 Ponce de Leon Blvd"
+zipCode: "33134"
+phone: "(786) 710-1600"
+website: "http://sunsetplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18174329308579143342"
+description: >-
+  Sunset Plastic Surgery is a plastic surgery practice located in Coral Gables, FL. With a 4.9-star rating from 183 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 183
+reviews:
+  - author: "Pamela M."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      Such a wonderful experience from start to finish. Scheduling, quoting, and communication is done through an app so you have everything in one place for reference. Nora is super sweet while she helps you get all set up.  Pre-op instruction is clear and easy to understand, just really try to start the...
+    source: "Google"
+  - author: "Kristie H."
+    rating: 5
+    date: "2025-10-05"
+    text: >-
+      I can’t say enough good things about my experience at Sunset Plastic Surgery with Dr. Ziyad Hammoudeh. From initial online consultation to the moment I walked in for in person consultation his bedside manner truly set the tone — he is attentive, kind, professional, and listens intently to your visio...
+    source: "Google"
+  - author: "Ana S."
+    rating: 5
+    date: "2025-11-16"
+    text: >-
+      Dr Ziyad and his team are truly amazing. From the moment you start to finish always willing to answer any questions you have or just something you are not at ease with they truly take the time to discuss all your concerns. Not to mention the importance of my results are beyond words. My mommy makeov...
+    source: "Google"
+  - author: "Charlsie S."
+    rating: 1
+    date: "2025-10-31"
+    text: >-
+      I am not sure where to start. Dr Z is an amazing surgeon. My results are amazing and so has everyone else's I've seen. What i don't like is that it feels like a glorified upscaie Chop Shop. People pay a lot of money to get surgery however the post op and preop takes forever and it sucks. The office ...
+    source: "Google"
+  - author: "Samantha ."
+    rating: 5
+    date: "2025-04-22"
+    text: >-
+      Dr. Ziyad is an exceptional expert in his field and an outstanding surgeon. His tummy tucks are unparalleled. I have recommended at least six women from various parts of the United States to him, all of whom have experienced remarkable outcomes and have shared their transformative journeys. Addition...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

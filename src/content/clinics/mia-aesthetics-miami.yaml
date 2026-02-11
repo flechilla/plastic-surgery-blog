@@ -1,0 +1,53 @@
+name: Mia Aesthetics Miami
+slug: mia-aesthetics-miami
+city: miami
+state: FL
+address: "9300 SW 72nd St"
+zipCode: "33173"
+phone: "(305) 330-4959"
+website: "https://miaaesthetics.com/locations/miami/"
+googleMapsUrl: "https://maps.google.com/?cid=4952749565884095299"
+description: >-
+  Mia Aesthetics Miami is a plastic surgery practice located in Miami, FL. With a 4.2-star rating from 1913 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.2
+reviewCount: 1913
+reviews:
+  - author: "Tyresha i."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      I had an amazing experience with Mia Aesthetics! From the moment I scheduled my consultation, the staff was welcoming, professional, and very informative. The consultation person took their time explaining everything, answered all my questions, and made me feel comfortable and confident in my decisi...
+    source: "Google"
+  - author: "Bella A."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      My experience at Mia was one of the best I came dec 2024 to get a bbl by Dr Giorgis the staff the facility and the surgeon are above and beyond what you would expect hearing the horror stories of cosmetic surgery in Miami. They truly care about you as a patient and it felt more like a family than a ...
+    source: "Google"
+  - author: "Sam G."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Abigale at Mia Aesthetics is amazing! Helped me coordinate with the Dr and assured me through out this process. Cosmetic surgery is a huge process and having some one help you in a kind professional manner was so helpful in easing my mind. I’d recommend Abigale to anyone looking to go through mia fo...
+    source: "Google"
+  - author: "Caitlin F."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      I flew from California to see Dr. Giorgis, and it was the best decision. The nursing staff is wonderful, and the CRNA really helped calm my nerves while I was being put under. If you are traveling for surgery, know that you’ll be in great hands here. I’m 4 days post-op now and recovering well—I can’...
+    source: "Google"
+  - author: "Veronica R."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      The clinic staff are all nice my surgeon Dr. GIORGIS is amazing listens and also gives you his advice as a professional. I’m 4 days pos op and i love  my results already! Thank you so much for your amazing work!
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

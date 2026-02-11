@@ -1,0 +1,53 @@
+name: Prestige Plastic Surgery of Miami
+slug: prestige-plastic-surgery-of-miami
+city: miami
+state: FL
+address: "3400 Coral Wy Ste 700"
+zipCode: "33145"
+phone: "(305) 357-0157"
+website: "https://prestigeplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1974782268043723834"
+description: >-
+  Prestige Plastic Surgery of Miami is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 202 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.5
+reviewCount: 202
+reviews:
+  - author: "Samantha G."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      I had a breast lift with a breast augmentation with Dr Deleon. I’ve had such a great experience with the staff, my surgery & recovery. Kayla and Jennifer are amazing and helped me with everything. Answering all of my questions. All of the staff members are so sweet and caring. Vanessa at the front d...
+    source: "Google"
+  - author: "Franca O."
+    rating: 5
+    date: "2025-12-24"
+    text: >-
+      I went for a breast reduction surgery as the girls no longer look as good as they used to Before having kids. No implants just size reduction and lift . I wanted to do something for my self so I decided to go  from a H cup to D / C  cup. I also had Dr De Leon take out the auxiliary tissues under my ...
+    source: "Google"
+  - author: "Destiny G."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I just had a lipo 360 & bbl with Dr. Deleon and it was amazing ! Elia was amazing as well, super sweet and very gentle with her massages. I’m super grateful for everyone at Prestige. I would highly recommend this surgery center to others it was an amazing experience overall. Thank you again to Kayla...
+    source: "Google"
+  - author: "Daphnie J."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      My experience at this clinic was amazing. From the staff to the doctor it was great. I came in for lipo360 and chin lipo with Dr.Deleon. She was very kind and listened to all my concerns. I did not experience any excruciating pain when i woke up whatsoever just soreness and I was up and walking with...
+    source: "Google"
+  - author: "Ashley B."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      I am currently six days post-op from my breast augmentation, and I could not be happier with my experience with Dr. DeLeon. Her bedside manner made me feel comfortable, informed, and genuinely cared for. She took the time to answer all my questions thoroughly and made sure I felt confident going int...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

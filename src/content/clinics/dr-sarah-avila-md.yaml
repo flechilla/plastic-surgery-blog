@@ -1,0 +1,53 @@
+name: Dr. Sarah Avila MD
+slug: dr-sarah-avila-md
+city: miami
+state: FL
+address: "2601 SW 37th Ave #806"
+zipCode: "33133"
+phone: "(786) 981-1811"
+website: "https://www.drsarahavila.com/?utm_source=google"
+googleMapsUrl: "https://maps.google.com/?cid=16541406857066888425"
+description: >-
+  Dr. Sarah Avila MD is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 60 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 60
+reviews:
+  - author: "Jessica B."
+    rating: 5
+    date: "2025-10-28"
+    text: >-
+      I've always had a droopy eye I was self conscious about and with age it started to cause some vision issues in the mornings, so after doing extensive research I found Dr. Avila. From scheduling my initial consultation to surgery day, post-op and everything in between, Dr. Avila and her staff were ph...
+    source: "Google"
+  - author: "Vivian P."
+    rating: 5
+    date: "2025-10-20"
+    text: >-
+      Dr. Avila is truly outstanding. From my first consultation to post-surgery follow-up, the care and attention I received were amazing. My reconstruction  surgery after a carcinoma lesion removal went perfectly, and the results look  natural. Dr. Avila explained every step clearly and made me feel at ...
+    source: "Google"
+  - author: "Jesus A."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      Dr Avila is absolutely amazing! She removed a cyst from my eyelid with great care and skill, and the whole experience was much easier than I expected. She’s not only an excellent professional but a wonderful human being, kind, patient and truly caring. I felt completely comfortable and confident in ...
+    source: "Google"
+  - author: "Minh A."
+    rating: 5
+    date: "2025-08-29"
+    text: >-
+      Choosing Dr. Avila was the best decision I could have made. I specifically sought her out because she’s an ocular surgeon, not just a general plastic surgeon. The eyes are a delicate, highly vascular area, not something you want treated like a trend. Dr. Avila doesn’t do “cat eye” fads or dramatic l...
+    source: "Google"
+  - author: "Davíd R."
+    rating: 5
+    date: "2025-09-03"
+    text: >-
+      Dr. Avila is amazing! She’s patient, really listens to your concerns, and makes you feel comfortable. Her expertise and positive attitude make such a difference. Highly recommend her!
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"

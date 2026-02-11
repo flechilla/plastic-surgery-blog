@@ -1,0 +1,53 @@
+name: Svelta Plastic Surgery
+slug: svelta-plastic-surgery
+city: miami
+state: FL
+address: "4950 SW 8th St"
+zipCode: "33134"
+phone: "(305) 406-9055"
+website: "https://sveltaplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11446743202304527541"
+description: >-
+  Svelta Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 2675 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.5
+reviewCount: 2675
+reviews:
+  - author: "Mia B."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      ⭐⭐⭐⭐⭐ Amazing experience at Svelta Clinic in Miami with Dr. Marco Amarante, just 2 month and 7 days. The surgery was performed in a fully equipped facility with an outstanding medical team and excellent post-operative support. The recovery room care was exceptional, and I felt safe and well taken ca...
+    source: "Google"
+  - author: "Ibis M."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I want to leave a beautiful and heartfelt review for Svelta Plastic Surgery Clinic because my experience has been absolutely amazing. From the very beginning, Amanda, my coordinator, was an outstanding professional. She guided me step by step all the way until the day of surgery, always attentive to...
+    source: "Google"
+  - author: "Monee T."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      Dr. Keith Robertson is absolutely AMAZING. From the moment he walked into the room, I felt comfortable, heard, and truly cared for. His bedside manner is phenomenal — he explained everything clearly, answered all my questions, and I honestly didn’t even have to say much because he already knew what ...
+    source: "Google"
+  - author: "Lasheena G."
+    rating: 4
+    date: "2025-12-19"
+    text: >-
+      I had a tummy tuck that went great with Dr. Ortega on 12/15. Post op went very well! Everyone was extremely nice and informative about my surgery. I also received my massages as recommended by Ms. Karen. She was very professional, informative and gentle. I’m pleased with my whole experience.
+    source: "Google"
+  - author: "Gianna I."
+    rating: 3
+    date: "2026-01-07"
+    text: >-
+      The Dr Amarante did good, the only thing that can improve is the quality of the Sewing done in the breast it was poor quality unfortunately and uneven, please make sure to make even cuts, also the nurse that takes your blood is very heavy handed with her needle I had a black swollen hand for a week,...
+    source: "Google"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-11"
