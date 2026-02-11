@@ -350,14 +350,14 @@ async function generateCoverImage(topic: TopicEntry): Promise<string> {
   const outputFilename = `${dateStr}-${topic.slug}.png`;
   const outputPath = path.join(IMAGES_DIR, outputFilename);
   
-  // Art direction prompts by category - Abstract, no human elements to avoid safety filters
+  // Art direction prompts by category - Editorial style with elegant human models
   const categoryPrompts: Record<string, string> = {
-    facial: `Artistic still life photograph, elegant arrangement of white orchids and smooth river stones, soft golden hour lighting, ivory and blush color palette, minimalist luxury spa aesthetic, Architectural Digest style, generous negative space, serene and sophisticated, premium medical wellness atmosphere`,
-    body: `Elegant abstract photograph, flowing silk fabric in ivory and rose gold creating sculptural forms, soft warm studio lighting, luxury interior design aesthetic, editorial magazine quality, muted warm tones, sophisticated and empowering, no people, contemporary art gallery style`,
-    breast: `Sophisticated still life photograph, elegant glass vessels with soft pink roses, warm diffused lighting, ivory and blush color palette, luxury fashion editorial style, Vogue aesthetic, generous negative space, premium wellness spa atmosphere`,
-    'non-surgical': `Artistic close-up photograph of luxury skincare products, elegant glass bottles with golden serums on marble surface, warm diffused lighting, ivory and blush tones, editorial beauty photography style, sophisticated spa aesthetic, subtle textures, magazine quality, premium wellness`,
-    recovery: `Serene interior photograph, soft morning light through sheer curtains, cozy cashmere throw on modern sofa, neutral textiles in ivory and warm sand, fresh eucalyptus in glass vase, peaceful healing atmosphere, editorial interior design aesthetic, spa-like tranquility`,
-    news: `Modern minimalist photograph, architectural elements with soft shadows, clean geometric forms, luxury materials like marble and brushed gold, ivory and sage green palette, contemporary design magazine style, sophisticated and forward-thinking, premium aesthetic`,
+    facial: `High-end fashion editorial photograph, elegant woman in her 40s with refined natural beauty, soft profile view, luminous skin, wearing cream silk blouse, soft golden hour studio lighting, clean ivory background, Vogue magazine aesthetic, sophisticated and confident expression, luxury beauty editorial, professional photography`,
+    body: `Artistic fashion editorial photograph, confident elegant woman in designer cream wrap dress, graceful standing pose, soft warm studio lighting, muted rose gold and ivory tones, Harper's Bazaar aesthetic, empowering and sophisticated, full body composition, clean minimal background, professional high-end photography`,
+    breast: `Elegant fashion editorial photograph, sophisticated woman in her 30s wearing tasteful ivory off-shoulder top, confident natural pose, soft diffused lighting, clean studio background in warm neutral tones, Vogue beauty aesthetic, radiant and empowered expression, luxury magazine quality`,
+    'non-surgical': `Beauty editorial close-up photograph, elegant woman with glowing luminous skin, gentle smile, professional skincare aesthetic, soft ring light, clean minimal background, Elle magazine style, fresh natural beauty, dewey healthy complexion, sophisticated and refined`,
+    recovery: `Serene lifestyle photograph, relaxed elegant woman in cozy cream cashmere robe, peaceful expression, soft morning window light, neutral luxury interior setting, wellness retreat aesthetic, healing and tranquil mood, editorial interior design style, warm and comforting`,
+    news: `Modern fashion editorial photograph, confident professional woman in tailored neutral blazer, contemporary minimal setting, clean architectural background, soft studio lighting, Forbes or WSJ Magazine aesthetic, sophisticated and forward-thinking, business elegance`,
   };
   
   const prompt = categoryPrompts[topic.category] || categoryPrompts.facial;
