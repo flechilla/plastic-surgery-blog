@@ -9,7 +9,7 @@
  * Goal: Rank #1 on Google for procedure-related queries
  */
 
-import Anthropic from '@anthropic-ai/sdk';
+import OpenAI from 'openai';
 import { execSync } from 'child_process';
 import * as fs from 'fs';
 import * as path from 'path';
@@ -21,9 +21,6 @@ const IMAGES_DIR = path.join(PROJECT_ROOT, 'public/images/blog');
 const STATE_FILE = path.join(PROJECT_ROOT, 'scripts/.content-state.json');
 const LOCK_FILE = path.join(PROJECT_ROOT, 'scripts/.content-generator.lock');
 const SITE_URL = 'https://plastic-surgery-blog.monsoftlabs.com';
-
-// Claude API - uses same key as Crane agent (Opus 4.5)
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || '';
 
 // Telegram notification config
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '';
@@ -248,12 +245,12 @@ async function sendTelegramNotification(topic: TopicEntry, content: GeneratedCon
 }
 
 async function generateContent(topic: TopicEntry): Promise<GeneratedContent> {
-  const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
+  const openai = new OpenAI();
   
   const internalLinks = getInternalLinks(topic.category, topic.slug);
   const externalSources = getExternalSources(topic.category);
   
-  const prompt = `You are an expert medical content writer creating content for a luxury plastic surgery blog targeting women ages 30-55 with high household incomes ($150K+) who are actively researching procedures.
+  const systemPrompt = `You are an expert medical content writer creating content for a luxury plastic surgery blog targeting women ages 30-55 with high household incomes ($150K+) who are actively researching procedures.
 
 WRITING STYLE:
 - Warm, knowledgeable, reassuring (like a trusted doctor friend)
@@ -261,7 +258,9 @@ WRITING STYLE:
 - Elegant, sophisticated tone matching "Architectural Digest meets Mayo Clinic"
 - Educational and empowering, helping readers make informed decisions
 
-Create a comprehensive blog article with these specifications:
+Always respond with valid JSON only, no markdown code blocks.`;
+
+  const userPrompt = `Create a comprehensive blog article with these specifications:
 
 **TOPIC:** ${topic.slug.replace(/-/g, ' ')}
 **CATEGORY:** ${topic.category}
@@ -305,7 +304,7 @@ ${internalLinks.length > 0 ? internalLinks.map(l => `- ${l}`).join('\n') : '- (n
 ${externalSources.map(s => `- ${s.name} (https://${s.domain})`).join('\n')}
 
 **OUTPUT FORMAT:**
-Return ONLY a JSON object (no markdown code blocks, no explanation) with:
+Return ONLY a JSON object (no markdown, no code blocks) with:
 {
   "title": "SEO-optimized title",
   "description": "Meta description 150-160 chars",
@@ -320,13 +319,17 @@ The content field must:
 - Include 2-3 external links to authoritative sources
 - Be properly escaped for JSON (newlines as \\n)`;
 
-  const response = await anthropic.messages.create({
-    model: 'claude-sonnet-4-20250514',
+  const response = await openai.chat.completions.create({
+    model: 'gpt-4o',
     max_tokens: 8000,
-    messages: [{ role: 'user', content: prompt }],
+    temperature: 0.7,
+    messages: [
+      { role: 'system', content: systemPrompt },
+      { role: 'user', content: userPrompt }
+    ],
   });
 
-  const text = response.content[0].type === 'text' ? response.content[0].text : '';
+  const text = response.choices[0]?.message?.content || '';
   
   // Extract JSON from response (handle potential markdown code blocks)
   let jsonStr = text.trim();
