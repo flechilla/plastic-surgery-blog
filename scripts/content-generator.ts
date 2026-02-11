@@ -350,17 +350,101 @@ async function generateCoverImage(topic: TopicEntry): Promise<string> {
   const outputFilename = `${dateStr}-${topic.slug}.png`;
   const outputPath = path.join(IMAGES_DIR, outputFilename);
   
-  // Art direction prompts by category - Editorial style with elegant human models
-  const categoryPrompts: Record<string, string> = {
-    facial: `High-end fashion editorial photograph, elegant woman in her 40s with refined natural beauty, soft profile view, luminous skin, wearing cream silk blouse, soft golden hour studio lighting, clean ivory background, Vogue magazine aesthetic, sophisticated and confident expression, luxury beauty editorial, professional photography`,
-    body: `Artistic fashion editorial photograph, confident elegant woman in designer cream wrap dress, graceful standing pose, soft warm studio lighting, muted rose gold and ivory tones, Harper's Bazaar aesthetic, empowering and sophisticated, full body composition, clean minimal background, professional high-end photography`,
-    breast: `Elegant fashion editorial photograph, sophisticated woman in her 30s wearing tasteful ivory off-shoulder top, confident natural pose, soft diffused lighting, clean studio background in warm neutral tones, Vogue beauty aesthetic, radiant and empowered expression, luxury magazine quality`,
-    'non-surgical': `Beauty editorial close-up photograph, elegant woman with glowing luminous skin, gentle smile, professional skincare aesthetic, soft ring light, clean minimal background, Elle magazine style, fresh natural beauty, dewey healthy complexion, sophisticated and refined`,
-    recovery: `Serene lifestyle photograph, relaxed elegant woman in cozy cream cashmere robe, peaceful expression, soft morning window light, neutral luxury interior setting, wellness retreat aesthetic, healing and tranquil mood, editorial interior design style, warm and comforting`,
-    news: `Modern fashion editorial photograph, confident professional woman in tailored neutral blazer, contemporary minimal setting, clean architectural background, soft studio lighting, Forbes or WSJ Magazine aesthetic, sophisticated and forward-thinking, business elegance`,
+  // DIVERSITY: Rotate through different ethnicities and appearances
+  const diversityOptions = [
+    'African American woman with rich dark skin and natural hair',
+    'Latina woman with warm olive complexion and flowing dark hair',
+    'East Asian woman with luminous porcelain skin and elegant features',
+    'South Asian woman with bronze skin and striking features',
+    'Middle Eastern woman with olive skin and defined features',
+    'Mixed-race woman with caramel skin and unique beauty',
+    'European woman with fair skin and classic features',
+    'Mediterranean woman with sun-kissed skin and dark eyes',
+  ];
+  
+  // AGE VARIATIONS within target demographic (30-55)
+  const ageOptions = [
+    'in her early 30s',
+    'in her mid-30s',
+    'in her late 30s',
+    'in her early 40s',
+    'in her mid-40s',
+    'in her late 40s',
+    'in her early 50s',
+  ];
+  
+  // ARTISTIC STYLES - High-end editorial variety
+  const styleOptions = [
+    'Vogue Italia fine art photography, dramatic chiaroscuro lighting, museum quality',
+    'Harper\'s Bazaar minimalist editorial, negative space, architectural elegance',
+    'Elle magazine beauty close-up, soft diffused lighting, intimate and refined',
+    'W Magazine avant-garde editorial, artistic composition, gallery aesthetic',
+    'Vanity Fair portrait photography, timeless Hollywood glamour, rich tones',
+    'Departures luxury lifestyle, aspirational and sophisticated, warm golden light',
+    'Town & Country refined elegance, classic composition, soft natural light',
+    'Architectural Digest interior portrait, sophisticated setting, editorial quality',
+  ];
+  
+  // POSES AND COMPOSITIONS
+  const poseOptions = [
+    'elegant three-quarter profile view',
+    'confident direct gaze to camera',
+    'contemplative side profile, artistic shadows',
+    'graceful over-the-shoulder glance',
+    'serene downward gaze, soft expression',
+    'powerful straight-on portrait',
+    'relaxed natural candid moment',
+    'artistic silhouette with rim lighting',
+  ];
+  
+  // WARDROBE - Luxury, tasteful attire
+  const wardrobeOptions = [
+    'wearing a cream silk charmeuse blouse',
+    'in an ivory cashmere off-shoulder sweater',
+    'dressed in a soft blush wrap dress',
+    'wearing a tailored camel blazer',
+    'in an elegant dove grey silk top',
+    'wearing champagne-colored satin',
+    'in a sophisticated nude tone ensemble',
+    'dressed in warm taupe designer knit',
+  ];
+  
+  // BACKGROUNDS AND SETTINGS
+  const settingOptions = [
+    'clean ivory studio backdrop with subtle gradient',
+    'minimalist white architectural interior',
+    'soft-focus luxury spa environment',
+    'warm neutral toned modern space',
+    'elegant cream marble and natural light',
+    'sophisticated gallery-like white space',
+    'serene window light, blurred interior',
+    'abstract textured neutral background',
+  ];
+  
+  // Randomly select from each category for maximum variety
+  const pickRandom = <T>(arr: T[]): T => arr[Math.floor(Math.random() * arr.length)];
+  
+  const diversity = pickRandom(diversityOptions);
+  const age = pickRandom(ageOptions);
+  const style = pickRandom(styleOptions);
+  const pose = pickRandom(poseOptions);
+  const wardrobe = pickRandom(wardrobeOptions);
+  const setting = pickRandom(settingOptions);
+  
+  // Category-specific additions
+  const categoryAccents: Record<string, string> = {
+    facial: 'focus on her beautiful facial features and radiant complexion',
+    body: 'full or three-quarter body composition showing confident posture',
+    breast: 'tasteful upper body composition, emphasis on confidence and elegance',
+    'non-surgical': 'beauty close-up emphasizing glowing, healthy skin',
+    recovery: 'peaceful, healing energy, relaxed and serene mood',
+    news: 'professional and empowered, modern sophisticated setting',
   };
   
-  const prompt = categoryPrompts[topic.category] || categoryPrompts.facial;
+  const categoryAccent = categoryAccents[topic.category] || categoryAccents.facial;
+  
+  // Construct the diverse, artistic prompt
+  const prompt = `${style}. Beautiful ${diversity} ${age}, ${pose}, ${wardrobe}, ${setting}. ${categoryAccent}. High-end luxury aesthetic, professional retouched quality, emotionally resonant, aspirational yet approachable, editorial magazine cover quality.`;
   
   // Use GPT Image 1.5 (more reliable than Gemini)
   const genScript = '/root/.nvm/versions/node/v24.13.0/lib/node_modules/openclaw/skills/openai-image-gen/scripts/gen.py';
