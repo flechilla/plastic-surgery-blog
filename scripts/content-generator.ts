@@ -20,6 +20,11 @@ const CONTENT_DIR = path.join(PROJECT_ROOT, 'src/content/blog');
 const IMAGES_DIR = path.join(PROJECT_ROOT, 'public/images/blog');
 const STATE_FILE = path.join(PROJECT_ROOT, 'scripts/.content-state.json');
 const LOCK_FILE = path.join(PROJECT_ROOT, 'scripts/.content-generator.lock');
+const SITE_URL = 'https://plastic-surgery-blog.monsoftlabs.com';
+
+// Telegram notification config
+const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '';
+const TELEGRAM_CHAT_ID = '786730056'; // Adriano
 
 // Topic database with SEO keywords and priorities
 const TOPIC_DATABASE: TopicEntry[] = [
@@ -197,6 +202,46 @@ function getExternalSources(category: string): typeof EXTERNAL_SOURCES {
   return EXTERNAL_SOURCES.filter(
     s => s.topics.includes('all') || s.topics.includes(category)
   ).slice(0, 3);
+}
+
+async function sendTelegramNotification(topic: TopicEntry, content: GeneratedContent): Promise<void> {
+  if (!TELEGRAM_BOT_TOKEN) {
+    console.log('⚠️ No Telegram token configured, skipping notification');
+    return;
+  }
+  
+  const articleUrl = `${SITE_URL}/blog/${topic.slug}/`;
+  const message = `📝 *New Article Published!*
+
+*${content.title}*
+
+📂 Category: ${topic.category}
+✍️ Author: ${topic.author}
+🏷️ Tags: ${content.tags.join(', ')}
+
+🔗 [Read Article](${articleUrl})`;
+
+  try {
+    const response = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        chat_id: TELEGRAM_CHAT_ID,
+        text: message,
+        parse_mode: 'Markdown',
+        disable_web_page_preview: false,
+      }),
+    });
+    
+    if (response.ok) {
+      console.log('📱 Telegram notification sent');
+    } else {
+      const error = await response.text();
+      console.log(`⚠️ Telegram notification failed: ${error}`);
+    }
+  } catch (error) {
+    console.log(`⚠️ Could not send Telegram notification: ${error}`);
+  }
 }
 
 async function generateContent(topic: TopicEntry): Promise<GeneratedContent> {
@@ -465,6 +510,10 @@ async function main(): Promise<void> {
     state.lastRun = new Date().toISOString();
     state.totalGenerated++;
     saveState(state);
+    
+    // Send Telegram notification
+    console.log('\n📱 Sending notification...');
+    await sendTelegramNotification(topic, content);
     
     console.log(`\n✨ Successfully generated and deployed: ${topic.slug}`);
     console.log(`   Total articles generated: ${state.totalGenerated}`);

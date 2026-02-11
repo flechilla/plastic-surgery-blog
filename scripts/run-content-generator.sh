@@ -25,7 +25,7 @@ nvm use 24 2>/dev/null || true
 
 # Load API keys from OpenClaw environment
 if [ -f /root/.openclaw/.env ]; then
-  export $(grep -E "^OPENAI_API_KEY=" /root/.openclaw/.env | xargs)
+  export $(grep -E "^(OPENAI_API_KEY|TELEGRAM_BOT_TOKEN)=" /root/.openclaw/.env | xargs)
 fi
 
 # Run the generator
