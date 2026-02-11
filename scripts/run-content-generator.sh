@@ -25,8 +25,11 @@ nvm use 24 2>/dev/null || true
 
 # Load API keys from OpenClaw environment
 if [ -f /root/.openclaw/.env ]; then
-  export $(grep -E "^(OPENAI_API_KEY|TELEGRAM_BOT_TOKEN)=" /root/.openclaw/.env | xargs)
+  export $(grep -E "^OPENAI_API_KEY=" /root/.openclaw/.env | xargs)
 fi
+
+# Load Crane bot token for notifications (sends to Crane channel, not main Vernis)
+export CRANE_BOT_TOKEN=$(python3 -c "import json; print(json.load(open('/root/.openclaw/openclaw.json'))['channels']['telegram']['accounts']['crane']['botToken'])" 2>/dev/null)
 
 # Note: Using GPT-4o for content generation (OpenAI API key)
 # To use Claude instead, add a standard Anthropic API key (sk-ant-api03-...) to .env

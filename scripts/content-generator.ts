@@ -22,8 +22,8 @@ const STATE_FILE = path.join(PROJECT_ROOT, 'scripts/.content-state.json');
 const LOCK_FILE = path.join(PROJECT_ROOT, 'scripts/.content-generator.lock');
 const SITE_URL = 'https://plastic-surgery-blog.monsoftlabs.com';
 
-// Telegram notification config
-const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '';
+// Telegram notification config - Use Crane bot (not main Vernis bot)
+const TELEGRAM_BOT_TOKEN = process.env.CRANE_BOT_TOKEN || process.env.TELEGRAM_BOT_TOKEN || '';
 const TELEGRAM_CHAT_ID = '786730056'; // Adriano
 
 // Topic database with SEO keywords and priorities
