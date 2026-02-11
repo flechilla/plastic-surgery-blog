@@ -32,7 +32,7 @@ const categoryColors: Record<string, string> = {
 };
 ---
 
-<a href={`/blog/${slug}`} class="group block">
+<a href={`/blog/${slug}`} class="group block" data-post-card>
   <article
     class:list={[
       'overflow-hidden rounded-2xl bg-white shadow-card transition-all duration-400',
@@ -77,9 +77,12 @@ const categoryColors: Record<string, string> = {
       <div class="absolute top-4 left-4">
         <span
           class:list={[
-            'inline-block rounded-md px-3 py-1 text-[11px] font-medium uppercase tracking-[0.1em]',
+            'category-link inline-block rounded-md px-3 py-1 text-[11px] font-medium uppercase tracking-[0.1em] transition-opacity hover:opacity-80',
             categoryColors[category] || 'bg-warm-sand/60 text-charcoal/70',
           ]}
+          data-category-href={`/blog/category/${category}`}
+          role="link"
+          tabindex="0"
         >
           {categoryLabels[category] || category}
         </span>
@@ -117,3 +120,22 @@ const categoryColors: Record<string, string> = {
     </div>
   </article>
 </a>
+
+<script>
+  document.querySelectorAll('.category-link').forEach((el) => {
+    el.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      const href = (e.currentTarget as HTMLElement).dataset.categoryHref;
+      if (href) window.location.href = href;
+    });
+    el.addEventListener('keydown', (e) => {
+      if ((e as KeyboardEvent).key === 'Enter') {
+        e.preventDefault();
+        e.stopPropagation();
+        const href = (e.currentTarget as HTMLElement).dataset.categoryHref;
+        if (href) window.location.href = href;
+      }
+    });
+  });
+</script>
