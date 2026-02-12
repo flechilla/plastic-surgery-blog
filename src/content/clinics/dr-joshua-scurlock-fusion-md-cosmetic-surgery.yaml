@@ -14,10 +14,11 @@ coordinates:
 phone: "(305) 686-1122"
 website: "https://www.fusionmdcosmeticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
 googleMapsUrl: "https://maps.google.com/?cid=3716497696797600918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Cosmetic Surgery"
 description: >-
-  Dr. Joshua Scurlock / Fusion MD Cosmetic Surgery is a plastic surgery practice located in Coral Gables, FL. With a 4.8-star rating from 212 reviews, they offer cosmetic and reconstructive surgery services.
+  Dr. Joshua Scurlock / Fusion MD Cosmetic Surgery is a cosmetic surgery located in Coral Gables, FL. With a 4.8-star rating from 212 reviews.
 specialties:
-  - "Plastic Surgery"
   - "Cosmetic Surgery"
 rating: 4.8
 reviewCount: 212
@@ -52,7 +53,7 @@ reviews:
     text: >-
       I am extremely satisfied with my results!! I recommend Dr Scurlock and his crew!! They are a big family and welcome you with open arms! Dr Scurlock knows how to pick his team!! Surgery day was smooth! They made me feel SAFE! I was handled with so much care. I am 2 weeks post ops and I am loving my results! His work is just MAGIC!
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dr-joshua-scurlock-fusion-md-cosmetic-surgery.jpg"
+logo: "/images/clinics/logos/dr-joshua-scurlock-fusion-md-cosmetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

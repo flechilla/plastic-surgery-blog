@@ -14,10 +14,11 @@ coordinates:
 phone: "(305) 446-7277"
 website: "https://www.cgcosmetic.com/"
 googleMapsUrl: "https://maps.google.com/?cid=18239036157319261029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Cosmetic Surgery"
 description: >-
-  CG Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 10500 reviews, they offer cosmetic and reconstructive surgery services.
+  CG Cosmetic Surgery is a cosmetic surgery located in Miami, FL. With a 4.5-star rating from 10500 reviews.
 specialties:
-  - "Plastic Surgery"
   - "Cosmetic Surgery"
 rating: 4.5
 reviewCount: 10500
@@ -52,7 +53,7 @@ reviews:
     text: >-
       Just want to start by saying the massage therapist EVELYN Posada Esnobol was absolutely amazing wow. She really handled me with care and she was so so sweet. You can tell that she cares about her patients. I highly recommend you request your lymphatic massages with her.  My coordinator was Maria and she was great as well, she answered all my questions and she was very patient with me which I truly
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/cg-cosmetic-surgery.jpg"
+logo: "/images/clinics/logos/cg-cosmetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

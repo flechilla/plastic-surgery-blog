@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 406-9055"
 website: "https://sveltaplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=11446743202304527541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  Svelta Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 2675 reviews, they offer cosmetic and reconstructive surgery services.
+  Svelta Plastic Surgery is a plastic surgery located in Miami, FL. With a 4.5-star rating from 2675 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.5
 reviewCount: 2675
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       The Dr Amarante did good, the only thing that can improve is the quality of the Sewing done in the breast it was poor quality unfortunately and uneven, please make sure to make even cuts, also the nurse that takes your blood is very heavy handed with her needle I had a black swollen hand for a week, also I did not see my Dr After the surgery that should change, drs should see their patients when t
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/svelta-plastic-surgery.jpg"
+logo: "/images/clinics/logos/svelta-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

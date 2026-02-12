@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 339-9313"
 website: "http://www.laclinique-privee.com/"
 googleMapsUrl: "https://maps.google.com/?cid=16269636549789944975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  La Clinique Privée Plastic Surgery: Georges Samaha MD and Mario Samaha MD is a plastic surgery practice located in Coral Gables, FL. With a 5-star rating from 186 reviews, they offer cosmetic and reconstructive surgery services.
+  La Clinique Privée Plastic Surgery: Georges Samaha MD and Mario Samaha MD is a plastic surgery located in Coral Gables, FL. With a 5-star rating from 186 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 5
 reviewCount: 186
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       After evaluating several surgeons, I decided to undergo a tummy tuck and breast augmentation with Dr. Georges Samaha, and I can say with complete certainty that it was the best decision.  From the very first consultation, Dr. Samaha was clear, honest, and realistic. He does not offer unrealistic bodies; he offers natural and healthy results. As a 46-year-old woman, I deeply appreciated that he too
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/la-clinique-priv-e-plastic-surgery-georges-samaha-md-and-mar.jpg"
+logo: "/images/clinics/logos/la-clinique-priv-e-plastic-surgery-georges-samaha-md-and-mar.jpg"
 yearEstablished: null
 certifications: []
 verified: false

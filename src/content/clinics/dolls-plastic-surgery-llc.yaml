@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 995-0545"
 website: "https://www.dollsplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=16706821336397915249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  Dolls Plastic Surgery, LLC is a plastic surgery practice located in Aventura, FL. With a 4.7-star rating from 1858 reviews, they offer cosmetic and reconstructive surgery services.
+  Dolls Plastic Surgery, LLC is a plastic surgery located in Aventura, FL. With a 4.7-star rating from 1858 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.7
 reviewCount: 1858
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       Ladies I got a bbl,lipo360 and chin lipo yesterday and I’m already feeling so much better! The staff was also very nice to me :) I just got done with my first massage and Olga did great I didn’t feel much pain! I’d definitely recommend !!
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dolls-plastic-surgery-llc.jpg"
+logo: "/images/clinics/logos/dolls-plastic-surgery-llc.jpg"
 yearEstablished: null
 certifications: []
 verified: false

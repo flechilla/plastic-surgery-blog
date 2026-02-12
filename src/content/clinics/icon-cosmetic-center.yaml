@@ -14,11 +14,12 @@ coordinates:
 phone: "(786) 233-7080"
 website: "https://iconcosmeticcenter.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2660797437868721945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Cosmetic Practice"
 description: >-
-  Icon Cosmetic Center is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 1095 reviews, they offer cosmetic and reconstructive surgery services.
+  Icon Cosmetic Center is a cosmetic practice located in Miami, FL. With a 4.8-star rating from 1095 reviews.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
+  - "Cosmetic Practice"
 rating: 4.8
 reviewCount: 1095
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       Dr. Moradian is an exceptional cosmetic surgeon. His attention to detail is truly immaculate, and I couldn’t be happier with my results. He performed a breast lift with augmentation, BBL, lipo 360, J-Plasma 360, and chin lipo — and each procedure exceeded my expectations beyond measure.  He knew exactly what I envisioned and brought it to life with perfection. His entire staff is incredibly friend
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/icon-cosmetic-center.jpg"
+logo: "/images/clinics/logos/icon-cosmetic-center.jpg"
 yearEstablished: null
 certifications: []
 verified: false

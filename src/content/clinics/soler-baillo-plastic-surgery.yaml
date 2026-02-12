@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 661-1996"
 website: "https://solerplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=6416948428773686152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  Soler-Baillo Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 114 reviews, they offer cosmetic and reconstructive surgery services.
+  Soler-Baillo Plastic Surgery is a plastic surgery located in Miami, FL. With a 4.8-star rating from 114 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.8
 reviewCount: 114
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       I first became a patient of Dr. Soler-Baillo 15 years ago, and I have been consistently impressed and delighted with his work ever since. When it came time for a breast implant replacement, there was no question in my mind. I had to return to him because he truly is the best in the field. Once again, my experience exceeded all expectations. Dr. Soler-Baillo’s skill and artistry deliver beautifully
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/soler-baillo-plastic-surgery.jpg"
+logo: "/images/clinics/logos/soler-baillo-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

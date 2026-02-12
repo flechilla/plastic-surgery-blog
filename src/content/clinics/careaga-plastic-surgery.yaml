@@ -14,13 +14,14 @@ coordinates:
 phone: "(305) 960-7511"
 website: "https://careagaplasticsurgery.com/?utm_campaign=gmb&y_source=1_otg4nzmxny03mtutbg9jyxrpb24ud2vic2l0zq%3D%3D"
 googleMapsUrl: "https://maps.google.com/?cid=14851186037250671626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  Careaga Plastic Surgery is a plastic surgery practice located in Coral Gables, FL. With a 4.7-star rating from 625 reviews, they offer cosmetic and reconstructive surgery services.
+  Careaga Plastic Surgery is a plastic surgery located in Coral Gables, FL. With a 4.7-star rating from 624 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.7
-reviewCount: 625
+reviewCount: 624
 reviews:
   - author: "Kiki B."
     rating: 5
@@ -52,7 +53,7 @@ reviews:
     text: >-
       Excellent experience! Starting with the doctor — very professional and clearly knows what he’s doing. The office is spotless and well organized. The entire staff is professional and super friendly. Everyone provides excellent service and seems very knowledgeable. Overall, a wonderful experience.”
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/careaga-plastic-surgery.jpg"
+logo: "/images/clinics/logos/careaga-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

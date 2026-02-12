@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 559-2121"
 website: "https://www.apsinstituteofsouthflo.com/?utm_campaign=gmb"
 googleMapsUrl: "https://maps.google.com/?cid=678870984650299734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  APS Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 590 reviews, they offer cosmetic and reconstructive surgery services.
+  APS Plastic Surgery is a plastic surgery located in Miami, FL. With a 4.7-star rating from 590 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.7
 reviewCount: 590
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       Love this place staff is amazing my surgery went well. I had 3 procedures I was really scared at first but they helped me feel calm and the doctor is amazing Dr Bart Karniarz.
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aps-plastic-surgery.jpg"
+logo: "/images/clinics/logos/aps-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

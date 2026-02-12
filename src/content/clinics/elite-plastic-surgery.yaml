@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 933-4033"
 website: "https://www.epsmiami.com/"
 googleMapsUrl: "https://maps.google.com/?cid=12699704257604075107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  Elite Plastic Surgery is a plastic surgery practice located in Hollywood, FL. With a 4.9-star rating from 738 reviews, they offer cosmetic and reconstructive surgery services.
+  Elite Plastic Surgery is a plastic surgery located in Hollywood, FL. With a 4.9-star rating from 738 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.9
 reviewCount: 738
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       Dr Salama came highly recommended. I traveled from California specifically for him to be my plastic surgeon.I appreciated how his staff was very diligent in making sure everything was taken care of before my surgery.  Dr Salama saw me a few times before I left during my stay there to answer all of my questions which made me feel very comfortable. I would definitely recommend him to someone who is 
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/elite-plastic-surgery.jpg"
+logo: "/images/clinics/logos/elite-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

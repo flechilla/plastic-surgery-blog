@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 448-6898"
 website: "http://www.proplasticsurgerymiami.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2320022099056144688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  Professional Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.3-star rating from 1172 reviews, they offer cosmetic and reconstructive surgery services.
+  Professional Plastic Surgery is a plastic surgery located in Miami, FL. With a 4.3-star rating from 1172 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.3
 reviewCount: 1172
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       From start to finish they took very good care of me. It was harder being an out-of-town patient, but I know they did their best to answer all my questions and reassure me that everything was going great. Dr K and his staff made me very comfortable with the procedures and gave me great confidence on how I looked. Thank you to everybody at Professional Plastic surgery
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/professional-plastic-surgery.jpg"
+logo: "/images/clinics/logos/professional-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

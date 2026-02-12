@@ -6,53 +6,54 @@ state: FL
 stateFullName: Florida
 county: "Miami-Dade County"
 neighborhood: ""
-address: "7360 Coral Wy APT 11, Miami, FL 33155"
-zipCode: "33155"
+address: "6166 SW 8th St, Miami, FL 33144"
+zipCode: "33144"
 coordinates:
-  lat: 25.746950299999998
-  lng: -80.3147965
+  lat: 25.762845799999997
+  lng: -80.2949376
 phone: "(305) 264-9636"
 website: "https://mycosmeticsurgerymiami.com/"
-googleMapsUrl: "https://maps.google.com/?cid=12654268714579681274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleMapsUrl: "https://maps.google.com/?cid=17359701746087317926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Cosmetic Surgery"
 description: >-
-  My Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.1-star rating from 285 reviews, they offer cosmetic and reconstructive surgery services.
+  My Cosmetic Surgery is a cosmetic surgery located in Miami, FL. With a 3.5-star rating from 523 reviews.
 specialties:
-  - "Plastic Surgery"
   - "Cosmetic Surgery"
-rating: 4.1
-reviewCount: 285
+rating: 3.5
+reviewCount: 523
 reviews:
-  - author: "Meelah G."
+  - author: "Zuyette R."
     rating: 5
-    date: "2025-12-08"
+    date: "2025-12-28"
     text: >-
-      “I am beyond thrilled with my results thanks to Dr. Jeffrey Lagrasso! 🌟 His professionalism, dedication, and care have completely transformed my confidence and self-esteem. 💖  A huge thank you to his amazing team: Nurse Miriam, Nurse Karina, María del Carmen González in pre-op, Claudia González, Surgery Coordinator, Isel, Surgery Coordinator, and Dayanara from the Publicity Department, for all t
+      I have been a client at my cosmetic since 2018, and I have nothing but great things to say about this establishment. Starting with Dr. Luke Gutwein who has been my surgeon for the last two operations. He is very kind,  patient and knowledgeable and I have a 100% trust in his work. The staff is also very helpful and I appreciated my coordinator Yarianna for guiding me thru this process with so much
     source: "Google"
-  - author: "Ewersson R. G."
+  - author: "Lourdes G."
     rating: 5
-    date: "2025-04-26"
+    date: "2026-01-25"
     text: >-
-      I’ve seen a lot bad review of their front desk and I really don’t understand. I was really overwhelmed by the great responsive from the front desk - nurses and medical staff. Every question was answer with professionalism! Arisdalia and Zeila have been so helpful during the whole process.  Communication was spot on - Costumer services outstanding -  You have people that really care and provide cle
+      I want to write this review for Yanelis Zladivar, the best doing lymphatic massage, I'm really happy with my recovery, she's compassionate,  she's always smiling and very professional, attentive and very comprehensive with the patient. I'm very happy with my results
     source: "Google"
-  - author: "Neca N."
+  - author: "Zur H."
     rating: 5
-    date: "2025-09-18"
+    date: "2025-08-01"
     text: >-
-      In July 2019 I had a BBL Lipo 360 and September 11 of 2019 I had a breast reduction and lift. Covid hit and couldn’t work out as much and got too comfortable eating and going on vacations because I look like a doll which has me back for a Lipo 360 with J plasma since I am now 52 years old and had some stretch skin in certain areas.  If I ever have anything else to fix, I wouldn’t think about it tw
+      Yurdeti is absolutely amazing! I've been seeing her for radiofrequency and massage treatments at my cosmetic surgery, and I couldn't be happier with the results. She is incredibly knowledgeable and professional, and she always makes me feel comfortable and at ease during every session. The radiofrequency treatments have really helped with tightening my skin, and her lymphatic drainage massages are
     source: "Google"
-  - author: "Joanna D. W."
+  - author: "Liuska F."
     rating: 1
-    date: "2025-06-17"
+    date: "2025-10-15"
     text: >-
-      I took time off of work to go to Miami to see Dr. Fabian for a consultation. We agreed on a date in July and I put down a $1000.00 deposit. The entire process is disorganized and almost everyone speaks Spanish and they are pretty much dry with you like you’re just another number and not an actual person about to go through surgery. I got a call about 2 months later from the time I did my consultat
+      This clinic is the worst. I've been trying to get my deposit back for a long time now and they refuse to do so. Every time I call is a different story. I call them or text them every week. All I get from them is excuses. Do not go to this place, I REPEAT, run away from this place as fast as you can. I paid $1550 4 years ago, and I haven't gotten my money back yet.
     source: "Google"
-  - author: "Eva t. d. P."
-    rating: 5
-    date: "2025-07-31"
+  - author: "Jossy A."
+    rating: 1
+    date: "2025-09-09"
     text: >-
-      All the women were nice and lovely and respectful , answered all my questions and concerns. Even though my Spanish isn’t as well , they still took the time to help and I appreciate the effort . Overall nice experience.
+      I got the worst experience with the doctor Jeffrey. Please do not go to the doctor or any of them the clinic it’s disgusting. They’re rushing to get your money and sign papers and then they don’t even answer you when you call for a refund the job Doctor did go run and he do not want to fix it and I have to pay another doctor in the same clinic to fix my problem. $4500 more so sad.
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/my-cosmetic-surgery.jpg"
+logo: "/images/clinics/logos/my-cosmetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 591-8989"
 website: "https://www.miamisurgericalcenter.com/"
 googleMapsUrl: "https://maps.google.com/?cid=4419036506130000345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  Design Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 137 reviews, they offer cosmetic and reconstructive surgery services.
+  Design Plastic Surgery is a plastic surgery located in Miami, FL. With a 4.9-star rating from 137 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.9
 reviewCount: 137
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       I had a Breast lift, an etching, and BBL combo at Design plastic surgery. It’s only been a few days but I’m in love with my results!! I’m still a little swollen from the liposuction but my faja is giving me good compression and I already look super snatched. My breast came out beautiful, nice and perky, a full C just the way I wanted them. The whole team is great. They have excellent customer serv
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/design-plastic-surgery.jpg"
+logo: "/images/clinics/logos/design-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

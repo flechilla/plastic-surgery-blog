@@ -45,11 +45,37 @@ const CATEGORY_MAP: Record<string, string> = {
   'doctor': 'Medical Practice',
   'hospital': 'Hospital',
   'health': 'Health & Wellness',
+  'spa': 'Spa & Wellness',
+  'wellness_center': 'Wellness Center',
 };
 
-function categoryLabel(primaryType?: string): string {
-  if (!primaryType) return 'Cosmetic Practice';
-  return CATEGORY_MAP[primaryType] || primaryType.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+function categoryLabel(primaryType?: string, types?: string[], name?: string): string {
+  const lowerName = (name || '').toLowerCase();
+  
+  // Name-based overrides (most reliable signal)
+  if (lowerName.includes('plastic surg')) return 'Plastic Surgery';
+  if (lowerName.includes('cosmetic surg')) return 'Cosmetic Surgery';
+  if (lowerName.includes('med spa') || lowerName.includes('medspa')) return 'Medical Spa';
+  
+  // Check primaryType (skip generic 'doctor')
+  if (primaryType && CATEGORY_MAP[primaryType] && primaryType !== 'doctor') {
+    return CATEGORY_MAP[primaryType];
+  }
+  
+  // Derive from types array
+  if (types?.length) {
+    const typeOrder = ['plastic_surgeon', 'cosmetic_surgeon', 'medical_spa', 'dermatologist', 'skin_care_clinic', 'beauty_salon', 'hair_removal_service', 'spa', 'wellness_center'];
+    for (const t of typeOrder) {
+      if (types.includes(t)) return CATEGORY_MAP[t] || t.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    }
+  }
+  
+  // Name-based fallbacks
+  if (lowerName.includes('aesthetic')) return 'Aesthetics';
+  if (lowerName.includes('derma')) return 'Dermatologist';
+  
+  if (primaryType && CATEGORY_MAP[primaryType]) return CATEGORY_MAP[primaryType];
+  return 'Cosmetic Practice';
 }
 
 // City coordinates for location bias
@@ -374,11 +400,11 @@ phone: "${place.nationalPhoneNumber || ''}"
 website: ${place.websiteUri ? `"${place.websiteUri}"` : 'null'}
 googleMapsUrl: "${place.googleMapsUri || ''}"
 googleCategory: "${place.primaryType || ''}"
-googleCategoryDisplay: "${categoryLabel(place.primaryType)}"
+googleCategoryDisplay: "${categoryLabel(place.primaryType, place.types, name)}"
 description: >-
-  ${name} is a ${categoryLabel(place.primaryType).toLowerCase()} located in ${addr.city}, ${addr.state}.${place.rating ? ` With a ${place.rating}-star rating from ${place.userRatingCount || 0} reviews.` : ''}
+  ${name} is a ${categoryLabel(place.primaryType, place.types, name).toLowerCase()} located in ${addr.city}, ${addr.state}.${place.rating ? ` With a ${place.rating}-star rating from ${place.userRatingCount || 0} reviews.` : ''}
 specialties:
-  - "${categoryLabel(place.primaryType)}"
+  - "${categoryLabel(place.primaryType, place.types, name)}"
 rating: ${place.rating || 0}
 reviewCount: ${place.userRatingCount || 0}
 reviews:

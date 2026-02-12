@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 209-1030"
 website: "https://305plasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
 googleMapsUrl: "https://maps.google.com/?cid=13370284167070739546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  305 Plastic Surgery Coral Gables is a plastic surgery practice located in Coral Gables, FL. With a 4.1-star rating from 2529 reviews, they offer cosmetic and reconstructive surgery services.
+  305 Plastic Surgery Coral Gables is a plastic surgery located in Coral Gables, FL. With a 4.1-star rating from 2529 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.1
 reviewCount: 2529
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       I had an amazing experience at 305 Plastic Surgery for my lymphatic massage! The therapist was extremely knowledgeable and took the time to explain everything to me, which made me feel very comfortable. The massage itself was excellent—she really knew what she was doing and focused on the areas that needed the most attention. When I left, I felt so much lighter and refreshed. Honestly, it was one 
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/305-plastic-surgery-coral-gables.jpg"
+logo: "/images/clinics/logos/305-plastic-surgery-coral-gables.jpg"
 yearEstablished: null
 certifications: []
 verified: false

@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 591-8989"
 website: "https://miamisurgicalcenter.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2019560757804926068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Cosmetic Practice"
 description: >-
-  Miami Surgical Center Cosmetics is a plastic surgery practice located in Miami, FL. With a 4.1-star rating from 529 reviews, they offer cosmetic and reconstructive surgery services.
+  Miami Surgical Center Cosmetics is a cosmetic practice located in Miami, FL. With a 4.1-star rating from 529 reviews.
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
+  - "Cosmetic Practice"
 rating: 4.1
 reviewCount: 529
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       Great experience and my results are PHENOMENAL! I am extremely satisfied. They have really great doctors. You just have to really stay on the front office because they are so busy. Call if you have any questions. Best time to call is early in the mornings before noon. They will get back with you if noone is available to answer your call. Be sure to get cleared by your primary doctor before paying 
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/miami-surgical-center-cosmetics.jpg"
+logo: "/images/clinics/logos/miami-surgical-center-cosmetics.jpg"
 yearEstablished: null
 certifications: []
 verified: false

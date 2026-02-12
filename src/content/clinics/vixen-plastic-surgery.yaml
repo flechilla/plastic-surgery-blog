@@ -14,11 +14,12 @@ coordinates:
 phone: "(305) 260-6615"
 website: "https://vixenplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
 googleMapsUrl: "https://maps.google.com/?cid=1172967126215585499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
 description: >-
-  Vixen Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.3-star rating from 1073 reviews, they offer cosmetic and reconstructive surgery services.
+  Vixen Plastic Surgery is a plastic surgery located in Miami, FL. With a 4.3-star rating from 1073 reviews.
 specialties:
   - "Plastic Surgery"
-  - "Cosmetic Surgery"
 rating: 4.3
 reviewCount: 1073
 reviews:
@@ -52,7 +53,7 @@ reviews:
     text: >-
       I had an amazing experience with Keisha! She was so helpful and patient while scheduling my surgery. She took the time to explain everything clearly, made sure I understood each step, and made the whole process stress-free. Her professionalism and kindness really stood out — she truly went above and beyond to make sure everything was taken care of. I’m so grateful for her help!
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/vixen-plastic-surgery.jpg"
+logo: "/images/clinics/logos/vixen-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
