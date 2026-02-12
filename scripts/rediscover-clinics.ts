@@ -407,13 +407,12 @@ specialties:
   - "${categoryLabel(place.primaryType, place.types, name)}"
 rating: ${place.rating || 0}
 reviewCount: ${place.userRatingCount || 0}
-reviews:
-${reviews.map(r => `  - author: "${r.author}"
+${reviews.length > 0 ? `reviews:\n${reviews.map(r => `  - author: "${r.author}"
     rating: ${r.rating}
     date: "${r.date}"
     text: >-
       ${r.text.replace(/\n/g, ' ').slice(0, 400)}
-    source: "${r.source}"`).join('\n')}
+    source: "${r.source}"`).join('\n')}` : 'reviews: []'}
 logo: ${logo ? `"${logo}"` : 'null'}
 yearEstablished: null
 certifications: []
