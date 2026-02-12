@@ -31,6 +31,7 @@ const SEARCH_QUERIES = [
   'plastic surgery',
   'cosmetic surgery', 
   'plastic surgeon',
+  'medspa',
 ];
 
 // City coordinates for location bias
