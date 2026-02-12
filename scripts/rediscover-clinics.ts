@@ -38,10 +38,27 @@ const SEARCH_QUERIES = [
 const CITY_COORDS: Record<string, { lat: number; lng: number }> = {
   // Florida
   'miami': { lat: 25.7617, lng: -80.1918 },
+  'doral': { lat: 25.8195, lng: -80.3553 },
   'fort-myers': { lat: 26.6406, lng: -81.8723 },
+  'fort-lauderdale': { lat: 26.1224, lng: -80.1373 },
+  'boca-raton': { lat: 26.3683, lng: -80.1289 },
+  'hollywood': { lat: 26.0112, lng: -80.1495 },
+  'coral-springs': { lat: 26.2712, lng: -80.2706 },
+  'pembroke-pines': { lat: 26.0128, lng: -80.3437 },
+  'hialeah': { lat: 25.8576, lng: -80.2781 },
+  'homestead': { lat: 25.4687, lng: -80.4776 },
+  'aventura': { lat: 25.9565, lng: -80.1392 },
+  'weston': { lat: 26.1003, lng: -80.3998 },
+  'davie': { lat: 26.0765, lng: -80.2521 },
+  'plantation': { lat: 26.1276, lng: -80.2331 },
   'tampa': { lat: 27.9506, lng: -82.4572 },
   'orlando': { lat: 28.5383, lng: -81.3792 },
+  'st-petersburg': { lat: 27.7676, lng: -82.6403 },
+  'sarasota': { lat: 27.3364, lng: -82.5307 },
+  'lakeland': { lat: 28.0395, lng: -81.9498 },
   'jacksonville': { lat: 30.3322, lng: -81.6557 },
+  'tallahassee': { lat: 30.4383, lng: -84.2807 },
+  'gainesville': { lat: 29.6516, lng: -82.3248 },
   'west-palm-beach': { lat: 26.7153, lng: -80.0534 },
   // California
   'los-angeles': { lat: 34.0522, lng: -118.2437 },
@@ -59,16 +76,35 @@ const CITY_COORDS: Record<string, { lat: number; lng: number }> = {
   'manhattan': { lat: 40.7831, lng: -73.9712 },
   'boston': { lat: 42.3601, lng: -71.0589 },
   'philadelphia': { lat: 39.9526, lng: -75.1652 },
-  // Other major markets
+  // California
+  'santa-monica': { lat: 34.0195, lng: -118.4912 },
+  'pasadena': { lat: 34.1478, lng: -118.1445 },
+  'glendale': { lat: 34.1425, lng: -118.2551 },
+  // New York
+  'manhattan': { lat: 40.7831, lng: -73.9712 },
+  'brooklyn': { lat: 40.6782, lng: -73.9442 },
+  'long-island': { lat: 40.7891, lng: -73.1350 },
+  'westchester': { lat: 41.1220, lng: -73.7949 },
+  // Texas
+  'plano': { lat: 33.0198, lng: -96.6989 },
+  // Southeast
   'atlanta': { lat: 33.7490, lng: -84.3880 },
+  'charlotte': { lat: 35.2271, lng: -80.8431 },
+  'nashville': { lat: 36.1627, lng: -86.7816 },
+  'charleston': { lat: 32.7765, lng: -79.9311 },
+  // Northeast
+  'boston': { lat: 42.3601, lng: -71.0589 },
+  'philadelphia': { lat: 39.9526, lng: -75.1652 },
+  'washington-dc': { lat: 38.9072, lng: -77.0369 },
+  // West
   'chicago': { lat: 41.8781, lng: -87.6298 },
+  'detroit': { lat: 42.3314, lng: -83.0458 },
+  'minneapolis': { lat: 44.9778, lng: -93.2650 },
   'denver': { lat: 39.7392, lng: -104.9903 },
   'scottsdale': { lat: 33.4942, lng: -111.9261 },
   'phoenix': { lat: 33.4484, lng: -112.0740 },
   'seattle': { lat: 47.6062, lng: -122.3321 },
   'las-vegas': { lat: 36.1699, lng: -115.1398 },
-  'nashville': { lat: 36.1627, lng: -86.7816 },
-  'charlotte': { lat: 35.2271, lng: -80.8431 },
 };
 
 interface AddressComponent {
