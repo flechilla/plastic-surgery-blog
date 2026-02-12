@@ -18,7 +18,9 @@
     "@astrojs/check": "^0.9.0",
     "@astrojs/mdx": "^4.3.13",
     "@tailwindcss/vite": "^4.1.18",
+    "@vercel/blob": "^2.2.0",
     "astro": "^5.17.1",
+    "glob": "^13.0.2",
     "openai": "^6.21.0",
     "tailwindcss": "^4.1.18"
   },

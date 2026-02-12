@@ -52,7 +52,7 @@ reviews:
     text: >-
       A Transformational Experience with Claudia!  From the moment I walked into Vio Med Spa, I knew I was in expert hands. Her warmth, professionalism, and deep knowledge of skincare instantly put me at ease. Claudia doesn’t just offer treatments—she delivers a personalized experience that feels like a blend of science, luxury, and genuine care.  The skincare treatment itself was nothing short of magic
     source: "Google"
-logo: "/images/clinics/logos/vio-med-spa.jpg"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/vio-med-spa.jpg"
 yearEstablished: null
 certifications: []
 verified: false
