@@ -1,0 +1,54 @@
+name: "Alluring Plastic Surgery"
+slug: alluring-plastic-surgery
+city: miami
+state: FL
+address: "8435 SW 24th St, Miami, FL 33155"
+zipCode: "33155"
+phone: "(786) 305-8649"
+website: "https://www.alluringplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_term=gbp-listing"
+googleMapsUrl: "https://maps.google.com/?cid=17263750966912758076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Alluring Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 49 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 49
+reviews:
+  - author: "Alannah D."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I traveled from North Carolina to Miami for my mommy makeover with Dr. Karlinsky at Alluring Plastic Surgery, and I truly couldn’t be happier with my experience. From start to finish, everyone was amazing, professional, and incredibly kind.  Dr. Karlinsky took the time to reassure me that all of my nerves were completely normal and made me feel comfortable and confident every step of the way. I ge
+    source: "Google"
+  - author: "Roxana"
+    rating: 4
+    date: "2026-01-04"
+    text: >-
+      Dr. Karlinsky did an exceptional job. The final result after 10 months was beautiful and very natural. Her surgical work truly speaks for itself.  However, I am not giving 5 stars due to the inhumane treatment from the nursing staff during the recovery from anesthesia: 1.	It was my first time ever being under anesthesia, and this was clearly communicated beforehand. 2.	I was forced out of the reco
+    source: "Google"
+  - author: "Erica O."
+    rating: 5
+    date: "2025-11-11"
+    text: >-
+      I can’t say enough great things about my experience with Dr.Karlinsky and their entire team! From my very first consultation to my post-op care, every step of the process was handled with professionalism, compassion, and incredible attention to detail. Dr. Karlinsky took the time to truly listen to my goals and made me feel comfortable and confident the entire way through.  The results exceeded my
+    source: "Google"
+  - author: "M K."
+    rating: 5
+    date: "2025-08-21"
+    text: >-
+      I got a tummy tuck by Dr. Victoria Karlinsky here July 18, which means I am about five weeks postop today. These are the current photos. I just want to say if you’re thinking of A good surgeon who’s going to meet all the expectations that you have she is definitely it. my biggest concern with my tummy tuck was my belly button, and she definitely delivered exactly what I wanted. She was very helpfu
+    source: "Google"
+  - author: "Dimok 1."
+    rating: 5
+    date: "2025-11-24"
+    text: >-
+      I’m writing on behalf of myself I recently underwent a very complex abdominal surgery with Dr. Victoria Karlinsky. The procedure involved:  Extensive abdominal contouring  Major revision of deep, decades-old scar tissue  Release of long-standing adhesions and removal of damaged skin  And lastly, significant abdominal liposuction  This was the kind of case many surgeons would refuse. Dr. Karlinsky 
+    source: "Google"
+logo: "/images/clinics/logos/alluring-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,14 +1,14 @@
-name: Tal T. Roudner, MD, FACS
+name: "Tal T. Roudner, MD, FACS"
 slug: tal-t-roudner-md-facs
 city: miami
 state: FL
-address: "550 Biltmore Way Suite #890"
+address: "550 Biltmore Way Suite #890, Coral Gables, FL 33134"
 zipCode: "33134"
 phone: "(305) 443-3531"
 website: "https://www.talroudnerplasticsurgery.com/?utm_source=GMB&utm_medium=organic&utm_campaign=dr+tal+roudner"
-googleMapsUrl: "https://maps.google.com/?cid=4656460696048890127"
+googleMapsUrl: "https://maps.google.com/?cid=4656460696048890127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Tal T. Roudner, MD, FACS is a plastic surgery practice located in Coral Gables, FL. With a 4.9-star rating from 481 reviews, they offer cosmetic and reconstructive surgery services.
+  Tal T. Roudner, MD, FACS is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 481 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
@@ -20,25 +20,25 @@ reviews:
     rating: 5
     date: "2025-12-11"
     text: >-
-      I’m currently 3 weeks post op from a breast lift with suspension and a chin lipo and I’m absolutely in love with my results!!! I looked through many many surgeons before deciding on Dr. Tal Roudner and I’m extremely glad I picked him. The process from the initial consultation all the way to my post ...
+      I’m currently 3 weeks post op from a breast lift with suspension and a chin lipo and I’m absolutely in love with my results!!! I looked through many many surgeons before deciding on Dr. Tal Roudner and I’m extremely glad I picked him. The process from the initial consultation all the way to my post op follow up appointments has been wonderful and seamless. I could not have asked for better results
     source: "Google"
   - author: "Priscilla S."
     rating: 5
     date: "2025-12-17"
     text: >-
-      Dr. Tal is truly amazing. From the first consultation to post-op care, I felt completely supported, heard, and cared for. He took the time to explain everything and made me feel confident every step of the way.  My results are beyond what I hoped for natural, beautiful, and perfectly done. I’m so gr...
+      Dr. Tal is truly amazing. From the first consultation to post-op care, I felt completely supported, heard, and cared for. He took the time to explain everything and made me feel confident every step of the way.  My results are beyond what I hoped for natural, beautiful, and perfectly done. I’m so grateful for Dr. Tal and his team and would recommend him to anyone considering breast surgery. Best d
     source: "Google"
   - author: "Megan K."
     rating: 5
     date: "2025-10-13"
     text: >-
-      Dr. Tal Roudner is truly exceptional. His artistic skill and eye for natural beauty set him apart — the results exceeded my expectations in every way. Beyond his incredible talent, Dr. Tal is warm, reassuring, and genuine. He takes the time to listen, explain, and make sure you feel completely comfo...
+      Dr. Tal Roudner is truly exceptional. His artistic skill and eye for natural beauty set him apart — the results exceeded my expectations in every way. Beyond his incredible talent, Dr. Tal is warm, reassuring, and genuine. He takes the time to listen, explain, and make sure you feel completely comfortable and confident throughout the process.  His staff is equally amazing — professional, kind, and
     source: "Google"
   - author: "Lena G."
     rating: 5
     date: "2025-10-27"
     text: >-
-      I explanted with Dr. Tal Roudner due to Breast Implant Illness (BII), and I can’t be happier with my experience and results. When I came in for the consultation, my main concern was making sure that the entire capsule would be removed — it was extremely important to me for health reasons. Dr. Roudne...
+      I explanted with Dr. Tal Roudner due to Breast Implant Illness (BII), and I can’t be happier with my experience and results. When I came in for the consultation, my main concern was making sure that the entire capsule would be removed — it was extremely important to me for health reasons. Dr. Roudner took the time to listen carefully, answered all my questions, and made me feel completely confiden
     source: "Google"
   - author: "P B."
     rating: 5
@@ -46,8 +46,9 @@ reviews:
     text: >-
       Dr. Tal fixed my breasts after having a couple of bad surgeries. I should’ve gone with him from the beginning. He is professional and knowledgeable. Highly recommend. His staff is warm and helpful.
     source: "Google"
+logo: null
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

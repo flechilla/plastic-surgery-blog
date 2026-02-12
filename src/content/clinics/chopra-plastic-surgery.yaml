@@ -1,48 +1,54 @@
-name: Chopra Plastic Surgery
+name: "Chopra Plastic Surgery"
 slug: chopra-plastic-surgery
 city: miami
 state: FL
-address: 3850 Bird Rd STE 701
+address: "3850 Bird Rd STE 701, Miami, FL 33146"
 zipCode: "33146"
-phone: (305) 425-9953
-website: https://www.chopraplasticsurgery.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=chopra
-googleMapsUrl: https://maps.google.com/?cid=17647808579371217666
-description: Chopra Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 331 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 425-9953"
+website: "https://www.chopraplasticsurgery.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=chopra"
+googleMapsUrl: "https://maps.google.com/?cid=17647808579371217666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Chopra Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 331 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 331
 reviews:
-  - author: Taylor B.
+  - author: "Taylor B."
     rating: 5
     date: "2025-12-25"
-    text: My experience for my deep plane neck lift with Dr Chopra was second to none. Not only is he a highly accredited plastic surgeon, but he is extremely personable and his process makes the whole experience feel comfortable. From intake to post-op and beyond, I always felt I was in the best care. I love...
-    source: Google
-  - author: Ali S.
+    text: >-
+      My experience for my deep plane neck lift with Dr Chopra was second to none. Not only is he a highly accredited plastic surgeon, but he is extremely personable and his process makes the whole experience feel comfortable. From intake to post-op and beyond, I always felt I was in the best care. I loved the feature of having a caretaker stay with me for the first night, ensuring Dr Chopra was only a 
+    source: "Google"
+  - author: "Ali S."
     rating: 5
     date: "2026-01-23"
-    text: I had an amazing experience with my facelift surgery. From the first consultation to my final follow-up, I felt cared for, listened to, and supported. The results look natural, refreshed, and not overdone, exactly what I wanted. My confidence has truly been restored. The staff was kind, professional...
-    source: Google
-  - author: Ivette A.
+    text: >-
+      I had an amazing experience with my facelift surgery. From the first consultation to my final follow-up, I felt cared for, listened to, and supported. The results look natural, refreshed, and not overdone, exactly what I wanted. My confidence has truly been restored. The staff was kind, professional, and always available to answer my questions. I’m so grateful for this journey and would absolutely
+    source: "Google"
+  - author: "Ivette A."
     rating: 5
     date: "2026-01-05"
-    text: From consultation to post-op care, my experience was exceptional. I had upper and lower eyelid surgery along with neck and face-lift work, and I’m only 3 days post-op with no pain and already noticeable results. Doctor Chopra is incredibly professional, detail-oriented, and truly caring. His staff i...
-    source: Google
-  - author: GA2009management .
+    text: >-
+      From consultation to post-op care, my experience was exceptional. I had upper and lower eyelid surgery along with neck and face-lift work, and I’m only 3 days post-op with no pain and already noticeable results. Doctor Chopra is incredibly professional, detail-oriented, and truly caring. His staff is just as amazing—kind, attentive, and always made me feel comfortable and supported every step of t
+    source: "Google"
+  - author: "GA2009management"
     rating: 5
     date: "2026-01-28"
-    text: "I underwent a neck lift, face lift, and lip lift with Dr. Chopra—and my results are amazing. I’m 46 and honestly look better than my 20s. As a physician, I did extensive research before choosing him, and he exceeded every expectation: meticulous pre-op planning, flawless execution, and excellent pos..."
-    source: Google
-  - author: Melanie C.
+    text: >-
+      I underwent a neck lift, face lift, and lip lift with Dr. Chopra—and my results are amazing. I’m 46 and honestly look better than my 20s. As a physician, I did extensive research before choosing him, and he exceeded every expectation: meticulous pre-op planning, flawless execution, and excellent post-op follow-up. He’s also fresh, young, full of life and ambition, with that top-tier Johns Hopkins–
+    source: "Google"
+  - author: "Melanie C."
     rating: 5
     date: "2025-12-27"
-    text: My name is Melanie and I am 10 days into my recovery after my deep plane  face and neck lift. I am 55 years old and I have spent the last five years struggling through menopause. When I looked into the mirror I did not recognize myself. I needed a reset. I needed a meno makeover ! Dr. Chopra has giv...
-    source: Google
+    text: >-
+      My name is Melanie and I am 10 days into my recovery after my deep plane  face and neck lift. I am 55 years old and I have spent the last five years struggling through menopause. When I looked into the mirror I did not recognize myself. I needed a reset. I needed a meno makeover ! Dr. Chopra has given me a new lease on life and I am excited for the next chapter in my journey. After researching doc
+    source: "Google"
+logo: "/images/clinics/logos/chopra-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/chopra-plastic-surgery.jpg
+lastUpdated: "2026-02-12"

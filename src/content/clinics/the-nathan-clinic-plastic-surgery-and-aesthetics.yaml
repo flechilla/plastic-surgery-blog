@@ -2,11 +2,11 @@ name: "The Nathan Clinic: Plastic Surgery and Aesthetics"
 slug: the-nathan-clinic-plastic-surgery-and-aesthetics
 city: miami
 state: FL
-address: "4770 Biscayne Blvd STE 830"
+address: "4770 Biscayne Blvd STE 830, Miami, FL 33137"
 zipCode: "33137"
 phone: "(786) 396-9276"
 website: "https://drnathan.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=miami"
-googleMapsUrl: "https://maps.google.com/?cid=4433079512792276698"
+googleMapsUrl: "https://maps.google.com/?cid=4433079512792276698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
   The Nathan Clinic: Plastic Surgery and Aesthetics is a plastic surgery practice located in Miami, FL. With a 5-star rating from 406 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
@@ -20,34 +20,35 @@ reviews:
     rating: 5
     date: "2026-01-28"
     text: >-
-      I had a breast reduction with Dr. Nathan in Miami, my experience exceeded every expectation. Traveling from the Caribbean, it was important to choose a surgeon I could fully trust, and from the very beginning, Dr. Nathan & his team made that decision easy.  What stood out most to me was his honesty ...
+      I had a breast reduction with Dr. Nathan in Miami, my experience exceeded every expectation. Traveling from the Caribbean, it was important to choose a surgeon I could fully trust, and from the very beginning, Dr. Nathan & his team made that decision easy.  What stood out most to me was his honesty and transparency. He took the time to explain everything clearly, set realistic expectations, and an
     source: "Google"
   - author: "Michael B."
     rating: 5
     date: "2026-01-05"
     text: >-
-      I have nothing but good words for the entire experience that I have had with Dr. Nathan’s expertise, demeanor and care.  All his office staff are  courteous and provide second to none services with each and every visit. Everyone is professional, prompt, and efficient.  Dr. Nathan’s skills, finesse a...
+      I have nothing but good words for the entire experience that I have had with Dr. Nathan’s expertise, demeanor and care.  All his office staff are  courteous and provide second to none services with each and every visit. Everyone is professional, prompt, and efficient.  Dr. Nathan’s skills, finesse and most of all a friendly communicative style in interactions makes these procedures and follow ups 
     source: "Google"
   - author: "Brenda S."
     rating: 5
     date: "2025-12-22"
     text: >-
-      My experience from beginning to end has been superb! Dr. Nathan is an amazing surgeon, professional and a master at his craft. All his staff were very patient and caring since I faint easily … I have to give a big thank you to Barbara, Alex, Sophia and Jenny ! I am currently 10 weeks post surgery an...
+      My experience from beginning to end has been superb! Dr. Nathan is an amazing surgeon, professional and a master at his craft. All his staff were very patient and caring since I faint easily … I have to give a big thank you to Barbara, Alex, Sophia and Jenny ! I am currently 10 weeks post surgery and feeling confident and healthy thanks to the decision I made to go with the best Surgeon and Team i
     source: "Google"
-  - author: "M ."
+  - author: "M"
     rating: 5
     date: "2026-01-12"
     text: >-
-      I can’t say enough good things. Dr. Nathan was my first and only consult and from the start everyone has been so kind and they truly care about your experience which made it easy to book with them the same day.  Dr. Nathan is available at any time by text to answer any questions, which shows how muc...
+      I can’t say enough good things. Dr. Nathan was my first and only consult and from the start everyone has been so kind and they truly care about your experience which made it easy to book with them the same day.  Dr. Nathan is available at any time by text to answer any questions, which shows how much he values his patients and their experiences. Dr. Nathan healed the younger me who always dreamed 
     source: "Google"
-  - author: "Jorge L."
+  - author: "Jorge L. G."
     rating: 5
     date: "2026-01-28"
     text: >-
       I would like to sincerely thank Dr. Nathan as well as his staff members Alexandra and especially Jenifer for her warm and sincere service. Dr. Nathan was very professional and amiable during my appointment with him. Despite his well regarded reputation he is also a very humble person.  Thank you!
     source: "Google"
+logo: "/images/clinics/logos/the-nathan-clinic-plastic-surgery-and-aesthetics.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

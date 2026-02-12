@@ -1,48 +1,54 @@
-name: Miami Life Cosmetic Center Sunset
+name: "Miami Life Cosmetic Center Sunset"
 slug: miami-life-cosmetic-center-sunset
 city: miami
 state: FL
-address: 7130 SW 87th Ct
+address: "7130 SW 87th Ct, Miami, FL 33173"
 zipCode: "33173"
-phone: (305) 507-8848
-website: https://miamilifecosmetic.com/
-googleMapsUrl: https://maps.google.com/?cid=6822937658464638525
-description: Miami Life Cosmetic Center Sunset is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 539 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 507-8848"
+website: "https://miamilifecosmetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6822937658464638525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Life Cosmetic Center Sunset is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 539 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 539
 reviews:
-  - author: Ahnjaelee .
+  - author: "Ahnjaelee"
     rating: 5
     date: "2025-12-09"
-    text: Each clinic and doctors have positives and negatives. I chose this clinic specifically because of Dr Daniel Kaufman. Dr Kaufman is the best, he listens to you, explains everything you have to know regarding your procedure even post op he will show you the details even photos under the table which is...
-    source: Google
-  - author: LaDii B.
+    text: >-
+      Each clinic and doctors have positives and negatives. I chose this clinic specifically because of Dr Daniel Kaufman. Dr Kaufman is the best, he listens to you, explains everything you have to know regarding your procedure even post op he will show you the details even photos under the table which is amazing in my opinion. Comparable to the Dr I had in the past that I only met during the markings a
+    source: "Google"
+  - author: "LaDii B."
     rating: 5
     date: "2026-01-26"
-    text: I can’t say enough great things about Dr. O and my tummy tuck experience. He did an amazing job and went above and beyond to make sure my needs were met every step of the way. Dr. O took the time to listen, offered honest advice, and provided helpful suggestions to ensure the best possible outcome f...
-    source: Google
-  - author: Criisty H.
+    text: >-
+      I can’t say enough great things about Dr. O and my tummy tuck experience. He did an amazing job and went above and beyond to make sure my needs were met every step of the way. Dr. O took the time to listen, offered honest advice, and provided helpful suggestions to ensure the best possible outcome for my surgery. His care, professionalism, and attention to detail made me feel confident and support
+    source: "Google"
+  - author: "Criisty H."
     rating: 1
     date: "2025-10-14"
-    text: Don’t waste your time and money in this clinic. Miami life Cosmetic Doctor Kaufman is nice but the ladies working there, has no idea of how to treat a customer. This clinic here in Miami they don’t care for you or for you life, they just want the money. Is like a meat market you go in they cut you a...
-    source: Google
-  - author: Arelis L.
+    text: >-
+      Don’t waste your time and money in this clinic. Miami life Cosmetic Doctor Kaufman is nice but the ladies working there, has no idea of how to treat a customer. This clinic here in Miami they don’t care for you or for you life, they just want the money. Is like a meat market you go in they cut you and after that. You will not see the doctor never again. Even if you’re in the hospital they don’t ca
+    source: "Google"
+  - author: "Arelis L."
     rating: 5
     date: "2026-01-24"
-    text: I am so happy with my results!!! I got a tummy tuck and arm lipo with Dr Daniel Kaufman and he is the goat! King tuck is his name for sure!!! So satisfied and highly recommend him!!! I also want to shout out the coordinators and staff overall. Andrea and jasmine are awesome and all the nurses and ma...
-    source: Google
-  - author: Liza O.
+    text: >-
+      I am so happy with my results!!! I got a tummy tuck and arm lipo with Dr Daniel Kaufman and he is the goat! King tuck is his name for sure!!! So satisfied and highly recommend him!!! I also want to shout out the coordinators and staff overall. Andrea and jasmine are awesome and all the nurses and massage therapist were great! This is definitely the place to go for your cosmetic surgery!!
+    source: "Google"
+  - author: "Liza O."
     rating: 5
     date: "2025-12-31"
-    text: I had surgery with Dr. Daniel Kaufman about a month ago and I’m honestly still in shock at how good my results are. He is an amazing surgeon and did an incredible job. I only spent 600 dollars on massages at Miami life. And my body looks absolutely perfect. I had a BBL done, and I truly believe he’s...
-    source: Google
+    text: >-
+      I had surgery with Dr. Daniel Kaufman about a month ago and I’m honestly still in shock at how good my results are. He is an amazing surgeon and did an incredible job. I only spent 600 dollars on massages at Miami life. And my body looks absolutely perfect. I had a BBL done, and I truly believe he’s the best doctor you could ever choose. I highly recommend choosing only him. Dr. Kaufman is the kin
+    source: "Google"
+logo: "/images/clinics/logos/miami-life-cosmetic-center-sunset.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/miami-life-cosmetic-center-sunset.png
+lastUpdated: "2026-02-12"

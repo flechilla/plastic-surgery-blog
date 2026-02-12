@@ -1,48 +1,54 @@
-name: Miami Center for Plastic Surgery
+name: "Miami Center for Plastic Surgery"
 slug: miami-center-for-plastic-surgery
 city: miami
 state: FL
-address: Golden Medical Office Building
+address: "Golden Medical Office Building, 4308 Alton Rd Suite #720, Miami Beach, FL 33140"
 zipCode: "33140"
-phone: (305) 405-6910
-website: https://miamicenterforplasticsurgery.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB
-googleMapsUrl: https://maps.google.com/?cid=7444278204586929912
-description: Miami Center for Plastic Surgery is a plastic surgery practice located in Miami Beach, FL. With a 5-star rating from 13 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 405-6910"
+website: "https://miamicenterforplasticsurgery.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB"
+googleMapsUrl: "https://maps.google.com/?cid=7444278204586929912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Center for Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 13 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 13
 reviews:
-  - author: Amanda N.
+  - author: "Amanda N."
     rating: 5
     date: "2025-10-07"
-    text: "**One year update**  Scarring is very minimal. Very please with how they look even a year later. Thank you again! Eventually will go back for my tummy tuck!!!!  Dr. Salloum and his staff have been pleasant from the beginning. I badly needed a breast lift and reduction and as soon as I called, I was ..."
-    source: Google
-  - author: Lauren T.
+    text: >-
+      **One year update**  Scarring is very minimal. Very please with how they look even a year later. Thank you again! Eventually will go back for my tummy tuck!!!!  Dr. Salloum and his staff have been pleasant from the beginning. I badly needed a breast lift and reduction and as soon as I called, I was told exactly what I needed to do. The process for me was super quick and easy, from working with my 
+    source: "Google"
+  - author: "Lauren T."
     rating: 5
     date: "2020-09-17"
-    text: I've been going to Dr. Salloum for a few years now and I couldn't be happier with him as my doctor. I've had fillers and botox done with him, as well as skin laser treatments over the past few years and love how professional, knowledgable and kind he is. I would only go to Dr. Salloum for future cos...
-    source: Google
-  - author: J M.
+    text: >-
+      I've been going to Dr. Salloum for a few years now and I couldn't be happier with him as my doctor. I've had fillers and botox done with him, as well as skin laser treatments over the past few years and love how professional, knowledgable and kind he is. I would only go to Dr. Salloum for future cosmetic procedures at this point because I truly love how honest and skilled he is in his craft. If he
+    source: "Google"
+  - author: "J M."
     rating: 5
     date: "2020-07-25"
-    text: We started our Journey of trying to find a Doctor for my daughter’s procedure. We spoke to various doctors. But I must say Christina’s (office manager) voice was very comforting and reassuring. Finally, I felt we were on the right track. Then we had a face time call with Dr. Salloum...who was inform...
-    source: Google
-  - author: Regina A.
+    text: >-
+      We started our Journey of trying to find a Doctor for my daughter’s procedure. We spoke to various doctors. But I must say Christina’s (office manager) voice was very comforting and reassuring. Finally, I felt we were on the right track. Then we had a face time call with Dr. Salloum...who was informative and quite knowledgeable about the procedure. But most of all he was passionate about his craft
+    source: "Google"
+  - author: "Regina A."
     rating: 5
     date: "2019-07-22"
-    text: I had a tummy tuck,  Lipo and breast lift done by Dr Salloum, I'm very pleased with the results. Besides, Dr Salloum is an expert in what he does, he's very passionate, caring, with impeccable bedside manners, his staff is professional and on task with follow up appointments. I'm a healthcare provid...
-    source: Google
-  - author: Healthy F.
+    text: >-
+      I had a tummy tuck,  Lipo and breast lift done by Dr Salloum, I'm very pleased with the results. Besides, Dr Salloum is an expert in what he does, he's very passionate, caring, with impeccable bedside manners, his staff is professional and on task with follow up appointments. I'm a healthcare provider myself and I want nothing but the best from a doctor.
+    source: "Google"
+  - author: "Healthy F. C."
     rating: 5
     date: "2017-08-29"
-    text: 10 stars if it were an option! Dr. Gabriel Salloum took care of my 2 year old son, about 6 months a go, when he accidentally opened his forehead and needed stitches.  He was on vacation, and flying back to Miami when I called him. He came to meet us at Mount Sinai Hospital emergency room as soon as ...
-    source: Google
+    text: >-
+      10 stars if it were an option! Dr. Gabriel Salloum took care of my 2 year old son, about 6 months a go, when he accidentally opened his forehead and needed stitches.  He was on vacation, and flying back to Miami when I called him. He came to meet us at Mount Sinai Hospital emergency room as soon as he landed without any hesitation.  When we arrived in the hospital, he had already arranged for a nu
+    source: "Google"
+logo: "/images/clinics/logos/miami-center-for-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/miami-center-for-plastic-surgery.jpg
+lastUpdated: "2026-02-12"

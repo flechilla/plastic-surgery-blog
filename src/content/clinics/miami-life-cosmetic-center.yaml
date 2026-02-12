@@ -1,48 +1,54 @@
-name: Miami Life Cosmetic Center
+name: "Miami Life Cosmetic Center"
 slug: miami-life-cosmetic-center
 city: miami
 state: FL
-address: 8686 Coral Wy
+address: "8686 Coral Wy, Miami, FL 33155"
 zipCode: "33155"
-phone: (305) 507-8848
-website: https://miamilifecosmetic.com/
-googleMapsUrl: https://maps.google.com/?cid=7384554723816748702
-description: Miami Life Cosmetic Center is a plastic surgery practice located in Miami, FL. With a 4.4-star rating from 960 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 507-8848"
+website: "https://miamilifecosmetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7384554723816748702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Life Cosmetic Center is a plastic surgery practice located in Miami, FL. With a 4.4-star rating from 960 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.4
 reviewCount: 960
 reviews:
-  - author: Lovely P.
+  - author: "Lovely P."
     rating: 5
     date: "2026-01-18"
-    text: My experience at Miami Life Cosmetic Center has been amazing from start to finish. Dr. Godat made me feel completely comfortable and really took the time to understand the exact breast size and look I wanted. He listened, gave great guidance, and made sure the results would fit naturally with my bod...
-    source: Google
-  - author: Keratin Q.
+    text: >-
+      My experience at Miami Life Cosmetic Center has been amazing from start to finish. Dr. Godat made me feel completely comfortable and really took the time to understand the exact breast size and look I wanted. He listened, gave great guidance, and made sure the results would fit naturally with my body. On top of that, he was funny and easygoing, which helped calm my nerves. Even the anesthesiologis
+    source: "Google"
+  - author: "Keratin Q."
     rating: 4
     date: "2025-12-23"
-    text: Dr Nassif was amazing!!! He has a gift. He really changed my life. I had a BBL 10 years ago in Dominican Republic, I was not happy with my results because my butt was still flat, no volume and still square. I just had my new surgery with DR Nassif and he heard all my wants and concerns and educated ...
-    source: Google
-  - author: Janelle G.
+    text: >-
+      Dr Nassif was amazing!!! He has a gift. He really changed my life. I had a BBL 10 years ago in Dominican Republic, I was not happy with my results because my butt was still flat, no volume and still square. I just had my new surgery with DR Nassif and he heard all my wants and concerns and educated me on my body. I felt he heard me and delivered!!!  I didn't give 5 stars because of some staff, the
+    source: "Google"
+  - author: "Janelle G."
     rating: 5
     date: "2025-10-27"
-    text: Thank you I appreciate you guys for always checking in with me periodically since a few days after surgery . I am feeling great I’m 3 months post op. My experience with Miami Life was 10/10. Dr Nassif makes you feel comfortable and is funny so helps calm your nerves before surgery. He also did an am...
-    source: Google
-  - author: Beeyoncuh .
+    text: >-
+      Thank you I appreciate you guys for always checking in with me periodically since a few days after surgery . I am feeling great I’m 3 months post op. My experience with Miami Life was 10/10. Dr Nassif makes you feel comfortable and is funny so helps calm your nerves before surgery. He also did an amazing job listening to what my end goal was.  Thank you for being so comforting from the waiting roo
+    source: "Google"
+  - author: "Beeyoncuh"
     rating: 1
     date: "2026-01-21"
-    text: I am beyond frustrated with the complete lack of professionalism at this cosmetic surgery center. Despite having a scheduled appointment at 2pm, I was made to wait 2.5 hours with no meaningful explanation, urgency, or respect shown for my time. What makes this situation unacceptable is the effort re...
-    source: Google
-  - author: Maria R.
+    text: >-
+      I am beyond frustrated with the complete lack of professionalism at this cosmetic surgery center. Despite having a scheduled appointment at 2pm, I was made to wait 2.5 hours with no meaningful explanation, urgency, or respect shown for my time. What makes this situation unacceptable is the effort required to even be there. I flew from California to Florida specifically for this appointment and the
+    source: "Google"
+  - author: "Maria R. P. C."
     rating: 5
     date: "2025-10-23"
-    text: I’m almost 6 months post-op from my BBL with Lipo 360 plus extra lipo at the bra line and underarms, and I could not be happier with my results!From day one, even with all the swelling and bruising, everyone — including the nurses at my recovery home — was amazed at how good my results looked. My ex...
-    source: Google
+    text: >-
+      I’m almost 6 months post-op from my BBL with Lipo 360 plus extra lipo at the bra line and underarms, and I could not be happier with my results!From day one, even with all the swelling and bruising, everyone — including the nurses at my recovery home — was amazed at how good my results looked. My experience at Miami Life was truly amazing. Dr. Miller is absolutely brilliant! He greeted me with a w
+    source: "Google"
+logo: "/images/clinics/logos/miami-life-cosmetic-center.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/miami-life-cosmetic-center.png
+lastUpdated: "2026-02-12"

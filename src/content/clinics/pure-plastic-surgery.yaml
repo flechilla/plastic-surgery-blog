@@ -1,12 +1,12 @@
-name: Pure Plastic Surgery
+name: "Pure Plastic Surgery"
 slug: pure-plastic-surgery
 city: miami
 state: FL
-address: "7265 SW 93rd Ave STE 201"
+address: "7265 SW 93rd Ave STE 201, Miami, FL 33173"
 zipCode: "33173"
 phone: "(786) 245-7622"
 website: "https://www.pureplasticsurgery.com/?utm_source=google&utm_medium=local&utm_campaign=miami-practice-website"
-googleMapsUrl: "https://maps.google.com/?cid=13989771346462392481"
+googleMapsUrl: "https://maps.google.com/?cid=13989771346462392481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
   Pure Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 681 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
@@ -20,34 +20,35 @@ reviews:
     rating: 5
     date: "2026-01-12"
     text: >-
-      My experience was seamless from start to finish. Everything went smoothly, and I felt completely at ease throughout the entire process. The staff and the doctor were both pleasant and professional. This center was my first choice, and I am so glad I chose them for my extended tummy tuck. I have no c...
+      My experience was seamless from start to finish. Everything went smoothly, and I felt completely at ease throughout the entire process. The staff and the doctor were both pleasant and professional. This center was my first choice, and I am so glad I chose them for my extended tummy tuck. I have no complaints and would honestly recommend them to anyone. I live in Fort Myers, and I definitely plan o
     source: "Google"
   - author: "Rendel C."
     rating: 5
     date: "2026-01-28"
     text: >-
-      Our experience at Pure Plastic Surgery was exceptional from start to finish. Dr. Earle is truly outstanding—highly skilled, professional, and compassionate, with an excellent bedside manner that immediately puts you at ease.  He took the time to listen, thoroughly explain the process, and made sure ...
+      Our experience at Pure Plastic Surgery was exceptional from start to finish. Dr. Earle is truly outstanding—highly skilled, professional, and compassionate, with an excellent bedside manner that immediately puts you at ease.  He took the time to listen, thoroughly explain the process, and made sure we felt confident and comfortable every step of the way.  The entire team was just as impressive. JA
     source: "Google"
   - author: "Marissa W."
     rating: 5
     date: "2025-09-29"
     text: >-
-      I am beyond thrilled with my breast augmentation experience! From the moment I started this journey, I felt so supported and excited about finally doing something just for me. The results already exceed my expectations—I feel more confident, feminine, and ready to embrace this new chapter as a young...
+      I am beyond thrilled with my breast augmentation experience! From the moment I started this journey, I felt so supported and excited about finally doing something just for me. The results already exceed my expectations—I feel more confident, feminine, and ready to embrace this new chapter as a young lady. ✨ Even though I’m still healing, I can already see how beautiful the final outcome will be, a
     source: "Google"
   - author: "Stephanie B."
     rating: 5
     date: "2025-11-18"
     text: >-
-      I had an amazing experience at Pure Plastic Surgery. From the very beginning, their team was attentive, caring, and extremely knowledgeable. They never pressure you into making decisions, instead, they give you the space and time to reflect so that choosing their services feels natural and comfortab...
+      I had an amazing experience at Pure Plastic Surgery. From the very beginning, their team was attentive, caring, and extremely knowledgeable. They never pressure you into making decisions, instead, they give you the space and time to reflect so that choosing their services feels natural and comfortable. Their entire system is unlike any other I’ve encountered. Whether you ask a simple question or r
     source: "Google"
   - author: "Angela G."
     rating: 5
     date: "2025-12-09"
     text: >-
-      I had my first round of Mommy Makeover with Dr. Earl at Pure Plastic Surgery, and then returned for my BBL, and I couldn’t be happier with my results. From day one, Dr. Earl made me feel completely confident with his professionalism, his clear explanations, and his incredible eye for natural, beauti...
+      I had my first round of Mommy Makeover with Dr. Earl at Pure Plastic Surgery, and then returned for my BBL, and I couldn’t be happier with my results. From day one, Dr. Earl made me feel completely confident with his professionalism, his clear explanations, and his incredible eye for natural, beautifully sculpted results.  The entire Pure Plastic Surgery team is outstanding—always kind, supportive
     source: "Google"
+logo: "/images/clinics/logos/pure-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

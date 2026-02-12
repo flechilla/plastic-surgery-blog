@@ -1,12 +1,12 @@
-name: Spectrum Aesthetics®
+name: "Spectrum Aesthetics®"
 slug: spectrum-aesthetics
 city: miami
 state: FL
-address: "51 SW 42nd Ave"
+address: "51 SW 42nd Ave, Miami, FL 33134"
 zipCode: "33134"
 phone: "(305) 514-0318"
 website: "https://spectrum-aesthetics.com/"
-googleMapsUrl: "https://maps.google.com/?cid=4316754502647069799"
+googleMapsUrl: "https://maps.google.com/?cid=4316754502647069799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
   Spectrum Aesthetics® is a plastic surgery practice located in Miami, FL. With a 4.6-star rating from 3478 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
@@ -16,38 +16,39 @@ specialties:
 rating: 4.6
 reviewCount: 3478
 reviews:
-  - author: "Yvette D."
+  - author: "Yvette D. S."
     rating: 5
     date: "2026-01-28"
     text: >-
-      I have a great experience with the spectrum family !. They are very knowledgeable, professional, kind , and made you feels are you part of the family since the first visit .Dr Ortega is a great surgeon with the unique quality to give you a truly real perspective of the future of become after surgery...
+      I have a great experience with the spectrum family !. They are very knowledgeable, professional, kind , and made you feels are you part of the family since the first visit .Dr Ortega is a great surgeon with the unique quality to give you a truly real perspective of the future of become after surgery , no fantasies or princess histories he will work with your unique body ( ages , previous diseases 
     source: "Google"
   - author: "Denise M."
     rating: 5
     date: "2026-01-27"
     text: >-
-      My experience has been really great! I had Dr. Kreegel for a tummy tuck. My results is going really well and I’m only 4 days post-op. Day by day I feel better and better! I’m happy so far so I can imagine the results after a full recovery. I recommend anyone that’s looking for this procedure to choo...
+      My experience has been really great! I had Dr. Kreegel for a tummy tuck. My results is going really well and I’m only 4 days post-op. Day by day I feel better and better! I’m happy so far so I can imagine the results after a full recovery. I recommend anyone that’s looking for this procedure to choose him and you will be happy with your overall process.
     source: "Google"
   - author: "Missy S."
     rating: 5
     date: "2025-10-30"
     text: >-
-      My pre-op experience with Spectrum Aesthetics has been absolutely phenomenal. From the start, I could tell they genuinely care about patient health and safety. The staff makes it clear that they prioritize ensuring clients are medically ready before surgery. Every step of the process was explained i...
+      My pre-op experience with Spectrum Aesthetics has been absolutely phenomenal. From the start, I could tell they genuinely care about patient health and safety. The staff makes it clear that they prioritize ensuring clients are medically ready before surgery. Every step of the process was explained in detail, and they encouraged me to download their app for direct communication, document uploads, a
     source: "Google"
   - author: "Jadasade W."
     rating: 5
     date: "2025-10-24"
     text: >-
-      I love it here! everyone so friendly and welcoming .. makes me feel very comfortable. They dont have you waiting long and are super easy to deal with! Liliana was really sweet and very help during Pre-op and post Op and she is overall a beautiful person to meet! Dr.chang is excellent and very kind! ...
+      I love it here! everyone so friendly and welcoming .. makes me feel very comfortable. They dont have you waiting long and are super easy to deal with! Liliana was really sweet and very help during Pre-op and post Op and she is overall a beautiful person to meet! Dr.chang is excellent and very kind! 10/10 on my body, and open communication about how things will look/feel going forward. i didnt get 
     source: "Google"
   - author: "BYRON T."
     rating: 5
     date: "2026-01-28"
     text: >-
-      Hi guys! I had a lipo 360 and abs etching with Dr. Kreegel a year ago. At firsts I was scared but I decided this was the moment to take care of myself and without a doubt, this was the right choice to make, he snatched my abdomen and that allowed me to feel more confident in my body. He’s a great su...
+      Hi guys! I had a lipo 360 and abs etching with Dr. Kreegel a year ago. At firsts I was scared but I decided this was the moment to take care of myself and without a doubt, this was the right choice to make, he snatched my abdomen and that allowed me to feel more confident in my body. He’s a great surgeon for sure. Thank you for helping me with this life changing procedure.
     source: "Google"
+logo: null
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

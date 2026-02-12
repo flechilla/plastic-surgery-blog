@@ -1,12 +1,12 @@
-name: Svelta Plastic Surgery
+name: "Svelta Plastic Surgery"
 slug: svelta-plastic-surgery
 city: miami
 state: FL
-address: "4950 SW 8th St"
+address: "4950 SW 8th St, Miami, FL 33134"
 zipCode: "33134"
 phone: "(305) 406-9055"
 website: "https://sveltaplasticsurgery.com/"
-googleMapsUrl: "https://maps.google.com/?cid=11446743202304527541"
+googleMapsUrl: "https://maps.google.com/?cid=11446743202304527541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
   Svelta Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 2675 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
@@ -20,19 +20,19 @@ reviews:
     rating: 5
     date: "2026-01-29"
     text: >-
-      ⭐⭐⭐⭐⭐ Amazing experience at Svelta Clinic in Miami with Dr. Marco Amarante, just 2 month and 7 days. The surgery was performed in a fully equipped facility with an outstanding medical team and excellent post-operative support. The recovery room care was exceptional, and I felt safe and well taken ca...
+      ⭐⭐⭐⭐⭐ Amazing experience at Svelta Clinic in Miami with Dr. Marco Amarante, just 2 month and 7 days. The surgery was performed in a fully equipped facility with an outstanding medical team and excellent post-operative support. The recovery room care was exceptional, and I felt safe and well taken care of at every step. I’m truly grateful to Svelta Clinic for offering flexible payment options that 
     source: "Google"
   - author: "Ibis M."
     rating: 5
     date: "2026-01-28"
     text: >-
-      I want to leave a beautiful and heartfelt review for Svelta Plastic Surgery Clinic because my experience has been absolutely amazing. From the very beginning, Amanda, my coordinator, was an outstanding professional. She guided me step by step all the way until the day of surgery, always attentive to...
+      I want to leave a beautiful and heartfelt review for Svelta Plastic Surgery Clinic because my experience has been absolutely amazing. From the very beginning, Amanda, my coordinator, was an outstanding professional. She guided me step by step all the way until the day of surgery, always attentive to every concern I had, extremely kind, and providing excellent customer service. Dr. Keith Robertson,
     source: "Google"
-  - author: "Monee T."
+  - author: "Monee T. S."
     rating: 5
     date: "2026-01-17"
     text: >-
-      Dr. Keith Robertson is absolutely AMAZING. From the moment he walked into the room, I felt comfortable, heard, and truly cared for. His bedside manner is phenomenal — he explained everything clearly, answered all my questions, and I honestly didn’t even have to say much because he already knew what ...
+      Dr. Keith Robertson is absolutely AMAZING. From the moment he walked into the room, I felt comfortable, heard, and truly cared for. His bedside manner is phenomenal — he explained everything clearly, answered all my questions, and I honestly didn’t even have to say much because he already knew what I needed.  He took the time to educate me about my health (including PCOS and diabetes) and made sur
     source: "Google"
   - author: "Lasheena G."
     rating: 4
@@ -44,10 +44,11 @@ reviews:
     rating: 3
     date: "2026-01-07"
     text: >-
-      The Dr Amarante did good, the only thing that can improve is the quality of the Sewing done in the breast it was poor quality unfortunately and uneven, please make sure to make even cuts, also the nurse that takes your blood is very heavy handed with her needle I had a black swollen hand for a week,...
+      The Dr Amarante did good, the only thing that can improve is the quality of the Sewing done in the breast it was poor quality unfortunately and uneven, please make sure to make even cuts, also the nurse that takes your blood is very heavy handed with her needle I had a black swollen hand for a week, also I did not see my Dr After the surgery that should change, drs should see their patients when t
     source: "Google"
+logo: "/images/clinics/logos/svelta-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

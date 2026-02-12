@@ -1,48 +1,54 @@
-name: Miami Plastic Surgery
+name: "Miami Plastic Surgery"
 slug: miami-plastic-surgery
 city: miami
 state: FL
-address: "221 Aragon Ave #903E"
+address: "221 Aragon Ave #903E, Coral Gables, FL 33134"
 zipCode: "33134"
-phone: (305) 203-1424
-website: https://www.miamiplasticsurgery.com/
-googleMapsUrl: https://maps.google.com/?cid=14471806373719058163
-description: Miami Plastic Surgery is a plastic surgery practice located in Coral Gables, FL. With a 4.9-star rating from 119 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 203-1424"
+website: "https://www.miamiplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14471806373719058163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 119 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 119
 reviews:
-  - author: Nancy M.
+  - author: "Nancy M."
     rating: 5
     date: "2025-04-01"
-    text: As always Maylen is so warm, knowledgeable and professional! Her staff is also the best, always accommodating. Even though this location is not close to me, I would not go to anyone else. This office is the best when it comes to caring staff and treatments that exceeds my expectations time and time ...
-    source: Google
-  - author: Terry R.
+    text: >-
+      As always Maylen is so warm, knowledgeable and professional! Her staff is also the best, always accommodating. Even though this location is not close to me, I would not go to anyone else. This office is the best when it comes to caring staff and treatments that exceeds my expectations time and time again.  I highly recommend them!
+    source: "Google"
+  - author: "Terry R."
     rating: 5
     date: "2024-12-23"
-    text: We were checked in super quickly, we were the first ones there but we were done with our procedures before our appointment time even came! Took myself and my daughters to get lip filler and it was great! The staff was kind and helpful, and consulted us thoroughly on what we wanted. They were so nice...
-    source: Google
-  - author: Marlene D.
+    text: >-
+      We were checked in super quickly, we were the first ones there but we were done with our procedures before our appointment time even came! Took myself and my daughters to get lip filler and it was great! The staff was kind and helpful, and consulted us thoroughly on what we wanted. They were so nice and the results were amazing!
+    source: "Google"
+  - author: "Marlene D."
     rating: 5
     date: "2024-09-04"
-    text: I walked in to get some info on their skincare line and the girls there were wonderful.  I’m terrible with names, but the beautiful, more mature woman that works in the front was so nice and helpful.  She kept it simple and even gave me a few samples of the three items she recommended. Which she als...
-    source: Google
-  - author: Maria C.
+    text: >-
+      I walked in to get some info on their skincare line and the girls there were wonderful.  I’m terrible with names, but the beautiful, more mature woman that works in the front was so nice and helpful.  She kept it simple and even gave me a few samples of the three items she recommended. Which she also uses… pretty sure I’ll be back to get those as her skin was gorgeous.  After seeing how great she 
+    source: "Google"
+  - author: "Maria C."
     rating: 5
     date: "2024-02-17"
-    text: Can’t think of another Med spa that treats you so amazingly with such beautiful results. Everyone in the office is so friendly and nice. Nurse practitioner maylen has the magic touch. She pays attention to your vision and prioritizes you as a client. I look forward for my appointments with her. Reco...
-    source: Google
-  - author: Barbara F.
+    text: >-
+      Can’t think of another Med spa that treats you so amazingly with such beautiful results. Everyone in the office is so friendly and nice. Nurse practitioner maylen has the magic touch. She pays attention to your vision and prioritizes you as a client. I look forward for my appointments with her. Recommend this place 1000%
+    source: "Google"
+  - author: "Barbara F."
     rating: 5
     date: "2024-10-26"
-    text: Very happy with the excellence in service and results!  My skin feels so smooth and with a natural glow after the treatment. Maylen is very patient and explains the treatment in detail.
-    source: Google
+    text: >-
+      Very happy with the excellence in service and results!  My skin feels so smooth and with a natural glow after the treatment. Maylen is very patient and explains the treatment in detail.
+    source: "Google"
+logo: "/images/clinics/logos/miami-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/miami-plastic-surgery.png
+lastUpdated: "2026-02-12"

@@ -1,12 +1,12 @@
-name: South Florida Center for Cosmetic Surgery
+name: "South Florida Center for Cosmetic Surgery"
 slug: south-florida-center-for-cosmetic-surgery
 city: miami
 state: FL
-address: "152 NE 167th St #102"
+address: "152 NE 167th St #102, Miami, FL 33162"
 zipCode: "33162"
 phone: "(954) 565-7575"
 website: "https://www.floridacentercosmetic.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_profile_miami_location"
-googleMapsUrl: "https://maps.google.com/?cid=11421714913417776607"
+googleMapsUrl: "https://maps.google.com/?cid=11421714913417776607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
   South Florida Center for Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 22 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
@@ -20,34 +20,35 @@ reviews:
     rating: 5
     date: "2026-01-27"
     text: >-
-      My experience with Coralis was absolutely excellent. From the very beginning, she was professional, knowledgeable, and made me feel completely comfortable. She explained every step of the cosmetic treatment with care and attention, which gave me great confidence. The treatment was gentle yet very ef...
+      My experience with Coralis was absolutely excellent. From the very beginning, she was professional, knowledgeable, and made me feel completely comfortable. She explained every step of the cosmetic treatment with care and attention, which gave me great confidence. The treatment was gentle yet very effective, and my skin felt smoother, refreshed, and more radiant almost immediately. In the days that
     source: "Google"
-  - author: "Philippe R."
+  - author: "Philippe R. A."
     rating: 5
     date: "2026-01-28"
     text: >-
-      I was born 77 years ago, fortunate in health, nature, and family. But as retirement approaches, certain fantasies—long postponed—resurface. That curiosity is what led me to Dr. Johnny Salomon’s clinic.  “Why do so many stars look younger and not me?” I asked. “Your call,” he said. “You could easily ...
+      I was born 77 years ago, fortunate in health, nature, and family. But as retirement approaches, certain fantasies—long postponed—resurface. That curiosity is what led me to Dr. Johnny Salomon’s clinic.  “Why do so many stars look younger and not me?” I asked. “Your call,” he said. “You could easily look ten or fifteen years younger.”  I answered without hesitation: if there are no real risks, let’
     source: "Google"
   - author: "Marialfre O."
     rating: 5
     date: "2025-10-16"
     text: >-
-      I had an amazing experience at Miami Life Cosmetic Center on Sunset! The staff was incredibly friendly and professional, and they made me feel comfortable from the moment I walked in. Dr. Onyeka took the time to explain every step of my treatment and answered all my questions with so much patience. ...
+      I had an amazing experience at Miami Life Cosmetic Center on Sunset! The staff was incredibly friendly and professional, and they made me feel comfortable from the moment I walked in. Dr. Onyeka took the time to explain every step of my treatment and answered all my questions with so much patience. You can tell he genuinely cares about his patients. I’m so happy with my results — highly recommend 
     source: "Google"
   - author: "Yael C."
     rating: 5
     date: "2024-10-18"
     text: >-
-      My experience with Dr Nair was so nice I’m giving 5 stars ⭐️ Great experience , treated with professionalism and kindness, attention very good coordination team , will definitely coming back to him if I decide doing other procedures on myself. Also I would always recommend him as the best USA 🇺🇸 s...
+      My experience with Dr Nair was so nice I’m giving 5 stars ⭐️ Great experience , treated with professionalism and kindness, attention very good coordination team , will definitely coming back to him if I decide doing other procedures on myself. Also I would always recommend him as the best USA 🇺🇸 star Doctor .⭐️⭐️⭐️⭐️⭐️ thank you Dr. Nair and your whole team.
     source: "Google"
   - author: "Stella S."
     rating: 5
     date: "2022-07-12"
     text: >-
-      Top-notch surgical center! The staff is incredibly welcoming and knowledgeable, and they really go above and beyond to make sure you're comfortable and well-cared-for. I had a procedure done here recently and it couldn't have gone better. I was a little nervous at first, but the doctor quickly put m...
+      Top-notch surgical center! The staff is incredibly welcoming and knowledgeable, and they really go above and beyond to make sure you're comfortable and well-cared-for. I had a procedure done here recently and it couldn't have gone better. I was a little nervous at first, but the doctor quickly put me at ease. They were very efficient and professional, and I couldn't have been more pleased with the
     source: "Google"
+logo: "/images/clinics/logos/south-florida-center-for-cosmetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

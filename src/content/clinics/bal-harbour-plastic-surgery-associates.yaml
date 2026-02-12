@@ -1,48 +1,54 @@
-name: Bal Harbour Plastic Surgery Associates
+name: "Bal Harbour Plastic Surgery Associates"
 slug: bal-harbour-plastic-surgery-associates
 city: miami
 state: FL
-address: 1140 Kane Concourse Fl 3
+address: "1140 Kane Concourse Fl 3, Bay Harbor Islands, FL 33154"
 zipCode: "33154"
-phone: (305) 861-8266
-website: https://therealdrmiami.com/
-googleMapsUrl: https://maps.google.com/?cid=5082540469388232979
-description: Bal Harbour Plastic Surgery Associates is a plastic surgery practice located in Bay Harbor Islands, FL. With a 4.9-star rating from 86 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 861-8266"
+website: "https://therealdrmiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5082540469388232979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Bal Harbour Plastic Surgery Associates is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 86 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 86
 reviews:
-  - author: Barbara F.
+  - author: "Barbara F."
     rating: 5
     date: "2024-10-18"
-    text: I had the absolute best experience with Dr. Miami and staff!! From my initial correspondence to scheduling a consultation through the procedure and recovery, it couldn’t have been better. I stayed at the hotel with the aftercare center and couldn’t have asked for more compassionate, thorough treatme...
-    source: Google
-  - author: Trey Y.
+    text: >-
+      I had the absolute best experience with Dr. Miami and staff!! From my initial correspondence to scheduling a consultation through the procedure and recovery, it couldn’t have been better. I stayed at the hotel with the aftercare center and couldn’t have asked for more compassionate, thorough treatment. The nurses and staff were wonderful!! The around the clock care, compassionate nurses who have b
+    source: "Google"
+  - author: "Trey Y."
     rating: 5
     date: "2022-05-04"
-    text: Dream Team  I was truly blessed to be in the incredible care of Dr. Salzhauer (Dr. Miami) and his spectacular team.  This experience was life changing and every step of the way I felt special and received genuine support from each person I spoke with.  I was in the hands of the BEST PLASTIC SURGEON ...
-    source: Google
-  - author: Crystal L.
+    text: >-
+      Dream Team  I was truly blessed to be in the incredible care of Dr. Salzhauer (Dr. Miami) and his spectacular team.  This experience was life changing and every step of the way I felt special and received genuine support from each person I spoke with.  I was in the hands of the BEST PLASTIC SURGEON in the UNIVERSE.  I booked my appointment in December of 2018  with Ari, she was so sweet and answer
+    source: "Google"
+  - author: "Crystal L."
     rating: 4
     date: "2016-05-17"
-    text: Dr. Miami is amazing his work is amazing! A true artist! Had some complications in the beginning with his staff.. But after I spoke with Mr. Micheal about me concerns with the professionalism, he had a staffing meeting and immediately corrected the behavior! Bal Harbour Plastic Surgery Associates ar...
-    source: Google
-  - author: elysa s.
+    text: >-
+      Dr. Miami is amazing his work is amazing! A true artist! Had some complications in the beginning with his staff.. But after I spoke with Mr. Micheal about me concerns with the professionalism, he had a staffing meeting and immediately corrected the behavior! Bal Harbour Plastic Surgery Associates are very much like a family! No one is perfect! But the love and dedication that his staff has for Dr 
+    source: "Google"
+  - author: "elysa s."
     rating: 5
     date: "2021-02-23"
-    text: "Cant wait to have my procedure with Dr Miami. The only surgeon i trust. (Breast augmentation)  Update: So today's the day, the day i have been waiting for since 2011. I finally mustered up the courage to do it. April 24 2017. I am so happy with my results. Dr Salzhauer and his team were so nice and ..."
-    source: Google
-  - author: Makala G.
+    text: >-
+      Cant wait to have my procedure with Dr Miami. The only surgeon i trust. (Breast augmentation)  Update: So today's the day, the day i have been waiting for since 2011. I finally mustered up the courage to do it. April 24 2017. I am so happy with my results. Dr Salzhauer and his team were so nice and patient. Especially tatiana and monica! Tati was there for me every step of the way and monica did t
+    source: "Google"
+  - author: "Makala G."
     rating: 5
     date: "2018-06-22"
-    text: My surgery was on 6/5/18! Dr. Miami and his staff all are amazing. They really love what they do and make you feel at home in their office, which is very important for patients traveling out of state. I felt comfortable and safe knowing my procedure was being done by the best and in his office inste...
-    source: Google
+    text: >-
+      My surgery was on 6/5/18! Dr. Miami and his staff all are amazing. They really love what they do and make you feel at home in their office, which is very important for patients traveling out of state. I felt comfortable and safe knowing my procedure was being done by the best and in his office instead of a hospital. They are just as amazing and as sweet as they seem on Snapchat. I definitely recom
+    source: "Google"
+logo: "/images/clinics/logos/bal-harbour-plastic-surgery-associates.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/bal-harbour-plastic-surgery-associates.png
+lastUpdated: "2026-02-12"

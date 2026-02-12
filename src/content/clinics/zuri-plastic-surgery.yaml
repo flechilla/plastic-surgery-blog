@@ -1,14 +1,14 @@
-name: Zuri Plastic Surgery
+name: "Zuri Plastic Surgery"
 slug: zuri-plastic-surgery
 city: miami
 state: FL
-address: "7540 SW 61st Ave"
+address: "7540 SW 61st Ave, South Miami, FL 33143"
 zipCode: "33143"
 phone: "(786) 804-1603"
 website: "https://www.zuriplasticsurgery.com/?utm_source=gmb&utm_medium=organic"
-googleMapsUrl: "https://maps.google.com/?cid=6975746125877312700"
+googleMapsUrl: "https://maps.google.com/?cid=6975746125877312700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Zuri Plastic Surgery is a plastic surgery practice located in South Miami, FL. With a 4.9-star rating from 679 reviews, they offer cosmetic and reconstructive surgery services.
+  Zuri Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 679 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
@@ -20,34 +20,35 @@ reviews:
     rating: 5
     date: "2026-01-23"
     text: >-
-      I cannot say enough amazing things about Dr. Zuri and his entire staff. I’ve trusted Dr. Zuri since my very first surgery, a breast augmentation about 6 years ago and coming back to him for my mommy makeover was the easiest decision.  From the very beginning, I felt completely comfortable and confid...
+      I cannot say enough amazing things about Dr. Zuri and his entire staff. I’ve trusted Dr. Zuri since my very first surgery, a breast augmentation about 6 years ago and coming back to him for my mommy makeover was the easiest decision.  From the very beginning, I felt completely comfortable and confident in his care. You can truly tell that Dr. Z genuinely loves what he does. He’s incredibly talente
     source: "Google"
   - author: "Juli a."
     rating: 5
     date: "2026-01-20"
     text: >-
-      I had extended tummy tuck with muscle tightening on Dec 2nd 2025. Am so happy with my result. I'm 7week post op today.Dr Zuri he's so knowledgeable, attentive and pleasant. The staff so friendly even the recovery nurses were so pleasant. The front office, the operating room, consulting rooms is so n...
+      I had extended tummy tuck with muscle tightening on Dec 2nd 2025. Am so happy with my result. I'm 7week post op today.Dr Zuri he's so knowledgeable, attentive and pleasant. The staff so friendly even the recovery nurses were so pleasant. The front office, the operating room, consulting rooms is so neat, well lit and organized. The post surgery is the most crucial thing to me, they were there to pi
     source: "Google"
   - author: "Alexis M."
     rating: 5
     date: "2025-12-15"
     text: >-
-      From the very beginning, Zuri Plastic Surgery exceeded every expectation I had. The team was incredibly attentive and took the time to answer every question I had, no matter how small. I went in for a combo procedure, and my results honestly look even better than I ever imagined. Dr. Zuri is truly a...
+      From the very beginning, Zuri Plastic Surgery exceeded every expectation I had. The team was incredibly attentive and took the time to answer every question I had, no matter how small. I went in for a combo procedure, and my results honestly look even better than I ever imagined. Dr. Zuri is truly an artist. I can’t imagine trusting my body to anyone else — the skill, precision, and care are unmat
     source: "Google"
   - author: "Astrid F."
     rating: 5
     date: "2026-01-24"
     text: >-
-      This is my second time coming back to Dr. Zuri, and I don’t regret it one bit. He is truly top notch, and so is his entire staff. From the first consultation to after surgery, they make sure you are well taken care of every step of the way. The level of care before and after surgery is exceptional. ...
+      This is my second time coming back to Dr. Zuri, and I don’t regret it one bit. He is truly top notch, and so is his entire staff. From the first consultation to after surgery, they make sure you are well taken care of every step of the way. The level of care before and after surgery is exceptional. Hands down, the best plastic surgeon in Miami.
     source: "Google"
   - author: "Laura D."
     rating: 5
     date: "2025-11-21"
     text: >-
-      Highly Recommend Dr. Zuri and Zuri Plastic Surgery  I’m currently one week post-op after a major surgical procedure with Dr. Zuri, and I couldn’t be happier with my experience so far. Dr. Zuri and his entire team have been absolutely wonderful. I was very nervous about undergoing surgery, but they m...
+      Highly Recommend Dr. Zuri and Zuri Plastic Surgery  I’m currently one week post-op after a major surgical procedure with Dr. Zuri, and I couldn’t be happier with my experience so far. Dr. Zuri and his entire team have been absolutely wonderful. I was very nervous about undergoing surgery, but they made me feel comfortable, informed, and supported every step of the way.  Before choosing Dr. Zuri, I
     source: "Google"
+logo: "/images/clinics/logos/zuri-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

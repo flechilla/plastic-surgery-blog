@@ -1,0 +1,54 @@
+name: "Euphoria Aesthetics"
+slug: euphoria-aesthetics
+city: miami
+state: FL
+address: "40 SW 13th St #404, Miami, FL 33130"
+zipCode: "33130"
+phone: "(786) 801-4479"
+website: "http://305euphoria.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7882675929935147280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Euphoria Aesthetics is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 294 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 294
+reviews:
+  - author: "Bianca F."
+    rating: 5
+    date: "2025-11-07"
+    text: >-
+      I couldn't be happier. I highly recommend this clinic; besides being clean and fragrant, the environment is very pleasant and beautiful. The professionals work very well, and I was seen at the scheduled time without any delays. I confess I was afraid the treatment would be painful, but the equipment is excellent, and I didn't feel any pain even in very sensitive areas. Excellent, 10/10!
+    source: "Google"
+  - author: "Sydney S."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      This place is so cute and a one stop shop! I get laser done with Oni & Karla they are amazing Tecs! It’s the most painless hair removal I’ve ever done and it’s actually effective! Would highly recommend excited to try the other treatments here too. Great customer service with the reception too Michaela always so welcoming and friendly
+    source: "Google"
+  - author: "Rachel S."
+    rating: 4
+    date: "2025-11-05"
+    text: >-
+      I have been seeing Oni for my laser hair removal for 5 months now and she is amazing! It was the first time I had ever done it so I really appreciated her thorough explanation and slow approach to make sure we found the perfect setting for my laser sessions in the beginning. She is very detail-oriented so I know all hairs are really being targeted. On top of that, she’s also so friendly and kind. 
+    source: "Google"
+  - author: "Amanda D. L."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      Thank you so much, Gisela! The service was truly top-notch. The entire clinic and staff were incredibly welcoming, professional, and attentive. I felt well taken care of from start to finish. Highly recommend this place — thank you for everything! I’ll definitely be coming back soon.
+    source: "Google"
+  - author: "Tainá G."
+    rating: 5
+    date: "2025-06-16"
+    text: >-
+      I tried the Smart Gym EMS at Euphoria and I’m already feeling the results! The space itself is really cute and has such an upscale, good-energy vibe. Everyone who works there made me feel super comfortable and taken care of. Will definitely be coming back!
+    source: "Google"
+logo: "/images/clinics/logos/euphoria-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

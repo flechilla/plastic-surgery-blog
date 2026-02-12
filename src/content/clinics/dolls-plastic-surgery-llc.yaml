@@ -1,48 +1,54 @@
-name: Dolls Plastic Surgery, LLC
+name: "Dolls Plastic Surgery, LLC"
 slug: dolls-plastic-surgery-llc
 city: miami
 state: FL
-address: "18205 Biscayne Blvd #100"
-zipCode: "33160"
-phone: (305) 995-0545
-website: https://www.dollsplasticsurgery.com/
-googleMapsUrl: https://maps.google.com/?cid=16706821336397915249
-description: Dolls Plastic Surgery, LLC is a plastic surgery practice located in Aventura, FL. With a 4.7-star rating from 1857 reviews, they offer cosmetic and reconstructive surgery services.
+address: "18205 Biscayne Blvd #100, Aventura, FL 33160"
+zipCode: "18205"
+phone: "(305) 995-0545"
+website: "https://www.dollsplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=16706821336397915249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dolls Plastic Surgery, LLC is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 1857 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.7
 reviewCount: 1857
 reviews:
-  - author: Sabrina V.
+  - author: "Sabrina V."
     rating: 5
     date: "2025-09-23"
-    text: Great clinic, amazing staff. I loved my results Dr Aaron is truly the best at what he does. I can’t believe I look the way I do!! Also, beautiful ladies at the front desk, very caring and friendly. Helped with all my needs and questions. Highly recommended!
-    source: Google
-  - author: Tamara S.
+    text: >-
+      Great clinic, amazing staff. I loved my results Dr Aaron is truly the best at what he does. I can’t believe I look the way I do!! Also, beautiful ladies at the front desk, very caring and friendly. Helped with all my needs and questions. Highly recommended!
+    source: "Google"
+  - author: "Tamara S."
     rating: 3
     date: "2026-01-27"
-    text: Tummy tuck was great , breast reduction left with to much ugly scars and my tits still saggy . I tell the doctor what i wanted i ended up with no boobs very disappointed. Im still numb after 4 years ? I will go else where to get what i want .
-    source: Google
-  - author: Ana M.
+    text: >-
+      Tummy tuck was great , breast reduction left with to much ugly scars and my tits still saggy . I tell the doctor what i wanted i ended up with no boobs very disappointed. Im still numb after 4 years ? I will go else where to get what i want .
+    source: "Google"
+  - author: "Ana M."
     rating: 5
     date: "2025-10-07"
-    text: My experience has been super excellent. I got a lipo 360 and bbl done with Dr. Jonathan and let me tell you that he is the best he listens to his patients and does exactly what they want! The staff here has been super amazing, these girls are the best by the way! They will always make you feel at ho...
-    source: Google
-  - author: Dani L.
+    text: >-
+      My experience has been super excellent. I got a lipo 360 and bbl done with Dr. Jonathan and let me tell you that he is the best he listens to his patients and does exactly what they want! The staff here has been super amazing, these girls are the best by the way! They will always make you feel at home and super special. I recommend Dolls plastic surgery
+    source: "Google"
+  - author: "Dani L."
     rating: 5
     date: "2025-03-04"
-    text: I got my breast augmentation done with Dr. Berman, I’m beyond happy with everything! From the second I walked in, the front desk girls were super sweet and made me feel do comfortable . The doctor  was amazing, made sure I was totally ok, and just really knew his stuff. The whole experience was pret...
-    source: Google
-  - author: Azucena C.
+    text: >-
+      I got my breast augmentation done with Dr. Berman, I’m beyond happy with everything! From the second I walked in, the front desk girls were super sweet and made me feel do comfortable . The doctor  was amazing, made sure I was totally ok, and just really knew his stuff. The whole experience was pretty good, and the attention was top-notch. It’s been two months, and they still check in on me. Highl
+    source: "Google"
+  - author: "Azucena C."
     rating: 5
     date: "2025-09-19"
-    text: Ladies I got a bbl,lipo360 and chin lipo yesterday and I’m already feeling so much better! The staff was also very nice to me :) I just got done with my first massage and Olga did great I didn’t feel much pain! I’d definitely recommend !!
-    source: Google
+    text: >-
+      Ladies I got a bbl,lipo360 and chin lipo yesterday and I’m already feeling so much better! The staff was also very nice to me :) I just got done with my first massage and Olga did great I didn’t feel much pain! I’d definitely recommend !!
+    source: "Google"
+logo: "/images/clinics/logos/dolls-plastic-surgery-llc.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/dolls-plastic-surgery-llc.jpg
+lastUpdated: "2026-02-12"

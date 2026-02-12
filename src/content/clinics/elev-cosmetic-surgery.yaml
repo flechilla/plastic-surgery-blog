@@ -1,48 +1,54 @@
-name: Elevé Cosmetic Surgery
+name: "Elevé Cosmetic Surgery"
 slug: elev-cosmetic-surgery
 city: miami
 state: FL
-address: 550 Biltmore Way Suite 105
+address: "550 Biltmore Way Suite 105, Coral Gables, FL 33134"
 zipCode: "33134"
-phone: (786) 305-7548
-website: https://elevemd.com/
-googleMapsUrl: https://maps.google.com/?cid=14182187749319034504
-description: Elevé Cosmetic Surgery is a plastic surgery practice located in Coral Gables, FL. With a 5-star rating from 21 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(786) 305-7548"
+website: "https://elevemd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14182187749319034504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Elevé Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 21 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 21
 reviews:
-  - author: Emily G.
+  - author: "Emily G."
     rating: 5
     date: "2026-01-20"
-    text: I cannot say enough amazing things about Élevé Cosmetic Surgery and Dr. Tatarian. From the very first consultation, I felt informed, comfortable, and truly cared for. Dr. Tatarian took the time to listen to my goals, explained everything thoroughly, and made sure I felt confident every step of the w...
-    source: Google
-  - author: Monica N.
+    text: >-
+      I cannot say enough amazing things about Élevé Cosmetic Surgery and Dr. Tatarian. From the very first consultation, I felt informed, comfortable, and truly cared for. Dr. Tatarian took the time to listen to my goals, explained everything thoroughly, and made sure I felt confident every step of the way.  I had a tummy tuck and thigh lift, and the results are absolutely incredible. My body looks nat
+    source: "Google"
+  - author: "Monica N."
     rating: 5
     date: "2026-01-21"
-    text: Great place and the Best Doctors! That’s the right place if you’re looking for your surgery, I totally recommend!❤️👏
-    source: Google
-  - author: Nazan M.
+    text: >-
+      Great place and the Best Doctors! That’s the right place if you’re looking for your surgery, I totally recommend!❤️👏
+    source: "Google"
+  - author: "Nazan M."
     rating: 5
     date: "2025-12-30"
-    text: Elevé Cosmetic gave me incredible support and helped make my entire experience extremely seamless from start to finish. From the initial consultation to bloodwork and the overall execution, every step was handled with professionalism, care, and clear communication. The team made me feel comfortable,...
-    source: Google
-  - author: Fanny M.
+    text: >-
+      Elevé Cosmetic gave me incredible support and helped make my entire experience extremely seamless from start to finish. From the initial consultation to bloodwork and the overall execution, every step was handled with professionalism, care, and clear communication. The team made me feel comfortable, confident, and truly listened to throughout the process. Their attention to detail and genuine comm
+    source: "Google"
+  - author: "Fanny M."
     rating: 5
     date: "2026-01-25"
-    text: I can describe My experience as the most rewarded for my self, since we all moms know that after we have kids our priority are not us anymore but them, in my life my kids are my everything, and 21 years later I decided to give some love to my self because I deserved ( we deserved) we always put ever...
-    source: Google
-  - author: Lourdes L.
+    text: >-
+      I can describe My experience as the most rewarded for my self, since we all moms know that after we have kids our priority are not us anymore but them, in my life my kids are my everything, and 21 years later I decided to give some love to my self because I deserved ( we deserved) we always put everyone first and ourselves for maybe another time, so for me that time came, doing my research for 3 y
+    source: "Google"
+  - author: "Lourdes L."
     rating: 5
     date: "2026-01-29"
-    text: Dr. Tatarian and his team are very professional, and the doctor is an excellent surgeon. I had a tummy tuck with him, and I couldn't have asked for more. The results are wonderful, and I'm so happy to have found him and to have had him as my surgeon.
-    source: Google
+    text: >-
+      Dr. Tatarian and his team are very professional, and the doctor is an excellent surgeon. I had a tummy tuck with him, and I couldn't have asked for more. The results are wonderful, and I'm so happy to have found him and to have had him as my surgeon.
+    source: "Google"
+logo: "/images/clinics/logos/elev-cosmetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/elev-cosmetic-surgery.png
+lastUpdated: "2026-02-12"
