@@ -136,29 +136,30 @@ const categories = [
             <div class="absolute -top-6 -right-6 h-72 w-72 rounded-full bg-soft-blush/40 blur-3xl"></div>
             <div class="absolute -bottom-6 -left-6 h-48 w-48 rounded-full bg-warm-sand/50 blur-2xl"></div>
 
-            <!-- Main visual card -->
-            <div class="relative rounded-3xl bg-gradient-to-br from-warm-sand/30 to-soft-blush/30 p-12">
-              <div class="space-y-6">
-                <div class="h-48 rounded-2xl bg-gradient-to-br from-soft-blush/60 to-warm-sand/40"></div>
-                <div class="flex gap-4">
-                  <div class="h-24 flex-1 rounded-xl bg-gradient-to-br from-warm-sand/50 to-ivory"></div>
-                  <div class="h-24 flex-1 rounded-xl bg-gradient-to-br from-soft-blush/40 to-ivory"></div>
-                </div>
-                <!-- Stats overlay -->
-                <div class="flex items-center justify-between rounded-xl bg-white/80 p-4 shadow-sm backdrop-blur-sm">
+            <!-- Main hero image -->
+            <div class="relative overflow-hidden rounded-3xl shadow-2xl">
+              <img
+                src="/images/homepage/hero-1.png"
+                alt="Elegant woman with natural makeup showcasing refined aesthetics"
+                class="h-auto w-full object-cover"
+                loading="eager"
+              />
+              <!-- Stats overlay at bottom -->
+              <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 via-black/30 to-transparent p-6">
+                <div class="flex items-center justify-center gap-8 text-white">
                   <div class="text-center">
-                    <p class="font-serif text-2xl font-medium text-charcoal">15K+</p>
-                    <p class="text-[10px] uppercase tracking-wider text-charcoal/40">Readers</p>
+                    <p class="font-serif text-2xl font-medium">15K+</p>
+                    <p class="text-[10px] uppercase tracking-wider opacity-80">Readers</p>
                   </div>
-                  <div class="h-8 w-px bg-warm-sand"></div>
+                  <div class="h-8 w-px bg-white/30"></div>
                   <div class="text-center">
-                    <p class="font-serif text-2xl font-medium text-charcoal">200+</p>
-                    <p class="text-[10px] uppercase tracking-wider text-charcoal/40">Articles</p>
+                    <p class="font-serif text-2xl font-medium">285+</p>
+                    <p class="text-[10px] uppercase tracking-wider opacity-80">Clinics</p>
                   </div>
-                  <div class="h-8 w-px bg-warm-sand"></div>
+                  <div class="h-8 w-px bg-white/30"></div>
                   <div class="text-center">
-                    <p class="font-serif text-2xl font-medium text-charcoal">12</p>
-                    <p class="text-[10px] uppercase tracking-wider text-charcoal/40">Surgeons</p>
+                    <p class="font-serif text-2xl font-medium">50+</p>
+                    <p class="text-[10px] uppercase tracking-wider opacity-80">Articles</p>
                   </div>
                 </div>
               </div>
