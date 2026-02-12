@@ -1,18 +1,24 @@
 name: "Avabello Aesthetics"
 slug: avabello-aesthetics
-city: miami
+city: miami-beach
+cityDisplay: "Miami Beach"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "South Beach"
 address: "555 Washington Ave suite 360, Miami Beach, FL 33139"
 zipCode: "33139"
+coordinates:
+  lat: 25.7750609
+  lng: -80.13365639999999
 phone: "(305) 798-4656"
 website: "https://avabello.com/?utm_source=GOOGLE-BUSINESS"
 googleMapsUrl: "https://maps.google.com/?cid=13225668477381683893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Avabello Aesthetics is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 96 reviews, they offer cosmetic and reconstructive surgery services.
+  Avabello Aesthetics is a plastic surgery practice located in Miami Beach, FL. With a 4.9-star rating from 96 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 96
 reviews:

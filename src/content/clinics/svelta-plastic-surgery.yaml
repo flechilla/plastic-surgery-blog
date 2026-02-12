@@ -1,9 +1,16 @@
 name: "Svelta Plastic Surgery"
 slug: svelta-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Granada"
 address: "4950 SW 8th St, Miami, FL 33134"
 zipCode: "33134"
+coordinates:
+  lat: 25.763757299999998
+  lng: -80.2766382
 phone: "(305) 406-9055"
 website: "https://sveltaplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=11446743202304527541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.5
 reviewCount: 2675
 reviews:

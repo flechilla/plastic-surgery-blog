@@ -1,20 +1,26 @@
 name: "CG Cosmetic Surgery"
 slug: cg-cosmetic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coral Way"
 address: "2601 SW 37th Ave Ste 100, Miami, FL 33133"
 zipCode: "33133"
+coordinates:
+  lat: 25.742764299999997
+  lng: -80.2538252
 phone: "(305) 446-7277"
 website: "https://www.cgcosmetic.com/"
 googleMapsUrl: "https://maps.google.com/?cid=18239036157319261029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  CG Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 10499 reviews, they offer cosmetic and reconstructive surgery services.
+  CG Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 10500 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.5
-reviewCount: 10499
+reviewCount: 10500
 reviews:
   - author: "yenisleydis T."
     rating: 5

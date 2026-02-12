@@ -1,9 +1,16 @@
 name: "Miami Surgical MedSpa"
 slug: miami-surgical-medspa
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Flagami"
 address: "815 NW 57th Ave # 207, Miami, FL 33126"
 zipCode: "33126"
+coordinates:
+  lat: 25.7799782
+  lng: -80.28781599999999
 phone: "(305) 515-5009"
 website: "https://rymaps.xyz/business/miami-surgical-medspa-37fhvr"
 googleMapsUrl: "https://maps.google.com/?cid=10661611655552396795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 474
 reviews:
@@ -46,7 +52,7 @@ reviews:
     text: >-
       Been coming here for years! Amazing experience every time!!!!! Miami surgical med spa is top notch best I have ever been to! Landy is the best! Painless experience! Quick and relaxing visit! Anti aging expert!
     source: "Google"
-logo: null
+logo: "/images/clinics/logos/miami-surgical-medspa.jpg"
 yearEstablished: null
 certifications: []
 verified: false

@@ -1,9 +1,16 @@
 name: "Miami Life Cosmetic Center"
 slug: miami-life-cosmetic-center
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "8686 Coral Wy, Miami, FL 33155"
 zipCode: "33155"
+coordinates:
+  lat: 25.7474553
+  lng: -80.3349058
 phone: "(305) 507-8848"
 website: "https://miamilifecosmetic.com/"
 googleMapsUrl: "https://maps.google.com/?cid=7384554723816748702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.4
 reviewCount: 960
 reviews:
@@ -46,7 +52,7 @@ reviews:
     text: >-
       I’m almost 6 months post-op from my BBL with Lipo 360 plus extra lipo at the bra line and underarms, and I could not be happier with my results!From day one, even with all the swelling and bruising, everyone — including the nurses at my recovery home — was amazed at how good my results looked. My experience at Miami Life was truly amazing. Dr. Miller is absolutely brilliant! He greeted me with a w
     source: "Google"
-logo: null
+logo: "/images/clinics/logos/miami-life-cosmetic-center.jpg"
 yearEstablished: null
 certifications: []
 verified: false

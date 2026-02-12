@@ -1,9 +1,16 @@
 name: "Bella Vida Aesthetics & Wellness"
 slug: bella-vida-aesthetics-wellness
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Downtown Miami"
 address: "151 SE 1st St Ph 05, Miami, FL 33131"
 zipCode: "33131"
+coordinates:
+  lat: 25.7736231
+  lng: -80.1906577
 phone: "(786) 338-8346"
 website: "https://bellavidaaesthetics.com/"
 googleMapsUrl: "https://maps.google.com/?cid=15556259482408753649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 140
 reviews:

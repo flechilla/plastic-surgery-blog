@@ -1,9 +1,16 @@
 name: "Flow Plastic Surgery"
 slug: flow-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coral Way"
 address: "1800 SW 27th Ave 3rd Floor, Miami, FL 33145"
 zipCode: "33145"
+coordinates:
+  lat: 25.7546423
+  lng: -80.2386922
 phone: "(305) 563-2078"
 website: "https://glowplasticsurgerymiami.com/"
 googleMapsUrl: "https://maps.google.com/?cid=10134450266797797227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 73
 reviews:

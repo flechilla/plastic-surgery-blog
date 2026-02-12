@@ -1,9 +1,16 @@
 name: "APS Plastic Surgery"
 slug: aps-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "8415 SW 24th St Suite 202, Miami, FL 33155"
 zipCode: "33155"
+coordinates:
+  lat: 25.7482636
+  lng: -80.3324093
 phone: "(305) 559-2121"
 website: "https://www.apsinstituteofsouthflo.com/?utm_campaign=gmb"
 googleMapsUrl: "https://maps.google.com/?cid=678870984650299734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.7
 reviewCount: 590
 reviews:

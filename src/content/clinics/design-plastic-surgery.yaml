@@ -1,9 +1,16 @@
 name: "Design Plastic Surgery"
 slug: design-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Flagami"
 address: "5733 NW 7th St, Miami, FL 33126"
 zipCode: "33126"
+coordinates:
+  lat: 25.779824700000002
+  lng: -80.29025229999999
 phone: "(305) 591-8989"
 website: "https://www.miamisurgericalcenter.com/"
 googleMapsUrl: "https://maps.google.com/?cid=4419036506130000345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 137
 reviews:

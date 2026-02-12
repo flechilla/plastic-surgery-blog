@@ -1,9 +1,16 @@
 name: "Deluxe Med Spa Beauty"
 slug: deluxe-med-spa-beauty
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Downtown Miami"
 address: "Downtown 1st, 30 SW 1st St #1001, Miami, FL 33130"
 zipCode: "33130"
+coordinates:
+  lat: 25.7732205
+  lng: -80.1937734
 phone: "(786) 901-0611"
 website: "https://deluxemedspabeauty.com/"
 googleMapsUrl: "https://maps.google.com/?cid=544751680768816914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 214
 reviews:

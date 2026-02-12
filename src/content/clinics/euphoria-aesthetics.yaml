@@ -1,9 +1,16 @@
 name: "Euphoria Aesthetics"
 slug: euphoria-aesthetics
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Brickell"
 address: "40 SW 13th St #404, Miami, FL 33130"
 zipCode: "33130"
+coordinates:
+  lat: 25.761269
+  lng: -80.1943479
 phone: "(786) 801-4479"
 website: "http://305euphoria.com/"
 googleMapsUrl: "https://maps.google.com/?cid=7882675929935147280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 294
 reviews:

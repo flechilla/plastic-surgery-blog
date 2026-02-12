@@ -1,9 +1,16 @@
 name: "Designer Aesthetics by Dr. Jarrett Schanzer"
 slug: designer-aesthetics-by-dr-jarrett-schanzer
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "4770 Biscayne Blvd Suite #1100, Miami, FL 33137"
 zipCode: "33137"
+coordinates:
+  lat: 25.818925500000002
+  lng: -80.1883004
 phone: ""
 website: "http://doctorjarrett.com/"
 googleMapsUrl: "https://maps.google.com/?cid=6136043378569018965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 289
 reviews:

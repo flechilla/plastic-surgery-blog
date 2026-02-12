@@ -1,9 +1,16 @@
 name: "LUX MedSpa Brickell"
 slug: lux-medspa-brickell
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Brickell"
 address: "805 S Miami Ave 9th Floor, Miami, FL 33130"
 zipCode: "33130"
+coordinates:
+  lat: 25.7661043
+  lng: -80.1930716
 phone: "(305) 988-9388"
 website: "https://www.luxmedspabrickell.com/"
 googleMapsUrl: "https://maps.google.com/?cid=12593821693512984242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 2138
 reviews:

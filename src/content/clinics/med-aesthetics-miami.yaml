@@ -1,0 +1,60 @@
+name: "Med Aesthetics Miami"
+slug: med-aesthetics-miami
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coral Gables Section"
+address: "2020 Ponce de Leon Suite 106, Coral Gables, Miami, FL 33134"
+zipCode: "33134"
+coordinates:
+  lat: 25.7539126
+  lng: -80.25970509999999
+phone: "(305) 356-7402"
+website: "https://medaestheticsmiami.com/?utm_source=google&utm_medium=organic&utm_content=gables&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=6549273058653252923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Med Aesthetics Miami is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 430 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 430
+reviews:
+  - author: "Alexandra B."
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      Highly recommend Med Aesthetics Miami. I’ve had a facial plus ongoing treatments like Pixel for pimples/acne and treatments for under-eye bags, and my skin has improved so much. They’re extremely knowledgeable, honest, and focused on real results. They’re not pushing unnecessary treatments. Everything is personalized, the space is clean, and I completely trust them with my face. My skin looks clea
+    source: "Google"
+  - author: "real s. f."
+    rating: 5
+    date: "2025-11-11"
+    text: >-
+      I’ve been getting botox for about 3 years now; each time I’ve either never gotten my muscles frozen or I had a botched job done & had to go get it corrected i.e I once had a droopy eye. I’ve never received results that I was looking for until I’ve seen Rosanna. Just after the first meeting, I already had gotten compliments & my sisters asking what I’ve done differently. My sisters said she snatche
+    source: "Google"
+  - author: "CC Q."
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      I have such a great experience here everytime. From the moment I walk in all of the girls here are very welcoming professional, knowledgeable, and made me feel completely comfortable throughout the entire process. They exceeded my expectations. Highly recommend!
+    source: "Google"
+  - author: "Anna A."
+    rating: 5
+    date: "2025-12-20"
+    text: >-
+      I had a great experience at Med Aesthetics Miami. I did full body laser hair removal. Great results and very friendly staff. Isabella is especially great! Definitely recommend.
+    source: "Google"
+  - author: "Daly M."
+    rating: 5
+    date: "2025-11-13"
+    text: >-
+      I went in for a facial with extractions, an infrared treatment, and a mask, and Abri did an exceptional job from start to finish. She was incredibly gentle, thorough, and efficient. My skin felt refreshed, clean, and glowing afterward. Highly recommend her!
+    source: "Google"
+logo: "/images/clinics/logos/med-aesthetics-miami.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

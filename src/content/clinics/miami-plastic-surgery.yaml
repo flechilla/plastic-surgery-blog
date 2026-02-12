@@ -1,50 +1,56 @@
 name: "Miami Plastic Surgery"
 slug: miami-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
-address: "221 Aragon Ave #903E, Coral Gables, FL 33134"
-zipCode: "33134"
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "9408 SW 87th Ave Suite 301, Miami, FL 33176"
+zipCode: "33176"
+coordinates:
+  lat: 25.6821584
+  lng: -80.3358456
 phone: "(305) 203-1424"
 website: "https://www.miamiplasticsurgery.com/"
-googleMapsUrl: "https://maps.google.com/?cid=14471806373719058163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleMapsUrl: "https://maps.google.com/?cid=1061201800305961219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Miami Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 119 reviews, they offer cosmetic and reconstructive surgery services.
+  Miami Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 385 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
-rating: 4.9
-reviewCount: 119
+rating: 5
+reviewCount: 385
 reviews:
-  - author: "Nancy M."
+  - author: "Lauren J."
     rating: 5
-    date: "2025-04-01"
+    date: "2025-12-04"
     text: >-
-      As always Maylen is so warm, knowledgeable and professional! Her staff is also the best, always accommodating. Even though this location is not close to me, I would not go to anyone else. This office is the best when it comes to caring staff and treatments that exceeds my expectations time and time again.  I highly recommend them!
+      I don’t even know where to begin because my experience with Dr. Max Polo and the entire surgical staff has been nothing short of extraordinary. From the moment I walked into the office, I felt welcomed, supported, and genuinely cared for. Every single person on Dr. Max’s team demonstrates the perfect blend of professionalism, kindness, and expertise. You can truly feel that they love what they do,
     source: "Google"
-  - author: "Terry R."
+  - author: "Mikayla K."
     rating: 5
-    date: "2024-12-23"
+    date: "2025-04-18"
     text: >-
-      We were checked in super quickly, we were the first ones there but we were done with our procedures before our appointment time even came! Took myself and my daughters to get lip filler and it was great! The staff was kind and helpful, and consulted us thoroughly on what we wanted. They were so nice and the results were amazing!
+      I had the best experience with Dr. Polo and his entire team. I traveled from Minneapolis to work with him because of his experience, positive reviews, affordable price, and talented team members. His painless and stainless method is a work of art!  Thank you again for everything!
     source: "Google"
-  - author: "Marlene D."
+  - author: "Alberto R."
     rating: 5
-    date: "2024-09-04"
+    date: "2024-12-19"
     text: >-
-      I walked in to get some info on their skincare line and the girls there were wonderful.  I’m terrible with names, but the beautiful, more mature woman that works in the front was so nice and helpful.  She kept it simple and even gave me a few samples of the three items she recommended. Which she also uses… pretty sure I’ll be back to get those as her skin was gorgeous.  After seeing how great she 
+      I had an amazing experience at this clinic for my rhinoplasty. The staff was incredibly professional and took great care of me from start to finish. They explained every step of the process clearly, which made me feel confident and comfortable. Everything went exactly as they said it would, and I’m thrilled with the results. The doctor’s skill and attention to detail truly exceeded my expectations
     source: "Google"
   - author: "Maria C."
     rating: 5
-    date: "2024-02-17"
+    date: "2024-10-23"
     text: >-
-      Can’t think of another Med spa that treats you so amazingly with such beautiful results. Everyone in the office is so friendly and nice. Nurse practitioner maylen has the magic touch. She pays attention to your vision and prioritizes you as a client. I look forward for my appointments with her. Recommend this place 1000%
+      I recently had a facial with Amy, and it was an incredible experience! From the moment I walked in, she made me feel comfortable and welcomed. Her knowledge of skincare is impressive, and she tailored the treatment specifically to my needs. The ambiance was soothing, and her technique was both relaxing and effective. My skin has never looked better! I highly recommend Amy for anyone looking to enh
     source: "Google"
-  - author: "Barbara F."
+  - author: "Kathi A."
     rating: 5
-    date: "2024-10-26"
+    date: "2024-09-01"
     text: >-
-      Very happy with the excellence in service and results!  My skin feels so smooth and with a natural glow after the treatment. Maylen is very patient and explains the treatment in detail.
+      Dear Dr Wolf & Staff I had an exceptional experience with Dr. Wolf and his staff. From the moment I walked in, I felt welcomed and comfortable. Dr. Wolf is not only highly professional but also incredibly caring. He took the time to thoroughly explain the procedure, ensuring I felt informed and at ease every step of the way. The entire team is understanding and supportive, creating an environment 
     source: "Google"
 logo: "/images/clinics/logos/miami-plastic-surgery.jpg"
 yearEstablished: null

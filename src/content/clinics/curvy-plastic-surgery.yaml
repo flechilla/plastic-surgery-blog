@@ -1,9 +1,16 @@
 name: "Curvy Plastic Surgery"
 slug: curvy-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Flagami"
 address: "5040 NW 7th St # 412, Miami, FL 33126"
 zipCode: "33126"
+coordinates:
+  lat: 25.778168899999997
+  lng: -80.2768198
 phone: "(786) 648-8841"
 website: "https://curvyplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=10611510109885358288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 25
 reviews:

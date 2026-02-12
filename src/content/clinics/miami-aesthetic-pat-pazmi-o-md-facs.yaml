@@ -1,9 +1,16 @@
 name: "Miami Aesthetic - Pat Pazmiño, MD, FACS"
 slug: miami-aesthetic-pat-pazmi-o-md-facs
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Brickell"
 address: "848 Brickell Ave STE 820, Miami, FL 33131"
 zipCode: "33131"
+coordinates:
+  lat: 25.7649598
+  lng: -80.1914436
 phone: "(305) 576-3443"
 website: "https://miamiaesthetic.com/?UTM_source=GBP_listing&UTM_medium=organic&source=gmb"
 googleMapsUrl: "https://maps.google.com/?cid=5986372549133691641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.7
 reviewCount: 336
 reviews:

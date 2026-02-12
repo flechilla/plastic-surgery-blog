@@ -1,9 +1,16 @@
 name: "Prestige Plastic Surgery of Miami"
 slug: prestige-plastic-surgery-of-miami
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coral Way"
 address: "3400 Coral Wy Ste 700, Miami, FL 33145"
 zipCode: "33145"
+coordinates:
+  lat: 25.7497869
+  lng: -80.24981989999999
 phone: "(305) 357-0157"
 website: "https://prestigeplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=1974782268043723834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.5
 reviewCount: 202
 reviews:

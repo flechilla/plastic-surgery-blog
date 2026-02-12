@@ -1,9 +1,16 @@
 name: "Professional Plastic Surgery"
 slug: professional-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coral Way"
 address: "2299 SW 37th Ave Suite 201, Miami, FL 33145"
 zipCode: "33145"
+coordinates:
+  lat: 25.7481905
+  lng: -80.2542019
 phone: "(305) 448-6898"
 website: "http://www.proplasticsurgerymiami.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2320022099056144688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.3
 reviewCount: 1172
 reviews:

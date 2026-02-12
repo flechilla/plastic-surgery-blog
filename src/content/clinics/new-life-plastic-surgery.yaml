@@ -1,9 +1,16 @@
 name: "New Life Plastic Surgery"
 slug: new-life-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "8400 SW 8th St, Miami, FL 33144"
 zipCode: "33144"
+coordinates:
+  lat: 25.7616218
+  lng: -80.3318354
 phone: "(305) 501-5020"
 website: "https://newlifecosmetic.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
 googleMapsUrl: "https://maps.google.com/?cid=14779914893767643388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.2
 reviewCount: 3110
 reviews:

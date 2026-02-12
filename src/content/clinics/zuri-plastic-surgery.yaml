@@ -1,18 +1,24 @@
 name: "Zuri Plastic Surgery"
 slug: zuri-plastic-surgery
-city: miami
+city: south-miami
+cityDisplay: "South Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "7540 SW 61st Ave, South Miami, FL 33143"
 zipCode: "33143"
+coordinates:
+  lat: 25.700898499999997
+  lng: -80.2925441
 phone: "(786) 804-1603"
 website: "https://www.zuriplasticsurgery.com/?utm_source=gmb&utm_medium=organic"
 googleMapsUrl: "https://maps.google.com/?cid=6975746125877312700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Zuri Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 679 reviews, they offer cosmetic and reconstructive surgery services.
+  Zuri Plastic Surgery is a plastic surgery practice located in South Miami, FL. With a 4.9-star rating from 679 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 679
 reviews:

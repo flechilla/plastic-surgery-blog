@@ -1,9 +1,16 @@
 name: "Icon Cosmetic Center"
 slug: icon-cosmetic-center
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Flagami"
 address: "815 NW 57th Ave Ste 300-A, Miami, FL 33126"
 zipCode: "33126"
+coordinates:
+  lat: 25.779404
+  lng: -80.28807119999999
 phone: "(786) 233-7080"
 website: "https://iconcosmeticcenter.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2660797437868721945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 1095
 reviews:

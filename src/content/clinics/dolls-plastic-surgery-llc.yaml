@@ -1,20 +1,26 @@
 name: "Dolls Plastic Surgery, LLC"
 slug: dolls-plastic-surgery-llc
-city: miami
+city: aventura
+cityDisplay: "Aventura"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "18205 Biscayne Blvd #100, Aventura, FL 33160"
-zipCode: "18205"
+zipCode: "33160"
+coordinates:
+  lat: 25.943872900000002
+  lng: -80.1469778
 phone: "(305) 995-0545"
 website: "https://www.dollsplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=16706821336397915249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Dolls Plastic Surgery, LLC is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 1857 reviews, they offer cosmetic and reconstructive surgery services.
+  Dolls Plastic Surgery, LLC is a plastic surgery practice located in Aventura, FL. With a 4.7-star rating from 1858 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.7
-reviewCount: 1857
+reviewCount: 1858
 reviews:
   - author: "Sabrina V."
     rating: 5

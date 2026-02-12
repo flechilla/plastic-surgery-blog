@@ -1,18 +1,24 @@
 name: "Pure Plastic Surgery"
 slug: pure-plastic-surgery
-city: fort-myers
+city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "7265 SW 93rd Ave STE 201, Miami, FL 33173"
 zipCode: "33173"
+coordinates:
+  lat: 25.7007694
+  lng: -80.34380829999999
 phone: "(786) 245-7622"
 website: "https://www.pureplasticsurgery.com/?utm_source=google&utm_medium=local&utm_campaign=miami-practice-website"
 googleMapsUrl: "https://maps.google.com/?cid=13989771346462392481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Pure Plastic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 681 reviews, they offer cosmetic and reconstructive surgery services.
+  Pure Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 681 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 681
 reviews:

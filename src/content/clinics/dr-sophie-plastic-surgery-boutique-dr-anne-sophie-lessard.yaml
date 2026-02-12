@@ -1,9 +1,16 @@
 name: "Dr. Sophie - Plastic Surgery Boutique - Dr. Anne-Sophie Lessard"
 slug: dr-sophie-plastic-surgery-boutique-dr-anne-sophie-lessard
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Industrial Section"
 address: "135 San Lorenzo Ave STE 720, Miami, FL 33146"
 zipCode: "33146"
+coordinates:
+  lat: 25.7318868
+  lng: -80.25708589999999
 phone: "(305) 562-5859"
 website: "https://drsophiemiami.com/"
 googleMapsUrl: "https://maps.google.com/?cid=10491272155763432744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 196
 reviews:

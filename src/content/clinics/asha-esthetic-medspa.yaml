@@ -1,9 +1,16 @@
 name: "Asha Esthetic & Medspa"
 slug: asha-esthetic-medspa
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Brickell"
 address: "1800 SW 1st Ave Unit 501, Miami, FL 33129"
 zipCode: "33129"
+coordinates:
+  lat: 25.758097600000003
+  lng: -80.1990838
 phone: "(305) 505-7853"
 website: "http://www.ashaesthetics.com/"
 googleMapsUrl: "https://maps.google.com/?cid=7369474793931976160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 287
 reviews:

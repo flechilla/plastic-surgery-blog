@@ -1,9 +1,16 @@
 name: "The Nathan Clinic: Plastic Surgery and Aesthetics"
 slug: the-nathan-clinic-plastic-surgery-and-aesthetics
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "4770 Biscayne Blvd STE 830, Miami, FL 33137"
 zipCode: "33137"
+coordinates:
+  lat: 25.8186522
+  lng: -80.1882368
 phone: "(786) 396-9276"
 website: "https://drnathan.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=miami"
 googleMapsUrl: "https://maps.google.com/?cid=4433079512792276698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 406
 reviews:

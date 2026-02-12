@@ -1,9 +1,16 @@
 name: "Eden Plastic Surgery: Ali Charafeddine, MD"
 slug: eden-plastic-surgery-ali-charafeddine-md
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coconut Grove"
 address: "3659 S Miami Ave Suite 2003, Miami, FL 33133"
 zipCode: "33133"
+coordinates:
+  lat: 25.741168899999998
+  lng: -80.212807
 phone: "(754) 241-3310"
 website: "https://www.edenplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2101811362052405826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 354
 reviews:

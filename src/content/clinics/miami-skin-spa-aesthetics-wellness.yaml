@@ -1,9 +1,16 @@
 name: "Miami Skin Spa Aesthetics & Wellness"
 slug: miami-skin-spa-aesthetics-wellness
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Brickell"
 address: "1501 S Miami Ave UNIT 201, Miami, FL 33129"
 zipCode: "33129"
+coordinates:
+  lat: 25.758289599999998
+  lng: -80.1939794
 phone: "(305) 557-1615"
 website: "https://www.miamiskinspa.com/?utm_source=gmb&utm_medium=organic&utm_campaign=directory"
 googleMapsUrl: "https://maps.google.com/?cid=10463862649382988209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 146
 reviews:

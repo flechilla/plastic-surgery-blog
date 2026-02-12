@@ -1,9 +1,16 @@
 name: "The Method Plastic Surgery"
 slug: the-method-plastic-surgery
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coconut Grove"
 address: "2250 S Dixie Hwy, Miami, FL 33133"
 zipCode: "33133"
+coordinates:
+  lat: 25.7421866
+  lng: -80.230955
 phone: "(786) 580-3188"
 website: "https://themethodplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=11300449284752005013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 55
 reviews:

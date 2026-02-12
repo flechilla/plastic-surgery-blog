@@ -1,9 +1,16 @@
 name: "Infinity Beauty Lab Med Spa"
 slug: infinity-beauty-lab-med-spa
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Brickell"
 address: "40 SW 13th St suite 606, Miami, FL 33130"
 zipCode: "33130"
+coordinates:
+  lat: 25.7613429
+  lng: -80.19436859999999
 phone: "(561) 232-0263"
 website: "http://www.infinitybeautylab.com/"
 googleMapsUrl: "https://maps.google.com/?cid=234037088509461458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 64
 reviews:

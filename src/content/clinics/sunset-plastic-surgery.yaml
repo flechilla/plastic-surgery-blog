@@ -1,18 +1,24 @@
 name: "Sunset Plastic Surgery"
 slug: sunset-plastic-surgery
-city: miami
+city: coral-gables
+cityDisplay: "Coral Gables"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Douglas"
 address: "811 Ponce de Leon Blvd, Coral Gables, FL 33134"
 zipCode: "33134"
+coordinates:
+  lat: 25.764119500000003
+  lng: -80.2590152
 phone: "(786) 710-1600"
 website: "http://sunsetplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=18174329308579143342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Sunset Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 183 reviews, they offer cosmetic and reconstructive surgery services.
+  Sunset Plastic Surgery is a plastic surgery practice located in Coral Gables, FL. With a 4.9-star rating from 183 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 183
 reviews:

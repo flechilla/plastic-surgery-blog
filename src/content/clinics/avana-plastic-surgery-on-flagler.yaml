@@ -1,9 +1,16 @@
 name: "Avana Plastic Surgery on Flagler"
 slug: avana-plastic-surgery-on-flagler
 city: miami
+cityDisplay: "Miami"
 state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
 address: "8700 W Flagler St STE 250, Miami, FL 33174"
 zipCode: "33174"
+coordinates:
+  lat: 25.7685486
+  lng: -80.337497
 phone: "(305) 501-6000"
 website: "https://avanaplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=17810771019713185745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.4
 reviewCount: 3281
 reviews:
