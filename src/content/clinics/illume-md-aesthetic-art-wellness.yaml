@@ -1,0 +1,61 @@
+name: "Illume MD: Aesthetic Art & Wellness"
+slug: illume-md-aesthetic-art-wellness
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "University Drive"
+address: "3111 N University Dr Suite 400, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.2686358
+  lng: -80.24938230000001
+phone: "(786) 881-5680"
+website: "http://illumemds.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1293813458034858735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  Illume MD: Aesthetic Art & Wellness is a spa & wellness located in Coral Springs, FL. With a 5-star rating from 176 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 5
+reviewCount: 176
+reviews:
+  - author: "Ava"
+    rating: 5
+    date: "2025-10-13"
+    text: >-
+      Melissa is amazing! She is so professional, gentle, and really took her time to make sure the lip filler looked natural and perfectly balanced. The whole experience was comfortable from start to finish, and I left feeling so confident. Highly recommend her if you want beautiful, natural-looking results!
+    source: "Google"
+  - author: "Dr. C. A. C."
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      I had a great experience with Dr. Munnings during my tirzepatide treatment. She took the time to clearly explain the treatment plan and made sure I understood every step. I also appreciated how vigilant she was with follow-ups — it made me feel supported and confident throughout the process.
+    source: "Google"
+  - author: "Yamila C."
+    rating: 5
+    date: "2025-12-03"
+    text: >-
+      Melissa was so sweet! she really took her time during our appointment to explain every step and had the most gentle hands! so profesional, kind, and informative!
+    source: "Google"
+  - author: "Jeana K."
+    rating: 5
+    date: "2025-11-05"
+    text: >-
+      Wow what an incredible experience! The facility is clean. The injector, Melissa was so professional and knowledgeable.  It’s been two weeks so everything has settled. No wrinkles! Even eyebrows… lol
+    source: "Google"
+  - author: "Barbara S."
+    rating: 5
+    date: "2025-12-14"
+    text: >-
+      I am a woman in my later 50s trying to hang on to my youthful looks! I have been going to Dr. Munnings for over a year now, she's extreemky knowledgeable and listens to understand, her services are amazing and my skin has never looked better! She offers cutting edge technology and provides exceptional care!!! When I see my friends back home in michigan, they tell me I look younger than I did when 
+    source: "Google"
+logo: "/images/clinics/logos/illume-md-aesthetic-art-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

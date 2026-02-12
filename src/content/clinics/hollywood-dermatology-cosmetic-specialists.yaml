@@ -1,0 +1,61 @@
+name: "Hollywood Dermatology & Cosmetic Specialists"
+slug: hollywood-dermatology-cosmetic-specialists
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "3470 NW 82nd Ave Suite 111, Doral, FL 33122"
+zipCode: "33122"
+coordinates:
+  lat: 25.8072755
+  lng: -80.3298633
+phone: "(786) 272-2500"
+website: "https://www.hollywooddermatology.com/locations/doral/"
+googleMapsUrl: "https://maps.google.com/?cid=8069006214078378952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Dermatologist"
+description: >-
+  Hollywood Dermatology & Cosmetic Specialists is a dermatologist located in Doral, FL. With a 4.8-star rating from 842 reviews.
+specialties:
+  - "Dermatologist"
+rating: 4.8
+reviewCount: 842
+reviews:
+  - author: "Jean L."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      I had a great experience with Dr. Katherine Hernandez. They were professional, knowledgeable, and took the time to answer all my questions. The staff was friendly and the visit was efficient. I would definitely recommend this office.
+    source: "Google"
+  - author: "bobbie v."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ (10/10) From the moment I walked in, I was greeted by a friendly and professional staff. The atmosphere was warm, welcoming, and very clean. Check-in was a breeze using their user-friendly iPads, and the wait time was minimal.  I had an appointment with Yulissa for a facial, and she was an exceptional professional — knowledgeable, attentive, and genuinely caring. She answered all my que
+    source: "Google"
+  - author: "Simone R."
+    rating: 5
+    date: "2026-01-12"
+    text: >-
+      I went in for a skin check with Dr. Danielle Nicolazo and her team, and the experience was amazing. The entire team was welcoming, professional, and kind. Dr. Danielle took the time to explain the procedure clearly, which made me feel very comfortable and at ease throughout the visit. I truly appreciate the care and attention I received. Highly recommend Dr. Danielle Nicolazo and her wonderful tea
+    source: "Google"
+  - author: "Omar S."
+    rating: 5
+    date: "2025-10-02"
+    text: >-
+      I had an outstanding experience with Dr. Danielle and her assistant. From the moment I walked in, I felt welcomed and cared for. Dr. Danielle is not only highly knowledgeable and professional, but also incredibly kind and attentive. She took the time to explain everything clearly and made me feel completely at ease. Her assistant was equally wonderful—efficient, friendly, and supportive throughout
+    source: "Google"
+  - author: "Maidel D."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      I had my appointment with Dr. Danielle Nicolazo, and it was truly wonderful. From the moment I arrived, everyone treated me with great kindness, and the whole process was fast, I didn’t have to wait at all. The doctor’s assistant was also very sweet and polite. But the best part was Dr. Danielle herself,  she was incredibly kind and gentle, took the time to ask me questions, and made me feel calm 
+    source: "Google"
+logo: "/images/clinics/logos/hollywood-dermatology-cosmetic-specialists.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,61 @@
+name: "Himmarshee Plastic Surgery"
+slug: himmarshee-plastic-surgery
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Beverly Heights"
+address: "717 SE 2nd St Suite 100, Fort Lauderdale, FL 33301"
+zipCode: "33301"
+coordinates:
+  lat: 26.1208597
+  lng: -80.1357491
+phone: "(954) 707-5158"
+website: "http://www.himmarsheeplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6877149724275728454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Himmarshee Plastic Surgery is a plastic surgery located in Fort Lauderdale, FL. With a 5-star rating from 30 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 5
+reviewCount: 30
+reviews:
+  - author: "Andrea R."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      I truly don’t have enough words to express my appreciation for Dr. Moon, Dr. Scurci, and the entire team at Himmarshee Plastic Surgery. From the very first consultation to my pre-op appointment and every follow-up visit after surgery, the experience has been nothing short of exceptional.  I had an abdominoplasty along with a breast lift and augmentation, and the level of care, attention to detail,
+    source: "Google"
+  - author: "Hannah S."
+    rating: 5
+    date: "2025-12-31"
+    text: >-
+      I had an amazing experience with Dr. Moon and Dr. Scurci. My procedure went smoothly and the recovery process has been amazing due to the diligent and attentive work of these two brilliant doctors. I was comfortable speaking to them about my needs and worries and everything in between. They have been incredibly kind and caring. I would absolutely, without a doubt, recommend them to others. Thank y
+    source: "Google"
+  - author: "Kyle W."
+    rating: 5
+    date: "2025-10-17"
+    text: >-
+      Dr. Moon & Dr. Scurci went above and beyond. Their bedside manner, excellent work, and incredible team took the best care of my mother. Not only is their office pristine but they are so kind and are the very best at what they do. Don’t hesitate to come here- it’s the best in Florida hands down!!!
+    source: "Google"
+  - author: "Susan W."
+    rating: 5
+    date: "2025-08-06"
+    text: >-
+      From the very first consultation, I felt heard, understood, and completely at ease, feeling as though I would be in capable and caring hands. Doctors Stephanie Scurvi and Dr Savanah Moon took time to listen to what my goals were and what I personally hoped to achieve. The council they so knowledgeable gave was clear, honest and professional, as they addressed my individual concerns and answered my
+    source: "Google"
+  - author: "Teresa B."
+    rating: 5
+    date: "2025-08-14"
+    text: >-
+      Dr. Moon, Dr. Scurci, and their team are amazing! They listened to exactly what I wanted, delivered beautiful results, and continue to be supportive with any concerns. I’m so grateful for their skill and care—highly recommend!
+    source: "Google"
+logo: "/images/clinics/logos/himmarshee-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

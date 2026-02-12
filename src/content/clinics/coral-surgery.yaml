@@ -1,0 +1,61 @@
+name: "Coral Surgery"
+slug: coral-surgery
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "City Center"
+address: "10196 W Sample Rd, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.272096200000004
+  lng: -80.26229649999999
+phone: "(954) 516-6311"
+website: "http://coralsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11570675551520569490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Medical Practice"
+description: >-
+  Coral Surgery is a medical practice located in Coral Springs, FL. With a 5-star rating from 296 reviews.
+specialties:
+  - "Medical Practice"
+rating: 5
+reviewCount: 296
+reviews:
+  - author: "Nicolene C."
+    rating: 5
+    date: "2025-09-30"
+    text: >-
+      I would highly recommend  Dr Stiles.  Him and his staff are so welcoming and friendly. My son had his wisdom teeth extracted there and they took good care of him.  He had very little pain afterwards and the whole process went smoothly.  The office is beautifully decorated too.  We had a great experience and I will definitely send my family and friends to him.  Thank you for all you guys did for us
+    source: "Google"
+  - author: "Stacia M."
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      Coral Surgery took really good care of me during my procedure. The front office was kind, professional and efficient. Dr. Stiles was AMAZING!! Very personable! I felt comfortable during my consultation as well as the moments leading up to my procedure. I highly recommend Coral Surgery and will be utilizing them in the future when needed. :-)
+    source: "Google"
+  - author: "Ana G."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      Excellent placer since you get in by the door. Al the personal is amazing. Dr. Stiles is a great surgen an human being. I took my mom who is 96 year old and he try to explain everything in Spanish to her patiently. Surgery successfully and no pain. I completely recommend this clinic.
+    source: "Google"
+  - author: "Chai"
+    rating: 5
+    date: "2025-11-22"
+    text: >-
+      Dr Stiles and his team are absolutely wonderful!! They were very considerate and kind. He informed me in detail of everything about my surgery and made sure I understood. As someone super anxious with dentists, my experience went completely smooth and I felt reassured!
+    source: "Google"
+  - author: "Robyn P."
+    rating: 5
+    date: "2025-11-12"
+    text: >-
+      My regular dentist had referred me to Dr. Stiles to remove a growth on my tongue. When I arrived just for my consultation, the staff was very welcoming and professional. Dr. Stiles examined me and fit me into his schedule that day to go ahead and remove the spot on my tongue. It was quick and painless, and he gave explicit instructions on the aftercare. He followed up with a call just to check on 
+    source: "Google"
+logo: "/images/clinics/logos/coral-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

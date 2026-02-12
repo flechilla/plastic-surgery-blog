@@ -1,0 +1,61 @@
+name: "ME Aesthetics"
+slug: me-aesthetics
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "City Center"
+address: "10167 NW 31st St #201, Coral Springs, FL 33071"
+zipCode: "33071"
+coordinates:
+  lat: 26.2698273
+  lng: -80.26144409999999
+phone: "(954) 246-0040"
+website: "http://www.meaestheticsfl.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12224529914607056869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  ME Aesthetics is a spa & wellness located in Coral Springs, FL. With a 5-star rating from 130 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 5
+reviewCount: 130
+reviews:
+  - author: "Gisselle H."
+    rating: 5
+    date: "2025-11-23"
+    text: >-
+      I’ve been seeing Maria for my injectables for over five years, and she is truly exceptional. Her technique is gentle, precise, and she always knows exactly how to enhance my features while keeping everything natural. I trust her completely.  Maria is not only talented—she’s kind, patient, and takes the time to explain every detail so I always feel comfortable. She listens, she cares, and she consi
+    source: "Google"
+  - author: "Corina R."
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      I have no words to thank Maria and her amazing team!  I had laser, Botox, and lip filler done, and the whole experience was absolutely perfect. From the moment I walked in, they made me feel so comfortable and cared for. Maria is so professional, gentle, and talented — and her team is just as wonderful! What I love the most is that after every treatment, she always takes the time to follow up and 
+    source: "Google"
+  - author: "Gabriela"
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      Maria is the sweetest injector I’ve ever met! Maria and her team always bring such positive energy to every visit — the atmosphere is welcoming, professional, and full of good vibes. I always look forward to my next appointment because she makes me feel so comfortable and confident every time. She’s the only person I trust to touch my lips, and I wouldn’t trade her for anyone else. Her attention t
+    source: "Google"
+  - author: "Karolina M."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I cannot say enough good things about Maria and her staff.From the moment I walked in, she made me feel completely comfortable and at ease. She takes the time to explain every step of the process, answers all my questions, and truly cares about my skin and my results. I trust her completely and would never let anyone else touch my face. Her expertise, professionalism, and kindness are unmatched!!
+    source: "Google"
+  - author: "Danielle R."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      I've always had a hard time trusting aesthetic clinics and doctors in general. But Maria is truly the exception. She and her team always make sure all of my questions are answered and that I feel completely comfortable during my treatments. Whether it's fillers, laser, or anything else. They constantly go above and beyond. Her team is always welcoming with such a positive attitude. I'm happy I fou
+    source: "Google"
+logo: "/images/clinics/logos/me-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

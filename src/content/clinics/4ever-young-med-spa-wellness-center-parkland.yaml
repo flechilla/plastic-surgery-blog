@@ -1,0 +1,61 @@
+name: "4Ever Young Med Spa & Wellness Center - Parkland"
+slug: 4ever-young-med-spa-wellness-center-parkland
+city: parkland
+cityDisplay: "Parkland"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Heron Bay"
+address: "5988 Coral Ridge Dr, Parkland, FL 33076"
+zipCode: "33076"
+coordinates:
+  lat: 26.306162999999998
+  lng: -80.2805648
+phone: "(954) 852-4234"
+website: "https://4everyoungantiaging.com/parkland/?utm_source=google&utm_medium=organic&utm_campaign=gbp-parkland"
+googleMapsUrl: "https://maps.google.com/?cid=16712981562019745740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Medical Spa"
+description: >-
+  4Ever Young Med Spa & Wellness Center - Parkland is a medical spa located in Parkland, FL. With a 4.9-star rating from 246 reviews.
+specialties:
+  - "Medical Spa"
+rating: 4.9
+reviewCount: 246
+reviews:
+  - author: "Gloria G."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      I had such an amazing experience at 4Ever Young. Lori did my treatment and WOW I look so much younger already!! She was gentle, knowledgeable, and made me feel completely comfortable. Antonella was incredibly sweet, offered me beverages, and stayed with me through the whole process which I truly appreciated!! And Mattie at the front desk was so helpful and welcoming from the moment I walked in! Ho
+    source: "Google"
+  - author: "Luis C."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      Had a great experience getting a HydraFacial here! Mattie at the front was very friendly and welcoming, and my technician Stephanie was an absolute pleasure. Everything went smoothly. The extraction part was the hardest, but my skin felt super clean and refreshed after. Definitely recommend!
+    source: "Google"
+  - author: "Real E."
+    rating: 2
+    date: "2025-12-11"
+    text: >-
+      I really wanted to have a good experience here, but unfortunately my visit felt like a significant waste of time. I spent about an hour and a half in the office, which ended up being only a consultation on what they recommended and how much everything would cost. Instead of helping me move forward with even a single treatment, I was encouraged to apply for financing so I could spend more — which l
+    source: "Google"
+  - author: "Priscilla d. R."
+    rating: 5
+    date: "2025-10-16"
+    text: >-
+      I went in for hormonal testing, blood work, and microneedling, and I couldn’t be happier with the results and overall care. The team was so knowledgeable, kind, and attentive they took the time to explain everything in detail and made me feel completely comfortable throughout the process. The hormonal testing and blood work gave me so much clarity about my health, and the microneedling treatment l
+    source: "Google"
+  - author: "B R."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      Always a top tier experience here. Stopped in for an IV Trudy was so mindful of making me comfortable and relaxed during the process  The staff is always attentive and accommodating.        5 stars
+    source: "Google"
+logo: "/images/clinics/logos/4ever-young-med-spa-wellness-center-parkland.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,61 @@
+name: "Palmer Cosmetic Surgery"
+slug: palmer-cosmetic-surgery
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2699 Stirling Rd STE B101, Fort Lauderdale, FL 33312"
+zipCode: "33312"
+coordinates:
+  lat: 26.048395499999998
+  lng: -80.1756107
+phone: "(954) 989-5001"
+website: "https://palmercosmeticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=34685185459539236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Cosmetic Surgery"
+description: >-
+  Palmer Cosmetic Surgery is a cosmetic surgery located in Fort Lauderdale, FL. With a 4.9-star rating from 190 reviews.
+specialties:
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 190
+reviews:
+  - author: "Denise A."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I had a great experience with Dr. Palmer.  He didn’t try to oversell me or do “too much” like many of the surgeons I met with in Boca Raton.  He did just enough to make me look like a better and more youthful version of myself.  The whole staff is very personable, helpful, friendly and professional.  I’ll definitely use Dr. Palmer in the future if and when I decide to have another procedure.
+    source: "Google"
+  - author: "Madi"
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      Highly Recommend Dr. Palmer! I had a great experience with Dr. Palmer and his team. From the moment I walked into the office, the staff was incredibly friendly and accommodating. They really made me feel at ease. Dr. Palmer himself was fantastic. He took the time to listen carefully to all my concerns and made sure I felt completely comfortable throughout the entire process. His approachable manne
+    source: "Google"
+  - author: "Olga G."
+    rating: 5
+    date: "2025-09-13"
+    text: >-
+      I cannot say enough about Dr. Palmer and his team. I recently had a breast augmentation with a lift, and I am beyond thrilled with my results…they look natural, balanced, and exactly what I hoped for. I’ve trusted Dr. Palmer with all of my cosmetic surgery needs for nearly two decades, and he has always been my go-to. His expertise, artistry, and genuine care set him apart. I have complete confide
+    source: "Google"
+  - author: "Imias A."
+    rating: 5
+    date: "2025-11-09"
+    text: >-
+      Dr Palmer and everyone at his practice are incredible. Dr Palmer is truly an expert and an artist in his field and I am so glad I chose to see him for my procedure. The results were exactly what I wanted; in fact better than I expected. I highly recommend him and plan on seeing him for any future procedures.
+    source: "Google"
+  - author: "Information A. y. S."
+    rating: 5
+    date: "2025-10-08"
+    text: >-
+      My very first procedure with Dr. Palmer was 25 years ago and it was a success. Fast forward, I have had several other procedures since then and my last procedure was 2 weeks ago. I chose Dr. Palmer then, now and always. He is an amazing surgeon, his office staff is professional and very pleasant. I am very happy with my results and would never consider going any where else!!
+    source: "Google"
+logo: "/images/clinics/logos/palmer-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

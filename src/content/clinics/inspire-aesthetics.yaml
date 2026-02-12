@@ -1,0 +1,61 @@
+name: "Inspire Aesthetics"
+slug: inspire-aesthetics
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Harbordale"
+address: "1501 SE 17th St Causeway Unit A, Fort Lauderdale, FL 33316"
+zipCode: "33316"
+coordinates:
+  lat: 26.1009017
+  lng: -80.1271998
+phone: "(954) 833-0912"
+website: "https://inspireaesthetics.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing"
+googleMapsUrl: "https://maps.google.com/?cid=15151307537913380818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Skin Care Clinic"
+description: >-
+  Inspire Aesthetics is a skin care clinic located in Fort Lauderdale, FL. With a 4.8-star rating from 249 reviews.
+specialties:
+  - "Skin Care Clinic"
+rating: 4.8
+reviewCount: 249
+reviews:
+  - author: "Claudia C."
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      Choosing to trust Dr. Crane at Inspire Aesthetics was one of the best decisions I’ve ever made.  From the moment I walked in, I was greeted by a warm, friendly front desk team. Speaking with Ericka was such a pleasant experience—she was genuinely interested in what I wanted to achieve and made me feel completely comfortable. When I met Dr. Crane, I immediately felt seen, heard, and educated. He to
+    source: "Google"
+  - author: "GRIND S."
+    rating: 5
+    date: "2025-11-25"
+    text: >-
+      I’ve been getting my laser treatments done with Kennedi, and she has been absolutely amazing every single time. She’s gentle, thorough, and so knowledgeable, she always makes me feel comfortable and explains everything clearly. My results have been incredible, and I genuinely look forward to every appointment with her. If you’re looking for someone who truly cares about your skin and your experien
+    source: "Google"
+  - author: "Erica S."
+    rating: 5
+    date: "2025-10-02"
+    text: >-
+      I had the best experience with Kennedi! She gave me a Diamond Glow facial, and not only was the treatment amazing, but she also gifted it to me free of charge. My skin felt so refreshed, clean, and glowing afterwards—literally the smoothest it’s ever been. She explained everything step by step, made me feel super comfortable, and was so professional the entire time. I would recommend her to anyone
+    source: "Google"
+  - author: "Charlotte G."
+    rating: 1
+    date: "2025-08-25"
+    text: >-
+      I feel compelled to share my absolutely devastating experience with Dr. Matthew Goodwin to warn others, especially young women. At just 19 years old, I trusted him with my first cosmetic surgery – a breast augmentation. My goal was very clear: "Barbie boobs," high and full, a desire I reiterated in no less than three pre-op meetings. Despite this, Dr. Goodwin opted to only perform an implant, seem
+    source: "Google"
+  - author: "Marisa A."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      The esthetician in Ft. Lauderdale, Kennedi, is amazing! She has done my microneedling RF and laser treatments. She is so knowledgable and professional and also makes every treatment tailored to whatever your skin concerns are. She is the sweetest and we have the best time anytime I go see her! Highly rec for any skincare needs in the Ft. Lauderdale area!
+    source: "Google"
+logo: "/images/clinics/logos/inspire-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

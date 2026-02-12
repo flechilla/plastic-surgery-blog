@@ -1,0 +1,61 @@
+name: "Natura Dermatology & Cosmetics | Fort Lauderdale Dermatology"
+slug: natura-dermatology-cosmetics-fort-lauderdale-dermatology
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Beverly Heights"
+address: "800 E Broward Blvd #507, Fort Lauderdale, FL 33301"
+zipCode: "33301"
+coordinates:
+  lat: 26.1219535
+  lng: -80.1351656
+phone: "(954) 537-4106"
+website: "https://www.naturadermatology.com/?utm_source=google&utm_medium=gmb&utm_campaign=ddm_local_seo"
+googleMapsUrl: "https://maps.google.com/?cid=12308191386884652475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Skin Care Clinic"
+description: >-
+  Natura Dermatology & Cosmetics | Fort Lauderdale Dermatology is a skin care clinic located in Fort Lauderdale, FL. With a 4.9-star rating from 146 reviews.
+specialties:
+  - "Skin Care Clinic"
+rating: 4.9
+reviewCount: 146
+reviews:
+  - author: "Anita G."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      Wonderful clinic. Every time I’ve had a concern, I felt thoroughly educated and given recommendations that truly work. It’s a bit of a drive since I moved out of the city, but it’s absolutely worth it knowing the level of care I receive. Alexis is amazing!
+    source: "Google"
+  - author: "Earnest L."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      Great visit! Blair is always kind, thorough, and makes me feel comfortable. He explains my treatment options clearly and answers all my questions. The staff is always welcoming, and professional. Very pleased with Natura Dermatology.
+    source: "Google"
+  - author: "Daniela F. F."
+    rating: 5
+    date: "2025-10-15"
+    text: >-
+      Dr. Richardson and his staff were absolutely amazing! Everyone was kind, attentive, and made me feel completely comfortable throughout my visit. Dr. Richardson took the time to listen and explain everything clearly. I highly recommend him and his wonderful team!
+    source: "Google"
+  - author: "Tracy M."
+    rating: 1
+    date: "2025-12-01"
+    text: >-
+      Went to this facility back in February. Everything was good at the time I paid for my appointment in cash in full covered my pathology according to them. I’ve been calling for months now I keep receiving a bill for the pathology. Every time we speak, they say they’ve taken care of it. I called again got disconnected voicemail voicemail finally got a call back, and the gentleman tried to say that I
+    source: "Google"
+  - author: "DanO"
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      Blair is outstanding and has provided dermatological and cosmetic procedures for my wife and me. Very kind, thoughtful individual - we trust him immensely.
+    source: "Google"
+logo: "/images/clinics/logos/natura-dermatology-cosmetics-fort-lauderdale-dermatology.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

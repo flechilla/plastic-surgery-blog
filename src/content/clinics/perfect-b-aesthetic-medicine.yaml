@@ -1,0 +1,61 @@
+name: "Perfect B Aesthetic Medicine"
+slug: perfect-b-aesthetic-medicine
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "3905 NW 107th Ave #104, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.8105475
+  lng: -80.368155
+phone: "(786) 502-2260"
+website: "https://www.perfectb.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12935868375929831115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "skin_care_clinic"
+googleCategoryDisplay: "Skin Care Clinic"
+description: >-
+  Perfect B Aesthetic Medicine is a skin care clinic located in Doral, FL. With a 4.9-star rating from 540 reviews.
+specialties:
+  - "Skin Care Clinic"
+rating: 4.9
+reviewCount: 540
+reviews:
+  - author: "valentina g."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I’ve had such a great experience at Perfect B with my tattoo removal journey. From the very beginning, the staff has been professional, kind, and incredibly knowledgeable. They took the time to explain the process, set realistic expectations, and made me feel comfortable every step of the way.  I’m genuinely impressed with my progress so far — the results are noticeable, and my skin has healed bea
+    source: "Google"
+  - author: "Glow I."
+    rating: 5
+    date: "2025-12-06"
+    text: >-
+      5 star establishment! The minute you walk in you’re met by an amazing scent in the atmosphere. It’s immaculately clean which is very important to me. The entire staff is friendly, professional, and make the entire visit run smoothly. A special shout out to Mariana 👑 She’s excellent at what she does and has such a warmness about her that really puts me at ease. Looking forward to continuing my ski
+    source: "Google"
+  - author: "Isabella C."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      I had a great experience coming in for an acne consultation. The space was extremely clean, welcoming, and well-maintained, which immediately made me feel comfortable. The staff was incredibly knowledgeable, professional, and kind. They took the time to walk me through everything step by step, explained my options clearly, and made sure I understood the treatment plan. Every question I had was ans
+    source: "Google"
+  - author: "Xiomara M."
+    rating: 5
+    date: "2025-09-05"
+    text: >-
+      This place is "THE-MUST-GO-TO" for self-care and aesthetic medicine in El Doral, Miami!!!! What an amazing surprise 😍. I had an Oxygeneo treatment on my back (which I didn't even know existed until today). It was invigorating. Dacil was incredible and the whole staff constantly making sure to accommodate me. They truly made my experience to be unforgettable. Top notch and definitely: HIGHLY RECOM
+    source: "Google"
+  - author: "Nevith"
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      I’ve been a loyal client of Perfect B Med Spa for over 5 years, and I truly can’t say enough good things about them. I’ve received laser hair removal and facials, and the results have consistently been amazing.  The staff is incredibly professional, knowledgeable, and welcoming, and they always take the time to make sure I’m comfortable and well informed. The spa itself is clean, relaxing, and wel
+    source: "Google"
+logo: "/images/clinics/logos/perfect-b-aesthetic-medicine.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

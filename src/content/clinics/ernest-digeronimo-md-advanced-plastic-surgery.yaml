@@ -1,0 +1,61 @@
+name: "Ernest DiGeronimo, MD Advanced Plastic Surgery"
+slug: ernest-digeronimo-md-advanced-plastic-surgery
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "10305 NW 58th St 4 Floor, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.826513
+  lng: -80.3637619
+phone: "(305) 932-5557"
+website: "https://www.digeronimomd.com/?utm_source=gmb_auth"
+googleMapsUrl: "https://maps.google.com/?cid=12871208746803146011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Ernest DiGeronimo, MD Advanced Plastic Surgery is a plastic surgery located in Doral, FL. With a 4.1-star rating from 172 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.1
+reviewCount: 172
+reviews:
+  - author: "Midalys V."
+    rating: 5
+    date: "2025-05-16"
+    text: >-
+      Life-Changing Experience!  From the moment I walked into the clinic, I felt completely at ease. The staff was incredibly welcoming, professional, and knowledgeable. Dr. DiGeronimo took the time to thoroughly explain every step of the procedure, answer all my questions, and made sure I felt confident in my decision.  The surgery itself went smoothly, and the recovery process was exactly as describe
+    source: "Google"
+  - author: "Jessica T."
+    rating: 5
+    date: "2025-10-22"
+    text: >-
+      Hands down the best surgeon- did my mommy make over 8 years ago and the best results and the best service! I recommend 5 people to him.
+    source: "Google"
+  - author: "Wynter W."
+    rating: 5
+    date: "2025-04-16"
+    text: >-
+      I am currently 4 weeks postop and I can say my experience with Dr. Digerimo was great . He was so down to earth and made me feel more comfortable before going into surgery. I’m glad I chose him as my surgeon. Very nice and knowledgeable guy !
+    source: "Google"
+  - author: "Ultrasayion5"
+    rating: 1
+    date: "2025-06-11"
+    text: >-
+      The Worst Place to Get Surgery. This clinic treats people like objects. They’re clearly only interested in one thing: cash. Thankfully, after experiencing countless discrepancies, delays, and unprofessional behavior, my friend made the right decision and canceled the surgery. Avoid this place if you value your health and peace of mind.
+    source: "Google"
+  - author: "Gemeire J."
+    rating: 1
+    date: "2024-12-17"
+    text: >-
+      Dr. DiGeronimo was very pleasant but his staff are very rude and make you feel uncomfortable and unwelcome. If you can clearly hear that I don’t speak Spanish why are you talking to me in Spanish and not English. My pain was not resolved post surgery I woke up in recovery hours after the surgery was done in excruciating pain and the rude nurses gave me Tylenol. Tylenol doesn’t even help with perio
+    source: "Google"
+logo: "/images/clinics/logos/ernest-digeronimo-md-advanced-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

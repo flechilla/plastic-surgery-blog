@@ -1,0 +1,61 @@
+name: "CE Surgery Miami"
+slug: ce-surgery-miami
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2761 NW 79th Ave, Doral, FL 33122"
+zipCode: "33122"
+coordinates:
+  lat: 25.799189799999997
+  lng: -80.3247145
+phone: "(305) 775-6695"
+website: "https://www.cesurgerymiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6330216346614856226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Cosmetic Practice"
+description: >-
+  CE Surgery Miami is a cosmetic practice located in Doral, FL. With a 3-star rating from 6 reviews.
+specialties:
+  - "Cosmetic Practice"
+rating: 3
+reviewCount: 6
+reviews:
+  - author: "Valeria M."
+    rating: 1
+    date: "2025-08-19"
+    text: >-
+      This clinic is not a specialized plastic surgery clinic. In Costa Rica, they have several open cases for malpractice and for money that has not been refunded to clients. Please do not go to this so-called ‘clinic’.
+    source: "Google"
+  - author: "P c."
+    rating: 1
+    date: "2024-11-22"
+    text: >-
+      I had a bad experience with Dr. Gustavo Vargas. I paid for a BBL and silicone implants, which are the most expensive. They performed the BBL and promised to do the breast augmentation, but they never scheduled the appointment and never refunded my money, nor did they refund the money to Ms. Daniela.
+    source: "Google"
+  - author: "Nathaly L."
+    rating: 1
+    date: "2025-01-04"
+    text: >-
+      Gustavo, I'm tired of sending WhatsApp messages and neither you nor your assistant are responding. You asked for the exams, I sent them, and you haven't replied at all. The payment was made in full, and it's like you've vanished. I'm tired of being nice to you. You give me my money back, or I'll publish all the messages and take legal action if necessary. What you and Alejandra are doing is disres
+    source: "Google"
+  - author: "Starlyn T."
+    rating: 5
+    date: "2024-12-23"
+    text: >-
+      Excellent clinic, highly recommended.
+    source: "Google"
+  - author: "Maria M."
+    rating: 5
+    date: "2024-12-23"
+    text: >-
+      
+    source: "Google"
+logo: "/images/clinics/logos/ce-surgery-miami.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

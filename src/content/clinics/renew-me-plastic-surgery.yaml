@@ -1,0 +1,49 @@
+name: "Renew Me Plastic Surgery"
+slug: renew-me-plastic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "730 NW 107th Ave #117, Miami, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.776403900000002
+  lng: -80.3708951
+phone: "(786) 957-1777"
+website: "https://www.renewmeplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14530467013736416151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Renew Me Plastic Surgery is a plastic surgery located in Miami, FL. With a 5-star rating from 3 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 5
+reviewCount: 3
+reviews:
+  - author: "Fernanda G."
+    rating: 5
+    date: "2025-09-18"
+    text: >-
+      I had my surgery 5 months ago with Dr. Boulos🫶🏻! The treatment from the staff was great (from my consultant to the girls in the nursing and massage department), the clinic is centrally located, I am really very happy and pleased with my results, I completely recommend them with my eyes closed!! I will be going back for my dinners soon!!! 🥳
+    source: "Google"
+  - author: "Lilibeth V."
+    rating: 5
+    date: "2026-01-02"
+    text: >-
+      
+    source: "Google"
+  - author: "Mena R."
+    rating: 5
+    date: "2025-09-11"
+    text: >-
+      
+    source: "Google"
+logo: "/images/clinics/logos/renew-me-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

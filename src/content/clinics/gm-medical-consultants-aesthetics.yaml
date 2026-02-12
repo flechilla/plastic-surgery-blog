@@ -1,0 +1,61 @@
+name: "GM Medical Consultants & Aesthetics"
+slug: gm-medical-consultants-aesthetics
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "University Drive"
+address: "1801 N University Dr Suite 206, Coral Springs, FL 33071"
+zipCode: "33071"
+coordinates:
+  lat: 26.253073
+  lng: -80.25221359999999
+phone: "(954) 952-5974"
+website: "https://gmmedicalconsultants.com/"
+googleMapsUrl: "https://maps.google.com/?cid=157621553100830931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "health"
+googleCategoryDisplay: "Health & Wellness"
+description: >-
+  GM Medical Consultants & Aesthetics is a health & wellness located in Coral Springs, FL. With a 5-star rating from 10 reviews.
+specialties:
+  - "Health & Wellness"
+rating: 5
+reviewCount: 10
+reviews:
+  - author: "Gerfna A."
+    rating: 5
+    date: "2025-07-11"
+    text: >-
+      I always have a great experience at GM medical in Coral Springs! Gilda and her team are so welcoming and make the whole process smooth and stress-free. I feel truly taken care of and love there. Highly recommend!
+    source: "Google"
+  - author: "randy p."
+    rating: 5
+    date: "2024-05-03"
+    text: >-
+      Super happy with my visit! Gilda was extremely welcoming. She took her time and explained where and why she was injecting into certain areas. she really took her time to make sure it was perfect and was extremely gentle with the injections. can't wait to see the results and will definitely be back!
+    source: "Google"
+  - author: "Justine P."
+    rating: 5
+    date: "2024-09-03"
+    text: >-
+      I've been to numerous places and Gilda is precise and detailed in her work and does exactly what is needed. She is the best around. She is professional and sweet and her prices are affordable. I’ll definitely be returning!
+    source: "Google"
+  - author: "Amina A."
+    rating: 5
+    date: "2024-08-17"
+    text: >-
+      Definitely going to be returning to Gilda. You can’t find someone more dedicated to helping you achieve your goals. I’ve been to many providers, but I was so surprised as to how much she cares to explain and educate who’s in her chair to make the best choice for them. Will be referring others here!
+    source: "Google"
+  - author: "Charissa Z. V."
+    rating: 5
+    date: "2023-10-04"
+    text: >-
+      I had a great experience at GM medical! Gilda was extremely helpful, patient, kind, understanding and nice. She is so knowledgeable and I’m so grateful that she explained the process to me and put my mind at ease regarding my appointment. I will definitely be back for other services as well because her kindness and the environment was so clean and welcoming. I am so pleased that I chose GM medical
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

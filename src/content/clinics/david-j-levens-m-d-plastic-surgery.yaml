@@ -1,0 +1,61 @@
+name: "David J. Levens M.D. Plastic Surgery"
+slug: david-j-levens-m-d-plastic-surgery
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "University Drive"
+address: "2855 N University Dr #400, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.2660366
+  lng: -80.2493506
+phone: "(754) 702-6867"
+website: "https://www.drlevens.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3265440361541283440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  David J. Levens M.D. Plastic Surgery is a plastic surgery located in Coral Springs, FL. With a 4.9-star rating from 209 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.9
+reviewCount: 209
+reviews:
+  - author: "P F."
+    rating: 5
+    date: "2025-10-10"
+    text: >-
+      After consulting with two other surgeons, I chose Dr. Levens due to his extensive experience, compassion, and overall comfort level when talking with him. It was evident that he really takes pride in his work and really wants his patients to be happy with their final result.  His staff is also very friendly and helpful and scheduling appointments have been very easy. I am currently 12 weeks out fr
+    source: "Google"
+  - author: "Leilani M."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      Dr Levens is not only a great surgeon, he has the best attitude and is genuinely a caring physician. I was always comfortable with him talking about things that are very personal to a woman regarding making changes to their body. Whatever it is he will give you his honest opinion so you can make the right decision. I am extremely happy with my new look.
+    source: "Google"
+  - author: "Barbara H."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Dr. Levens removed my breast implants for me.  I found him to be a very skillful, experienced and professional surgeon! His nurse along with the anesthesiologist  were both wonderful, professional and kind.  I could not say enough nice things about Dr. Levens and his staff, including his office staff. I would highly recommend Dr. Levens .
+    source: "Google"
+  - author: "Christine K."
+    rating: 5
+    date: "2025-10-27"
+    text: >-
+      If I could give 10 stars, I absolutely would!  Four years ago, I had the Gastric Sleeve procedure, and while the weight loss was life-changing, it left me with significant excess skin around my abdomen. I knew a tummy tuck was the next step. Having previously worked as a surgical tech and first assist, I had the privilege of scrubbing in with Dr. Levens and witnessed firsthand not only his excepti
+    source: "Google"
+  - author: "Rexanna B."
+    rating: 5
+    date: "2025-11-30"
+    text: >-
+      Dr. Levens performed my first breast augmentation almost 20 years ago. When it came time to do my second procedure, there was no question as to who I was going to call. Dr. Levens and his staff made me feel like family from the first moment I walked into his office.  I could not be happier with my results. I have full confidence and trust in Dr. David Levens.
+    source: "Google"
+logo: "/images/clinics/logos/david-j-levens-m-d-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

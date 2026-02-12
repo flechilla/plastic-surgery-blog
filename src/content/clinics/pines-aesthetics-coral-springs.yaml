@@ -1,0 +1,61 @@
+name: "Pines Aesthetics Coral Springs"
+slug: pines-aesthetics-coral-springs
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "938 N University Dr, Coral Springs, FL 33071"
+zipCode: "33071"
+coordinates:
+  lat: 26.2434254
+  lng: -80.2565801
+phone: "(754) 225-5152"
+website: "https://pinesaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13507645362234710487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  Pines Aesthetics Coral Springs is a spa & wellness located in Coral Springs, FL. With a 4.9-star rating from 53 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 4.9
+reviewCount: 53
+reviews:
+  - author: "Camal C."
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      I had such a great experience at Pines Esthetics. Lauren is truly the best! She took her time, explained everything clearly and delivered amazing results. You can tell she really cares about her clients and knows exactly what she’s doing. On top of that the pricing is super reasonable for the quality of service you get. I left feeling confident and refreshed. Highly recommend booking with Lauren i
+    source: "Google"
+  - author: "Lianne B."
+    rating: 5
+    date: "2025-12-13"
+    text: >-
+      This clinic is truly outstanding. Everyone is very kind and extremely professional. The team members are caring and make you feel confident that you will achieve the results you are expecting.  Jennifer, Belinda, Antonella, and Loren are incredible professionals who truly go above and beyond. I highly recommend this clinic to anyone looking for excellent care and amazing results. 😊
+    source: "Google"
+  - author: "Alma L. A."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      I’m so grateful my mom recommended this place! I’ve been coming here since October/November and couldn’t ask for a better experience. All of the staff are truly the sweetest and so personable. I’m always greeted so kindly and taken care of by the best hands. I love all of the services and packages they offer. This is hands down my favorite place to be pampered. I would 100% recommend coming here. 
+    source: "Google"
+  - author: "Abelardo K."
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      I’ve been to Pines Aesthetics in Coral Springs a few times and truly recommend them. They offer a variety of treatments and are competitive with pricing/bundle deals. The facials leave my skin feeling smooth and clean. I’m really satisfied with how healthy my skin looks and others have noticed the improvement. Must give them a try as you won’t regret.
+    source: "Google"
+  - author: "Brooke M."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Going to pines aesthetics is everything i need in my trips to Florida. I am able to get a facial, Botox, free recommendations on my skin all while feeling like I’m hanging out with friends. Everyone is so knowledgeable and kind. I feel safe and at home here. Lauren gives the absolute best facials!
+    source: "Google"
+logo: "/images/clinics/logos/pines-aesthetics-coral-springs.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

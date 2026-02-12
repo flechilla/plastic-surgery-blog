@@ -1,0 +1,61 @@
+name: "Dr. Brandon Plastic Surgery: Brandon Elnekaveh, MD"
+slug: dr-brandon-plastic-surgery-brandon-elnekaveh-md
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "East Fort Lauderdale"
+address: "915 Middle River Dr Suite 221, Fort Lauderdale, FL 33304"
+zipCode: "33304"
+coordinates:
+  lat: 26.1365187
+  lng: -80.1178477
+phone: "(305) 503-3131"
+website: "https://www.drbrandonplastics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10920510672483751416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Dr. Brandon Plastic Surgery: Brandon Elnekaveh, MD is a plastic surgery located in Fort Lauderdale, FL. With a 5-star rating from 20 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 5
+reviewCount: 20
+reviews:
+  - author: "Richard S."
+    rating: 5
+    date: "2026-02-01"
+    text: >-
+      The doctor made a nervous experience very comfortable by answering questions and also providing feedback.  Multiple options were given for best results.
+    source: "Google"
+  - author: "Michelle H."
+    rating: 5
+    date: "2025-07-31"
+    text: >-
+      Dr. Brandon is AMAZING. I had a breast lift with implants and an extended arm lift after significant weight loss. His bedside manner and mad skills makes him the total package of plastic surgeons. I am extremely grateful for him. His work has truly changed my life.
+    source: "Google"
+  - author: "Contact04"
+    rating: 5
+    date: "2025-03-06"
+    text: >-
+      I am so thankful that I made the right decision with Dr. Brandon E. He has a great bedside manner. He is in the perfect spot in his career where he is able to understand your needs and goes the extra mile for his patients to ensure the best outcome. If you know, you know what I mean. As some PS get comfortable & give you that “You are a number feeling and what you get is what you get. Dr. Brandon’
+    source: "Google"
+  - author: "Nicole L."
+    rating: 5
+    date: "2024-09-27"
+    text: >-
+      My experience with Dr. E was nothing short of incredible! Despite my surgery being complex and a more difficult than usual, Dr. E handled it with such expertise and care. He listened to all of my concerns and truly understood, and had such a warm and compassionate bedside manner. It really made the entire process smooth. The results are beyond anything I could have hoped for—I’m completely obsesse
+    source: "Google"
+  - author: "kat d."
+    rating: 5
+    date: "2025-04-30"
+    text: >-
+      I came to Dr Brandon for chin lipo he advised me of realistic expectations I should have but he was a little modest cause first day post op I was more than impressed, this guy works miracles and I would recommend him to anyone!! Also Valencia and Michelle were also great, overall my experience here was 10/10 they always answered my phone calls, were very responsive throughout my whole process (I c
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

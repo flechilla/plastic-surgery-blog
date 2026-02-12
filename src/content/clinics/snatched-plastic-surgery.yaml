@@ -1,0 +1,61 @@
+name: "Snatched Plastic Surgery"
+slug: snatched-plastic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "730 NW 107th Ave #115, Miami, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.776403900000002
+  lng: -80.37089499999999
+phone: "(786) 607-8979"
+website: "https://www.getsnatched.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_term=gbp-listing"
+googleMapsUrl: "https://maps.google.com/?cid=13407523747801036816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Snatched Plastic Surgery is a plastic surgery located in Miami, FL. With a 4.4-star rating from 265 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.4
+reviewCount: 265
+reviews:
+  - author: "Magda L. C. V."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I'm 3 weeks post op from an abdominoplasty and full back and arm lipo. I chose Snatched for my surgery because I loved the results I saw online.  Doctor Gary Vela performed my surgery and he made me feel very safe and in good hands.  Wendy was mi coordinadora and I can't say enough good things about her, she has guided me and been there for me with no complaints. I felt understood by her.  The mas
+    source: "Google"
+  - author: "Joana M."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      I had my breast augmentation with Dr. Vela a month ago and I couldn’t be happier with my results. From the very beginning, the entire experience was amazing. The clinic was clean, organized, and very welcoming. The staff was incredibly helpful, kind, and always made me feel comfortable and informed throughout the process. Dr. Vela truly listened to what I wanted and delivered results that exceeded
+    source: "Google"
+  - author: "Emily R."
+    rating: 3
+    date: "2025-11-03"
+    text: >-
+      I'm  two weeks post-op from my Lipo 360 with Dr. Boulos, and I'm already loving my results! The anesthesia team was excellent and they really helped calm my nerves and made me feel safe before surgery.  Unfortunately, my experience with the office staff wasn't great. Most of the girls spoke primarily Spanish and came across as stand offish and not very welcoming. The bedside manner could definitel
+    source: "Google"
+  - author: "S S."
+    rating: 1
+    date: "2026-01-09"
+    text: >-
+      i’m disappointed in my breast augmentation by doctor boulos. they’re so uneven, and looks like i barely got my boobs done. he didn’t pick the right size for me to correct my asymmetry and so my boobs continue to be uneven even after surgery. my main concern was boob size difference and i’m so sad that i spent my money at this clinic. will most likely have to get a revision down the road but going 
+    source: "Google"
+  - author: "Elisa O."
+    rating: 3
+    date: "2026-01-23"
+    text: >-
+      Results were amazing and staff was  kind but if you think you’re seeing the doctor after your surgery think again. I was told to come back two different times to see the doctor and both times he was “unavailable”. You would think a doctor wants to see his work and reassure his patients that all is well.
+    source: "Google"
+logo: "/images/clinics/logos/snatched-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,61 @@
+name: "SoBella Aesthetics and Wellness, LLC"
+slug: sobella-aesthetics-and-wellness-llc
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "3905 NW 107th Ave Suite 409, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.8106082
+  lng: -80.3678659
+phone: "(305) 845-2940"
+website: "https://sobellaaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12936548751480445619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  SoBella Aesthetics and Wellness, LLC is a spa & wellness located in Doral, FL. With a 5-star rating from 42 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 5
+reviewCount: 42
+reviews:
+  - author: "Mark S."
+    rating: 5
+    date: "2025-10-25"
+    text: >-
+      I had a great first visit with Yuly and her amazing staff concerning male testosterone related therapy.  I am just starting my relationship with SoBella, but I think Yuly will be very helpful in my Testosterone Replacement Therapy journey.  Her forward facing website is mainly focused on women's aesthetics and health, but she also works on TRT issues for men.   She also has a really cool body anal
+    source: "Google"
+  - author: "Michelle R."
+    rating: 5
+    date: "2024-09-12"
+    text: >-
+      My Experience with Dr. Yuly and all the Team at SoBella has been more than PERFECT. This is the perfect place for a Woman, what it is best that you not only enter beautiful but you also leave healthy, and radiantly gorgeous. This is the very best place to check up on your health from hormones to clinical check ups to tips on getting to enhance your own beauty! Im so happy with all my results at So
+    source: "Google"
+  - author: "Liliam T. T."
+    rating: 5
+    date: "2025-06-24"
+    text: >-
+      This spa is a hidden gem for anyone looking to rejuvenate their skin, reduce stretch marks and scars, or lose weight in a healthy and professional environment. From the very first visit, I felt completely taken care of. The doctor is truly amazing—highly knowledgeable, kind, and genuinely committed to delivering results. ✨ The entire staff is incredibly attentive, friendly, and professional. You c
+    source: "Google"
+  - author: "Betsabé S. B."
+    rating: 5
+    date: "2024-08-23"
+    text: >-
+      I had an incredible experience at Sobella Aesthetic and Wellness Center! From the moment I walked in, I was impressed by the beautiful office and welcoming atmosphere, the professionalism of Yuly Placencia. The treatments were top-notch, and the results already are exceeded my expectations. The team was knowledgeable, attentive, and made me feel completely at ease throughout the entire process. I 
+    source: "Google"
+  - author: "Jorge B."
+    rating: 5
+    date: "2025-03-20"
+    text: >-
+      I highly recommend SoBella Aesthetics and Wellness! The office is absolutely spotless, and the staff provides exceptional service, making every visit a pleasant experience. I came here specifically for the pellet treatments, and I couldn’t be happier with the results.  In just five months, I lost 10 pounds, built noticeable muscle, and reduced my body fat percentage by 4%. The transformation has b
+    source: "Google"
+logo: "/images/clinics/logos/sobella-aesthetics-and-wellness-llc.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

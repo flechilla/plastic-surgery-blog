@@ -1,0 +1,61 @@
+name: "Ramirez Plastic Surgery"
+slug: ramirez-plastic-surgery
+city: tamarac
+cityDisplay: "Tamarac"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "7777 N University Dr Suite 201, Tamarac, FL 33321"
+zipCode: "33321"
+coordinates:
+  lat: 26.2180479
+  lng: -80.254162
+phone: "(561) 235-8556"
+website: "https://plasticsurgeontamarac.com/"
+googleMapsUrl: "https://maps.google.com/?cid=16194958696583357659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Ramirez Plastic Surgery is a plastic surgery located in Tamarac, FL. With a 4.6-star rating from 18 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.6
+reviewCount: 18
+reviews:
+  - author: "Kathy O."
+    rating: 5
+    date: "2025-04-21"
+    text: >-
+      Wanted to share a little comment on this practice. First by saying his office staff is wonderful. Girls at the front desk are very accommodating. The next I can’t say enough good things about Corina, who isn’t the Dr. but runs everything ship shape there. She was so helpful to me and I probably wouldn’t have been able to do the process without her. She was so kind and so helpful. I ended up stayin
+    source: "Google"
+  - author: "Tasha"
+    rating: 1
+    date: "2025-06-04"
+    text: >-
+      Extremely unprofessional and rude. Despite plenty of open parking spots,  doctor Ramirez went out of his way to aggressively confront us while we were sitting in our car and forced us to move. He also threatened another driver waiting for a patient with towing. Totally inappropriate behavior—would not recommend.
+    source: "Google"
+  - author: "Alejandra “. M."
+    rating: 5
+    date: "2024-04-23"
+    text: >-
+      Dr. Ramirez is hands down the best surgeon in Florida!!  His staff is very nice and accommodating and  his expertise in faces and sculpting bodies is absolutely amazing! I wish I would have met him long ago and would have avoided having to fix so many errors other surgeons made.  Thank you Dr. Ramirez... You are awesome!!!!
+    source: "Google"
+  - author: "André R. P."
+    rating: 5
+    date: "2024-03-11"
+    text: >-
+      Great experience, fabulous doctor, a lot of years of experience and great results, extremely satisfied with his consults, recommendation, and results, 100% recommendable, all the medical staff are great, with positive energy, and very good costumer service.
+    source: "Google"
+  - author: "Johana M."
+    rating: 5
+    date: "2024-03-08"
+    text: >-
+      Dr Ramirez is the best surgeon, I loved my results from my abdominoplasty, 100% recommended.😊
+    source: "Google"
+logo: "/images/clinics/logos/ramirez-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

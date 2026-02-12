@@ -1,0 +1,37 @@
+name: "Clinica de Cirugia Plastica & Estetica"
+slug: clinica-de-cirugia-plastica-estetica
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2753 NW 79th Ave, Doral, FL 33122"
+zipCode: "33122"
+coordinates:
+  lat: 25.7990751
+  lng: -80.3246349
+phone: "(971) 340-5694"
+website: "http://www.cesurgerymiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15848617818846612651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Skin Care Clinic"
+description: >-
+  Clinica de Cirugia Plastica & Estetica is a skin care clinic located in Doral, FL. With a 5-star rating from 1 reviews.
+specialties:
+  - "Skin Care Clinic"
+rating: 5
+reviewCount: 1
+reviews:
+  - author: "Laura I."
+    rating: 5
+    date: "2023-02-18"
+    text: >-
+      Very good work and very professional.
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

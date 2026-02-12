@@ -1,0 +1,61 @@
+name: "Broward Plastic Surgery: Rainer Sachse, M.D., FACS"
+slug: broward-plastic-surgery-rainer-sachse-m-d-facs
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Coral Ridge"
+address: "2818 E Oakland Park Blvd, Fort Lauderdale, FL 33306"
+zipCode: "33306"
+coordinates:
+  lat: 26.1670756
+  lng: -80.1078924
+phone: "(954) 202-9898"
+website: "http://www.drsachse.com/"
+googleMapsUrl: "https://maps.google.com/?cid=30262947293939336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Broward Plastic Surgery: Rainer Sachse, M.D., FACS is a plastic surgery located in Fort Lauderdale, FL. With a 4.8-star rating from 72 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.8
+reviewCount: 72
+reviews:
+  - author: "A E."
+    rating: 5
+    date: "2026-01-03"
+    text: >-
+      Dr. Rainer E. Sachse, Demonstrated and exceptional level of professionalism throughout the entire process from the initial consultation to the post-up care he made sure I felt comfortable and well informed. What stood out most was Doctor Rainer E. Sachse, Commitment to ethics, he prioritized, my health and safety above all, ensuring that I was fully aware of all the options and potential outcomes.
+    source: "Google"
+  - author: "Kim N."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I wanted to put in a review for the wonderful experience I had w Dr S and his wonderful assist Jasmyn. From the initial consultation to the procedure and post check ups. I was made to be quite comfortable during this procedure and I was quite apprehensive, as you are not put to sleep just sedated enough. Jasmyn was extremely supportive throughout. I’m very happy w my results and plan to return if 
+    source: "Google"
+  - author: "Robert B."
+    rating: 5
+    date: "2025-10-27"
+    text: >-
+      I first heard about Dr. Sachse from a friend who had recently received a face lift. I made an appointment to get a consultation with the surgeon. I was led to an examination room within 10 minutes after arriving. I few minutes later Dr Sachse entered the room and sat down closely in front of me and looked at my face. He asked what procedure I was thinking about having and I said that I was concern
+    source: "Google"
+  - author: "Barbara S."
+    rating: 5
+    date: "2025-08-31"
+    text: >-
+      Thank you for the excellent work you performed on me and how pleased I am with the results. I felt very comfortable and cared for throughout the surgery. I praise Dr. Sachse he achieved a natural looking and desired result. I had a good feeling as soon as I met him. His assistant Jasmyn, was so compassionate, pleasant, knowledgeable, and professional. Very fortunate to have found such a gifted and
+    source: "Google"
+  - author: "T J."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      Excellent care . Excellent surgeon. He took such care with my surgery. Beautiful results. I recommend Dr. Sachse highly .
+    source: "Google"
+logo: "/images/clinics/logos/broward-plastic-surgery-rainer-sachse-m-d-facs.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

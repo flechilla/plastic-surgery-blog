@@ -1,0 +1,61 @@
+name: "Carlos Spera M.D. | Plastic Surgery Miami"
+slug: carlos-spera-m-d-plastic-surgery-miami
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "8725 NW 18th Terrace, Miami, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.791903599999998
+  lng: -80.33780370000001
+phone: "(305) 552-5259"
+website: "http://www.carlosspera.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10202364858528790124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Carlos Spera M.D. | Plastic Surgery Miami is a plastic surgery located in Miami, FL. With a 3.8-star rating from 78 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 3.8
+reviewCount: 78
+reviews:
+  - author: "Diana R."
+    rating: 1
+    date: "2026-01-25"
+    text: >-
+      personal:  “My experience was deeply disappointing. I had rhinoplasty surgery two years ago, and the results left my face looking unbalanced and far from what was discussed. What hurt the most was not only the outcome, but the complete lack of follow-up and concern afterward. I reached out seeking help and accountability, but my messages were ignored. Cosmetic surgery requires not just skill, but 
+    source: "Google"
+  - author: "Yamile R."
+    rating: 5
+    date: "2025-06-13"
+    text: >-
+      I had a wonderful experience with Dr. Carlos Spera and their team. I had two large fat deposits on my thighs that had been bothering me for years, both physically and mentally. Dr. Spera removed them with incredible precision and care. The results exceeded my expectations—I finally feel more confident and comfortable in my own body. The entire process, from consultation to recovery, was smooth, an
+    source: "Google"
+  - author: "Jensy C."
+    rating: 5
+    date: "2025-09-29"
+    text: >-
+      I got my breast implants done in 2014. And I loved the work and the services provided by dr.Spera. Never had a complaint.
+    source: "Google"
+  - author: "Maria M."
+    rating: 1
+    date: "2025-07-15"
+    text: >-
+      Wow, how important it is that people share their experiences with this doctor. I was looking for how to remove some breast implants, but reading this, I don't want surgery with him even if it's a gift. Now when I see him on TV or on social media, I see a person without ethic
+    source: "Google"
+  - author: "Kelley M."
+    rating: 3
+    date: "2024-10-16"
+    text: >-
+      Doctor Spera is a great doc /artist  and so are his nurses..and Lisa is AMAZING… I had Breast augmentation in 2015… Recently I ruptured my right  implant… it did take a while to get the appointment set… I had a warranty and then I bought another warranty… And surprisingly after all that they wanted $1500 extra a week later… (really felt like a bait switch) SO I  got the $1500 extra And went ahead 
+    source: "Google"
+logo: "/images/clinics/logos/carlos-spera-m-d-plastic-surgery-miami.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

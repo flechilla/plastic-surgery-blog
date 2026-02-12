@@ -1,0 +1,61 @@
+name: "Dr. Haley Carpenter - Vitruvian Surgical Institute - Plastic Surgery"
+slug: dr-haley-carpenter-vitruvian-surgical-institute-plastic-surg
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "University Drive"
+address: "2855 N University Dr #400, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.2660679
+  lng: -80.2493727
+phone: "(954) 344-4344"
+website: "https://www.vitruvianinstitute.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13307566927002705205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Dr. Haley Carpenter - Vitruvian Surgical Institute - Plastic Surgery is a plastic surgery located in Coral Springs, FL. With a 5-star rating from 20 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 5
+reviewCount: 20
+reviews:
+  - author: "Maria G."
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      I had a double mastectomy with reconstructive surgery with Dr. Carpenter, and from the moment I began my search, it became clear that I simply couldn’t not choose her. She came highly recommended by multiple physicians, and after meeting her, I understood exactly why…she was absolutely worth the wait. Her bedside manner is truly exceptional. She took her time with me, answered every question I cou
+    source: "Google"
+  - author: "Josephine K."
+    rating: 5
+    date: "2025-11-23"
+    text: >-
+      I went to see Dr. Haley Carpenter for a consultation.  I had such a great experience.  Dr. Carpenter is extremely knowledgeable.  She took her time to explain things clearly and answered all of my questions.  I went ahead with the surgery.  Dr. Carpenter's follow up was excellent.  After the procedure she checked in on me to see how everything was going, and offered advise on after care.  Dr. Carp
+    source: "Google"
+  - author: "Isabelle-Marie d. F."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      Working with Dr. Carpenter has been one of the most empowering experiences I've had. From the very beginning, she made me feel truly seen and heard. She guided me through the process of dissolving my lip filler and thoughtfully adding new filler that felt so much more like me — a more genuine, gorgeous version of myself.  What really stood out was how intuitive and kind she is. She asks the right 
+    source: "Google"
+  - author: "Maria M."
+    rating: 5
+    date: "2025-08-27"
+    text: >-
+      I had the distinct pleasure of meeting Dr Haley Carpenter as a patient in her office a couple of weeks ago.  It was a wonderful experience. Stellar!!! Dr. Carpenter has a most steady hand and a keen eye. She really knows her stuff.  I felt safe and comfortable in her competent professional care. She is very in tune; very connected to her patients and really listens to you. I love her confident dec
+    source: "Google"
+  - author: "Peter R."
+    rating: 5
+    date: "2025-09-20"
+    text: >-
+      I happened Dr. Carpenter by a fluke. I was visiting my surgeon at Baptist Boca for some back issues and he recommended her for my nerve issues. She is absolutely THE most thorough Dr. I have met in years. She takes her time, asks myriad questions, is caring, and wants to gets to the root problem. It's super refreshing! In fact, her staff is trained equally well and is welcoming, friendly, and resp
+    source: "Google"
+logo: "/images/clinics/logos/dr-haley-carpenter-vitruvian-surgical-institute-plastic-surg.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

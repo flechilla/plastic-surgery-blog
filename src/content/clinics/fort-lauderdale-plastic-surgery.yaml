@@ -1,0 +1,61 @@
+name: "Fort Lauderdale Plastic Surgery"
+slug: fort-lauderdale-plastic-surgery
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Coral Ridge Country Club"
+address: "3536 N Federal Hwy #100, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.170945399999997
+  lng: -80.11882419999999
+phone: "(954) 393-0254"
+website: "https://www.fortlauderdaleplasticsurgery.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=13159697749520918964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Fort Lauderdale Plastic Surgery is a plastic surgery located in Fort Lauderdale, FL. With a 4.8-star rating from 104 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.8
+reviewCount: 104
+reviews:
+  - author: "Tanya P."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      I cannot say enough about Dr. Lisa Learn and her amazing team. She is a perfectionist and true professional with the warmest disposition. From the initial consultation to the procedure and follow up, she and her entire staff are first class all the way. I referred a close family member as well who was equally pleased with her experience. There are many doctors closer to my area but after doing res
+    source: "Google"
+  - author: "Bill D."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      Dr. Dudas  has administered several Kenalog injections for keloid scars for my wife. These scars are common for Asians and she has been extremely satisfied with the results. Dr. Dudas is extremely knowledgeable and explained everything in easy to understand language. Based upon recommendations from other satisfied clients she is also going to start a Sculptra treatment process. We highly recommend
+    source: "Google"
+  - author: "C"
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      Highly recommend booking your procedure with Dr. Learn. She is fantastic and is an expert at what she does. This was my first ever cosmetic procedure and I got submental lipo of the chin and jaw, I didn’t feel a thing and my bruising lasted 4 days tops. I’m so happy with the results! Dr Learn and her staff go above and beyond to make you feel comfortable and welcome. :)
+    source: "Google"
+  - author: "Kristen"
+    rating: 5
+    date: "2026-01-11"
+    text: >-
+      I had a scar revision with Dr. Learn, and I cannot recommend her enough! My results are great, and Dr. Learn and her staff are kind and warm, making me feel comfortable throughout the whole experience.
+    source: "Google"
+  - author: "Robbie l."
+    rating: 5
+    date: "2025-09-05"
+    text: >-
+      Dr. Lisa and Daughter Lauren, are the sweetest, most patient, attentive, caring, respectful women Ive met, when it comes to customer service in the Self Image Industry. Everyone who works in this office is welcoming and warm. Everyone is so humble and pleasant. My mid face lift has given me the ability to greet the world every day in my best mood, feeling good about myself. Feeling confident is ev
+    source: "Google"
+logo: "/images/clinics/logos/fort-lauderdale-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

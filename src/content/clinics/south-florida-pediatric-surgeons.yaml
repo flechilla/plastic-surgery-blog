@@ -1,0 +1,61 @@
+name: "South Florida Pediatric Surgeons"
+slug: south-florida-pediatric-surgeons
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Coral Hills Drive"
+address: "3001 Coral Hills Dr #150, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.2685188
+  lng: -80.2536945
+phone: "(954) 341-7000"
+website: "http://sflpediatricsurgeons.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8538910402003626377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Medical Practice"
+description: >-
+  South Florida Pediatric Surgeons is a medical practice located in Coral Springs, FL. With a 4.2-star rating from 15 reviews.
+specialties:
+  - "Medical Practice"
+rating: 4.2
+reviewCount: 15
+reviews:
+  - author: "Danielle G."
+    rating: 5
+    date: "2025-12-31"
+    text: >-
+      Dr. Amin is the absolute BEST!!! She showed my daughter so much care and thoroughly explained the surgery and how it went afterwards. I wish she could be her PCP. The office manager Autumn was sweet and prompt. Lovely office setting and excellent customer service.
+    source: "Google"
+  - author: "Dana"
+    rating: 5
+    date: "2024-11-22"
+    text: >-
+      Nikki gives 100% to each patient as if they were the only one! Surgeons, Dr. Markley and Dr. Puglisi are exceptionally knowledgeable, compassionate and professional! I can’t imagine receiving better care than my daughter received from the team at South Florida Pediatric Surgeons!
+    source: "Google"
+  - author: "NattyLioness"
+    rating: 5
+    date: "2020-01-21"
+    text: >-
+      Absolutely wonderful! We had an issue with our referral. Nikki got on the phone with my pediatrician's office and handled it for us. We were seen right after. Thank you Nikki!  Dr Lasko was gentle and kind. My son was nervous but Dr Lasko was great. He took his time and explained all the medical terms and assured us that he does not need surgery. What a relief!  5 stars for the Coral Springs offic
+    source: "Google"
+  - author: "Christine V."
+    rating: 1
+    date: "2020-07-15"
+    text: >-
+      I wish I had read reviews before visiting this office. My daughter and I had a terrible experience at the Coral Springs office today. Dr Markley spent less than one minute in the exam room and was extremely dismissive. The front office staff was unprofessional and extremely aggressive; providing partial information, being extremely rude and rushing payment. The only positive is that an appointment
+    source: "Google"
+  - author: "Bobby G."
+    rating: 2
+    date: "2019-03-22"
+    text: >-
+      2:30pm appointment for my son, arrived at 2:20pm, was not taken into a room until 3:35pm. An apology was not even given for the long wait. Half an hour is one thing, but 1hr is unacceptable and poor scheduling. There is 4 pages of paperwork to fill out if it’s your first time and they did not mention anything when I made the appointment along the lines of try to arrive early to complete all the pa
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

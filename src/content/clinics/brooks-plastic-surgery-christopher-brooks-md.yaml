@@ -1,0 +1,61 @@
+name: "Brooks Plastic Surgery: Christopher Brooks, MD"
+slug: brooks-plastic-surgery-christopher-brooks-md
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hollywood Hills"
+address: "1201 N 35th Ave Suite 200, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.021151999999997
+  lng: -80.1786674
+phone: "(954) 256-1184"
+website: "https://www.brooksplasticsurgery.com/?utm_source=gmb_auth"
+googleMapsUrl: "https://maps.google.com/?cid=8915177814919979691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Brooks Plastic Surgery: Christopher Brooks, MD is a plastic surgery located in Hollywood, FL. With a 4.9-star rating from 287 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.9
+reviewCount: 287
+reviews:
+  - author: "bailyn l."
+    rating: 5
+    date: "2025-12-07"
+    text: >-
+      I got my breast reduction 3 days ago and I feel amazing. Dr brooks did an amazing job on my breast. He gave me the exact results I wanted. The pain is tolerable. I am comfortable in my bra and I am truly blessed to have Dr brooks as my surgeon. If you are thinking about going to him. Don't think just do it! He is truly talented
+    source: "Google"
+  - author: "NASHLYNE"
+    rating: 5
+    date: "2025-07-28"
+    text: >-
+      If you’re thinking of choose Dr. Brooks for your next surgery. Do not hesitate. He is one of the most kind of them all. Knows he stuff and makes you feel comfortable. His Coordinator Jennifer is also the sweeetest. My breast are healing so amazing and they a Perky and youthful!!! Thank you Brooks Plastic Surgery for changing my Life.
+    source: "Google"
+  - author: "Barbie M."
+    rating: 5
+    date: "2024-09-19"
+    text: >-
+      I recently consulted with Dr. Brooks regarding reconstructive surgery, and although my procedure hasn’t been done yet, I couldn’t be more pleased with the experience so far. Jennifer which is an important part of his  staff is exceptional—always welcoming, professional, and helpful. Scheduling appointments has been a breeze, and I’ve never had any issues finding a convenient time. Dr. Brooks has b
+    source: "Google"
+  - author: "Shanika S."
+    rating: 5
+    date: "2025-04-22"
+    text: >-
+      I recently visited Dr. Brooks for the first time, and I was immediately welcomed by a sense of warmth in his office that made me feel at ease. Both he and his assistant thoroughly explained the pros and cons of the procedure, presenting the information in a clear and understandable manner. I would wholeheartedly recommend Dr. Brooks to anyone seeking his expertise! I will follow up with pictures a
+    source: "Google"
+  - author: "Sisely J."
+    rating: 5
+    date: "2024-08-09"
+    text: >-
+      I truly enjoyed my experience at Brooks Plastic Surgery. From the initial telephone call to meeting in person, Jennifer was personable, professional, and knowledgeable. She has an amazing ability to make you feel comfortable and calm. Having run a medical office for 10 years, I know that the front staff can make or break your office. I've left a wonderful physician before due to the treatment by t
+    source: "Google"
+logo: "/images/clinics/logos/brooks-plastic-surgery-christopher-brooks-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

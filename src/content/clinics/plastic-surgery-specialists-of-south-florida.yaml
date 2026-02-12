@@ -1,0 +1,61 @@
+name: "Plastic Surgery Specialists of South Florida"
+slug: plastic-surgery-specialists-of-south-florida
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hollywood Hills"
+address: "1201 N 35th Ave #200, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.021193
+  lng: -80.1786793
+phone: "(954) 987-8100"
+website: "https://psssf.com/?utm_source=gbp&utm_medium=organic"
+googleMapsUrl: "https://maps.google.com/?cid=15789144544035008034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Plastic Surgery Specialists of South Florida is a plastic surgery located in Hollywood, FL. With a 4.7-star rating from 60 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.7
+reviewCount: 60
+reviews:
+  - author: "Liliana O."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      Dr. Yoav Barnavon has been my plastic surgeon following my bilateral mastectomy, and I am extremely grateful for his exceptional care and professionalism. From the very first appointment, he gave me confidence and reassurance, and I knew I was in excellent hands.  The care I have received has been outstanding. Dr. Barnavon and his entire team are highly professional, compassionate, and attentive. 
+    source: "Google"
+  - author: "Michelene S."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      OMG let me just tell you how amazing my doctor is so I get a reduction in a lift and I couldn’t be more happy with the result. OMG he did such an amazing job. I cannot believe it how I look and how I feel it makes me feel more younger, my sexier, and once again, I will definitely go back again under the knife to do this again I do not regret doing this. I am so in love with my body. I’m so in love
+    source: "Google"
+  - author: "Larissa"
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      Dr. Barnavon and his staff have been exceptional. My case was unique as all prior implant procedures with another plastic surgeon were not successful (cause of the radiation treatment.). Dr. Barnavon provided me with a reconstruction option that deals with my own skin and fat. He is well experienced in this type of reconstruction and he also seeks to ensure overall esthetic balance and symmetry.  
+    source: "Google"
+  - author: "Luna L."
+    rating: 5
+    date: "2025-12-25"
+    text: >-
+      I want to leave a sincere review for Yoav Barnavon.  From the very beginning, Dr. Barnavon truly listened to me. He understood exactly what I wanted and translated that into results I had been trying to achieve for years. After my third breast surgery, I finally had the breasts I always wanted. The shape, balance, and overall result were incredible, and I was genuinely happy.  I have been treated 
+    source: "Google"
+  - author: "Rachel T."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      I had an exceptional experience with Dr. Tomar Reisler. He is attentive, personable, and extremely talented. Everything he explained during my consultation happened exactly as he said it would, which gave me great confidence throughout the entire process.  What impressed me most was how present he was at every stage. From the initial contemplation to the formal consultation, the surgery, and each 
+    source: "Google"
+logo: "/images/clinics/logos/plastic-surgery-specialists-of-south-florida.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

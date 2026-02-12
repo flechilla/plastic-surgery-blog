@@ -1,0 +1,61 @@
+name: "Dr. Vela Plastic Surgery"
+slug: dr-vela-plastic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "730 NW 107th Ave, Miami, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.7769178
+  lng: -80.3704757
+phone: "(305) 390-1065"
+website: "https://www.drvelaplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+googleMapsUrl: "https://maps.google.com/?cid=11069258813322988735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Dr. Vela Plastic Surgery is a plastic surgery located in Miami, FL. With a 3.5-star rating from 8 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 3.5
+reviewCount: 8
+reviews:
+  - author: "Krystel L."
+    rating: 1
+    date: "2025-11-17"
+    text: >-
+      Dr. Vela came highly recommended by another surgeon but unfortunately the office is very poorly managed. For starters, all the employees start the calls in Spanish so if you only speak English prepare to be passed around in hopes of finding someone that will speak to you. Even though I speak Spanish, I was met with attitude when I insisted on speaking English. On my first call I was transferred ar
+    source: "Google"
+  - author: "Johanalith L."
+    rating: 1
+    date: "2025-08-26"
+    text: >-
+      I had one of the worst experiences of my life with this doctor. From start to finish, everything was disappointing and unprofessional. The doctor never met my expectations, and I rarely saw him during the whole process. After the surgery, I was left with pain in one breast and developed horrible rashes. It was a terrible and stressful recovery.  When I tried to reach out for help, the doctor never
+    source: "Google"
+  - author: "Elsa M."
+    rating: 5
+    date: "2025-08-29"
+    text: >-
+      Two weeks after surgery 10 of 10 if you are planning a mommy makeover or tummy tuck he is the best option, l love my new body, he exceeded my expectations, thank you so much ☺️☺️☺️
+    source: "Google"
+  - author: "Sylvia P."
+    rating: 1
+    date: "2024-11-22"
+    text: >-
+      8 months post op and unhappy with everything . I had a tummy tuck , boob job and lift as well as arm lipo with Jplasma. Doesn’t even look like i’ve had lipo done on my arms still look the same. My boobs i got silicone in them and they have sagged tremendously don’t even look like i have them done. called them to say can he fix them after spending 14k on everything and he said he would fix them for
+    source: "Google"
+  - author: "nadia o."
+    rating: 5
+    date: "2024-11-18"
+    text: >-
+      I am a patient of Dr Vela.  His skill and bedside manner are unmatched.   Phenomenal Dr.  I ADORE him and will GLADLY seek his services for any future elective procedures.   HIGHLY RECOMMEND!!!
+    source: "Google"
+logo: "/images/clinics/logos/dr-vela-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

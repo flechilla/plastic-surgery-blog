@@ -1,0 +1,61 @@
+name: "liv Plastic Surgery by Dr. Andrew Ress"
+slug: liv-plastic-surgery-by-dr-andrew-ress
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Boca Pointe"
+address: "6877 SW 18th St # 201, Boca Raton, FL 33433"
+zipCode: "33433"
+coordinates:
+  lat: 26.3334337
+  lng: -80.15109129999999
+phone: "(561) 347-1611"
+website: "https://livplasticsurgery.com/?keyword?utm_source=google"
+googleMapsUrl: "https://maps.google.com/?cid=12316073601683774523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  liv Plastic Surgery by Dr. Andrew Ress is a plastic surgery located in Boca Raton, FL. With a 4.9-star rating from 275 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.9
+reviewCount: 275
+reviews:
+  - author: "Rose"
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      Dr Ress delivers phenomenal results! I had struggled with arm “batwings” for years, religious diet and exercise were not overcoming my genetics. Dr Ress and Vaser were the only match that fixed my long term insecurity. My only regret was I didn’t come to him sooner.
+    source: "Google"
+  - author: "Kelsey"
+    rating: 5
+    date: "2025-07-11"
+    text: >-
+      I cannot say enough about Dr. Ress. I had a rhinoplasty with him and his attention to detail and thorough follow up is unmatched. My body ended up throwing a lot of scar tissue which was no fault of the Dr, but he carefully went back and fixed everything until it was perfect. There’s a reason he’s been voted the best many times. I would not trust anyone else! If you’re thinking about getting any c
+    source: "Google"
+  - author: "Lori W."
+    rating: 5
+    date: "2019-02-26"
+    text: >-
+      To celebrate my 60th Birthday, I decided to find out what I could do to be more beautiful and of course, sexy. I went to see Dr. Andrew Ress for a consultation about what's available on the market to enhance beauty. It was an eye-opening experience and I left happy I was introduced to the options. Dr. Ress explained what to do with the skin above my eyes and how a less invasive procedure can be us
+    source: "Google"
+  - author: "Nicole C."
+    rating: 5
+    date: "2024-12-20"
+    text: >-
+      I recently used Dr. Ress for some cosmetic procedures and I cannot say enough amazing things about him and the entire team at Liv Plastic Surgery. They were able to get me in promptly for a consultation where Dr. Ress listened to what I was looking for, answered all questions, and was honest in what he could achieve and what to expect. They also let me know that they are always available to answer
+    source: "Google"
+  - author: "Stephanie R."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      After searching for the right board certified plastic  surgeon, I am extremely picky, I chose  Dr. Ress  after my consultation, he told me exactly what I need he has great bedside  manner his staff is very friendly and very organized.  I can’t wait to see my results! and I will edit to show pictures lower  face and  neck lift with CO2 laser after my surgery.. Surgery is scheduled for August and I 
+    source: "Google"
+logo: "/images/clinics/logos/liv-plastic-surgery-by-dr-andrew-ress.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

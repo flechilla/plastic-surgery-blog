@@ -1,0 +1,61 @@
+name: "Shino Bay Cosmetic Dermatology & Laser Institute"
+slug: shino-bay-cosmetic-dermatology-laser-institute
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "South Fort Lauderdale"
+address: "350 E Las Olas Blvd #110, Fort Lauderdale, FL 33301"
+zipCode: "33301"
+coordinates:
+  lat: 26.1187793
+  lng: -80.1398408
+phone: "(954) 765-3005"
+website: "https://www.shinobayderm.com/?utm_source=google&utm_medium=organic&utm_campaign=online_search&utm_id=local"
+googleMapsUrl: "https://maps.google.com/?cid=8552645847164397007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  Shino Bay Cosmetic Dermatology & Laser Institute is a spa & wellness located in Fort Lauderdale, FL. With a 4.8-star rating from 221 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 4.8
+reviewCount: 221
+reviews:
+  - author: "Daniella G."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      Dr. Shino and Kelly PA-C, along with the entire team at Shino Bay are beyond incredible! From booking an appointment to education and treatment, I felt at complete ease knowing I was receiving the best care possible. Dr. Shino adores his patients, is progressive in aesthetic trends and provides treatments that preserve your beauty, while providing naturally enhanced results. Kelly PA-C is an excel
+    source: "Google"
+  - author: "Juliet T."
+    rating: 5
+    date: "2025-11-25"
+    text: >-
+      ✨ 5-Star Review for Dr. Shino Bay ✨  I recently had my temples treated with Voluma by Dr. Shino Bay, and the experience was truly exceptional. From the moment I walked in, his team made me feel completely at ease. Dr. Shino Bay’s artistic eye is unmatched, he took the time to explain the anatomy, assess my facial balance, and create a plan that was subtle, natural, and perfectly tailored to me.  T
+    source: "Google"
+  - author: "Gina A."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Shino Bay is top notch! Kelly is my lady for life. She is an extremely skilled professional and thorough in all that she does, including providing explanations. All of the staff there is excellent, including Dawn who Is the patient coordinator. I moved out of state and still continue to go to Shino Bay when I am back in FL. Don’t think twice, get your money together and go there for stellar servic
+    source: "Google"
+  - author: "jasmine s."
+    rating: 5
+    date: "2025-11-27"
+    text: >-
+      Four days ago, I had a Sculptra treatment at Dr. Aguilera’s office. I’m 49 and had never done any cosmetic treatments before, other than 20 units of Botox, because I’ve always been nervous about doing anything to my face. Working in the medical industry and not trusting many doctors, I really did my research—and that’s how I found out that Dr. Aguilera is a true pioneer in non-invasive treatments.
+    source: "Google"
+  - author: "Zana W."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      Dr. Shino Bay is one of the most knowledgeable and skilled masters in cosmetic dermatology. His approach to enhancing each individual’s natural beauty is truly unmatched. The level of care, attention to detail, continued education, and precision he brings to his craft is unlike anything you will experience elsewhere. His hands are truly gifted, and beyond being an extraordinary cosmetic dermatolog
+    source: "Google"
+logo: "/images/clinics/logos/shino-bay-cosmetic-dermatology-laser-institute.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

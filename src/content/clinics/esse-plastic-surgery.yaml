@@ -1,0 +1,61 @@
+name: "eSSe Plastic Surgery"
+slug: esse-plastic-surgery
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Imperial Point"
+address: "6333 N Federal Hwy #404, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.206258599999998
+  lng: -80.1095371
+phone: "(954) 533-1671"
+website: "http://esseplasticsurgery.com/?utm_source=gbp&utm_medium=organic"
+googleMapsUrl: "https://maps.google.com/?cid=12857808640368927747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  eSSe Plastic Surgery is a plastic surgery located in Fort Lauderdale, FL. With a 4.9-star rating from 34 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.9
+reviewCount: 34
+reviews:
+  - author: "telia W."
+    rating: 5
+    date: "2024-03-15"
+    text: >-
+      Lindsey was awesome, she made me feel like I was the only patient she had. She made me feel comfortable, I enjoyed her company, she made my procedure so calming and she reasured me everytime.  During recovery she checked on me none stopped and made sure I was healing properly and comfortable, she was so kind and pleasant. If anyone wanted to do miradry, Lindsey is your girl. Let's not forget Adra 
+    source: "Google"
+  - author: "Rafaela D."
+    rating: 5
+    date: "2020-09-04"
+    text: >-
+      I got the Mira Dry treatment done with Lindsay and I’m very happy! Not only was the treatment successful, but her bedside manner was amazing. She also checked in on me not once, but twice days after the treatment. She was professional, informative, calming, and just truly amazing from beginning to end. I would highly recommend this treatment with Lindsay to everyone!
+    source: "Google"
+  - author: "C I."
+    rating: 5
+    date: "2021-04-19"
+    text: >-
+      I interviewed several surgeons before finally selecting eSSe Plastic Surgery.  My experience has been Amazing.  From Dr. Stokes personable bedside manner to the responsiveness of her staff – Front and Back Office.  Special shout out to Lindsey my Medical Esthetician who added to a fantastic post-op experience.   Hands down a great team!!!  I highly recommend!
+    source: "Google"
+  - author: "Katherine D."
+    rating: 5
+    date: "2021-07-28"
+    text: >-
+      I recently was referred to Esse for Miradry. I had an amazing experience from beginning to end. First, I did the consult with Dr. Stokes, she is amazing. And RN Lindsay performed the procedure. Lindsay is amazing, very professional and knowledgeable. She made the procedure comfortable and easy to get through. She also checked up on me after the surgery to see how I was doing. I had a great experie
+    source: "Google"
+  - author: "Karen P."
+    rating: 5
+    date: "2021-06-26"
+    text: >-
+      Dr Stokes is the best!  I love what she did to beautify me.  The attention to detail is amazing.  Follow up fantastic.  Skin tightening sessions by Lindsay were the icing on the cake.  These ladies are wonderful and you will be grateful like i am.
+    source: "Google"
+logo: "/images/clinics/logos/esse-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

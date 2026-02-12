@@ -1,0 +1,61 @@
+name: "Dr. Shane McDaniel Cosmetic Surgery"
+slug: dr-shane-mcdaniel-cosmetic-surgery
+city: hialeah
+cityDisplay: "Hialeah"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "7802 NW 103rd St suite 106, Hialeah, FL 33016"
+zipCode: "33016"
+coordinates:
+  lat: 25.866498
+  lng: -80.324972
+phone: "(305) 807-3634"
+website: "https://drshanemcdaniel.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13928064341188057837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Cosmetic Surgery"
+description: >-
+  Dr. Shane McDaniel Cosmetic Surgery is a cosmetic surgery located in Hialeah, FL. With a 5-star rating from 68 reviews.
+specialties:
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 68
+reviews:
+  - author: "Karen V."
+    rating: 5
+    date: "2025-11-17"
+    text: >-
+      I had my Lipo 360 done with Dr. McDaniel, and let me just say… choosing him was one of the best decisions I’ve ever made for myself. From the very first appointment, I felt like I was talking to someone who truly cared, not just a doctor rushing through a checklist. He listened, explained everything in a way that actually made sense, and never made me feel pressured or unsure. The procedure itself
+    source: "Google"
+  - author: "Jess"
+    rating: 5
+    date: "2025-11-05"
+    text: >-
+      had Lipo 360 with a BBL done by Dr. McDaniel, and I truly could not be happier with my results. From the moment I walked into my consultation, he made me feel comfortable, informed, and genuinely understood. He listened to the look I was going for , big booty and snatched waist and he delivered exactly that.  My waist is contoured beautifully, my shape looks smooth and balanced from every angle, a
+    source: "Google"
+  - author: "JEANNIE S."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      I had a breast reduction and lift with Dr. McDaniel and I couldn’t be happier with my experience. He was extremely personable and professional from start to finish, taking the time to answer all of my questions and making sure I felt completely comfortable throughout the process. The procedure itself was smooth and virtually painless, which truly exceeded my expectations. I felt well cared for and
+    source: "Google"
+  - author: "Suhairy G."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      Excellent service comes with an excellent Doctor. Dr McDaniel was very informative and very polite. This is my second surgery with him an again I am very please with my results. My Her surgery was a tummy tuck impress implant exchange this time around I did a Lipo 360 with J plasma. And even though it’s only day one, I can see a change. Thank you, Doc you did an amazing job!
+    source: "Google"
+  - author: "LeeEstelle H."
+    rating: 5
+    date: "2025-12-27"
+    text: >-
+      Love, love, love Dr. McDaniel, his precision,  his attitude, his smile, his staff, everything! I came in knowing exactly what I DIDN’T want to look like, and he delivered beyond my expectations. I’ve heard a lot from others that they couldn’t see what I saw or that others would get surgery to get what I have naturally. Dr. McDaniel knew exactly what I was saying but also stayed realistic about it.
+    source: "Google"
+logo: "/images/clinics/logos/dr-shane-mcdaniel-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

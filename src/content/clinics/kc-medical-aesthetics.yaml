@@ -1,0 +1,61 @@
+name: "KC Medical Aesthetics"
+slug: kc-medical-aesthetics
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "7950 NW 53rd St #120, Doral, FL 33166"
+zipCode: "33166"
+coordinates:
+  lat: 25.8212597
+  lng: -80.3265955
+phone: "(305) 322-9029"
+website: "http://www.kcma.miami/"
+googleMapsUrl: "https://maps.google.com/?cid=1821963847531499741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "skin_care_clinic"
+googleCategoryDisplay: "Skin Care Clinic"
+description: >-
+  KC Medical Aesthetics is a skin care clinic located in Doral, FL. With a 5-star rating from 838 reviews.
+specialties:
+  - "Skin Care Clinic"
+rating: 5
+reviewCount: 838
+reviews:
+  - author: "yusleidy c."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      KC Medical Aesthetics is AMAZING! I visited this clinic for my Botox, and I was honestly blown away. The whole place has such a beautiful and harmonious vibe — everything is clean, elegant, and very welcoming. All the girls who work there are incredibly professional and so sweet.  Dr. Kaly Castellano, who did my Botox, was unbelievably patient with me. I usually get very nervous with injections, b
+    source: "Google"
+  - author: "Leanny P."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      I had an amazing experience with Dr. Castellanos. From the moment I walked in, I felt comfortable, listened to, and truly cared for. He is extremely professional, gentle, and detail-oriented.  My Botox and lip filler results look natural, balanced, and beautiful ,exactly what I wanted. He takes the time to explain everything and makes sure you feel confident and safe throughout the entire process.
+    source: "Google"
+  - author: "Natalie M."
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      I’ve been coming to Dr Castellanos for a while now, and she has always delivered beautiful, natural results. I trust her work completely. She’s precise, and clearly experienced. The staff is also wonderful. So glad to have found an injector I can rely on long-term. Recommend her 100% ✨✨
+    source: "Google"
+  - author: "Carlos U."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      I had an excellent experience with my Botox injections. The provider was knowledgeable, patient, and took the time to explain everything before starting. The procedure was quick, virtually painless, and very precise. Results look natural and smooth , exactly what I was hoping for. The office was clean and professional, and I felt completely comfortable throughout the visit. Highly recommend for an
+    source: "Google"
+  - author: "Claudia C."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      had a great experience getting Morpheus8 at this clinic. From the moment you walk in, the space is beautiful and welcoming. The staff and the doctor are incredibly kind and professional. Easy parking, easy access, great prices, and excellent quality. I highly recommend this place.
+    source: "Google"
+logo: "/images/clinics/logos/kc-medical-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

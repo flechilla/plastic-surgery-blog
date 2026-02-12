@@ -1,0 +1,61 @@
+name: "Sanctuary Medical Aesthetic Center"
+slug: sanctuary-medical-aesthetic-center
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "North Fort Lauderdale"
+address: "2715 E Commercial Blvd, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.1901005
+  lng: -80.1089013
+phone: "(954) 256-8494"
+website: "https://www.sanctuarymedical.com/?UTM_source=GMB_listing&UTM_medium=organic"
+googleMapsUrl: "https://maps.google.com/?cid=4315515634008626191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  Sanctuary Medical Aesthetic Center is a spa & wellness located in Fort Lauderdale, FL. With a 5-star rating from 113 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 5
+reviewCount: 113
+reviews:
+  - author: "Faye M."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      Thaina did my first ever lip filler and Botox and she was so patient and gentle w me and took the time to explain each step she was doing which not only increased my confidence in a process that I was so new to, but also helped my nerves of what to expect. She definitely loves what she does and shows that in her attention to detail and her customer service. I’m already excited to go back and get m
+    source: "Google"
+  - author: "Linda G."
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      I'm 72 years old. I swim a lot and spend a lot of time in the sun. I have a bad complexion: oily skin, large pores, whiteheads, brown spots, wrinkles, etc. I basically wanted to get a facial to 'clean' out my pores and address any issues without any major procedures. Marissa was excellent. She took digital pictures of my face which showed any underlying issues. The techniques used in my hydrafacia
+    source: "Google"
+  - author: "Camilo S."
+    rating: 5
+    date: "2025-08-21"
+    text: >-
+      I had the best experience ever at Solee Cosmetic surgery!! From the moment you enter the clinic, the entire staff makes you feel at home. The support is continuous, and they always care about your well-being. I will use other services again in the future since I am very satisfied with absolutely everything. I know that sometimes it is difficult to make decisions when it comes to undergoing aesthet
+    source: "Google"
+  - author: "Pure B. F. L."
+    rating: 5
+    date: "2024-05-28"
+    text: >-
+      I recently had the pleasure of visiting Sanctuary for a hydro facial, and I must say, it was an exceptional experience from start to finish. The ambiance of the spa was serene and inviting, immediately putting me at ease. The staff were incredibly professional and attentive, ensuring I was comfortable throughout the entire process.  The hydro facial itself was fantastic. The esthetician (Marissa) 
+    source: "Google"
+  - author: "Michelle D."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Always a pleasure seeing Cheryl.. she has my very sensitive skin glowing, and is always right on time on time. Beyond friendly front  of the house.
+    source: "Google"
+logo: "/images/clinics/logos/sanctuary-medical-aesthetic-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

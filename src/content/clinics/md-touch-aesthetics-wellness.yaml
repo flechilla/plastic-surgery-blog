@@ -1,0 +1,61 @@
+name: "MD Touch Aesthetics & Wellness"
+slug: md-touch-aesthetics-wellness
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "8884 Royal Palm Blvd, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.2591108
+  lng: -80.2450188
+phone: "(954) 960-6321"
+website: "https://www.mdtouchfl.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17274779716150302169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  MD Touch Aesthetics & Wellness is a spa & wellness located in Coral Springs, FL. With a 4.9-star rating from 124 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 4.9
+reviewCount: 124
+reviews:
+  - author: "Laurie M."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      I cannot say enough great things about Dr. Carlos Jurado. He is truly in a league of his own. Whether it’s Botox, facial treatments, or weight-loss care, his skill is exceptional. The results are always natural, precise, and exactly what you hope for. What really sets him apart is how thorough and knowledgeable he is. He takes the time to explain everything, answers every question, and makes sure 
+    source: "Google"
+  - author: "jade"
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Very friendly staff I love them all. I would highly recommend this place. The doctor is very nice, knowledgeable, and has excellent bedside manners. You can be completely honest with him,  they always have promotions  too!!!
+    source: "Google"
+  - author: "Rejane C."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      I had a great experience during my first visit with Dr Jurado! I’m very impressed with the whole staff… very friendly, caring and knowledgeable.. Dr Jurado is awesome! He is the type of doctor we don’t see very often any more…the ones who spend a quality time with their patients. He’s a ⭐️⭐️⭐️⭐️⭐️ FOR SURE!!! I highly recommend him!!!
+    source: "Google"
+  - author: "Yahaira R."
+    rating: 5
+    date: "2025-09-05"
+    text: >-
+      I had an excellent experience with Dra.  Magua and her staff. She was very thorough, explained everything clearly, and made sure I felt comfortable at all times. The entire team was kind, professional, and very welcoming. I truly appreciate the care I received and definitely recommend them.
+    source: "Google"
+  - author: "alba m."
+    rating: 5
+    date: "2025-04-10"
+    text: >-
+      From the moment I made the appointment, the staff were very nice and welcoming also knowledgeable of their products. ! Dr. Magua is very professional and sweet! She took her time within the service and explained with detail every step she was taking. Thank You MD Touch Great experience
+    source: "Google"
+logo: "/images/clinics/logos/md-touch-aesthetics-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

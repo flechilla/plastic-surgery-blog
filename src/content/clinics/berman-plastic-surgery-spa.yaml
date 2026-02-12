@@ -1,0 +1,61 @@
+name: "Berman Plastic Surgery & Spa"
+slug: berman-plastic-surgery-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "670 Glades Rd #240, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.363695699999997
+  lng: -80.1002651
+phone: "(561) 417-0171"
+website: "https://www.drberman.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15495817647103263971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Berman Plastic Surgery & Spa is a plastic surgery located in Boca Raton, FL. With a 4.6-star rating from 154 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.6
+reviewCount: 154
+reviews:
+  - author: "Anonymous"
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      I cannot say enough good things about Dr. Berman. I went to him for revisional liposuction and he and his team were phenomenal from the first appointment through my 1 year post op appointment. He is very professional, honest, and approachable. I only wish I gone to him in the first place as I know I would have been in great hands and not needed a revision or any additional work done. Highly recomm
+    source: "Google"
+  - author: "Camille A."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      I am 21 years old and I did my lower blepharoplasty with Dr. Berman and I was amazed at how great the service was here. The staff here are incredible! They all remembered my name and were so friendly and they were always asking how I was healing and really did care about my surgery journey and healing process. Dr. Berman was so friendly and professional and I could really tell that he cared a lot 
+    source: "Google"
+  - author: "Vince"
+    rating: 5
+    date: "2025-12-22"
+    text: >-
+      I’ve been seeing Doctor Berman for about 10 years. He has the wisdom and expertise to throughly explain to me the options available and what I can expect from them. Furthermore he always brings his fastball and every cut/injection is well thought out. He always has time for my questions and concerns and all in all him and the office just do things right. This excellent process has led to excellent
+    source: "Google"
+  - author: "Sabrina P."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      I had upper & lower eye lid surgery. I am 1 month out and very happy with my results. The staff is very friendly and professional. They are available to answer all my questions at any time. I even had a small issue 1 day after surgery and Dr. Berman called to check in on me and gave me his cell number. Would highly recommend.
+    source: "Google"
+  - author: "Emily P."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      Dr. Berman is an incredibly detail-oriented and talented plastic surgeon. He did reconstructive surgery on my nose following a MOHS procedure and to this day the scarring is barely visible -- something other surgeons worried wouldn't be possible. Highly recommend.
+    source: "Google"
+logo: "/images/clinics/logos/berman-plastic-surgery-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

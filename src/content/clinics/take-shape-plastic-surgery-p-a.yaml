@@ -1,0 +1,61 @@
+name: "Take Shape Plastic Surgery, P.A."
+slug: take-shape-plastic-surgery-p-a
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "4161 NW 5th St #100, Plantation, FL 33317"
+zipCode: "33317"
+coordinates:
+  lat: 26.128574399999998
+  lng: -80.2037314
+phone: "(954) 585-3800"
+website: "http://www.takeshape.info/"
+googleMapsUrl: "https://maps.google.com/?cid=11644066821743587698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Take Shape Plastic Surgery, P.A. is a plastic surgery located in Plantation, FL. With a 4.8-star rating from 159 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.8
+reviewCount: 159
+reviews:
+  - author: "God f. F. m."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I had ftm trans masculine top surgery with Dr. Sassani and everyone here is truly amazing, they treat you like family 🙂 and a rare care and compassion that this world mostly lacks is found here. I’m grateful to be considered a step son of sorts and I’m forever thankful for a life saving and life changing procedure where the result is evidence that everyone here cares about the communities and peo
+    source: "Google"
+  - author: "Nicole L. G."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      I had such an incredible experience with Dr. Sassani and his entire team. Dr. Sassani is a wonderful surgeon—knowledgeable, skilled, and also very kind and caring. From start to finish, he made me feel comfortable and confident, and the results exceeded my expectations.  Stacey, the surgical coordinator, was amazing—so prompt, organized, and genuinely kind. She made the entire process seamless and
+    source: "Google"
+  - author: "Max G."
+    rating: 5
+    date: "2025-07-17"
+    text: >-
+      Dr. Sassani and his team are incredibly thorough and attentive and will immediately put you at ease. They treat their patients with care and respect and will answer any questions you have. I never once felt that I could not trust them, and they have made my top surgery journey incredibly easy and reassuring. They listen and respond within 24 hours and have been a reliable team. I couldn’t recommen
+    source: "Google"
+  - author: "Oliver J."
+    rating: 5
+    date: "2025-07-20"
+    text: >-
+      I had top surgery with Dr. Sassani and I couldn’t be happier! He was very helpful and informative throughout the whole process. My results look just like the reference I gave him. Stacey was so so helpful with billing and questions I had leading up to surgery. My nurses Kim and Cameron were caring and gentle with me as I was a bit nervous before the surgery and for the drain removal. The lady at t
+    source: "Google"
+  - author: "Evan M."
+    rating: 5
+    date: "2025-07-17"
+    text: >-
+      My experience at Take Shape Plastic Surgery was nothing short of fantastic. I got a double incision with free nipple grafts (Top Surgery). Stacey helped me navigate my payment plan with Cherry and was able to walk me through anything I needed assistance with, especially as a 20 year old who's never navigated anything like this before.  Dr. Sassani joined me and my very reluctant conservative mothe
+    source: "Google"
+logo: "/images/clinics/logos/take-shape-plastic-surgery-p-a.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

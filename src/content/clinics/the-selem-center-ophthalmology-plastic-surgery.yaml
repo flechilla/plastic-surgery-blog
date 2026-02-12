@@ -1,0 +1,61 @@
+name: "The Selem Center Ophthalmology & Plastic Surgery"
+slug: the-selem-center-ophthalmology-plastic-surgery
+city: coral-gables
+cityDisplay: "Coral Gables"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Douglas"
+address: "814 Ponce de Leon Blvd STE 510, Coral Gables, FL 33134"
+zipCode: "33134"
+coordinates:
+  lat: 25.7640854
+  lng: -80.2593582
+phone: "(305) 444-0221"
+website: "https://www.plastic-surgery-miami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11359398376670415061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  The Selem Center Ophthalmology & Plastic Surgery is a plastic surgery located in Coral Gables, FL. With a 4.7-star rating from 198 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.7
+reviewCount: 198
+reviews:
+  - author: "Ray"
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      I highly recommend Dr. Salem and his staff, who were amazing!  The results of my Blepharoplasty surgery were INCREDIBLE, with minimal to no pain and GREAT results!!!  They also took care of processing the all the costs with my insurance, because they initially perform tests and exams to determine eligibility.  Schedule an evaluation visit with Dr. Salem, and before you try anyone else!
+    source: "Google"
+  - author: "Lourdes M. S."
+    rating: 5
+    date: "2025-09-09"
+    text: >-
+      I was extremely fortunate to have been referred to Dr. Joseph Selem, for my cataract surgery. From the moment I walked into his office and met his staff I had a feeling of relief. After meeting and talking to the doctor I knew I would be in safe hands and my faith in him escalated. I never even thought for a moment to contact any other doctor or reach out for a second opinion.  Dr. Joseph Selem, w
+    source: "Google"
+  - author: "Izabella V."
+    rating: 5
+    date: "2025-09-25"
+    text: >-
+      I had a mole removed from my upper eyelid at The Selem Center  recently, and the whole experience was honestly way smoother than I expected. Dr. Selem was amazing, he took the time to explain everything in a way that made me feel really comfortable and informed. During the procedure, he worked quickly but was super precise, and kept me in the loop the entire time so I always knew what was happenin
+    source: "Google"
+  - author: "C R."
+    rating: 5
+    date: "2025-08-24"
+    text: >-
+      Dr. Selem is by far the best ophthalmic plastic surgeon I've met in town. His expertise and attention to details are truly impressive, way better than some nationally renowned institution—do NOT trust those rankings.  I had an eyelid procedure a couple of weeks ago. During the procedure, Dr. Selem walked me through every possible reactions and feelings I might experience in the days after, step by
+    source: "Google"
+  - author: "Julie F."
+    rating: 5
+    date: "2025-10-01"
+    text: >-
+      So I have now had cataract surgery on both eyes with Dr Selem and I’m happy to say that I have 20/20 vision. I’m elated with the results I experienced and within the short period of time in which I reached them. Thanks to Dr Selem and his expert surgical abilities that made this happen! Highly recommend him as an ophthalmologist.
+    source: "Google"
+logo: "/images/clinics/logos/the-selem-center-ophthalmology-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

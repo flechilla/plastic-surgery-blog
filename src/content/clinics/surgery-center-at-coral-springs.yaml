@@ -1,0 +1,61 @@
+name: "Surgery Center at Coral Springs"
+slug: surgery-center-at-coral-springs
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "967 N University Dr, Coral Springs, FL 33071"
+zipCode: "33071"
+coordinates:
+  lat: 26.2436026
+  lng: -80.25223369999999
+phone: "(954) 341-5553"
+website: "http://www.surgerycentercoralsprings.com/?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing"
+googleMapsUrl: "https://maps.google.com/?cid=11735538830537291083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "health"
+googleCategoryDisplay: "Health & Wellness"
+description: >-
+  Surgery Center at Coral Springs is a health & wellness located in Coral Springs, FL. With a 4.3-star rating from 117 reviews.
+specialties:
+  - "Health & Wellness"
+rating: 4.3
+reviewCount: 117
+reviews:
+  - author: "Tonya F."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      My experience from start to finish was outstanding. The surgical team took excellent care of me and made sure I felt informed, comfortable, and supported throughout the entire process. Everyone—from the nurses to the front desk—was kind, attentive, and truly went above and beyond. I’m incredibly grateful for their professionalism and compassion.They cared not only for me but also took the time to 
+    source: "Google"
+  - author: "Tammy L."
+    rating: 5
+    date: "2025-10-27"
+    text: >-
+      This place was amazing.  i have had quite a few surgeries and wish they had all been here.  From the front staff to the nurses in the preop area (Rachel) to my anesthesiologist (Bill0 and the post op nurse I was well taken care of and at ease the entire time.  If only more facilities had such great people like this I am sure more people would be less scared about having a procedure or surgery.  Th
+    source: "Google"
+  - author: "Gladys N."
+    rating: 5
+    date: "2025-10-10"
+    text: >-
+      I recommend this place, all the staff is very friendly and polite. The nurses are the best, specially Grace,Serena and Julia. The girls at the front desk, Stella and Joanna, were very friendly. And last but not least, my anesthetist, Vanessa, was very sweet and made me feel less nervous.
+    source: "Google"
+  - author: "Maria"
+    rating: 5
+    date: "2025-08-25"
+    text: >-
+      I was a bit concerned reading the negative reviews before my procedure on 8/25. I have to honestly say me experience was great.  From Stella, front desk, Monica & Lori my nurses, Bill and his whole anesthesiologist team, to my recovery nurses were fantastic not to mention everyone in-between. Dr. Nathaniel Thomas is top notch and in a class all by himself, and my physical therapist, Bronson (Flori
+    source: "Google"
+  - author: "Margot O."
+    rating: 5
+    date: "2025-08-11"
+    text: >-
+      I want to take a moment to say how pleased I was to have had exceptional care at this facility.  The staff is wonderful.  They are so kind,  thorough, accommodating, and considerate. I felt at ease with their care and attentiveness.  I would like to say a warm thank you to the Nurses- Grace, Tori (Victoria), and Stephanie; Nurse Anesthetist Sohenee, and the Anesthesiologist. All of you did an outs
+    source: "Google"
+logo: "/images/clinics/logos/surgery-center-at-coral-springs.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

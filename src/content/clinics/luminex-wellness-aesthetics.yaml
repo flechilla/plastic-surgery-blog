@@ -1,0 +1,61 @@
+name: "Luminex Wellness & Aesthetics"
+slug: luminex-wellness-aesthetics
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "9851 NW 58th St UNIT 125, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.826980799999998
+  lng: -80.3564991
+phone: "(305) 403-1035"
+website: "https://luminexwellnessdoral.zoca.com/?utm_source=googlemaps&utm_medium=googlemaps&utm_campaign=googlemaps"
+googleMapsUrl: "https://maps.google.com/?cid=16953564925563831282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  Luminex Wellness & Aesthetics is a spa & wellness located in Doral, FL. With a 4.7-star rating from 276 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 4.7
+reviewCount: 276
+reviews:
+  - author: "Oksana K."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I just had vivace and foxy eyes opus treatment for the 2d time. Love the clinic and experience w front desk and staff. And love how my face lifted after only 1 treatment. Can’t wait to see results after this second treatment. Highly recommend for the best lasers around Doral.
+    source: "Google"
+  - author: "Victor S."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      So grateful for Luminex . Lorena spotted skin cancer on my nose and other areas that I had no idea about. They took care of everything right away and were extremely professional throughout the whole process. I’m now cancer-free and beyond thankful. Truly the best place.
+    source: "Google"
+  - author: "Emmanuel S."
+    rating: 5
+    date: "2025-09-30"
+    text: >-
+      Luminex Wellness & Aesthetics is truly a hidden gem! From the moment you walk in, you’re greeted with warmth and professionalism, and the entire team makes you feel completely at ease. They offer an impressive range of treatments — from facial rejuvenation and body contouring to IV therapy and peptide treatments — all tailored to your individual needs. The results are natural and noticeable, and t
+    source: "Google"
+  - author: "Fabiane V."
+    rating: 1
+    date: "2025-12-22"
+    text: >-
+      12/27-update: do you think they called me back? No, their answer is just an excuse for their bad service, they didn't fix the problem and I'm still waiting for this return. I had called three times and no return. I did hormone treatment with Dr. Waldo Acebo and told him that my hor flashes had come back and he did nothing, now I'm calling to see if there's something I can do for the hot flashes an
+    source: "Google"
+  - author: "Elena P. M. A."
+    rating: 1
+    date: "2025-10-24"
+    text: >-
+      Very disappointed with my visit / no-visit today, I called three times to try to schedule a facial before I got a call back, I arrived early, and clearly said I only had 45 minutes — I was assured that was fine. 30 minutes past my appointment time, I cancelled my visit, my daughter’s upcoming appointment, and asked to cancel my over 4-year membership. New management clearly does not value long-tim
+    source: "Google"
+logo: "/images/clinics/logos/luminex-wellness-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

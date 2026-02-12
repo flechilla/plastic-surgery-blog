@@ -1,0 +1,61 @@
+name: "ARC Plastic Surgery - Fort Lauderdale: Jeremy White, M.D"
+slug: arc-plastic-surgery-fort-lauderdale-jeremy-white-m-d
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "North Fort Lauderdale"
+address: "6550 N Federal Hwy #330-B, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.2081627
+  lng: -80.1069842
+phone: "(305) 501-2000"
+website: "https://www.arcplasticsurgeons.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=nfederalhwy"
+googleMapsUrl: "https://maps.google.com/?cid=10655978519773959683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  ARC Plastic Surgery - Fort Lauderdale: Jeremy White, M.D is a plastic surgery located in Fort Lauderdale, FL. With a 4.8-star rating from 24 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.8
+reviewCount: 24
+reviews:
+  - author: "Taysha C."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      Dr. White is an expert in his field and I am more than pleased with the results. The office staff is professional and competent. I can highly recommend Dr. White and his practice.
+    source: "Google"
+  - author: "Matthew F."
+    rating: 5
+    date: "2025-09-09"
+    text: >-
+      I visited the Skin Center for a lipoma removal on my upper arm, referred by my dermatologist Dr. Nadine Soro, and from start to finish, the experience was flawless.  The office was spotless and impeccably maintained. My wait time was minimal, and the front desk staff was welcoming, and professional.  Dr. White's assistant Trisha (who was also cheerful and professional) led me to the exam room. She
+    source: "Google"
+  - author: "Callan C."
+    rating: 5
+    date: "2025-03-05"
+    text: >-
+      I cannot say enough positive things about Dr. White and my entire experience under his care. He was incredibly knowledgeable, compassionate, and thorough making me feel completely at ease. I highly recommend him to anyone requiring his expertise. CC
+    source: "Google"
+  - author: "Paola D."
+    rating: 5
+    date: "2024-12-10"
+    text: >-
+      I am deeply grateful for the care I received from Dr. White . He skillfully removed skin cancer from challenging areas on my chest and shoulder, leaving nearly seamless scars—even less than a month after the procedure. His bedside manner was excellent; he ensured all my questions were answered, provided thorough post-op guidance, and reassured me that he could further improve the scars if needed a
+    source: "Google"
+  - author: "Jordan B."
+    rating: 5
+    date: "2023-10-30"
+    text: >-
+      Dr. White is incredible. Not only does he have great bedside manner, but you can tell he truly cares about his patients and the results of surgery. He took the time to answer all of my questions/concerns ahead of time and made me feel comfortable going into the procedure. The actual procedure went great, and so far, I've been healing wonderfully. Can't recommend Dr. White enough!
+    source: "Google"
+logo: "/images/clinics/logos/arc-plastic-surgery-fort-lauderdale-jeremy-white-m-d.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

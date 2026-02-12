@@ -1,0 +1,61 @@
+name: "Idealaser Cosmetic Center of Miami"
+slug: idealaser-cosmetic-center-of-miami
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "9550 NW 41st St, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.8112225
+  lng: -80.3518698
+phone: "(786) 306-6199"
+website: "https://www.idealasermiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10506075622399612231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "beauty_salon"
+googleCategoryDisplay: "Beauty Salon"
+description: >-
+  Idealaser Cosmetic Center of Miami is a beauty salon located in Doral, FL. With a 4.9-star rating from 323 reviews.
+specialties:
+  - "Beauty Salon"
+rating: 4.9
+reviewCount: 323
+reviews:
+  - author: "Viviana P."
+    rating: 5
+    date: "2025-10-29"
+    text: >-
+      I’ve been coming to Ideal Laser for over 15 years, and I can truly say they are the best in the business! Their professionalism, kindness, and consistency have kept me coming back year after year. The team always makes me feel comfortable and well taken care of, and the results have been amazing every single time. I highly recommend Ideal Laser to anyone looking for outstanding service and lasting
+    source: "Google"
+  - author: "Paul G."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      Best results and experience with laser hair removal, finally after trying 3 different places I found idealaser and since the first couple treatments I saw great results, customer service is amazing! Highly recommended and the staff is super nice!
+    source: "Google"
+  - author: "Lina R."
+    rating: 5
+    date: "2025-08-30"
+    text: >-
+      Most amazing experience, beautiful place, super clean, very calm and quite atmosphere. Technicians very professional and knowledgeable. Recomend this place very highly. My shin hair removable was performed painless, no skin irritation, no redness or itching. They use magnificent and first class product for the skin. Using the most modern and sophisticated equipments.   I was extremely please with 
+    source: "Google"
+  - author: "Maria C."
+    rating: 5
+    date: "2025-11-24"
+    text: >-
+      Fantastic experience every time. The staff is friendly, professional, and makes me feel comfortable. My results have been amazing  and totally worth it. Highly recommend!
+    source: "Google"
+  - author: "Yailin L. R."
+    rating: 5
+    date: "2025-05-30"
+    text: >-
+      I love this place. The owner treats you like family and is very knowledgeable about your needs. I have done from laser hair removal to laser tattoo removal and to me they are the best. My hair has not grown back and it’s been like 10 years that i did it. The tattoo removal is a bit painful but Odalys takes her time to make sure you are not in pain and puts topical anesthesia for the eyeliner laser
+    source: "Google"
+logo: "/images/clinics/logos/idealaser-cosmetic-center-of-miami.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

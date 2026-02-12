@@ -1,0 +1,61 @@
+name: "Mia Aesthetic Studio"
+slug: mia-aesthetic-studio
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "City Center"
+address: "9900 W Sample Rd, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.2719864
+  lng: -80.2590082
+phone: "(786) 244-1872"
+website: "https://mst.link/mia_aestheticstudio"
+googleMapsUrl: "https://maps.google.com/?cid=893422649955334597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Spa & Wellness"
+description: >-
+  Mia Aesthetic Studio is a spa & wellness located in Coral Springs, FL. With a 5-star rating from 395 reviews.
+specialties:
+  - "Spa & Wellness"
+rating: 5
+reviewCount: 395
+reviews:
+  - author: "Dr. B. V. P."
+    rating: 5
+    date: "2022-08-29"
+    text: >-
+      On August 26, 2022 I had a full facial done at Mia Aesthetics Studio. Interestingly, that was the first facial I had done and I was not disappointed. The owner, Melidad was exceptional. She was  affable, engaging, pleasant, and did a magnificent job. Melidad informed me of every procedure she was going to do before she started as well as constantly asking how I was doing and feeling. I enjoyed my 
+    source: "Google"
+  - author: "Alfredo'B"
+    rating: 5
+    date: "2021-04-05"
+    text: >-
+      Great service! Super professional and friendly staff, all i need for my skin care is in here! Will be going back 100 %
+    source: "Google"
+  - author: "salah a."
+    rating: 5
+    date: "2022-09-05"
+    text: >-
+      The way that the prp makes me feel better about my self! Thank you Meli for taking the time to explain everything to me.
+    source: "Google"
+  - author: "Anthony A. D."
+    rating: 5
+    date: "2021-04-03"
+    text: >-
+      What a great place to be! Amazing staff, and extremely professional. Feels like home every time
+    source: "Google"
+  - author: "michael d."
+    rating: 5
+    date: "2022-07-13"
+    text: >-
+      Amazing service and decent prices thank you again my mom is super happy with the results of her facial
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

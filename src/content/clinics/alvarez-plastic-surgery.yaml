@@ -1,0 +1,32 @@
+name: "Alvarez Plastic Surgery"
+slug: alvarez-plastic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "10454 NW 31st Terrace, Miami, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.802816399999998
+  lng: -80.3663
+phone: "(305) 600-4146"
+website: "http://alvarezplasticsurgery.com/contact-us"
+googleMapsUrl: "https://maps.google.com/?cid=15044612162643083017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Alvarez Plastic Surgery is a plastic surgery located in Miami, FL.
+specialties:
+  - "Plastic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
