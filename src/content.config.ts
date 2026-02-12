@@ -33,7 +33,7 @@ const clinics = defineCollection({
     address: z.string(),
     zipCode: z.string(),
     phone: z.string(),
-    website: z.string().url().optional(),
+    website: z.string().url().nullable().optional(),
     email: z.string().email().optional(),
     googleMapsUrl: z.string().url().optional(),
     description: z.string(),
@@ -55,7 +55,7 @@ const clinics = defineCollection({
       text: z.string(),
       source: z.string().optional(),
     })).optional(),
-    logo: z.string().optional(),
+    logo: z.string().nullable().optional(),
     photos: z.array(z.string()).optional(),
     yearEstablished: z.number().nullable().optional(),
     certifications: z.array(z.string()).optional(),
@@ -74,8 +74,8 @@ const cities = defineCollection({
     stateFullName: z.string(),
     description: z.string(),
     metaDescription: z.string(),
-    coverImage: z.string().optional(),
-    featuredClinics: z.array(z.string()).optional(),
+    coverImage: z.string().nullable().optional(),
+    featuredClinics: z.array(z.string()).nullable().optional(),
   }),
 });
 
