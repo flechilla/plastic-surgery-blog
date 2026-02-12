@@ -1,0 +1,60 @@
+name: "Hollywood Dermatology And Cosmetic Specialists"
+slug: hollywood-dermatology-and-cosmetic-specialists
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "9050 Pines Blvd #200, Pembroke Pines, FL 33024"
+zipCode: "33024"
+coordinates:
+  lat: 26.0074374
+  lng: -80.2652507
+phone: "(954) 433-0455"
+website: "https://www.hollywooddermatology.com/locations/pembroke-pines/"
+googleMapsUrl: "https://maps.google.com/?cid=15141038839403091419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Hollywood Dermatology And Cosmetic Specialists is a plastic surgery practice located in Pembroke Pines, FL. With a 4.7-star rating from 896 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 896
+reviews:
+  - author: "Bello S."
+    rating: 5
+    date: "2025-10-17"
+    text: >-
+      Walking into Hollywood Dermatology and Cosmetic Specialists, I was immediately impressed by how clean and spacious the office was, with plenty of comfortable seating. As a new patient, the check-in process was quick and modern — I just provided my insurance and ID, then completed my forms digitally on an iPad. I really appreciated that most of my basic information was already filled in, so I didn’
+    source: "Google"
+  - author: "Tarnesha R."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Dr. Papastavros has wonderful bedside manner.  She went above her usual practices to assist with the resolution of my concerns. This shows how caring and committed she is to resolving patient matters.  Highly recommend.
+    source: "Google"
+  - author: "Isabella o."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      This office has been the most pleasant doctors office I’ve experienced. Very quick very kind ladies. Both Dr Papastavros and her PA Ashlee are very engaging and helpful. Everyone here offers very pleasant customer service.
+    source: "Google"
+  - author: "A. S. C."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      Saw Dr. Vassiliki Papastavros twice already. She is very knowledgeable and helpful. Had two biopsies and happy with results. Wait time was good and staff were friendly. Only wish there was an online portal but the staff are good with calling about results right away. My husband saw the PA and was happy with his care too
+    source: "Google"
+  - author: "Viktoriia V."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      I was so lucky to find Dr. Papastavros and be able to schedule an appointment with her in such short time (just 1 day). Dr.Papastavros is an amazing doctor, she has excellent bedside manners. The office stuff provided all necessary paperwork, was very polite and helped in all possible ways. Highly recommend Dr. Papastavros!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/hollywood-dermatology-and-cosmetic-specialists.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

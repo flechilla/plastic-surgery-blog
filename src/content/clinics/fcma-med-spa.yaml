@@ -1,0 +1,60 @@
+name: "FCMA Med Spa"
+slug: fcma-med-spa
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hollywood Hills"
+address: "5555 Hollywood Blvd #201, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.0106383
+  lng: -80.1991743
+phone: "(954) 280-5253"
+website: "https://fcmaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15920737426700108925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  FCMA Med Spa is a plastic surgery practice located in Hollywood, FL. With a 5-star rating from 25 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 25
+reviews:
+  - author: "Carlos B."
+    rating: 5
+    date: "2024-02-06"
+    text: >-
+      I recently had the pleasure of visiting FCMA Medical Spa and I must say, the experience was absolutely exceptional! From the moment I walked in, I was warmly greeted by the friendly and professional staff, setting the tone for a truly amazing visit.  The cleanliness of the spa was immediately apparent and provided a sense of tranquility and comfort. The attention to detail in maintaining a pristin
+    source: "Google"
+  - author: "Andrew P."
+    rating: 5
+    date: "2024-02-06"
+    text: >-
+      I had an amazing experience with this clinic. the staff was great and the Dr was extremely helpful and knowledgeable. thank you for all you do in the community
+    source: "Google"
+  - author: "Frantz P."
+    rating: 5
+    date: "2024-02-06"
+    text: >-
+      Appreciate the great work and service of the staff. Truly felt that they put my needs and wellbeing in the forefront. Highly recommended
+    source: "Google"
+  - author: "Manny I."
+    rating: 5
+    date: "2024-02-06"
+    text: >-
+      The whole team at FCMA is excellent!!  The service is magnificient and Dr. Acloque is one of a kind in the care he provides and the quality of his service.
+    source: "Google"
+  - author: "Malcolm D."
+    rating: 5
+    date: "2024-02-06"
+    text: >-
+      Dr. G is a consummate professional. His practice is top tier. I recommend FCMA Med Spa to my family and friends.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/fcma-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

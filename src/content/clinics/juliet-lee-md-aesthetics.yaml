@@ -1,0 +1,60 @@
+name: "Juliet Lee MD Aesthetics"
+slug: juliet-lee-md-aesthetics
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Highland Gardens"
+address: "2450 Hollywood Blvd #305, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.010801299999997
+  lng: -80.1566826
+phone: "(754) 900-7768"
+website: "https://www.drjulietlee.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17472165741198863737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Juliet Lee MD Aesthetics is a plastic surgery practice located in Hollywood, FL. With a 4.9-star rating from 79 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 79
+reviews:
+  - author: "kathryn s."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      Absolutely love Dr Lee! She is an MD, incredibly skilled, and truly takes the time to listen to what you want. She asks thoughtful questions to tailor the treatment to your goals, making sure the results look balanced. She’s also warm, friendly, and makes the entire experience comfortable. Always happy to support a small business that truly cares about its clients!
+    source: "Google"
+  - author: "Elle G."
+    rating: 5
+    date: "2024-07-20"
+    text: >-
+      Dr. Lee is the best! I had a great experience getting lip and tear trough fillers. My results are beautiful and natural, I also had very minimal bruising and swelling. She's very kind and makes sure you feel comfortable during the process.
+    source: "Google"
+  - author: "Luann D."
+    rating: 5
+    date: "2024-09-05"
+    text: >-
+      Dr.Lee is the best! I’ve only had my lips done once before and I bruised so bad I said I’d never do it again! But I recently went to her with one of my bff’s and she did an amazing lip filler on her, that convinced me to try her! My results were beautiful and I never bruised!!! They are natural and not over done! She is an artist! I highly recommend Dr.Lee👍
+    source: "Google"
+  - author: "Ashlyn S."
+    rating: 5
+    date: "2024-04-24"
+    text: >-
+      Dr Lee is an incredible injector and one of the only few people i trust with my face. Shes highly skilled in facial balancing and her technique is constantly improving with time. She always takes her time and i never feel rushed during my appointments. 10/10 recommend Dr Juliet Lee for botox and fillers!
+    source: "Google"
+  - author: "Erin S."
+    rating: 5
+    date: "2022-09-12"
+    text: >-
+      Dr. Lee is the absolute BEST! I had a hard time finding someone who was able to get my lips exactly how I want them when I moved to Florida and I was lucky to have been recommended to her by a friend. Not only is she extremely talented, but very professional and sweet as well! I’ve referred multiple friends to her as well and they are all happy with the results.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/juliet-lee-md-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

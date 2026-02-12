@@ -1,0 +1,60 @@
+name: "Toxwell Med Spa and Wellness"
+slug: toxwell-med-spa-and-wellness
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1250 E Hallandale Beach Blvd Unit 1008 10th floor, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.9851945
+  lng: -80.135595
+phone: "(954) 737-1250"
+website: "https://www.toxwell.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17532768742344025339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Toxwell Med Spa and Wellness is a plastic surgery practice located in Hallandale Beach, FL. With a 4.9-star rating from 113 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 113
+reviews:
+  - author: "Svitlana S."
+    rating: 5
+    date: "2025-04-12"
+    text: >-
+      This is a place of power and beauty! Any question about appearance will be answered here. They conduct facial diagnostics, select skin care cosmetics, do injection procedures and more. I did Botox, lips and mesotherapy and was very pleased with the result. Valeria and Kristina are professionals in their field! I definitely recommend. 😘😘
+    source: "Google"
+  - author: "Hanna S."
+    rating: 5
+    date: "2025-12-02"
+    text: >-
+      I recommend Toxwell Med Spa to anyone looking for enhancing your aesthetic and boost confidence. I had my body filler done there with Valeria and Khrystyna and I am so pleased with the whole process. These ladies were so patient and knowledgable. They answered all my questions and handled me with such care. They are easy to contact and work with you if you may have any concerns before or after a p
+    source: "Google"
+  - author: "Gaby &. B."
+    rating: 5
+    date: "2025-11-02"
+    text: >-
+      I can truly say I have an amazing experience with them. I came in for a non surgical procedure and left with a smile on my face. I was so happy from the moment I walked in to the moment I left. The doctor answered all of my questions prior to booking an appointment. Once I was there she went over everything step by step. They have a very clean and friendly office. Everyone was so nice and attentiv
+    source: "Google"
+  - author: "A7med M."
+    rating: 5
+    date: "2025-08-30"
+    text: >-
+      I opted for the Full Face Botox to address multiple areas at once. The consultation was thorough—we discussed a strategic plan to not just smooth wrinkles but also provide a subtle lift. The results are incredible. My brow is lifted, crows feet are softened, and my jawline looks more defined. It’s a natural result that just makes me look like a well-rested version of myself.
+    source: "Google"
+  - author: "علي ح. م."
+    rating: 5
+    date: "2025-08-30"
+    text: >-
+      I was a Botox newbie and quite nervous. The team at Toxwell was so reassuring and walked me through everything. The injector, Cristina, was meticulous, ensuring even coverage for a perfectly natural result. I still have full expression, but my stubborn frown lines are gone. Zero bruising. A flawless first experience.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/toxwell-med-spa-and-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

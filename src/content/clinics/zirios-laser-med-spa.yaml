@@ -1,0 +1,60 @@
+name: "Zirios Laser Med Spa"
+slug: zirios-laser-med-spa
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2100 E Hallandale Beach Blvd Suite #205, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.985484999999997
+  lng: -80.12802119999999
+phone: "(954) 456-7110"
+website: "https://www.zirioslasermedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7715032516872829730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Zirios Laser Med Spa is a plastic surgery practice located in Hallandale Beach, FL. With a 5-star rating from 233 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 233
+reviews:
+  - author: "Lauren H."
+    rating: 5
+    date: "2025-09-16"
+    text: >-
+      I have been coming to Zirios for two years now and I am super impressed with the treatment results and customer service. They are really great with making appointments and very flexible. The facility is clean and always smells amazing! The laser techs are extremely knowledgeable. I have been going to Diana for most of my sessions and I am so happy with the results. Strongly recommend!!
+    source: "Google"
+  - author: "Celia A."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      Zirios Laser Med Spa is truly the best place ever! I had been struggling with acne for so long and nothing seemed to work—until I came here. The team was professional, kind, and really knew what they were doing. They customized a treatment plan just for me, and the results have been incredible. Today, I’m completely acne-free and more confident than ever. I can’t thank them enough! Highly recommen
+    source: "Google"
+  - author: "Mila M."
+    rating: 5
+    date: "2025-10-09"
+    text: >-
+      Been getting laser hair removal here and the experience has been great! Seeing good results already and it’s not painful. Diana is so professional and so knowledgeable about everything!
+    source: "Google"
+  - author: "Felisha C."
+    rating: 5
+    date: "2025-07-19"
+    text: >-
+      I always have a great experience at every appointment! The staff is incredibly welcoming, and I especially love seeing Diana. She takes her time, explains each step clearly, and answers all my questions with ease and expertise. She makes me feel completely relaxed during each session. It’s like catching up with a friend every time.
+    source: "Google"
+  - author: "Johanne L."
+    rating: 5
+    date: "2025-03-15"
+    text: >-
+      I cannot recommend Zirios Laser Med Spa enough! From the moment I walked in, I felt welcomed and at ease. The spa is spotless, beautifully designed, and has such a relaxing atmosphere.  Daniella and Diana are absolutely wonderful! They are both incredibly knowledgeable, professional, and friendly. They took the time to explain the laser hair removal process in detail and made sure I was comfortabl
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/zirios-laser-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

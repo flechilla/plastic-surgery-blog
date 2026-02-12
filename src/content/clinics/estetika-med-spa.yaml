@@ -1,0 +1,60 @@
+name: "Estetika Med Spa"
+slug: estetika-med-spa
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "400 E Hallandale Beach Blvd, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.985209599999997
+  lng: -80.1438555
+phone: "(954) 998-4640"
+website: "http://estetikamedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9509885930822467130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Estetika Med Spa is a plastic surgery practice located in Hallandale Beach, FL. With a 5-star rating from 57 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 57
+reviews:
+  - author: "Mellisa G."
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      I absolutely loved my visit to Estetika Med Spa! Opal at the front desk was amazing, so knowledgeable, kind, and welcoming. She took the time to assess my concerns and recommended several treatments for my hyperpigmentation. Her genuine care made me feel comfortable and supported, especially since I’ve been struggling with insecurity for some time. Opal truly made a difference in my experience and
+    source: "Google"
+  - author: "Gali B."
+    rating: 5
+    date: "2025-12-21"
+    text: >-
+      This med spa exceeded my expectations. I did body sculpting and a facial, and both experiences were exceptional. The space is beautiful and calming, the staff is attentive and highly skilled, and the treatments were tailored to my needs. I noticed results from the body sculpting and my skin looked instantly refreshed after the facial. A true luxury experience—I highly recommend.
+    source: "Google"
+  - author: "Debra j."
+    rating: 4
+    date: "2025-12-29"
+    text: >-
+      I came on over to Estetika Med Spa after seeing their $69 facial deal on Facebook. From the moment I walked in, Opal at the front desk was just as sweet as can be. She helped me with all the paperwork, offered me some water, and truly made me feel right at home. She did go over a few services and products with me, but it never felt pushy at all just informative and genuine.  That said, my experien
+    source: "Google"
+  - author: "Tatiana H."
+    rating: 5
+    date: "2025-11-24"
+    text: >-
+      A great clinic with great prices and friendly staff. The owner is a very charming man. Klara is amazing. Before giving me Botox injections, she explained everything to me in great detail and answered all my questions, not only about Botox but also about other cosmetic procedures. I had never heard of some of them before, so we've scheduled them for future visits. The Botox results are excellent. I
+    source: "Google"
+  - author: "Danielle B."
+    rating: 5
+    date: "2025-09-22"
+    text: >-
+      Beautiful clean office , Friendly staff , and , professional staff that inject the Botox. Eli has an amazing personality to serve his customers and meet their needs. Very affordable prices to maintain your beauty. Would 100% recommend and return.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/estetika-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

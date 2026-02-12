@@ -1,0 +1,60 @@
+name: "Tran Plastic Surgery LLC : Baotram Tran, MD"
+slug: tran-plastic-surgery-llc-baotram-tran-md
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "21110 Biscayne Blvd #103, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9702949
+  lng: -80.14456009999999
+phone: "(954) 499-4954"
+website: "https://www.drtrancosmetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=16120054287702712942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Tran Plastic Surgery LLC : Baotram Tran, MD is a plastic surgery practice located in Aventura, FL. With a 5-star rating from 73 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 73
+reviews:
+  - author: "DAVID N."
+    rating: 5
+    date: "2025-11-08"
+    text: >-
+      I had a phenomenal experience with Dr. Tran. She is incredibly knowledgeable and professional, making the entire process seamless. Her patience is truly commendable; she took the time to go over everything in detail, ensuring I fully understood and felt comfortable with the surgery. Dr. Tran is, without a doubt, the best surgeon I have ever met, and I highly recommend her to anyone seeking top-not
+    source: "Google"
+  - author: "Kristine B."
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      Dr. Tran was amazing. She is so caring and understanding and honest.  My surgery went exactly as she told me it would and was with me every step of the way during my recovery. I am very happy with my results. I highly recommend Dr. Tran.
+    source: "Google"
+  - author: "Rachel M."
+    rating: 5
+    date: "2025-07-27"
+    text: >-
+      Dr. Tran did excellent work on my recent tummy tuck. She shaped me beautifully and crafted a very thin and delicate incision. My belly button also looks very natural. I would highly recommend Dr. Tran and look forward to other procedures with her. She’s highly skilled and very congenial.
+    source: "Google"
+  - author: "Ashley B."
+    rating: 5
+    date: "2025-10-03"
+    text: >-
+      Quick, painless and friendly. Dr Baotram gave me an overall wonderful experience. Her and her staff were extremely pleasant and professional. The surgery went well and turned out better than I expected.
+    source: "Google"
+  - author: "Debbie S."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Dr. Tran was amazing.  VIP treatment before, during, and after!  Would highly recommend her and the team at New Image.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/tran-plastic-surgery-llc-baotram-tran-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

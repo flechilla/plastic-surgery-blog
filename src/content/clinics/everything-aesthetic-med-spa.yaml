@@ -1,0 +1,60 @@
+name: "Everything Aesthetic Med Spa"
+slug: everything-aesthetic-med-spa
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Highland Gardens"
+address: "2500 Hollywood Blvd, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.010737799999998
+  lng: -80.15721099999999
+phone: "(786) 487-7923"
+website: "https://everything-aesthetic-medspa.chrone.work/?utm_source=googlemaps&utm_medium=googlemapsprofile&utm_campaign=googlemaps"
+googleMapsUrl: "https://maps.google.com/?cid=12614157648007958211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Everything Aesthetic Med Spa is a plastic surgery practice located in Hollywood, FL. With a 4.7-star rating from 47 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 47
+reviews:
+  - author: "lia"
+    rating: 5
+    date: "2025-09-03"
+    text: >-
+      Jodi is amazing! She did my mom’s eyebrows and they are honestly the best I’ve ever seen. We are so happy with the results. Thank you so much, Jodi! Highly recommend her to anyone looking for perfect brows.
+    source: "Google"
+  - author: "Ms. A."
+    rating: 5
+    date: "2025-09-03"
+    text: >-
+      Wow! At last, someone who truly perfected my brows. Her unmatched attention to detail and warm, welcoming personality made the entire experience outstanding. She’s exceptional at her craft, and I see incredible things ahead for her. Five stars across the board, an effortless 10/10! Thank you, Jodi❣️
+    source: "Google"
+  - author: "Imanie D."
+    rating: 5
+    date: "2025-06-16"
+    text: >-
+      I've had a great experience with Jodi Kay. The service I booked was a brow and lash combo. Her shop and employees had positive vibes. Everyone was super nice, and Jodi Kay was very professional and gave me tips on how to keep up with my brows and lashes since this was my very first time getting this service done. I loved the final results!!  I will definitely be back and will recommend my family &
+    source: "Google"
+  - author: "Joy S."
+    rating: 2
+    date: "2025-03-01"
+    text: >-
+      BE AWARE🚨🚨initially I wasn’t going to leave a review… Please make sure her tools have been properly disinfected when booking. She didn’t use any gloves or facial mask while working on my lashes and brows. My skin had a huge breakout after leaving her chair. I booked with her Nov 1st 2024.  It was my first time and last time booking with her. Definitely not worth the price. Everyone’s experience 
+    source: "Google"
+  - author: "Natacha"
+    rating: 5
+    date: "2023-10-07"
+    text: >-
+      Jodi is the absolute sweetest and most professional beauty service business owner I know. She is very pleasant and accommodating. She makes you feel comfortable and provides exceptional service to her clients. I highly recommend her for your beauty needs. She has done a phenomenal job with my lashes and eyebrows! Beyond 5 stars!!!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/everything-aesthetic-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

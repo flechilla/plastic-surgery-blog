@@ -1,0 +1,60 @@
+name: "Vital MedSpa | Morpheus8 Burst Specialist"
+slug: vital-medspa-morpheus8-burst-specialist
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "601 N Federal Hwy Suite 301-38, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.992794399999998
+  lng: -80.1433381
+phone: "(954) 787-1337"
+website: "https://vitalmedspa1.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11199181413919349563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Vital MedSpa | Morpheus8 Burst Specialist is a plastic surgery practice located in Hallandale Beach, FL. With a 5-star rating from 236 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 236
+reviews:
+  - author: "angelica h."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      Vital Med Spa is such a great find. The staff is warm, professional, and makes the whole experience feel effortless. Booking is easy, the space is beautiful and calming, and everything feels very well taken care of. The pricing is fair for the level of service, and the results have been amazing—my hair hasn’t grown back and I’m beyond happy. It truly feels like a high-end experience without the pr
+    source: "Google"
+  - author: "Gabby L."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      Jose is extremely knowledgeable and amazing to work with. He helped guide both myself and my husband on our new peptide protocol. I love that he follows the science and research, and gives his best recommendation based on your personal goals, his wealth of comprehension, and what the science has uncovered. 11/10 highly recommend Jose and vital med spa! Thank you, Jose!
+    source: "Google"
+  - author: "KB R. G."
+    rating: 5
+    date: "2025-12-30"
+    text: >-
+      I’ve been going to Vital MedSpa for wellness and aesthetic treatments and hands down they are best in the business! From the moment you walk in you get that welcoming, professional vibe — clean space, friendly staff, and a team that truly cares about your results.  Huge shoutout to Jose Mendieta, the owner and Chief Clinical Officer. He takes time to explain every treatment in detail, answers ever
+    source: "Google"
+  - author: "Kayla C."
+    rating: 5
+    date: "2025-12-30"
+    text: >-
+      I’ve had lip filler before, but they desperately needed fixing as they were uneven, had lost their shape, and my cupid’s bow basically disappeared.  I went to Jose at VITAL MedSpa and WOW. He completely fixed them. My lips are so much more even, the shape is beautiful, my cupid’s bow is back, and they still look natural — seriously night and day. I’m obsessed.  Jose is insanely talented and really
+    source: "Google"
+  - author: "Mondia D."
+    rating: 5
+    date: "2025-10-28"
+    text: >-
+      I had such a wonderful experience with Jose at Vital Med Spa! His professionalism and genuine care truly stood out. From the moment I arrived, he made me feel comfortable and safe, taking the time to explain every step of the process in detail. Jose’s knowledge about the vitamins and their benefits was impressive — he didn’t just provide a service, he educated me and helped me better understand my
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/vital-medspa-morpheus8-burst-specialist.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

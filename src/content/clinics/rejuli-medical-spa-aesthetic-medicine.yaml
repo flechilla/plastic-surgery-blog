@@ -1,0 +1,60 @@
+name: "RejuLi Medical Spa / Aesthetic Medicine"
+slug: rejuli-medical-spa-aesthetic-medicine
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Oakwood"
+address: "2 Oakwood Blvd, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.0392403
+  lng: -80.1608687
+phone: "(786) 220-3451"
+website: "http://www.rejuliaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=931603502963099013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  RejuLi Medical Spa / Aesthetic Medicine is a plastic surgery practice located in Hollywood, FL. With a 5-star rating from 111 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 111
+reviews:
+  - author: "Chris M."
+    rating: 5
+    date: "2025-12-07"
+    text: >-
+      You can trust her! She is patient, calm, informative, and conducts a very safe practice. She is kind and very professional while very personable! It is a fun visit! She actually finds a way to help you better your skin without breaking the bank. She will put out discounts rather than take advantage. I travel almost an hour to see her!
+    source: "Google"
+  - author: "Victoria G."
+    rating: 5
+    date: "2025-09-05"
+    text: >-
+      Limor did my Dysport recently and I literally couldn’t be happier! My face can still express subtly but not in a way they will give me wrinkles! She listened to my concerns, especially about my forehead needing extra because I have very strong and expressive eyebrows! I’m so happy! I highly recommend her; she has done the best job with my injectables so far! She also treats all my siblings and my 
+    source: "Google"
+  - author: "Kerryann J."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      I've been going to a different place to get Botox for over two years, and didn't get the results I wanted, but one visit to this Doctor changed my life. I feel brand new. She was very professional and she explained everything to me. Thank you so much.
+    source: "Google"
+  - author: "Casey R."
+    rating: 5
+    date: "2025-08-26"
+    text: >-
+      I can’t say enough great things about RejuLi Medical Spa! Since I started coming here, my skin has improved vastly. Over the past 2 years I’ve received micro-needling with exosomes, Dysport injections, and the VI Peel— the results have been incredible. Limor is not only highly skilled and knowledgeable, but also such a pleasure to be around! Her warm and professional approach makes every visit enj
+    source: "Google"
+  - author: "Jose G."
+    rating: 5
+    date: "2025-09-07"
+    text: >-
+      Limor is professional, knowledgeable and friendly. She explains the process in detail and if you dislike needles, don't worry she has the magic touch. Contact her for any of your aesthetic needs. She will make a diffence.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/rejuli-medical-spa-aesthetic-medicine.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

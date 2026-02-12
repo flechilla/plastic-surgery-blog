@@ -1,0 +1,60 @@
+name: "Aesthetic Excellence®"
+slug: aesthetic-excellence
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Parkside"
+address: "1940 Harrison St Suite 308 Third floor, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.010200800000003
+  lng: -80.1465808
+phone: "(954) 399-3229"
+website: "https://aestheticexcellence.us/"
+googleMapsUrl: "https://maps.google.com/?cid=10024764504942695599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aesthetic Excellence® is a plastic surgery practice located in Hollywood, FL. With a 5-star rating from 60 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 60
+reviews:
+  - author: "Mixxed T."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      Livia is amazing!! Not only is she EXTREMELY knowledgeable but she is friendly and sweet!! Her office is always clean and neat, I will never let anyone handle my beauty treatments. If you are looking for an NP who specializes in natural beautiful results Livia is the one! No matter where I move I will always travel to her because she is hands down the best!!
+    source: "Google"
+  - author: "Marti P."
+    rating: 5
+    date: "2025-11-20"
+    text: >-
+      Truly an amazing practitioner. I’ve been a client for 5 years now. Paul, the lovely manager sets the mood. Livia provides rhe magic. Thank you keeping south Florida beautiful .
+    source: "Google"
+  - author: "Loiris L."
+    rating: 5
+    date: "2025-06-07"
+    text: >-
+      I had the most wonderful experience at The Aesthetic Center of Livia Manner! From the moment I walked in, the atmosphere was warm, elegant, and inviting. Incredibly professional and attentive, making me feel comfortable and well cared for throughout my visit.  Livia is truly an expert in her field—her attention to detail, knowledge, and personalized approach made all the difference. She took the t
+    source: "Google"
+  - author: "Mandy J."
+    rating: 5
+    date: "2025-01-09"
+    text: >-
+      Livia is the best!  Professional, experienced, charming, caring, warm and friendly environment.  I have been a client of Livia's for many years and she has always given me the very best service and gone above and beyond.  I highly recommend Aesthetic Excellence!
+    source: "Google"
+  - author: "LISA P."
+    rating: 5
+    date: "2025-07-02"
+    text: >-
+      I've been seeing Livia for many years. She's so sweet, knowledgeable and professional. Highly recommend!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aesthetic-excellence.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

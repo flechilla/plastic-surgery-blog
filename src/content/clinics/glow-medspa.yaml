@@ -1,0 +1,60 @@
+name: "Glow Medspa"
+slug: glow-medspa
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "601 N Federal Hwy #202, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.992794399999998
+  lng: -80.1433381
+phone: "(786) 822-1105"
+website: "http://www.glow-med-spa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=16962675365155359499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Glow Medspa is a plastic surgery practice located in Hallandale Beach, FL. With a 5-star rating from 247 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 247
+reviews:
+  - author: "Danielle B."
+    rating: 5
+    date: "2025-10-10"
+    text: >-
+      I’ve had such a great experience at Glow! I got Dysport with Yael and couldn’t be happier with the natural results. I recently had a peel with Kloei and can’t wait to see how my skin keeps improving. The staff is always friendly and welcoming, and the whole place has such a positive vibe. Yael is so knowledgeable and honest with her recommendations, and Kloei was super kind and took her time expla
+    source: "Google"
+  - author: "Erin S."
+    rating: 5
+    date: "2026-01-05"
+    text: >-
+      Yael and her team at glow are amazing, from the moment I walked in I felt so calm and relaxed. The new spa is beautiful, not only is the space phenomenal, the women are so welcoming and they really are there to help you to feel beautiful and confident. Love everything about this place!
+    source: "Google"
+  - author: "Taryn S. R."
+    rating: 5
+    date: "2025-09-04"
+    text: >-
+      I love glow! From the friendly and helpful front desk staff to the amazing Yael, who is so kind, honest and knowledgeable, there is nobody else I would trust with my face!  She  never tries to push any unnecessary treatments or procedures and is a true professional. If I could, I would give 10 stars!
+    source: "Google"
+  - author: "Devorah B."
+    rating: 5
+    date: "2026-01-04"
+    text: >-
+      I finally found the perfect spa. Peaceful, professional, and such good vibes! Yael is so knowledgable, honest and truly amazing. Couldn't be happier!
+    source: "Google"
+  - author: "Shevi G."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      The new location is absolutely stunning. Yael is so knowledgeable, sweet, and the only one I trust for Botox! Will definitely be back!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/glow-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

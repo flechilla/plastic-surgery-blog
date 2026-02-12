@@ -1,0 +1,30 @@
+name: "Shuster Plastic Surgery"
+slug: shuster-plastic-surgery
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hollywood Hills"
+address: "4001 Hollywood Blvd, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.011635599999998
+  lng: -80.184771
+phone: ""
+website: "https://www.drshuster.net/"
+googleMapsUrl: "https://maps.google.com/?cid=829700481019764276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Shuster Plastic Surgery is a plastic surgery practice located in Hollywood, FL.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Oracle Aesthetics"
+slug: oracle-aesthetics
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Parkside"
+address: "1926 Hollywood Blvd #100, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.0111511
+  lng: -80.14602789999999
+phone: "(954) 243-4803"
+website: "http://theoracleaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=611329493677295858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Oracle Aesthetics is a plastic surgery practice located in Hollywood, FL. With a 5-star rating from 36 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 36
+reviews:
+  - author: "patricia p."
+    rating: 5
+    date: "2023-07-24"
+    text: >-
+      I went for training with Master Esthetician Diane owner of Oracle Academy in the modalities of Hydro- facial and Body Countour. She had exceeded my expectations her passion and dedication during our training is what set her apart from others. Diane wanted to make sure we learn correctly and understand the procedure for all kinds of scenarios. You leave the training confident and ready for clients 
+    source: "Google"
+  - author: "Christine S."
+    rating: 5
+    date: "2024-08-05"
+    text: >-
+      I can’t say enough about Oracle Aesthetics. My friend Diana is a true artist!  She customizes every treatment to the patient, based on their skin care, body contouring needs, and health care goals. I trust Dianna who is extremely knowledgeable and always reading up on cutting edge treatments. She is passionate and loves what she does. It shows and all her patients feel her love and attention to de
+    source: "Google"
+  - author: "Trinity S."
+    rating: 5
+    date: "2024-08-05"
+    text: >-
+      Diana is the best! Diana's professionalism and expertise in esthetics are truly exceptional. She takes the time to understand your specific needs and tailors her treatments to achieve the best results. Her attention to detail and commitment to using high-quality products set her apart from others in the field. During my facial treatment, Diana was meticulous in explaining each step, ensuring I was
+    source: "Google"
+  - author: "Solomon C."
+    rating: 5
+    date: "2024-08-08"
+    text: >-
+      I had the absolute best facial experience with Diana! She makes you feel at home, she has the patience to explain every process of the experience to you, makes you laugh, she even takes your personal music request to ensure the upmost relaxation. I also booked a facial for my mother's birthday, and she gave her the royal treatment! One of the kindest people I've ever met. Diana is #1!!!
+    source: "Google"
+  - author: "Adrianna L."
+    rating: 5
+    date: "2025-01-29"
+    text: >-
+      In my journey of taking care of my body. I have taken the longest to find a professional who can genuinely help me. I came across the oracle aesthetics on Instagram and just the energy of her suite and vibes stood out to me. Booking the body sculpting services with Diana has been the best investment I made in my life. Struggling with stubborn weight loss and low confidence. When I tell you this wo
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/oracle-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Amazing Skin Care Med Spa"
+slug: amazing-skin-care-med-spa
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Business District"
+address: "1720 Harrison St #18C, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.010469
+  lng: -80.1419267
+phone: "(954) 716-0521"
+website: "http://www.amazingskincaremedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14170670942125632337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Amazing Skin Care Med Spa is a plastic surgery practice located in Hollywood, FL. With a 4.9-star rating from 108 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 108
+reviews:
+  - author: "E O."
+    rating: 5
+    date: "2025-08-18"
+    text: >-
+      Amazing Skin Care Med Spa is the best! Jennifer is professional, caring, and always makes me feel comfortable. I’ve been doing laser hair removal and skincare treatments here for years and the results have been incredible. The spa is clean, relaxing, and I wouldn’t go anywhere else!  If you’re looking for a med spa that truly understands your skin, delivers real results in a private, soothing spac
+    source: "Google"
+  - author: "Ms. I."
+    rating: 5
+    date: "2025-06-30"
+    text: >-
+      I’ve coming to Jennifer for a year now, receiving laser hair removal which has been great. She very informative about the service, lets you know what to expect. Today I got a deep pore facial and it was the best!! I’ve had a facial before but it was bad which caused me not trust no one else until I met Jennifer. She explained the facial and knew what to use for my skin type I love it!
+    source: "Google"
+  - author: "Miss B."
+    rating: 5
+    date: "2025-05-28"
+    text: >-
+      I have been coming to Amazing Skin Care Med Spa for laser hair treatments for almost 10 years, and I can't say enough great things about their service! From the very first session, I knew I was in good hands—Jen is incredibly knowledgeable, professional, and genuinely cares about delivering top-notch results.  Over the years, I’ve seen amazing improvements, with smooth, long-lasting results that h
+    source: "Google"
+  - author: "Adrianna L."
+    rating: 5
+    date: "2025-05-16"
+    text: >-
+      Had such a great experience at Amazing Skincare Med Spa! Jennifer was my esthetician and she was amazing so easy to talk to and super knowledgeable. We had a great conversation about my treatment plan, and I left feeling really confident and excited I also love her style of work she’s detail-oriented and really cares. Highly recommend!
+    source: "Google"
+  - author: "Camille J."
+    rating: 5
+    date: "2025-06-30"
+    text: >-
+      I've been with Jen for 7/8 years!! When I tell you she's the nicest and most sincere person ever! So amazing at her job and always has my skin in check. Trust the process and trust her! :) :)
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/amazing-skin-care-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

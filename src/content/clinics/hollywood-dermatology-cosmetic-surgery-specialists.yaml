@@ -1,0 +1,60 @@
+name: "Hollywood Dermatology & Cosmetic Surgery Specialists"
+slug: hollywood-dermatology-cosmetic-surgery-specialists
+city: miramar
+cityDisplay: "Miramar"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "3000 SW 148th Ave #250, Miramar, FL 33027"
+zipCode: "33027"
+coordinates:
+  lat: 25.9803255
+  lng: -80.3453747
+phone: "(954) 843-9443"
+website: "https://www.hollywooddermatology.com/locations/west-miramar/"
+googleMapsUrl: "https://maps.google.com/?cid=15938871753139469956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Hollywood Dermatology & Cosmetic Surgery Specialists is a plastic surgery practice located in Miramar, FL. With a 4.8-star rating from 771 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 771
+reviews:
+  - author: "Silvana C."
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      “Dr. Anna Falabella is an excellent dermatologist. She is always accurate with her diagnoses and every treatment she has given me has worked perfectly. She is very professional, kind, friendly, and always has a warm smile. It’s truly a pleasure to visit her office. I highly recommend her. My mom is 91 year old and loves her as well!!! “
+    source: "Google"
+  - author: "Ivette T."
+    rating: 5
+    date: "2025-12-02"
+    text: >-
+      I was amazed that I could get an appointment next day. Nowadays that is unheard of for specialists. The gentleman that took my call was amazing. True professional with great customer service skills.  When I arrived the staff was courteous and patient with me - struggled to get my digital insurance card info. The provider was personable and attentive to my issues with quick resolution to get me thr
+    source: "Google"
+  - author: "Sk G."
+    rating: 2
+    date: "2026-01-20"
+    text: >-
+      So this is just an opinion but if a provider does not know how to properly diagnose a problem (disease etc)then don't waste my time or money. To wait an hour and tell me to take vitamins or 90 dollar supplements is ridiculous. No tests no blood work no HPI?Then be transparent and state that when making appt with PAs. This make believe healthcare system is trash . I can do the same job but better!
+    source: "Google"
+  - author: "Swelvers"
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      Dr. Falabella is outstanding!  My husband and I see her together, and she treats us as if we were VIPs.  She is knowledgeable, professional, and friendly, taking time to explain everything clearly.  We wouldn't go to anyone else!
+    source: "Google"
+  - author: "Laura L."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      It was my first visit and the office was busy. I was called in only a few minutes after my appointment time. Everyone was professional, kind and quick (without it feeling rushed). All of my questions were answered. I am happy I chose this office.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/hollywood-dermatology-cosmetic-surgery-specialists.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

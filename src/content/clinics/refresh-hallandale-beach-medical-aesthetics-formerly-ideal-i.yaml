@@ -1,0 +1,60 @@
+name: "Refresh Hallandale Beach Medical Aesthetics (Formerly Ideal Image)"
+slug: refresh-hallandale-beach-medical-aesthetics-formerly-ideal-i
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "600 Silks Run Unit 1265, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.9791965
+  lng: -80.1408155
+phone: "(786) 567-3507"
+website: "http://refreshpbma.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13265443834260604309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Refresh Hallandale Beach Medical Aesthetics (Formerly Ideal Image) is a plastic surgery practice located in Hallandale Beach, FL. With a 4.8-star rating from 877 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 877
+reviews:
+  - author: "Aliana W."
+    rating: 5
+    date: "2025-12-26"
+    text: >-
+      I love coming here for my laser hair removal. I specifically request Rosie every time because she’s very friendly and informative. She makes me comfortable coming here to get an intimate service done since I get my full bikini area done. I like coming here over other med spas because they offer life time touch ups. I’ve been getting my side burns lasered since 2018 and it only costs me like $15 fo
+    source: "Google"
+  - author: "Catherine L."
+    rating: 5
+    date: "2025-12-08"
+    text: >-
+      I had my bikini and underarms treated with Judy, and I’m genuinely impressed with the results. The consultant was professional, gentle, and made the entire process feel comfortable from start to finish. They explained everything clearly, checked in often to make sure I was okay, and the results have already been amazing. If you’re considering laser for sensitive areas, I highly recommend Ideal Ima
+    source: "Google"
+  - author: "Jessica S."
+    rating: 5
+    date: "2025-10-27"
+    text: >-
+      My experience at Ideal Image  was amazing thanks to Rosie! She was incredibly knowledgeable and made me feel so comfortable throughout the entire appointment. I really appreciated how she explained everything clearly and made sure I felt at ease. I would definitely recommend anyone to go to her — she’s the best!
+    source: "Google"
+  - author: "Hedieh S."
+    rating: 5
+    date: "2025-12-07"
+    text: >-
+      I had such a great experience at Ideal Image. Everyone was so kind and professional, and the services were amazing. The space was clean, welcoming, and made me feel comfortable right away. I especially want to thank Michelle. She was so helpful, friendly and truly made my visit even better.
+    source: "Google"
+  - author: "Sina R."
+    rating: 1
+    date: "2026-01-23"
+    text: >-
+      I must say that I am disappointed. I deleted my previous review. Ideal Image promised me [ permanent ] hair removal. I stuck to the program for more than 1 year and completed all sessions, each within 6 weeks of eachother.  As things stand today - I still have dark hairs growing where they were lasered before. They are finer - but they are growing.  After my last session ended, they told me that I
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/refresh-hallandale-beach-medical-aesthetics-formerly-ideal-i.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

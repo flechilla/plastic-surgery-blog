@@ -1,0 +1,60 @@
+name: "MEDSPA Skincare & Body"
+slug: medspa-skincare-body
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Highland Gardens"
+address: "2632 Hollywood Blvd suite 307, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.0106957
+  lng: -80.16052909999999
+phone: "(305) 336-7129"
+website: "https://linktr.ee/MEDSPABYKEITY"
+googleMapsUrl: "https://maps.google.com/?cid=6572306191519548672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  MEDSPA Skincare & Body is a plastic surgery practice located in Hollywood, FL. With a 5-star rating from 186 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 186
+reviews:
+  - author: "Camila M."
+    rating: 5
+    date: "2025-09-17"
+    text: >-
+      I love this place!  Great attention and service. I got laser hair removal and a blush done in this place and I’m very happy with the results. I would definitely recommend this place if you want to take care of yourself 😊
+    source: "Google"
+  - author: "Moonshine A."
+    rating: 5
+    date: "2022-10-18"
+    text: >-
+      I love it! Since you go in you feel amazing, everything is clean and organize. Keity the owner is the sweetest. You get treated like a queen, customer service is excellent as well as the service. I have been going to her for a while. I have done my eyebrows which are always on point. My stepson goes to her for his acne facial, I have done all the services she provides and all are wonderful.
+    source: "Google"
+  - author: "jennifer S."
+    rating: 5
+    date: "2025-03-21"
+    text: >-
+      I’ve had an amazing experience visiting this place every month for my laser treatments with Keity. She uses a high-end laser machine, and the clean rooms create a welcoming atmosphere. Keity really makes you feel comfortable throughout the process. The positive environment is enhanced by the friendly receptionist, who always greets you with a big smile. Samy does a fantastic job on my eyebrows, an
+    source: "Google"
+  - author: "Cona C."
+    rating: 5
+    date: "2025-04-26"
+    text: >-
+      I recently had my first lash experience at this new location and I’m so happy I found it! I discovered Camila through an Instagram search for lash technicians in the Hollywood area, and after doing my homework and checking out her work, I knew I had to book with her. She was super responsive, her pricing was more than reasonable, and she fit me in the very next day!  I sent over a few inspiration 
+    source: "Google"
+  - author: "Linn V."
+    rating: 5
+    date: "2024-12-10"
+    text: >-
+      Camila is amazing! She is THE best lash artist & the absolute sweetest. She’s super attentive and caters specifically to your personal style. I always love my lashes & the retention is unmatched! Don’t walk, but RUN to book your appointment 💜
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/medspa-skincare-body.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

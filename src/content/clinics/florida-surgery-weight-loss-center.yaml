@@ -1,0 +1,60 @@
+name: "Florida Surgery & Weight Loss Center"
+slug: florida-surgery-weight-loss-center
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Parkside"
+address: "1911 Harrison St Suite #3, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.0107473
+  lng: -80.1455405
+phone: "(954) 551-3508"
+website: "https://floridaweightlossmd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5008607691010335008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Florida Surgery & Weight Loss Center is a plastic surgery practice located in Hollywood, FL. With a 4.9-star rating from 149 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 149
+reviews:
+  - author: "Rachel C."
+    rating: 5
+    date: "2025-11-17"
+    text: >-
+      Dr. Terushkin and his staff are GREAT!!! From my initial consultation to my post-operative care, he and his team were phenomenal. The surgery went smoothly, and my recovery has been exactly as described, with minimal pain. I was back to my daily routine the next day. Choosing him as my surgeon was a great decision. I would definitely recommend.
+    source: "Google"
+  - author: "Korry C."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      Dr T goes above and beyond to make sure his patients feel confident. He listens and addresses any concerns. I am so glad I chose him for my weight loss surgery!
+    source: "Google"
+  - author: "Chrissy"
+    rating: 5
+    date: "2025-07-28"
+    text: >-
+      Phenomenal experience & results! Surgery coordinator Jesus was amazing with communication and coordination from first date of inquiry and after post op surgery procedure. Very supportive & provides rapid results in regards to requests and accommodations to make the experience and process run smoothly. Outstanding professionalism and care for patients. I requested a specific look and Dr. Terushkin 
+    source: "Google"
+  - author: "Raymond R."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      Dr. Terushkin and his team went above and beyond to make me feel comfortable and most importantly safe before and after my VSG  surgery.
+    source: "Google"
+  - author: "Jennifer H."
+    rating: 1
+    date: "2025-08-26"
+    text: >-
+      I am a 30-year-old woman who decided to undergo the TOre bariatric surgery after regaining weight following the birth of my two children. I was struggling with my health and hoped this procedure would be the quickest and most effective way to lose the weight and feel better again.  I had my surgery in June, but unfortunately, I have not lost any weight since then. I took out a $6,000 loan through 
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/florida-surgery-weight-loss-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

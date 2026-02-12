@@ -1,0 +1,60 @@
+name: "Bogat Aesthetics & Wellness"
+slug: bogat-aesthetics-wellness
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "800 N Federal Hwy Unit 805, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.994101
+  lng: -80.142369
+phone: "(954) 900-9090"
+website: "https://www.bogat.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4550389196706607602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Bogat Aesthetics & Wellness is a plastic surgery practice located in Hallandale Beach, FL. With a 5-star rating from 21 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 21
+reviews:
+  - author: "Olessia S."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      Finally an amazing high-end spa opened up on this location. From the moment you step inside, this spa feels like a private sanctuary reserved for those who truly appreciate excellence. Every detail—from the serene atmosphere to the impeccable professionalism of the staff—reflects a standard of luxury that is both refined and effortless.  The treatments are nothing short of exceptional: deeply rest
+    source: "Google"
+  - author: "Katerina F."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      The best medical spa in South Florida! It’s just recently opened in Hallandale Beach, very clean, luxurious environment and such a nice staff. I came here for a laser hair removal, the process was very smooth, not painful. They’re a lot of different varieties of services and I can’t wait to come again here. Definitely worth it!
+    source: "Google"
+  - author: "Элина С."
+    rating: 5
+    date: "2026-01-25"
+    text: >-
+      I’m writing this review shortly after my visit. The place, the people, the atmosphere and everything about it was just great. I got a hydrafacial  and would highly recommend it to anyone interested in an elevated service and experience. Thank you so much for the kindness and care you put into everything you did to make my visit amazing. I’m definitely coming back soon!!! ✨
+    source: "Google"
+  - author: "Oxana E."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      Amazing Medical Spa with a truly outstanding team. Everyone is highly professional, incredibly beautiful, and it’s a pleasure just to be there. The treatments are 10/10 — real results, visible effects, and exceptional quality. Highly recommended.
+    source: "Google"
+  - author: "Julia G."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Absolutely loved my facial treatment today. Such a relaxing atmosphere and very professional care. My skin feels fresh, hydrated, and glowing right away . The therapist was gentle, attentive, and truly caring. Can’t wait to come back — highly recommend .
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/bogat-aesthetics-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

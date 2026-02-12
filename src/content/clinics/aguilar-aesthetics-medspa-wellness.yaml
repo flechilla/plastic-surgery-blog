@@ -1,0 +1,60 @@
+name: "Aguilar Aesthetics Medspa & Wellness"
+slug: aguilar-aesthetics-medspa-wellness
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2820 NE 214th St Suite 905, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9730125
+  lng: -80.14498449999999
+phone: "(754) 837-2717"
+website: "https://aguilaraesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18405035520983653211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aguilar Aesthetics Medspa & Wellness is a plastic surgery practice located in Aventura, FL. With a 5-star rating from 169 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 169
+reviews:
+  - author: "Christina G."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      I’ve been having a great experience here! Gustavo is excellent at analyzing facial features and addressing what the face actually needs, rather than following a standard routine. He was able to smooth out my stubborn glabella by treating not just the area itself, but the right supporting muscles. Other places never offered and didn’t seem willing to go beyond. Which is strange, since every face an
+    source: "Google"
+  - author: "Claudia L."
+    rating: 5
+    date: "2025-11-01"
+    text: >-
+      Dr. Aguilar, and his team have a very professional and kind manner in which he  cares for his patients. My personal experience and results have made me want to come back to them over and over again!  I highly recommend him and his team as an amazing doctor who is great at managing one’s expectations and delivers accurately and accordingly 🙏🏼😇
+    source: "Google"
+  - author: "Sherah M."
+    rating: 5
+    date: "2025-11-13"
+    text: >-
+      Loved my experience at Aguilar! Gustavo and Veronica were wonderful. They explained everything to me, made sure I was comfortable, and did a fantastic job! Highly recommend!
+    source: "Google"
+  - author: "Jahaira S."
+    rating: 5
+    date: "2025-09-17"
+    text: >-
+      Love the team and I love that they have taken all my concerns about my aging skin and actually listened. I just want to look like me and maintain a youthful look as long as I can. No fillers. Nothing against them. Just not me. I then proceeded to pick my skin apart with all the things I don’t like and want to tweak a bit and instead of making me feel like I’m crazy or taking advantage of me they a
+    source: "Google"
+  - author: "Dina B."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      HIHGLY RECOMMEND !  THEY ARE VERY PROFESSIONAL, PERSONABLE, FRIENDLY AND ALL THE STAFFS PAY MUCH ATTENTION TO DETAILS.  SO FAR I AM PLEASED WITH THE OUTCOME OF MY THIRD SESSION,  I CAN VISIBLY SEE  THE DIFFERENCE.  MY FAMILY AND FRIENDS ARE PERPLEXED AND WANDERING ABOUT MY TRANSPORTATION.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aguilar-aesthetics-medspa-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

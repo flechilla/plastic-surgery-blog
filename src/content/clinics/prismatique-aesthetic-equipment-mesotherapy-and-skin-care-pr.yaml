@@ -1,0 +1,60 @@
+name: "Prismatique Aesthetic Equipment, Mesotherapy and Skin Care Products"
+slug: prismatique-aesthetic-equipment-mesotherapy-and-skin-care-pr
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Highland Gardens"
+address: "2514 Hollywood Blvd STE 204, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.01073
+  lng: -80.1577987
+phone: "(754) 204-3994"
+website: "https://prismatiqueusa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7559648038085569997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Prismatique Aesthetic Equipment, Mesotherapy and Skin Care Products is a plastic surgery practice located in Hollywood, FL. With a 4.9-star rating from 75 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 75
+reviews:
+  - author: "Lina S."
+    rating: 5
+    date: "2024-11-02"
+    text: >-
+      Professional staff, very helpful, Friendly and very knowledgeable. Store was very clean and organized. Shipment was received quickly. They sell great products and have lots of inventory to choose from.
+    source: "Google"
+  - author: "Lowina"
+    rating: 5
+    date: "2021-08-12"
+    text: >-
+      I took a microneedling course here and it was the best thing I could have ever done for my career advancement. It was so informative, professional, organized and you get to do hands on training with a live model.  The teacher Cindy was super sweet and gave me so much more information and advice than was required. They have every machine and supply you can think of at an affordable price, and offer
+    source: "Google"
+  - author: "Kinga L."
+    rating: 5
+    date: "2020-08-13"
+    text: >-
+      Wonderful training experience, and very friendly environment. Will be back for more knowledge for sure. Thank you again for the opportunity. Great products, high quality. Highly recommended on all their products, and the training they provide!
+    source: "Google"
+  - author: "Claudia G."
+    rating: 5
+    date: "2019-03-10"
+    text: >-
+      I have been a client of Prismatique for about 8 months now.    Their products are of high quality and they are a great team of professional and knowledgeable individuals that will answer your questions and guide you with your purchase.   A pleasure doing business with them!
+    source: "Google"
+  - author: "Antonella d. C."
+    rating: 5
+    date: "2019-03-07"
+    text: >-
+      AMAZING !! Very good products, very good quality. I would very much recommend !! Great service, very friendly staff! You have any questions? They will gladly inform you on what works best for you
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/prismatique-aesthetic-equipment-mesotherapy-and-skin-care-pr.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

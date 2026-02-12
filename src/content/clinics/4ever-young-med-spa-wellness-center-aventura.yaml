@@ -1,0 +1,60 @@
+name: "4Ever Young Med Spa & Wellness Center - Aventura"
+slug: 4ever-young-med-spa-wellness-center-aventura
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2875 NE 191st St Suite 102, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.952856699999998
+  lng: -80.1434313
+phone: "(786) 304-2123"
+website: "https://4everyoungantiaging.com/aventura/?utm_source=google&utm_medium=organic&utm_campaign=gbp-aventura"
+googleMapsUrl: "https://maps.google.com/?cid=4522408551360098310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  4Ever Young Med Spa & Wellness Center - Aventura is a plastic surgery practice located in Aventura, FL. With a 4.9-star rating from 580 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 580
+reviews:
+  - author: "Derrick R."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ 5-Stars – Next-Level Longevity & Precision Health Experience  I’ve been to numerous longevity and wellness clinics, but 4Ever Young Aventura truly stands apart. Unlike other places that only provide a few quick numbers like Testosterone Total, Hematocrit, PSA, and Hemoglobin, this team delivers a comprehensive medical snapshot of your entire system. Their Comprehensive Metabolic Panel (
+    source: "Google"
+  - author: "Brian S."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      I love 4ever Young Aventura.  Did an IV and vitamin shot.  I feel amazing.  I’ll be back for more services.  Highly recommend.  What great customer service.  They are courteous, professional and understanding of my needs.  Kristina and Rimza only want to help.  They create value and can’t wait to go back for more services and bring people with me.  11/10!  Fully satisfied customer!  Thank you!
+    source: "Google"
+  - author: "Phil N."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      Very kind and knowledgeable staff.   During the first visit Rimza and team were very accommodating. They pay attention to details and provide helpful information during procedures. Never felt any beetles.
+    source: "Google"
+  - author: "Gloria"
+    rating: 5
+    date: "2025-10-17"
+    text: >-
+      “I had a wonderful experience with my vitamin-infused treatment! The staff was super friendly and professional, the prices were very reasonable, and the location was spotless and welcoming. I’ll definitely be coming back!”
+    source: "Google"
+  - author: "Afnan G."
+    rating: 5
+    date: "2025-07-20"
+    text: >-
+      I had a wonderful experience at this med spa! The environment is clean, calming, and beautifully designed, perfect for relaxing and feeling pampered. The staff is professional and welcoming, and I especially want to highlight Rimza, the manager, who is incredibly kind and attentive. She made sure everything went smoothly and that I felt comfortable throughout my visit. Highly recommend for anyone 
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/4ever-young-med-spa-wellness-center-aventura.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

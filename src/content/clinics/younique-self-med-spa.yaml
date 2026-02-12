@@ -1,0 +1,60 @@
+name: "Younique Self - Med Spa"
+slug: younique-self-med-spa
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1250 E Hallandale Beach Blvd Suite 208, 2nd. floor, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.9851836
+  lng: -80.1355966
+phone: "(786) 294-5037"
+website: "http://www.younique-self.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2803990384663444146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Younique Self - Med Spa is a plastic surgery practice located in Hallandale Beach, FL. With a 4.9-star rating from 74 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 74
+reviews:
+  - author: "Daniela V."
+    rating: 5
+    date: "2025-10-08"
+    text: >-
+      I’ve been coming here for over a year, and Marlene is absolutely amazing! She’s the best when it comes to face balancing — always so professional and detail-oriented. I highly recommend her!
+    source: "Google"
+  - author: "Dicita L."
+    rating: 5
+    date: "2025-01-21"
+    text: >-
+      I loved my experience at Younique spa. Everyone was so kind and helpful. I was at ease the whole time because they made me feel very comfortable. Thank you all. I will be back for my follow ups.
+    source: "Google"
+  - author: "Eva M."
+    rating: 5
+    date: "2023-10-02"
+    text: >-
+      The Nurse Practicioner was very nice and knowledgeable. She didn't push for more product, instead she gave me her honest and medically best advise. She took the time to adress all my concerns and made me feel very comfortable. I have already my next appointment scheduled:)
+    source: "Google"
+  - author: "fay f."
+    rating: 1
+    date: "2025-02-11"
+    text: >-
+      I drove for an hour from Boca Raton however when I got to the spa no one was there. I called multiple times and no answer. This was my first visit but luckily there is another injector with a  totally different business in the same suite that was wonderful enough to help me
+    source: "Google"
+  - author: "Gabriela C."
+    rating: 5
+    date: "2024-06-12"
+    text: >-
+      Absolutely love Younique self med spa! Marleen is simply amazing, she is amazing at her craft! Makes you feel comfortable and their prices are fenomenal! 10/10 recommend
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/younique-self-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

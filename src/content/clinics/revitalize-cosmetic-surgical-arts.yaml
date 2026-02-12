@@ -1,0 +1,60 @@
+name: "Revitalize Cosmetic Surgical Arts"
+slug: revitalize-cosmetic-surgical-arts
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "800 SE 4th Ave Suite 502, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.976756100000003
+  lng: -80.1444501
+phone: "(954) 317-0981"
+website: "https://revitalize.vip/"
+googleMapsUrl: "https://maps.google.com/?cid=14844399207302154343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Revitalize Cosmetic Surgical Arts is a plastic surgery practice located in Hallandale Beach, FL. With a 4.7-star rating from 29 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 29
+reviews:
+  - author: "Harvys M."
+    rating: 5
+    date: "2025-12-14"
+    text: >-
+      I want to express my deepest gratitude to Dr. Christian Quintero for his excellent work and for how satisfied I am with my results. But more than that, I truly appreciate how they made me feel like family — always attentive to every detail to make sure everything went perfectly.  A very special thank you to Angel, the nurse, for being so dedicated to his work and for making me feel calm and relaxe
+    source: "Google"
+  - author: "Jose F."
+    rating: 1
+    date: "2025-12-03"
+    text: >-
+      I’m sharing this experience to raise awareness and advocate for patients, not to ruin Dr. Quintero’s reputation, but to highlight serious gaps in post-operative care. I work in a hospital and see hundreds of patients who are too defeated to advocate for themselves. I’m writing on behalf of a close friend who is too scared to speak up and wants to put this experience behind her.  A very close frien
+    source: "Google"
+  - author: "Francisco C."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      Amazing service and Results. My surgery process was flawless from beginning to end. All the personal touches and attention to details makes a huge difference. You are not only a patient, but almost like a family or friend being helped. I’ll definitely recommend his services. Dr Q, and his full staff, Gaby, and especially Angel will make your dreams come true….
+    source: "Google"
+  - author: "Alfonso L. P."
+    rating: 5
+    date: "2025-09-09"
+    text: >-
+      I had an excellent experience with Dr Quintero.  He is an expert in the field.  My results are amazing and my surgery not only changed my body but my life in general,  i feel more confident and hight self-esteem.  Every boy who was involved on my process (nurses, therapists) were amazed with his results.    Please do not hesitate and have a consultation with Dr Quintero and discuss your options.
+    source: "Google"
+  - author: "Morgan G."
+    rating: 5
+    date: "2025-07-20"
+    text: >-
+      Dr. Quintero did amazing job on my surgery. I was referred to him by a friend who had a great experience as well. I was actually just sitting here thinking I need to write him a review so here I am. I’m someone who overthinks everything and tends to be super anxious but Dr. Quintero was calm, patient, and always took the time to explain things in a way that made me feel informed and understood. Hi
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/revitalize-cosmetic-surgical-arts.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

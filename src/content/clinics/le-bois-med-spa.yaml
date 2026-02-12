@@ -1,0 +1,60 @@
+name: "Le Bois Med Spa"
+slug: le-bois-med-spa
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Parkside"
+address: "1940 Harrison St suite 204-3, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.010200800000003
+  lng: -80.1465808
+phone: "(561) 571-2353"
+website: "https://le-bois-med-spa.square.site/"
+googleMapsUrl: "https://maps.google.com/?cid=8763489436456514049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Le Bois Med Spa is a plastic surgery practice located in Hollywood, FL. With a 5-star rating from 7 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 7
+reviews:
+  - author: "christina r."
+    rating: 5
+    date: "2022-05-31"
+    text: >-
+      I walked into Le Bois Med Spa and I instantly fell in love with the ambiance and the professionalism. Marie was very professional and very knowledgeable about all the procedures, she explained all of the procedures before doing them. I received the mommy maker and within a week I instantly seen results, I even received compliments from friends and co workers. I also purchased a Belly fat flush and
+    source: "Google"
+  - author: "Nancy G."
+    rating: 5
+    date: "2022-06-24"
+    text: >-
+      Great experience!!! She was VERY professional and knowledgeable about the services she provided for me! She focused on my problem areas and gave me tips to maintain the results I've noticed today!!!
+    source: "Google"
+  - author: "Nelene A."
+    rating: 5
+    date: "2022-06-01"
+    text: >-
+      Marie gives the best service! The sweetest person and I’m already seeing results! I would highly recommend her services.
+    source: "Google"
+  - author: "Keshia K."
+    rating: 5
+    date: "2022-05-25"
+    text: >-
+      Amazing services with great customer service!
+    source: "Google"
+  - author: "Daina F."
+    rating: 5
+    date: "2022-06-24"
+    text: >-
+      The best in every way possible.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/le-bois-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

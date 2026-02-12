@@ -1,0 +1,60 @@
+name: "Illy Aesthetics by Ilanit Samuels PA-C"
+slug: illy-aesthetics-by-ilanit-samuels-pa-c
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Emerald Hills"
+address: "3475 Sheridan St Suite 102, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.033536899999998
+  lng: -80.1790785
+phone: "(954) 766-2561"
+website: "http://www.illyaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14608573095004995816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Illy Aesthetics by Ilanit Samuels PA-C is a plastic surgery practice located in Hollywood, FL. With a 5-star rating from 37 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 37
+reviews:
+  - author: "Batya G."
+    rating: 5
+    date: "2024-03-19"
+    text: >-
+      Ilanit is a true gem. As a doctor, I find it difficult (despite my best effort!) to trust other providers and have a very high standard. Ilanit does not dissapoint. She is knowledgeable, caring, and has a meticulous eye for detail.  She is confident in what she does and knows how to put you at ease.  The office is beautiful, the staff is kind and attentive, making an appointment was easy and commu
+    source: "Google"
+  - author: "sher s."
+    rating: 5
+    date: "2023-08-10"
+    text: >-
+      Illanit is the most honest, skillful and kind injector. She is an artist and true professional. Her office is gorgeous and her staff is wonderful. I am a pro in the beauty industry so I have to look my best. My age would absolutely surprise U! I look completely natural and no one knows! Now U do!
+    source: "Google"
+  - author: "simi g."
+    rating: 5
+    date: "2024-04-08"
+    text: >-
+      I love going to Illy! Looking natural is really important to me, and I feel safe and trust her ability to know the right dosage to keep me looking like me, but fresher! She uses her expertise to work with what I want and it’s overall such a comfortable, relaxed but professional experience
+    source: "Google"
+  - author: "Karen E."
+    rating: 5
+    date: "2024-02-15"
+    text: >-
+      I have been going to Illy Aesthetics for years for all my cosmetic dermatology needs. The results are spectacular. I always receive compliments on my face and skin. Ilanit has a magic touch; she never over and or under does any procedure so my face looks refreshed. Ilanit’s office is clean, professional and always helpful.
+    source: "Google"
+  - author: "Natalie M."
+    rating: 5
+    date: "2024-02-20"
+    text: >-
+      Ilanit is amazing! She is so talented and is sure to never do “too much” or “too little”! I always love my results!! Her skills along with her amazing spa-like office atmosphere keep me coming back time and time again!!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/illy-aesthetics-by-ilanit-samuels-pa-c.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

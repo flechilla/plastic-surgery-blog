@@ -1,0 +1,60 @@
+name: "Lili’s aesthetics"
+slug: lili-s-aesthetics
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Park East"
+address: "3251 Hollywood Blvd, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.013132499999998
+  lng: -80.1740796
+phone: "(954) 696-6201"
+website: "https://instagram.com/thisisyourgirllily?igshid=OGQ5ZDc2ODk2ZA==&utm_source=qr"
+googleMapsUrl: "https://maps.google.com/?cid=13478329274801105517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Lili’s aesthetics is a plastic surgery practice located in Hollywood, FL. With a 5-star rating from 14 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 14
+reviews:
+  - author: "Imani L. R."
+    rating: 5
+    date: "2024-02-09"
+    text: >-
+      Lili is AMAZING!!!!! I have never been to someone and seen IMMEDIATE results after just one session. She is the only person I trust to get me together. Whenever I see her it’s like a reset for my body, my system is immediately back flowing and regular, eliminating toxins and heaviness in my body. HANDS DOWN the in the BEST at what she does!! Book her for ANY service and you won’t be disappointed!!
+    source: "Google"
+  - author: "Jade J."
+    rating: 5
+    date: "2023-12-02"
+    text: >-
+      Lily is such a sweet & accommodating woman! Love her services , always leaves me snatched & she’s honest about her work. She means business 🩷 Booking with her every time when I need to look my best.
+    source: "Google"
+  - author: "sondia g."
+    rating: 5
+    date: "2023-12-01"
+    text: >-
+      Lilly is amazing her work and professionalism speaks for it self. she is well knowledge in body fat reduction. I love her work and you will see instant results worth every penny.
+    source: "Google"
+  - author: "Nicole S."
+    rating: 5
+    date: "2023-11-30"
+    text: >-
+      Love her service she is kind and helpful. Lily really engages with her Clients and makes sure they are paying for what they get. She is just as invested in your journey as you should be.
+    source: "Google"
+  - author: "SBM B."
+    rating: 5
+    date: "2023-12-01"
+    text: >-
+      Located in a serene and tranquil setting, this salon is truly a hidden gem.  Upon entering the salon, I was immediately greeted by the friendly and professional staff who made me feel welcomed and at ease. The interior of the salon exuded elegance and sophistication, with tasteful decor and soothing music playing in the background.  I had booked a full day of pampering, starting with a wood therap
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/lili-s-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
