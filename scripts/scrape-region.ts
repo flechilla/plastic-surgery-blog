@@ -15,7 +15,11 @@
 import { execSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 import { put } from '@vercel/blob';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const LOCATIONS_FILE = path.join(__dirname, '.clinic-locations.json');
 const BLOB_MAPPING_FILE = path.join(__dirname, '.blob-mapping.json');
