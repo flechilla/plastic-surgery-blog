@@ -1,0 +1,54 @@
+name: "Miller Plastic Surgery"
+slug: miller-plastic-surgery
+city: miami
+state: FL
+address: "3661 S Miami Ave #506, Coconut Grove, FL 33133"
+zipCode: "33133"
+phone: "(305) 377-1700"
+website: "https://millerplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1500881272298178391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miller Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 34 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 34
+reviews:
+  - author: "HDPROJECTIONS"
+    rating: 5
+    date: "2025-10-08"
+    text: >-
+      Dr. Randy Miller is an amazing plastic surgeon; professional, caring, and detail-oriented. I had an Eyelid Surgery. The results exceeded my expectations, and the entire process was smooth and comfortable. The whole staff is very professional and easy to talk with. I Highly recommend!
+    source: "Google"
+  - author: "Dustin M."
+    rating: 5
+    date: "2025-06-04"
+    text: >-
+      Flawless procedure for stem cells.  Dr. Miller and Lourdes are incredible people. Dr. Miller’s knowledge and skill set are at the top of the game as I am very familiar with his world.  If I could I would give them 7 stars to do him and his staff justice. If I ever need to do a stem cell procedure again I will not hesitate to come back.  Thank you!
+    source: "Google"
+  - author: "estefaniaugueto09"
+    rating: 5
+    date: "2024-03-26"
+    text: >-
+      I underwent rhinoplasty with Dr. Miller, and I couldn't be happier with my decision. My search for an expert who could address both my medical and aesthetic concerns led me to him. While I had struggled with breathing issues for some time, it took a car accident in May 2023 resulting in a broken nose for me to consider surgery seriously. It wasn't until around August of that year, when I was refer
+    source: "Google"
+  - author: "L Z."
+    rating: 5
+    date: "2022-07-14"
+    text: >-
+      Dr. Miller preformed a rhinoplasty on my nose this summer, and I could not be more grateful and satisfied with how it turned out. I had little to no pain after the surgery. Dr. Miller is a kind, patient, knowledgeable and skilled doctor who answered all the questions I had regarding the procedure. His office is clean and his staff is very well trained. I would 100% recommend Dr. Miller for anyone 
+    source: "Google"
+  - author: "Melaina C."
+    rating: 5
+    date: "2025-10-08"
+    text: >-
+      Dr.Miller did an amazing job on my nose! I am 2 years post op from my rhinoplasty after my car accident in 2021. I had minimal pain throughout the process, of course some days were better than others. Overall Dr. Miller was an excellent Doctor who takes great care in his patients. I would definitely recommend him as a plastic surgeon!
+    source: "Google"
+logo: "/images/clinics/logos/miller-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

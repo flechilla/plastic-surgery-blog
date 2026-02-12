@@ -1,0 +1,54 @@
+name: "SKIN INSTITUTE OF AESTHETICS WELLNESS AND CONCIERGE"
+slug: skin-institute-of-aesthetics-wellness-and-concierge
+city: miami
+state: FL
+address: "2915 Biscayne Blvd Suite 300-16, Miami, FL 33137"
+zipCode: "33137"
+phone: "(786) 584-7199"
+website: "https://skininstitue.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17719578290077020942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  SKIN INSTITUTE OF AESTHETICS WELLNESS AND CONCIERGE is a plastic surgery practice located in Miami, FL. With a 5-star rating from 124 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 124
+reviews:
+  - author: "Brittney M."
+    rating: 5
+    date: "2026-01-04"
+    text: >-
+      I’m extremely happy with my Morpheus8 treatments!!! I have post surgical fibrosis and I also keloid very easily, so I’m very cautious with any procedure. They truly understood my concerns and tailored everything appropriately.  We combined Morpheus8 with PRP, and I purchased a package I’m genuinely seeing a noticeable improvement in the fibrosis and overall skin texture. The treatments have been v
+    source: "Google"
+  - author: "Brianne M."
+    rating: 5
+    date: "2025-12-24"
+    text: >-
+      This was my first Morpheus8 treatment and I had my face and neck done. From start to finish, the experience was smooth, professional, and way less intimidating than I expected. The provider took time to explain the process, what I’d feel, realistic results, and aftercare  no rushing, no upselling, just honest guidance. The numbing was thorough, and while you definitely feel the treatment, it was c
+    source: "Google"
+  - author: "Daryl H."
+    rating: 5
+    date: "2026-01-02"
+    text: >-
+      I had Morpheus8 on my face and also did RF microneedling with PRP to improve my acne scars and overall texture. From the start, everything was very thorough pre care and aftercare were explained clearly, and I was given step by step instructions so I knew exactly what to do before and after treatment.  My results came out amazing my skin looks 10x better, smoother, more even, and my acne scarring 
+    source: "Google"
+  - author: "Olga"
+    rating: 5
+    date: "2025-12-27"
+    text: >-
+      I had Morpheus8 done yesterday and had an amazing experience. The provider did a wonderful job and took care of me exceptionally well from start to finish. She was incredibly professional, attentive, and made sure I felt comfortable the entire time. She explained the process clearly, checked in with me throughout the treatment, and truly went above and beyond. I felt safe, cared for, and confident
+    source: "Google"
+  - author: "OLGA V."
+    rating: 5
+    date: "2026-01-03"
+    text: >-
+      Gabby was able to fit me in on a very short notice and was very thorough in explaining everything about the procedure. She sent instructions about the pre and post care and also went over everything by phone. She was super friendly and helpful throughout the process. Very happy with her services!!
+    source: "Google"
+logo: "/images/clinics/logos/skin-institute-of-aesthetics-wellness-and-concierge.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

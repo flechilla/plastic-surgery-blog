@@ -1,0 +1,54 @@
+name: "Zia Medical Aesthetics"
+slug: zia-medical-aesthetics
+city: miami
+state: FL
+address: "40 SW 13th St Suite #904, Miami, FL 33130"
+zipCode: "33130"
+phone: "(754) 223-8802"
+website: "http://www.ziamedicalaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10605964572845136522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Zia Medical Aesthetics is a plastic surgery practice located in Miami, FL. With a 5-star rating from 49 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 49
+reviews:
+  - author: "Tiffany G."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      A friend told me about this place, but honestly, my experience was incredible. I was looking for someone who could give me radiant skin, and Anabelis was the best. She explained each of the treatments to me and told me what was best for my skin and how to take care of it. She's very kind and attentive. I loved her service and attention to every detail, and her spa Zia, is beautiful.
+    source: "Google"
+  - author: "Jose A. B."
+    rating: 5
+    date: "2025-11-11"
+    text: >-
+      This place is amazing! The vibe is so welcoming, comfy, and cozy. I’ve tried the Hollywood Peel, Hydrafacial, and PRP with Anabelis the results are incredible! My skin looks smooth, glowing, and super hydrated. I also did Botox with Dr. Roxiee for my forehead lines and elevens, and it looks so natural my wrinkles are gone! 100% recommend this place!
+    source: "Google"
+  - author: "Carmen L. A."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      ⭐⭐⭐⭐⭐ Amazing Zia Medical Aesthetics  I’ve had several beauty treatments with Roxana and I’ve loved every single one. She is very professional, talented, and always makes you feel comfortable. The results are consistently great, and my skin always looks refreshed and glowing.  Highly recommend Roxana — I’ll definitely keep coming back
+    source: "Google"
+  - author: "Mina M."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Dr. Roxana and Anabelis are hands down the best! I always get my facials with Anabelis, and since I started, my skin has changed drastically—it’s more alive, hydrated, and glowy than ever. I also had tear trough fillers and Botox with Dr. Roxy, and I couldn’t be happier with the results. Everything looks so natural and has lasted beautifully. I 100% recommend Zia Medical Aesthetics!
+    source: "Google"
+  - author: "Carla V."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      The best Spa ever ! A hidden gem right in Miami ! Amazing location !!!! Love it so so so recommended !!! Anabelis is the esthetician I have ever met !!
+    source: "Google"
+logo: "/images/clinics/logos/zia-medical-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

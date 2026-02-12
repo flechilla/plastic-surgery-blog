@@ -1,0 +1,54 @@
+name: "The Dream Plastic Surgery"
+slug: the-dream-plastic-surgery
+city: miami
+state: FL
+address: "3485 W Flagler St, Miami, FL 33135"
+zipCode: "33135"
+phone: "(305) 985-7788"
+website: "https://www.thedreamplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17814172253507608308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Dream Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 19 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 19
+reviews:
+  - author: "Elaine M."
+    rating: 5
+    date: "2025-08-27"
+    text: >-
+      The best place in the world
+    source: "Google"
+  - author: "Andy"
+    rating: 5
+    date: "2026-01-04"
+    text: >-
+      The best place
+    source: "Google"
+  - author: "Yoelsy M."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      The best clinic in Miami! I had liposuction on my abdomen and I'm thrilled with the results. Thanks to this clinic, I love it; everyone here is so efficient and attentive.
+    source: "Google"
+  - author: "Sady D."
+    rating: 5
+    date: "2025-12-31"
+    text: >-
+      The best clinic in Miami, super beautiful and the best service, everything very professional.
+    source: "Google"
+  - author: "Karen L. V."
+    rating: 5
+    date: "2025-08-28"
+    text: >-
+      A dream come true! Excellent care. I'm so happy I found them. The doctor is amazing, and the girls are truly lovely. I love it. I can't wait to see my results. 🤩
+    source: "Google"
+logo: "/images/clinics/logos/the-dream-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

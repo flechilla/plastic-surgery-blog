@@ -1,12 +1,12 @@
-name: Premier Aesthetic Surgery
+name: "Premier Aesthetic Surgery"
 slug: premier-aesthetic-surgery
 city: miami
 state: FL
-address: "11479 SW 40th St"
-zipCode: "33165"
+address: "11479 SW 40th St, Miami, FL 33165"
+zipCode: "11479"
 phone: "(305) 676-4244"
 website: "https://surgerypremier.com/"
-googleMapsUrl: "https://maps.google.com/?cid=1561944661210664183"
+googleMapsUrl: "https://maps.google.com/?cid=1561944661210664183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
   Premier Aesthetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.6-star rating from 311 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
@@ -20,25 +20,25 @@ reviews:
     rating: 5
     date: "2026-01-30"
     text: >-
-      I made the perfect decision choosing this clinic. Everyone was truly an angel. I had a breast lift, and they guided me through every step of the process with so much care and professionalism. They even scheduled an extra follow-up appointment after my procedure, which many places don’t do. Thank you...
+      I made the perfect decision choosing this clinic. Everyone was truly an angel. I had a breast lift, and they guided me through every step of the process with so much care and professionalism. They even scheduled an extra follow-up appointment after my procedure, which many places don’t do. Thank you all for everything. I’ll definitely be recommending you to everyone!
     source: "Google"
   - author: "Ariadna b."
     rating: 5
     date: "2026-01-27"
     text: >-
-      I had a wonderful experience at Premier Aesthetic Surgery. I flew in from California and completed all of my pre-op preparations out of state, and Thalia was incredibly helpful every step of the way—even after I returned home. The facility is beautiful, modern, and exceptionally clean, which made me...
+      I had a wonderful experience at Premier Aesthetic Surgery. I flew in from California and completed all of my pre-op preparations out of state, and Thalia was incredibly helpful every step of the way—even after I returned home. The facility is beautiful, modern, and exceptionally clean, which made me feel comfortable and well cared for throughout the entire process. I highly recommend them.
     source: "Google"
   - author: "Isa b."
     rating: 5
     date: "2025-11-10"
     text: >-
-      What an amazing experience I had with Premier Aesthetic Surgery. I recommend everyone to use this facility as they do a great job and treat patients with respect and as if they are family. If you want to look and feel your best after having surgery this is the spot to keep you feeling beautiful and ...
+      What an amazing experience I had with Premier Aesthetic Surgery. I recommend everyone to use this facility as they do a great job and treat patients with respect and as if they are family. If you want to look and feel your best after having surgery this is the spot to keep you feeling beautiful and looking beautiful. They will take very good care of you and they are highly intelligent and kind. Al
     source: "Google"
-  - author: "It's j."
+  - author: "It's j. M."
     rating: 1
     date: "2026-01-24"
     text: >-
-      After I booked and paid in full, communication drastically declined. They changed surgeons on me without notice and changed my actual surgery date twice, which caused me to lose a significant amount of money on airfare, Airbnb, and travel arrangements. Most alarming, they completely changed my surge...
+      After I booked and paid in full, communication drastically declined. They changed surgeons on me without notice and changed my actual surgery date twice, which caused me to lose a significant amount of money on airfare, Airbnb, and travel arrangements. Most alarming, they completely changed my surgery. I went in for breast implants and came out with a breast reduction. I was required to sign docum
     source: "Google"
   - author: "Erika W."
     rating: 5
@@ -46,8 +46,9 @@ reviews:
     text: >-
       Premier, I sincerely appreciate the wonderful girls at the front desk. Analía is a truly kind and caring young woman who genuinely looks after the patients. Additionally, Arlene took the time to massage me and attentively addressed every detail, which meant a lot to me.
     source: "Google"
+logo: "/images/clinics/logos/premier-aesthetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

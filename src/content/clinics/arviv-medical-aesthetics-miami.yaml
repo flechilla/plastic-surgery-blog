@@ -1,0 +1,54 @@
+name: "Arviv Medical Aesthetics Miami"
+slug: arviv-medical-aesthetics-miami
+city: miami
+state: FL
+address: "3250 NE 1st Ave # 504, Miami, FL 33137"
+zipCode: "33137"
+phone: "(813) 855-0111"
+website: "https://arvivaesthetics.com/miami/"
+googleMapsUrl: "https://maps.google.com/?cid=12076961698418500600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Arviv Medical Aesthetics Miami is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 356 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 356
+reviews:
+  - author: "Nicole R."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      Amazing experience at ARVIV Medical Aesthetics! Nicole did my Botox and I couldn’t be happier with the results. She was professional, knowledgeable, and made me feel completely comfortable. Highly recommend!
+    source: "Google"
+  - author: "gloria m."
+    rating: 2
+    date: "2026-01-17"
+    text: >-
+      I first went to this business for dysport  because is very close to where I live and they have a 20% off for first time clients. I really like the injector. She was very attentive and professional. I really liked the results. Today I went for the 2nd time knowing I would be paying full price which is perfectly fine with me. I was disappointed at first. Because it was a different person doing the t
+    source: "Google"
+  - author: "Bianca C."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      I’ve been coming to Arviv Medical Aesthetics for my Botox treatments and the experience is always amazing. The team is professional, attentive, and truly takes the time to understand what you’re looking for. Everything feels super clean, safe, and welcoming — you can tell they really care about quality and detail. Results are always natural and perfectly done. Couldn’t recommend them more!
+    source: "Google"
+  - author: "sheyla p. s."
+    rating: 1
+    date: "2025-11-08"
+    text: >-
+      I would give them 0 star if possible. Please Dont waste you money in this place. There are many clinics with better prices and results. Their goal is to get money no matter if they lie to the clients about the expected results. I went looking for information about closing my lobe's holes. Nicole (the specialist) convinced to me that laser would be a great alternative for closing the holes and to h
+    source: "Google"
+  - author: "Dre"
+    rating: 2
+    date: "2026-01-25"
+    text: >-
+      I had breast augmentation scars treated here with 6 procedures over 8 months (CO2 laser, 3 IPLs, PICO, microneedling, multiple Kenalog injections). Total cost: ~$4,000.  My scars started vascular / dark pink and relatively flat with some keloid raising at 12 months post-op. I was anxious about them and the provider recommended aggressive treatment which I committed to.  After all treatments, my sc
+    source: "Google"
+logo: "/images/clinics/logos/arviv-medical-aesthetics-miami.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,54 @@
+name: "Deluxe Med Spa Beauty"
+slug: deluxe-med-spa-beauty
+city: miami
+state: FL
+address: "Downtown 1st, 30 SW 1st St #1001, Miami, FL 33130"
+zipCode: "33130"
+phone: "(786) 901-0611"
+website: "https://deluxemedspabeauty.com/"
+googleMapsUrl: "https://maps.google.com/?cid=544751680768816914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Deluxe Med Spa Beauty is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 214 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 214
+reviews:
+  - author: "Kelley D."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      I absolutely love this med spa!! They are truly the best and I trust them so much. Such a luxury experience from start to finish! The atmosphere is calming, the staff is amazing, and the results speak for themselves. I always feel pampered, heard, and cared for. If you’re looking for natural-looking results and top-tier service, this is the place to go.
+    source: "Google"
+  - author: "Katherin J."
+    rating: 5
+    date: "2025-11-05"
+    text: >-
+      Deluxe Med Spa is truly one of a kind! The entire staff is amazing — kind, professional, and always welcoming. Dianelys, the owner, is such a gem. She’s not only incredibly knowledgeable, but also genuinely empathetic and passionate about helping you feel and look your absolute best. Every recommendation she gives makes a real difference, and you can tell she truly cares about each client’s experi
+    source: "Google"
+  - author: "Brennan B."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      I love Deluxe Med Spa. All of the staff are so friendly and sweet and professional. They always serve us something to drink when we arrive either fresh watermelon juice or hot tea.
+    source: "Google"
+  - author: "dania q."
+    rating: 5
+    date: "2025-09-10"
+    text: >-
+      Absolutely obsessed with Deluxe Med Spa! ✨ The team is so welcoming and professional — they make you feel comfortable the moment you walk in. I love how attentive they are, really listening to what you want and guiding you through the best options for your skin and body goals. Every treatment I’ve had so far has been amazing, and the results speak for themselves. The vibe is super chic, clean, and
+    source: "Google"
+  - author: "BARBARA M. C."
+    rating: 5
+    date: "2025-12-09"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ DELUXE Spa – My trusted place for over 4 years  I don’t usually recommend places unless I truly trust them… and DELUXE is the one I keep coming back to for more than four years.  I get my botox, fillers, and facial treatments done here, and I always leave happy. The results are natural, balanced, and exactly what I want—fresh, rested, and glowing, without losing my expression.  The team
+    source: "Google"
+logo: "/images/clinics/logos/deluxe-med-spa-beauty.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

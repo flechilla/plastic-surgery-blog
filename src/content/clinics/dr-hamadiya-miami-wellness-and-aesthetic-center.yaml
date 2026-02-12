@@ -1,0 +1,54 @@
+name: "Dr. Hamadiya Miami Wellness and Aesthetic Center"
+slug: dr-hamadiya-miami-wellness-and-aesthetic-center
+city: miami
+state: FL
+address: "999 Brickell Ave #920, Miami, FL 33131"
+zipCode: "33131"
+phone: "(305) 469-1188"
+website: "https://drhamadiya.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10245405987903141700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Hamadiya Miami Wellness and Aesthetic Center is a plastic surgery practice located in Miami, FL. With a 5-star rating from 273 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 273
+reviews:
+  - author: "Yahayra M."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      I had an amazing experience with Dr. Hamadiya and the entire team at Miami Wellness and Aesthetic. From the moment I walked in, the staff was warm, professional, and incredibly attentive, making me feel comfortable and well cared for.  Dr. Hamadiya is truly exceptional — knowledgeable, patient, and thorough. He took the time to listen to my concerns, explained every step of the process in detail, 
+    source: "Google"
+  - author: "Liessel R."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      Great experience! Loved the doctor, very sincere, compassionate, knowledgeable, with great experience. He has the “less is more” mentality. I did not feel anything, I went to get lip filler dissolved. Save your money, go to him or his nurse practitioner. It is way cheaper to get it better the first time. He is always available. Highly recommended !
+    source: "Google"
+  - author: "Jose B."
+    rating: 5
+    date: "2025-10-20"
+    text: >-
+      Dr. Hamadiya and his team are absolute professionals, his office is clean, upscale and well designed. You can immediately tell that he’s an expert in his field and only suggests services that will benefit his patients and never tried to upsell. I did alot of research about where to go and am very happy with my choice and the results. Highly recommended.
+    source: "Google"
+  - author: "Miracle T."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      The best doctor in Miami. I would never let anyone else touch my face. Dr. Hamadiya is so honest and thorough during my appointments. I trust him to keep me looking natural and youthful. Highly recommend.
+    source: "Google"
+  - author: "Mena"
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      Charo was AMAZING!!! The entire staff was wonderful. I can't thank everyone enough!! I came from another state to get medical clearance for a surgery here in Miami. I made the mistake of scheduling my appointment the week of Art Basel... holy smokes downtown Miami was busy. The staff was FANTASTIC & so CONSIDERATE!! The medical team was thorough... I cannot say enough nice things about Dr Hamadiya
+    source: "Google"
+logo: "/images/clinics/logos/dr-hamadiya-miami-wellness-and-aesthetic-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

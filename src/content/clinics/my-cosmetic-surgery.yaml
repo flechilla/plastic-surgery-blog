@@ -1,48 +1,54 @@
-name: My Cosmetic Surgery
+name: "My Cosmetic Surgery"
 slug: my-cosmetic-surgery
 city: miami
 state: FL
-address: 7360 Coral Wy APT 11
+address: "7360 Coral Wy APT 11, Miami, FL 33155"
 zipCode: "33155"
-phone: (305) 264-9636
-website: https://mycosmeticsurgerymiami.com/
-googleMapsUrl: https://maps.google.com/?cid=12654268714579681274
-description: My Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.1-star rating from 285 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 264-9636"
+website: "https://mycosmeticsurgerymiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12654268714579681274&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+description: >-
+  My Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 4.1-star rating from 285 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.1
 reviewCount: 285
 reviews:
-  - author: Meelah G.
+  - author: "Meelah G."
     rating: 5
     date: "2025-12-08"
-    text: "“I am beyond thrilled with my results thanks to Dr. Jeffrey Lagrasso! 🌟 His professionalism, dedication, and care have completely transformed my confidence and self-esteem. 💖  A huge thank you to his amazing team: Nurse Miriam, Nurse Karina, María del Carmen González in pre-op, Claudia González, S..."
-    source: Google
-  - author: Ewersson R.
+    text: >-
+      “I am beyond thrilled with my results thanks to Dr. Jeffrey Lagrasso! 🌟 His professionalism, dedication, and care have completely transformed my confidence and self-esteem. 💖  A huge thank you to his amazing team: Nurse Miriam, Nurse Karina, María del Carmen González in pre-op, Claudia González, Surgery Coordinator, Isel, Surgery Coordinator, and Dayanara from the Publicity Department, for all t
+    source: "Google"
+  - author: "Ewersson R. G."
     rating: 5
     date: "2025-04-26"
-    text: I’ve seen a lot bad review of their front desk and I really don’t understand. I was really overwhelmed by the great responsive from the front desk - nurses and medical staff. Every question was answer with professionalism! Arisdalia and Zeila have been so helpful during the whole process.  Communica...
-    source: Google
-  - author: Neca N.
+    text: >-
+      I’ve seen a lot bad review of their front desk and I really don’t understand. I was really overwhelmed by the great responsive from the front desk - nurses and medical staff. Every question was answer with professionalism! Arisdalia and Zeila have been so helpful during the whole process.  Communication was spot on - Costumer services outstanding -  You have people that really care and provide cle
+    source: "Google"
+  - author: "Neca N."
     rating: 5
     date: "2025-09-18"
-    text: In July 2019 I had a BBL Lipo 360 and September 11 of 2019 I had a breast reduction and lift. Covid hit and couldn’t work out as much and got too comfortable eating and going on vacations because I look like a doll which has me back for a Lipo 360 with J plasma since I am now 52 years old and had so...
-    source: Google
-  - author: Joanna D.
+    text: >-
+      In July 2019 I had a BBL Lipo 360 and September 11 of 2019 I had a breast reduction and lift. Covid hit and couldn’t work out as much and got too comfortable eating and going on vacations because I look like a doll which has me back for a Lipo 360 with J plasma since I am now 52 years old and had some stretch skin in certain areas.  If I ever have anything else to fix, I wouldn’t think about it tw
+    source: "Google"
+  - author: "Joanna D. W."
     rating: 1
     date: "2025-06-17"
-    text: I took time off of work to go to Miami to see Dr. Fabian for a consultation. We agreed on a date in July and I put down a $1000.00 deposit. The entire process is disorganized and almost everyone speaks Spanish and they are pretty much dry with you like you’re just another number and not an actual pe...
-    source: Google
-  - author: Eva t.
+    text: >-
+      I took time off of work to go to Miami to see Dr. Fabian for a consultation. We agreed on a date in July and I put down a $1000.00 deposit. The entire process is disorganized and almost everyone speaks Spanish and they are pretty much dry with you like you’re just another number and not an actual person about to go through surgery. I got a call about 2 months later from the time I did my consultat
+    source: "Google"
+  - author: "Eva t. d. P."
     rating: 5
     date: "2025-07-31"
-    text: All the women were nice and lovely and respectful , answered all my questions and concerns. Even though my Spanish isn’t as well , they still took the time to help and I appreciate the effort . Overall nice experience.
-    source: Google
+    text: >-
+      All the women were nice and lovely and respectful , answered all my questions and concerns. Even though my Spanish isn’t as well , they still took the time to help and I appreciate the effort . Overall nice experience.
+    source: "Google"
+logo: "/images/clinics/logos/my-cosmetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/my-cosmetic-surgery.jpg
+lastUpdated: "2026-02-12"

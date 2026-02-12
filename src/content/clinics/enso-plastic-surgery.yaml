@@ -1,48 +1,54 @@
-name: Enso Plastic Surgery
+name: "Enso Plastic Surgery"
 slug: enso-plastic-surgery
 city: miami
 state: FL
-address: 1441 Brickell Ave Suite 301
+address: "1441 Brickell Ave Suite 301, Miami, FL 33131"
 zipCode: "33131"
-phone: (305) 918-1750
-website: https://ensoplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=EPS_GMB_L
-googleMapsUrl: https://maps.google.com/?cid=4683523037280636791
-description: Enso Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 27 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 918-1750"
+website: "https://ensoplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=EPS_GMB_L"
+googleMapsUrl: "https://maps.google.com/?cid=4683523037280636791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Enso Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 27 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 27
 reviews:
-  - author: Jessica B.
+  - author: "Jessica B."
     rating: 5
     date: "2026-01-16"
-    text: I don’t think i could say enough good things. From the consult and scheduling process with Beatrice, to the warm virtual meet with Dr. Dev prior to scheduling. I traveled from Wisconsin to Miami and they made that so easy to book and prepare! Beatrice’s consistent responses to any inquiries I had wa...
-    source: Google
-  - author: Rebecca M.
+    text: >-
+      I don’t think i could say enough good things. From the consult and scheduling process with Beatrice, to the warm virtual meet with Dr. Dev prior to scheduling. I traveled from Wisconsin to Miami and they made that so easy to book and prepare! Beatrice’s consistent responses to any inquiries I had was so appreciated. It was very exciting but also incredibly vulnerable. She rolled with those waves s
+    source: "Google"
+  - author: "Rebecca M."
     rating: 5
     date: "2026-01-29"
-    text: Dr. Paul Durand performed a rhinoplasty on my teenage daughter and I cannot say enough wonderful things about him. The results are absolutely amazing — natural, beautiful, and exactly what we hoped for.  Dr. Durand is patient, meticulous, and truly a perfectionist in the best way. As a parent, it me...
-    source: Google
-  - author: Fulvio ..
+    text: >-
+      Dr. Paul Durand performed a rhinoplasty on my teenage daughter and I cannot say enough wonderful things about him. The results are absolutely amazing — natural, beautiful, and exactly what we hoped for.  Dr. Durand is patient, meticulous, and truly a perfectionist in the best way. As a parent, it meant everything to see how much time he took to explain the process, answer questions, and make sure 
+    source: "Google"
+  - author: "Fulvio .."
     rating: 5
     date: "2025-12-04"
-    text: Dr. Dev and his staff are more than a plastic surgery specialists, they’re like family!!! Since the first day my wife and I never felt like a “number” but like a member of their family. Their patience, knowledge and professionalism are truly exceptional!!! Thank you, thank you, thank you 🙏
-    source: Google
-  - author: Michelle D.
+    text: >-
+      Dr. Dev and his staff are more than a plastic surgery specialists, they’re like family!!! Since the first day my wife and I never felt like a “number” but like a member of their family. Their patience, knowledge and professionalism are truly exceptional!!! Thank you, thank you, thank you 🙏
+    source: "Google"
+  - author: "Michelle D."
     rating: 5
     date: "2025-08-29"
-    text: I just got an explant today by Dr Dev and I must say he is a rare gem!!!! From the moment I made an appointment for a consultation to pre op, then surgery, everything went so smoothly. All the instructions pre and post surgery were emailed and also instructed, which was very nice. I have to mention ...
-    source: Google
-  - author: Morgan L.
+    text: >-
+      I just got an explant today by Dr Dev and I must say he is a rare gem!!!! From the moment I made an appointment for a consultation to pre op, then surgery, everything went so smoothly. All the instructions pre and post surgery were emailed and also instructed, which was very nice. I have to mention that the staff, every single one of them are soooooo nice and kind!!!! Okay so back to my surgery da
+    source: "Google"
+  - author: "Morgan L."
     rating: 5
     date: "2025-04-14"
-    text: Dr. Dev is ONE OF A KIND, along with his team. I consulted with his amazing assistant Beatriz for my breast implant removal and lift and she is such a genuine person and made me feel so welcome. I flew across the country for my procedure and had never spoken to or met Dr. Dev, but after seeing his w...
-    source: Google
+    text: >-
+      Dr. Dev is ONE OF A KIND, along with his team. I consulted with his amazing assistant Beatriz for my breast implant removal and lift and she is such a genuine person and made me feel so welcome. I flew across the country for my procedure and had never spoken to or met Dr. Dev, but after seeing his work and how I was treated by all the staff just on the telephone and email I knew that was exactly w
+    source: "Google"
+logo: "/images/clinics/logos/enso-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/enso-plastic-surgery.png
+lastUpdated: "2026-02-12"

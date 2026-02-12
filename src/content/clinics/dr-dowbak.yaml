@@ -1,0 +1,54 @@
+name: "Dr. Dowbak"
+slug: dr-dowbak
+city: miami
+state: FL
+address: "3485 W Flagler St # 300, Miami, FL 33135"
+zipCode: "33135"
+phone: "(305) 541-5178"
+website: "https://www.glambydowbak.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4604855210804542034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Dowbak is a plastic surgery practice located in Miami, FL. With a 4-star rating from 22 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4
+reviewCount: 22
+reviews:
+  - author: "A D."
+    rating: 5
+    date: "2025-07-22"
+    text: >-
+      LOVE LOVE LOVE DR DOWBAK!!!  I had 2 bbl with her is amazing and has good attention to detail. You don’t even have to know what you want out of surgery just sit back and relax and let her do her thing. I’m happy I was able to have her as my surgeon with her decades of surgical experience and reconstruction surgery experience. I have been turning head since I left her office after bbl 1 and bbl 2. 
+    source: "Google"
+  - author: "Author W. L."
+    rating: 5
+    date: "2024-09-14"
+    text: >-
+      Dr. Dowbak did my 360 surgery in 2020. I'm still snatched. I'm truly sad about the news of Dr Dowbaks Passing. What a great Surgeon.  Will be missed. Prayers to Dr. Dowbak Family and Friends.
+    source: "Google"
+  - author: "Dorine H."
+    rating: 5
+    date: "2020-12-19"
+    text: >-
+      I first contact the office on December 14 I spoke with a lady by the name of Gia. I had questions about the 360 surgery she was professional and knowledgeable she was able to answer all my questions quoting me the price and that they were book out to  September  she said I needed to send her pics of me and she would have Dowbak view them to determine if I'm a candidate. I was excited over the pric
+    source: "Google"
+  - author: "Andrew S."
+    rating: 2
+    date: "2020-08-12"
+    text: >-
+      First, I want to say that Dr. Dowbak is a very sweet person.  Almost a year ago, Dr. Dowbak offered to do Top Surgery for me pro bono due to my insurance not wanting to assist me in the removal, even with my tumor. (Yes, benign, however it causes me pain and a lot of discomfort, especially when in a binder.)  One of my best friends took the time to drive 2 hours to where I lived to take me to Miam
+    source: "Google"
+  - author: "Queen R."
+    rating: 1
+    date: "2023-04-15"
+    text: >-
+      First I wanna say this clinic is by far the worse I’ve ever been too due to lack and disrespectful workers in there. Unprofessional and just sitting and doing nothing but fraud activities to your finance adding more and more unnecessary fees. They really do gotta get rid of the staff there dowback needs to see why she’s loosing customers. Went in for preop asked that I pay the whole amount first b
+    source: "Google"
+logo: "/images/clinics/logos/dr-dowbak.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

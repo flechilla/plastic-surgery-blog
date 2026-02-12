@@ -1,0 +1,54 @@
+name: "Luxxe Skin Aesthetics"
+slug: luxxe-skin-aesthetics
+city: miami
+state: FL
+address: "25 NE 5th St, Miami, FL 33132"
+zipCode: "33132"
+phone: "(786) 940-1251"
+website: "https://luxxeaesthetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8577022147401503682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Luxxe Skin Aesthetics is a plastic surgery practice located in Miami, FL. With a 5-star rating from 42 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 42
+reviews:
+  - author: "MIGRA L."
+    rating: 5
+    date: "2025-07-04"
+    text: >-
+      Excellent experience at Luxxe Skin Aesthetics. I’m currently getting my Emsculpt treatment here, and the experience has been 5 stars from the very first moment. The place is clean, modern, and has an environment that makes you feel welcome and cared for. Melany  attention has been impeccable: she is professional, attentive, and always ensures you feel comfortable during each session. I highly reco
+    source: "Google"
+  - author: "Sable"
+    rating: 5
+    date: "2024-09-30"
+    text: >-
+      This place is amazing! The level of professionalism and service that you get are unmatched. I came in for my first emsculpting session, and I was very comfortable throughout the whole process. I love the aesthetic of this place. It was very bright and modern, and it also smelled good, with very nice views of the city from the windows, I also really enjoyed the music selection they were playing. De
+    source: "Google"
+  - author: "Megan b."
+    rating: 5
+    date: "2025-11-15"
+    text: >-
+      I had a wonderful experience today. The service was quick, the staff was polite, and the atmosphere was comfortable. I’ll be recommending this place. Such an amazing experience! The staff was so warm and welcoming. I felt taken care of the whole time. If you’re thinking about coming here, do it—you won’t regret it❤️
+    source: "Google"
+  - author: "Monica D."
+    rating: 5
+    date: "2024-10-07"
+    text: >-
+      I had an absolutely wonderful experience at this spa! After my treatment, I was treated to a lovely cup of tea on their beautiful balcony, which had breathtaking views of the Miami skyline. It was the perfect way to unwind and enjoy a moment of calm. The staff made me feel completely pampered throughout the entire visit. Everyone was so professional and kind, ensuring a top-notch experience. Highl
+    source: "Google"
+  - author: "Nereyda G. C."
+    rating: 5
+    date: "2024-11-11"
+    text: >-
+      I’ve been a regular at Luxxe Aesthetics since February, and I can’t say enough positive things about my experience! I started with a full-body laser treatment, and my technician has been absolutely exceptional—her skill and precision are truly impressive. Beyond laser, I’ve also done lymphatic drainage massages, endospheres, and Emsculpt sessions, and the results have been amazing.  I’ve always st
+    source: "Google"
+logo: "/images/clinics/logos/luxxe-skin-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

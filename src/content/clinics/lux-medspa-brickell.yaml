@@ -1,0 +1,54 @@
+name: "LUX MedSpa Brickell"
+slug: lux-medspa-brickell
+city: miami
+state: FL
+address: "805 S Miami Ave 9th Floor, Miami, FL 33130"
+zipCode: "33130"
+phone: "(305) 988-9388"
+website: "https://www.luxmedspabrickell.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12593821693512984242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  LUX MedSpa Brickell is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 2138 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 2138
+reviews:
+  - author: "Maria C."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      I got a couples massage for our 4th anniversary, and the experience was absolutely amazing. Katy and Marisol gave us a full tour of the facilities, and the attention to detail truly stood out. We had a personalized locker (my name was on it), which made me feel so special right away. We were also offered champagne, which was such a lovely touch.  The massage was done by Midialis and Danielly, and 
+    source: "Google"
+  - author: "Vítor S. d. S."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      While searching for the best spa near me in Miami, I came across Lux MedSpa Brickell, and I’m so glad I did! I booked a couples massage for myself and my wife, and honestly, all the great reviews don’t even come close to capturing the amazing energy and vibe of this place.  From the moment we arrived, the experience was flawless. I had the pleasure of meeting Alan, and he truly made the entire vis
+    source: "Google"
+  - author: "María C."
+    rating: 5
+    date: "2025-10-13"
+    text: >-
+      This was my first time at Lux Med Spa Brickell, and I was absolutely blown away by Katy’s expertise! I booked a HydraFacial, and she took the time to explain every step of the process in detail, really getting to the root of my skin concerns. She made me feel so comfortable and educated throughout the treatment. My skin is glowing, hydrated, and feels amazing! Highly recommend booking with Katy, s
+    source: "Google"
+  - author: "marty m."
+    rating: 5
+    date: "2025-12-01"
+    text: >-
+      Oscar did a very nice massage. Not painful but relaxing and a lot of stretching I enjoyed the neck stretches the most. Quite relaxing if you need it and completely comfortable the entire time. The place is quite friendly as well.
+    source: "Google"
+  - author: "Reesha L."
+    rating: 5
+    date: "2025-10-19"
+    text: >-
+      Hiram was the most friendly manager with such a calm demeanor, perfect for a peaceful massage! My massage therapist Rey was fantastic, he worked on all my problems areas. I highly recommend if you’re in the area!
+    source: "Google"
+logo: "/images/clinics/logos/lux-medspa-brickell.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,54 @@
+name: "YM Aesthetics Clinic Miami"
+slug: ym-aesthetics-clinic-miami
+city: miami
+state: FL
+address: "175 SW 7th St, Miami, FL 33130"
+zipCode: "33130"
+phone: "(786) 909-7237"
+website: "https://ymaestheticsclinic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1787251615989880051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  YM Aesthetics Clinic Miami is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 44 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 44
+reviews:
+  - author: "mylie s."
+    rating: 5
+    date: "2025-11-27"
+    text: >-
+      I cannot recommend Yumit enough! My sister and I both recently went to him for our lip filler, and the experience was truly exceptional from start to finish. Not only are we both obsessed with our results—they look absolutely beautiful and perfectly natural—but Yumit himself is just an incredible human being. He is super personable, friendly, and takes the time to make you feel completely comforta
+    source: "Google"
+  - author: "Hazel L."
+    rating: 5
+    date: "2025-10-05"
+    text: >-
+      I had such a great experience getting my lip filler done by Yumit. He was incredibly professional, knowledgeable, and made me feel completely comfortable from start to finish. He took the time to listen to what I wanted and gave me honest feedback about what would look best for my face. The results are exactly what I hoped for natural, balanced, and beautifully shaped. He's also very gentle, and t
+    source: "Google"
+  - author: "Anna"
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      Yumit is the only person I trust with my face. I’ve been his client for 2 years now and I’m always extremely happy with my results. If you are looking for aesthetician who truly cares about his clients (not the money) he will be your person. Thank you Yumit for always delivering the best service! I have to mention that he has the best Botox in the game. It lasts forever!
+    source: "Google"
+  - author: "Yvette F."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      I had the most wonderful experience at YM Aesthetics. From the moment I walked in, I felt welcomed and cared for. Yumit is not only professional but also warm and attentive, taking the time to explain everything and make me feel comfortable. The space is clean, calming, and beautifully maintained, which added to the overall experience. The results exceeded my expectations, I left feeling refreshed
+    source: "Google"
+  - author: "Yurik L."
+    rating: 5
+    date: "2025-11-25"
+    text: >-
+      Yumit was absolutely fabulous! His attention to detail is unmatched, and it’s clear he truly cares about his patients. He focuses on even the smallest facial nuances, which immediately put me at ease. Trusting someone with your face can be difficult—we’re all our own worst critics—but from the moment he began, I could tell he saw even more than I did and wouldn’t stop until the results were perfec
+    source: "Google"
+logo: "/images/clinics/logos/ym-aesthetics-clinic-miami.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

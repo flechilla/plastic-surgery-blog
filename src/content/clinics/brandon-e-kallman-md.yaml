@@ -1,0 +1,54 @@
+name: "Brandon E. Kallman, MD"
+slug: brandon-e-kallman-md
+city: miami
+state: FL
+address: "4500 Biscayne Blvd Suite 300 Floor 3, Miami, FL 33137"
+zipCode: "33137"
+phone: "(305) 673-6164"
+website: "https://www.facemiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10010738176084434826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Brandon E. Kallman, MD is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 66 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 66
+reviews:
+  - author: "S"
+    rating: 5
+    date: "2025-09-12"
+    text: >-
+      Just had my rhinoplasty cast removed after surgery with Dr. Kallman. My nose is so absolutely beautiful I cried. It’s all I dreamed it would be. It’s refined and looks entirely natural on my face. And I’m breathing better as well. From the moment I met Dr. Kallman and Miranda I knew I was in the right place. Dr. Kallman was thorough, educative and personable during my consultation,  I felt complet
+    source: "Google"
+  - author: "Ma. C."
+    rating: 5
+    date: "2025-10-04"
+    text: >-
+      I cannot say enough wonderful things about Dr. Brandon and Miranda Kallman. The entire experience—from surgery to aftercare—was absolutely flawless and deeply personal. I felt more like a cherished family member (or even a celebrity!) than a patient.  As for the results, they exceeded all expectations. My dermatologist couldn’t even tell I’d had face and neck surgery! I’m now 65 years old and 2½ y
+    source: "Google"
+  - author: "Lily G."
+    rating: 5
+    date: "2025-04-05"
+    text: >-
+      I can’t thank Dr.Kallman enough, his work is unlike anything I’ve ever seen. The most natural result, and I’m nowhere close to being healed. He really is an artist and magician.  From start to finish, Dr kallman and his amazing wife Miranda put me at such ease. His bedside manner and Miranda consistently checking in to make sure everything is running smoothly made the entire procedure that much ea
+    source: "Google"
+  - author: "Nicole I."
+    rating: 5
+    date: "2024-06-17"
+    text: >-
+      When researching doctors for my rhinoplasty, I was advised by my dermatologist to consider Dr. Kallman and I’m so glad I did. I visited with a couple of different plastic surgeons that specialize in rhinoplasties but Dr. Kallman was the obvious choice from the first consult. He took his time explaining everything and removing all doubts about the procedure which made me feel incredibly relieved an
+    source: "Google"
+  - author: "Emma H."
+    rating: 5
+    date: "2025-01-28"
+    text: >-
+      THANK YOU!!!! I got a nose job and chin implant done by Dr. Kallman in May and it CHANGED MY LIFE. I was skeptical of the chin at first due to swelling but I trusted him that it would go down and it did! My nose is so natural and whenever I tell people I had it done they are always so surprised. I am so much more confident now and I can enjoy taking pictures of myself or with friends without feeli
+    source: "Google"
+logo: "/images/clinics/logos/brandon-e-kallman-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

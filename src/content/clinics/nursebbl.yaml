@@ -1,0 +1,54 @@
+name: "NurseBBL"
+slug: nursebbl
+city: miami
+state: FL
+address: "66 W Flagler St #900-5988, Miami, FL 33130"
+zipCode: "33130"
+phone: "(786) 589-5850"
+website: "http://www.nursebbl.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3279539149386845616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  NurseBBL is a plastic surgery practice located in Miami, FL. With a 5-star rating from 43 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 43
+reviews:
+  - author: "Dahlia S."
+    rating: 5
+    date: "2025-08-06"
+    text: >-
+      Utilizing Nurse BBL for my recovery after surgery was truly the best decision I could have made. From the moment I arrived, my medical needs were fully met with care, precision, and professionalism. The nurses were not only highly knowledgeable but also incredibly kind, attentive, encouraging, and supportive throughout my entire recovery process.  Their compassion and expertise made all the differ
+    source: "Google"
+  - author: "Ash C."
+    rating: 5
+    date: "2024-07-25"
+    text: >-
+      I recently had the privilege of staying with NurseBBL, and I must say, the experience was nothing short of extraordinary. From the moment I arrived, I was enveloped in an atmosphere of tranquility and care that made my recovery process seamless and comfortable.  The hotel itself is delightful, offering a serene environment that is perfect for healing. The rooms are spacious, clean, and equipped wi
+    source: "Google"
+  - author: "Shanamarie W."
+    rating: 5
+    date: "2024-09-21"
+    text: >-
+      I am beyond grateful to have found this company. Nurse Pepita is so sweet, caring and very knowledgeable, I really felt like I was in safe hands with her, She took care of all of my needs and her massages are amazing! She also educated me on my healing. They're stocked up with everything you could need, it was really nice not having to run to different stores for fajas ect. Nurse Luisa made sure t
+    source: "Google"
+  - author: "Khaylah T."
+    rating: 5
+    date: "2023-06-30"
+    text: >-
+      Literally the best help. Luisa picked me up after surgery and made sure i was comfortable in the back. I had a 25 minute drive back after surgery, and it was smooth the entire time. She helped me out with supplies that I didn’t even think to get, and thank goodness she did! Luisa has also been very helpful as far as my massages…..making sure that we’re going at a good pace and that I’m ok/ comfort
+    source: "Google"
+  - author: "Dynasty R."
+    rating: 5
+    date: "2024-03-03"
+    text: >-
+      If you are looking for a recovery nurse in Miami for a bbl BOOK NOW! I spent months looking for the perfect team and as soon as I came across nurse bbl I could just feel they were the ones. Not only were their prices the best but the reviews sold me. I did a 2 day after care package, IV & massages. They also allowed me to add on transportation last minute which was a life saver. I felt amazing dur
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

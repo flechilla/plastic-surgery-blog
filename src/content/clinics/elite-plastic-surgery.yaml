@@ -1,48 +1,54 @@
-name: Elite Plastic Surgery
+name: "Elite Plastic Surgery"
 slug: elite-plastic-surgery
 city: miami
 state: FL
-address: "2700 Hollywood Blvd #200"
+address: "2700 Hollywood Blvd #200, Hollywood, FL 33020"
 zipCode: "33020"
-phone: (305) 933-4033
-website: https://www.epsmiami.com/
-googleMapsUrl: https://maps.google.com/?cid=12699704257604075107
-description: Elite Plastic Surgery is a plastic surgery practice located in Hollywood, FL. With a 4.9-star rating from 738 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 933-4033"
+website: "https://www.epsmiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12699704257604075107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Elite Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 738 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 738
 reviews:
-  - author: Lisa G.
+  - author: "Lisa G."
     rating: 5
     date: "2026-01-26"
-    text: I had a tummy tuck with liposuction and a BBL, and I couldn’t be happier with my experience and results so far. From the very beginning, I felt informed, supported, and truly cared for. The staff was professional, attentive, and made sure I felt comfortable every step of the way.  My surgeon was kno...
-    source: Google
-  - author: Silvana .
+    text: >-
+      I had a tummy tuck with liposuction and a BBL, and I couldn’t be happier with my experience and results so far. From the very beginning, I felt informed, supported, and truly cared for. The staff was professional, attentive, and made sure I felt comfortable every step of the way.  My surgeon was knowledgeable, honest, and took the time to explain the entire process and set realistic expectations. 
+    source: "Google"
+  - author: "Silvana"
     rating: 5
     date: "2025-12-24"
-    text: I traveled from Orlando to have breast augmentation with Dr. Salama and I absolutely love my results! From the very beginning to the end, the entire process was amazing. Everyone on the staff was extremely caring, kind, and always available to answer any questions I had.  My consultation with Dr. Sa...
-    source: Google
-  - author: Giovanna H.
+    text: >-
+      I traveled from Orlando to have breast augmentation with Dr. Salama and I absolutely love my results! From the very beginning to the end, the entire process was amazing. Everyone on the staff was extremely caring, kind, and always available to answer any questions I had.  My consultation with Dr. Salama on the day of surgery was great — he took his time, answered all my questions, and made me feel
+    source: "Google"
+  - author: "Giovanna H."
     rating: 5
     date: "2026-01-28"
-    text: I traveled from South Carolina I had already breast augmentation with Dr. Salama three years earlier. Dr. Salama and all the staff are very attentive and were patient enough to answer all my questions. This time I returned for rib remodeling and labiaplasty, and my experience has been excellent from...
-    source: Google
-  - author: Kirsten H.
+    text: >-
+      I traveled from South Carolina I had already breast augmentation with Dr. Salama three years earlier. Dr. Salama and all the staff are very attentive and were patient enough to answer all my questions. This time I returned for rib remodeling and labiaplasty, and my experience has been excellent from beginning to end. He is definitely someone you can trust and all the staff
+    source: "Google"
+  - author: "Kirsten H."
     rating: 5
     date: "2025-10-30"
-    text: Dr. Salama and his staff are wonderful! He performed 360 liposuction and BBL on me. Procedure went smooth, had very little pain afterwards. His pre and post op instructions and care is very thorough. Highly recommend him. Thank you also to Alex the anesthesiologist and Razik for post op massages. As...
-    source: Google
-  - author: Ronda M.
+    text: >-
+      Dr. Salama and his staff are wonderful! He performed 360 liposuction and BBL on me. Procedure went smooth, had very little pain afterwards. His pre and post op instructions and care is very thorough. Highly recommend him. Thank you also to Alex the anesthesiologist and Razik for post op massages. Ashley and Zuny were great at answering my questions pre op. My husband also had liposuction the same 
+    source: "Google"
+  - author: "Ronda M."
     rating: 5
     date: "2025-12-10"
-    text: Dr Salama came highly recommended. I traveled from California specifically for him to be my plastic surgeon.I appreciated how his staff was very diligent in making sure everything was taken care of before my surgery.  Dr Salama saw me a few times before I left during my stay there to answer all of m...
-    source: Google
+    text: >-
+      Dr Salama came highly recommended. I traveled from California specifically for him to be my plastic surgeon.I appreciated how his staff was very diligent in making sure everything was taken care of before my surgery.  Dr Salama saw me a few times before I left during my stay there to answer all of my questions which made me feel very comfortable. I would definitely recommend him to someone who is 
+    source: "Google"
+logo: "/images/clinics/logos/elite-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/elite-plastic-surgery.jpg
+lastUpdated: "2026-02-12"

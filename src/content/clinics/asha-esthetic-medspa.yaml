@@ -1,0 +1,54 @@
+name: "Asha Esthetic & Medspa"
+slug: asha-esthetic-medspa
+city: miami
+state: FL
+address: "1800 SW 1st Ave Unit 501, Miami, FL 33129"
+zipCode: "33129"
+phone: "(305) 505-7853"
+website: "http://www.ashaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7369474793931976160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Asha Esthetic & Medspa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 287 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 287
+reviews:
+  - author: "Valeria V."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      I had the best experience at Asha Medspa. From the moment I walked in, the customer service was exceptional and everyone treated me with so much care and kindness. I am currently pregnant, and they were extremely attentive and thoughtful, making sure I felt safe and comfortable at all times. They truly went above and beyond to take care of me. I had a facial cleansing for my face and back, and the
+    source: "Google"
+  - author: "Antuanet N."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      I’ve been going to Asha for a year now, and I had never felt truly safe or confident getting facial treatments until I met the girls there. From day one, they’ve been incredibly kind, very professional, and always so careful with every treatment. They make me feel completely comfortable, answer all my questions with patience, and consistently provide exceptional care. Truly the best.
+    source: "Google"
+  - author: "Nani D."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      It is always a pleasure coming to Asha. From the moment you walk in, you feel truly cared for and in the best hands. The entire staff is amazing, but I want to give special recognition to Andreina, Claudia, and Gaby. Their warmth, professionalism, and friendly attitude make every visit special. They provide honest, personalized advice and explain each treatment in detail, making you feel comfortab
+    source: "Google"
+  - author: "Cynthia W."
+    rating: 5
+    date: "2026-01-03"
+    text: >-
+      Asha Medspa has to be my favorite place now! It felt so heavenly.. My skin is sensitive, I am picky when it comes to skincare or facials or anything face related. My skin feels SO good after my personalized treatments. Staff are super nice and friendly! It felt like I have been there before. Don’t think about it twice, just book and enjoy the experience. Thank me later!
+    source: "Google"
+  - author: "Ceo P."
+    rating: 5
+    date: "2025-10-11"
+    text: >-
+      ASHA is truly the best aesthetic center ever! It’s the only place I completely trust with my skin. Their facial treatments are on another level, they literally change your life. It feels like finding a place where you’re truly understood, listened to, and where they analyze your skin every single time with so much care and attention.  Every time I’m in Miami, visiting ASHA is an absolute must! I a
+    source: "Google"
+logo: "/images/clinics/logos/asha-esthetic-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

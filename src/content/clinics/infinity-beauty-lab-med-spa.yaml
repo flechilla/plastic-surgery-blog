@@ -1,0 +1,54 @@
+name: "Infinity Beauty Lab Med Spa"
+slug: infinity-beauty-lab-med-spa
+city: miami
+state: FL
+address: "40 SW 13th St suite 606, Miami, FL 33130"
+zipCode: "33130"
+phone: "(561) 232-0263"
+website: "http://www.infinitybeautylab.com/"
+googleMapsUrl: "https://maps.google.com/?cid=234037088509461458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Infinity Beauty Lab Med Spa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 64 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 64
+reviews:
+  - author: "Lubica M."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      I had such an amazing experience at Infinity Beauty Lab Med Spa with the owner Dana. I came in for Morpheus Burst and IPL, and I was honestly surprised how smooth, painless, and quick everything was. The treatment was super comfortable, and I could already see results right away, which made me even happier. What really stood out to me was the customer service. Dana is incredibly attentive, caring,
+    source: "Google"
+  - author: "Nicole M."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      The best! I was very skeptical about doing Morpheus and went back and forth after doing a ton of research. After everything, I chose Infinity Beauty Lab and couldn’t be happier. Dana is personable, truly examines your skin, and gives thoughtful recommendations. I initially did Morpheus, but she also recommended Erbium... and I’m so glad I tried it. The combination was amazing. I highly recommend h
+    source: "Google"
+  - author: "Brenda A."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      I just finished my second IPL and Morpheus8 treatment at Infinity Beauty Lab with Dana, and I couldn’t be happier. I noticed amazing improvements after just my first session, and my skin keeps getting better. From the moment I walked in, Dana made me feel so comfortable, listened to all my skin concerns, and recommended exactly what my skin needed. She’s incredibly knowledgeable, patient, and trul
+    source: "Google"
+  - author: "H H."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      No pain with Morpheus8 treatment! My best experience at a med spa! My results have been amazing and the attention to the client is something you can’t find anywhere else! Dana really listens and cares about her clients. I’ve done various treatments with her and had great results with all of them. Dana is extremely knowledgeable and precise in what she does. She will always show you the new needles
+    source: "Google"
+  - author: "Fran V."
+    rating: 5
+    date: "2025-10-09"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ I had the Morpheus treatment with Dana at Infinity Beauty Lab Spa and absolutely loved it! She’s incredibly knowledgeable, gentle, and explains everything in detail so you feel completely comfortable. My skin looks amazing, and the results have been even better than I expected. The spa is beautiful, clean, and has such a calm, relaxing vibe — you can tell Dana truly cares about her clie
+    source: "Google"
+logo: "/images/clinics/logos/infinity-beauty-lab-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

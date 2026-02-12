@@ -1,48 +1,54 @@
-name: Dr. Busso Cosmetic Dermatology
+name: "Dr. Busso Cosmetic Dermatology"
 slug: dr-busso-cosmetic-dermatology
 city: miami
 state: FL
-address: 3006 Aviation Ave STE 2C
+address: "3006 Aviation Ave STE 2C, Miami, FL 33133"
 zipCode: "33133"
-phone: (305) 857-0144
-website: https://drbusso.com/
-googleMapsUrl: https://maps.google.com/?cid=15003109397414591748
-description: Dr. Busso Cosmetic Dermatology is a plastic surgery practice located in Miami, FL. With a 5-star rating from 325 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 857-0144"
+website: "https://drbusso.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15003109397414591748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Busso Cosmetic Dermatology is a plastic surgery practice located in Miami, FL. With a 5-star rating from 325 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 325
 reviews:
-  - author: Gregory K.
+  - author: "Gregory K."
     rating: 5
     date: "2026-01-29"
-    text: I’ve been going to Dr. Busso for years, and his depth of knowledge, quality care, and earnest desire to achieve wonderful outcomes for patients is unmatched. His office staff is professional and warm, offering a great experience. I couldn’t recommend him enough!
-    source: Google
-  - author: camila m.
+    text: >-
+      I’ve been going to Dr. Busso for years, and his depth of knowledge, quality care, and earnest desire to achieve wonderful outcomes for patients is unmatched. His office staff is professional and warm, offering a great experience. I couldn’t recommend him enough!
+    source: "Google"
+  - author: "camila m."
     rating: 5
     date: "2026-01-26"
-    text: I had such a wonderful experience with Dr. Busso and his team! From start to finish the service felt thoughtful and professional.  Dr. Busso truly takes the time to listen, explain every step and make sure you feel comfortable and confident with the plan😊
-    source: Google
-  - author: Kristine G.
+    text: >-
+      I had such a wonderful experience with Dr. Busso and his team! From start to finish the service felt thoughtful and professional.  Dr. Busso truly takes the time to listen, explain every step and make sure you feel comfortable and confident with the plan😊
+    source: "Google"
+  - author: "Kristine G."
     rating: 5
     date: "2026-01-15"
-    text: I had a wonderful experience at Dr Busso’s office for my first visit to get Botox. His staff was helpful, warm and welcoming. Dr Busso was extremely knowledgeable and skillful. I used to get my Botox up north and I feel like he was a whole other level that I have been missing out on all these years....
-    source: Google
-  - author: Nelly L.
+    text: >-
+      I had a wonderful experience at Dr Busso’s office for my first visit to get Botox. His staff was helpful, warm and welcoming. Dr Busso was extremely knowledgeable and skillful. I used to get my Botox up north and I feel like he was a whole other level that I have been missing out on all these years. So glad I found him.
+    source: "Google"
+  - author: "Nelly L."
     rating: 5
     date: "2026-01-23"
-    text: Dr.Busso is amazing! He is incredibly knowledgeable and patient. He is on top of the latest treatments and procedures. I would highly recommend him. He always makes me look beautiful.
-    source: Google
-  - author: David T.
+    text: >-
+      Dr.Busso is amazing! He is incredibly knowledgeable and patient. He is on top of the latest treatments and procedures. I would highly recommend him. He always makes me look beautiful.
+    source: "Google"
+  - author: "David T."
     rating: 5
     date: "2025-12-22"
-    text: Dr Busso has done amazing work for me. He got rid of my dark circles under my eye with a unique way he uses filler. He also did great Botox on my forehead. He has a technique that really reduces the pain as well as he’s injecting which I really appreciate. I highly recommend!
-    source: Google
+    text: >-
+      Dr Busso has done amazing work for me. He got rid of my dark circles under my eye with a unique way he uses filler. He also did great Botox on my forehead. He has a technique that really reduces the pain as well as he’s injecting which I really appreciate. I highly recommend!
+    source: "Google"
+logo: null
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/dr-busso-cosmetic-dermatology.png
+lastUpdated: "2026-02-12"

@@ -2,47 +2,53 @@ name: "ARC Plastic Surgery - Miami: Jeremy White, M.D"
 slug: arc-plastic-surgery-miami-jeremy-white-m-d
 city: miami
 state: FL
-address: 20950 NE 27th Ct STE 302
-zipCode: "33180"
-phone: (305) 501-2000
-website: https://www.arcplasticsurgeons.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=miami
-googleMapsUrl: https://maps.google.com/?cid=4879676970715665407
-description: "ARC Plastic Surgery - Miami: Jeremy White, M.D is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 155 reviews, they offer cosmetic and reconstructive surgery services."
+address: "20950 NE 27th Ct STE 302, Miami, FL 33180"
+zipCode: "20950"
+phone: "(305) 501-2000"
+website: "https://www.arcplasticsurgeons.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=miami"
+googleMapsUrl: "https://maps.google.com/?cid=4879676970715665407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  ARC Plastic Surgery - Miami: Jeremy White, M.D is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 155 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 155
 reviews:
-  - author: Isabella G.
+  - author: "Isabella G. M."
     rating: 5
     date: "2026-01-11"
-    text: Dr. White and his coordinator Ari are an unbelievable team.  Surprisingly (almost unbelievably), I had *no* bruising and minimal swelling coming out of surgery, which only proves how talented and patient he is as a surgeon. I had consulted with other ENT and cosmetic surgeons in the area, and I alwa...
-    source: Google
-  - author: Michelle H.
+    text: >-
+      Dr. White and his coordinator Ari are an unbelievable team.  Surprisingly (almost unbelievably), I had *no* bruising and minimal swelling coming out of surgery, which only proves how talented and patient he is as a surgeon. I had consulted with other ENT and cosmetic surgeons in the area, and I always felt rushed and as if they already knew/assumed what kind of changes I wanted without really lett
+    source: "Google"
+  - author: "Michelle H."
     rating: 5
     date: "2025-11-13"
-    text: Our family is deeply grateful to Dr. White for his exceptional care following our teenage son’s ice-skating accident, which resulted in a significant facial/lip injury. From the initial consultation to the post-operative follow-up, Dr. White demonstrated remarkable professionalism, precision, and co...
-    source: Google
-  - author: Robert P.
+    text: >-
+      Our family is deeply grateful to Dr. White for his exceptional care following our teenage son’s ice-skating accident, which resulted in a significant facial/lip injury. From the initial consultation to the post-operative follow-up, Dr. White demonstrated remarkable professionalism, precision, and compassion.  He clearly explained the treatment plan, set realistic expectations, and made our son fee
+    source: "Google"
+  - author: "Robert P."
     rating: 5
     date: "2025-11-24"
-    text: Dr White did an amazing job on my face lift!  Thanks to Dr White, I look 12-15 years younger than my actual age. He is a highly skilled cosmetic surgeon possessing an artist's eye on visual perfection.  Prior to the surgery, he takes the time to understand your objectives and explains the process le...
-    source: Google
-  - author: Maria G.
+    text: >-
+      Dr White did an amazing job on my face lift!  Thanks to Dr White, I look 12-15 years younger than my actual age. He is a highly skilled cosmetic surgeon possessing an artist's eye on visual perfection.  Prior to the surgery, he takes the time to understand your objectives and explains the process leaving nothing to chance.  Both before and after the surgery, he is always readily available to answe
+    source: "Google"
+  - author: "Maria G."
     rating: 5
     date: "2025-11-24"
-    text: I went to Dr. White seeking a little more youthful version of myself. I received much education on my face and neck lift procedure. My results have been amazing. My excess wrinkles and skin have been erased from my neck, my face looks exactly like myself minus no wrinkles. I’m so thrilled with Dr. W...
-    source: Google
-  - author: Neveen Q.
+    text: >-
+      I went to Dr. White seeking a little more youthful version of myself. I received much education on my face and neck lift procedure. My results have been amazing. My excess wrinkles and skin have been erased from my neck, my face looks exactly like myself minus no wrinkles. I’m so thrilled with Dr. Whites amazing work! I highly recommend him. I’ve attached Before and After pictures.
+    source: "Google"
+  - author: "Neveen Q."
     rating: 5
     date: "2025-10-29"
-    text: We had a wonderful experience with Dr. White. Our newborn daughter needed ear molds, and as parents we were understandably nervous. From the very first consultation, Dr. White was kind, patient, and reassuring. He took the time to explain every step of the process, answered all our questions, and ma...
-    source: Google
+    text: >-
+      We had a wonderful experience with Dr. White. Our newborn daughter needed ear molds, and as parents we were understandably nervous. From the very first consultation, Dr. White was kind, patient, and reassuring. He took the time to explain every step of the process, answered all our questions, and made sure we felt completely comfortable. The results have been amazing and the entire process was gen
+    source: "Google"
+logo: "/images/clinics/logos/arc-plastic-surgery-miami-jeremy-white-m-d.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/arc-plastic-surgery-miami-jeremy-white-m-d.jpg
+lastUpdated: "2026-02-12"

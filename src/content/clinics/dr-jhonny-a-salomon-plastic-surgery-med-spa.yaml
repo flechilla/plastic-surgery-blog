@@ -1,48 +1,54 @@
-name: Dr. Jhonny A Salomon Plastic Surgery & Med Spa
+name: "Dr. Jhonny A Salomon Plastic Surgery & Med Spa"
 slug: dr-jhonny-a-salomon-plastic-surgery-med-spa
 city: miami
 state: FL
-address: "6705 S Red Rd #708"
+address: "6705 S Red Rd #708, Miami, FL 33143"
 zipCode: "33143"
-phone: (305) 270-1361
-website: https://www.drjsalomon.com/
-googleMapsUrl: https://maps.google.com/?cid=6379399517984915032
-description: Dr. Jhonny A Salomon Plastic Surgery & Med Spa is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 517 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 270-1361"
+website: "https://www.drjsalomon.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6379399517984915032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Jhonny A Salomon Plastic Surgery & Med Spa is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 517 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.7
 reviewCount: 517
 reviews:
-  - author: Danna a.
+  - author: "Danna a."
     rating: 5
     date: "2026-01-29"
-    text: Dr. Salmon is knowledgeable, attentive, and takes the time to really listen to concerns. He explains everything clearly and makes sure you understand your options, which I really appreciated. I never felt rushed, and it was clear that he genuinely cares about his patients and their well-being. Overa...
-    source: Google
-  - author: Marc C.
+    text: >-
+      Dr. Salmon is knowledgeable, attentive, and takes the time to really listen to concerns. He explains everything clearly and makes sure you understand your options, which I really appreciated. I never felt rushed, and it was clear that he genuinely cares about his patients and their well-being. Overall, this office provides excellent care with a friendly and supportive atmosphere. I would highly re
+    source: "Google"
+  - author: "Marc C."
     rating: 5
     date: "2025-12-31"
-    text: Dr. Johnny Salomon truly made a life-changing difference in my surgical journey. From the very beginning, he made me feel comfortable, heard, and completely at ease. He took the time to explain everything clearly and always made sure I understood each step of the process. The nursing staff were just...
-    source: Google
-  - author: Claudia G.
+    text: >-
+      Dr. Johnny Salomon truly made a life-changing difference in my surgical journey. From the very beginning, he made me feel comfortable, heard, and completely at ease. He took the time to explain everything clearly and always made sure I understood each step of the process. The nursing staff were just as amazing kind, attentive, and incredibly supportive. I never once felt anxious or alone, and that
+    source: "Google"
+  - author: "Claudia G."
     rating: 5
     date: "2026-01-28"
-    text: I had an amazing experience at Dr. Jhonny Salomon’s office. From the moment I walked in, I felt welcomed, heard, and truly cared for. Dr. Salomon explained everything clearly and my results exceeded my expectations. The staff is kind, patient, and extremely professional. The office is beautiful and ...
-    source: Google
-  - author: Ramin S.
+    text: >-
+      I had an amazing experience at Dr. Jhonny Salomon’s office. From the moment I walked in, I felt welcomed, heard, and truly cared for. Dr. Salomon explained everything clearly and my results exceeded my expectations. The staff is kind, patient, and extremely professional. The office is beautiful and the whole process was smooth. I will definitely be coming back and highly recommend this place. You'
+    source: "Google"
+  - author: "Ramin S."
     rating: 5
     date: "2025-12-20"
-    text: My name is Ramin. I traveled to Miami to have my surgery with my dear friend, Dr. Jhonny Salomon. I had a facelift, neck fat grafting, CO2 laser, and rhinoplasty. From the first moment, the experience in his office was amazing. The staff is very professional, kind, and attentive. They make you feel ...
-    source: Google
-  - author: Karen S.
+    text: >-
+      My name is Ramin. I traveled to Miami to have my surgery with my dear friend, Dr. Jhonny Salomon. I had a facelift, neck fat grafting, CO2 laser, and rhinoplasty. From the first moment, the experience in his office was amazing. The staff is very professional, kind, and attentive. They make you feel safe, calm, and very well taken care of. Even now, while I am still healing, I can already see wonde
+    source: "Google"
+  - author: "Karen S."
     rating: 5
     date: "2025-12-15"
-    text: Dr Jhonny Salomon is absolutely amazing!!! I would recommend him to anyone! I flew from Seattle to Miami to have him replace and upgrade my 27 year old breast implants and it was one of the best decisions I’ve ever made.  His attention to detail was impeccable. The results are better than I had wish...
-    source: Google
+    text: >-
+      Dr Jhonny Salomon is absolutely amazing!!! I would recommend him to anyone! I flew from Seattle to Miami to have him replace and upgrade my 27 year old breast implants and it was one of the best decisions I’ve ever made.  His attention to detail was impeccable. The results are better than I had wished for!!!  Dr. Salomon thank you from the bottom of my heart for a successful surgery and recovery. 
+    source: "Google"
+logo: "/images/clinics/logos/dr-jhonny-a-salomon-plastic-surgery-med-spa.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/dr-jhonny-a-salomon-plastic-surgery-med-spa.png
+lastUpdated: "2026-02-12"

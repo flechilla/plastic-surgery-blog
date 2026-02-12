@@ -1,48 +1,54 @@
-name: Flow Plastic Surgery
+name: "Flow Plastic Surgery"
 slug: flow-plastic-surgery
 city: miami
 state: FL
-address: 1800 SW 27th Ave 3rd Floor
+address: "1800 SW 27th Ave 3rd Floor, Miami, FL 33145"
 zipCode: "33145"
-phone: (305) 563-2078
-website: https://glowplasticsurgerymiami.com/
-googleMapsUrl: https://maps.google.com/?cid=10134450266797797227
-description: Flow Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 73 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 563-2078"
+website: "https://glowplasticsurgerymiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10134450266797797227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Flow Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 73 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 73
 reviews:
-  - author: amar y.
+  - author: "amar y. a."
     rating: 5
     date: "2026-01-23"
-    text: My experience was exceptional from day one. From the very first point of contact, with kim and prisillas  was absolutely outstanding professional, attentive, and genuinely committed to excellence. She managed the entire process end-to-end, ensured seamless coordination, and provided continuous suppo...
-    source: Google
-  - author: Angela R.
+    text: >-
+      My experience was exceptional from day one. From the very first point of contact, with kim and prisillas  was absolutely outstanding professional, attentive, and genuinely committed to excellence. She managed the entire process end-to-end, ensured seamless coordination, and provided continuous support, which made everything smooth and stress-free. Now 10 day after surgery i feel great. I feel like
+    source: "Google"
+  - author: "Angela R."
     rating: 5
     date: "2026-01-27"
-    text: I had an amazing experience at this plastic surgery office from start to finish. The staff was incredibly welcoming, professional, and made me feel comfortable the entire time. They took the time to answer all of my questions, explain everything clearly, and truly listened to my concerns instead of ...
-    source: Google
-  - author: Cintia D.
+    text: >-
+      I had an amazing experience at this plastic surgery office from start to finish. The staff was incredibly welcoming, professional, and made me feel comfortable the entire time. They took the time to answer all of my questions, explain everything clearly, and truly listened to my concerns instead of rushing me.  The facility was spotless and very well organized, which immediately gave me peace of m
+    source: "Google"
+  - author: "Cintia D."
     rating: 5
     date: "2025-12-20"
-    text: I am extremely grateful to Dr. Dang for the exceptional care, professionalism, and excellence from the very first consultation through my post-operative recovery. I felt safe and confident at every stage of the process, with clear explanations, great attention to detail, and a highly prepared team. ...
-    source: Google
-  - author: Xochilt V.
+    text: >-
+      I am extremely grateful to Dr. Dang for the exceptional care, professionalism, and excellence from the very first consultation through my post-operative recovery. I felt safe and confident at every stage of the process, with clear explanations, great attention to detail, and a highly prepared team. My surgery was a success, thanks to God and to a doctor who truly loves what he does. I highly recom
+    source: "Google"
+  - author: "Xochilt V."
     rating: 5
     date: "2025-11-18"
-    text: I recently had plastic surgery at Glow Plastic Surgery, and my experience was exceptional from start to finish. Kimberly was incredibly informative and patiently addressed all my questions, while Manuela helped with every office matter with kindness and understanding. Denise provided amazing care—fr...
-    source: Google
-  - author: Pedro J.
+    text: >-
+      I recently had plastic surgery at Glow Plastic Surgery, and my experience was exceptional from start to finish. Kimberly was incredibly informative and patiently addressed all my questions, while Manuela helped with every office matter with kindness and understanding. Denise provided amazing care—from the moment I woke up from surgery through all my post-op needs—making me feel truly supported. I 
+    source: "Google"
+  - author: "Pedro J."
     rating: 5
     date: "2025-12-12"
-    text: I’ve been calling around different clinics to find the right place for my wife’s Christmas surprise, and this place stands out above the rest. Adriana’s customer service instantly sold me. She was patient, helpful, and actually took the time to track down answers for my questions instead of guessing...
-    source: Google
+    text: >-
+      I’ve been calling around different clinics to find the right place for my wife’s Christmas surprise, and this place stands out above the rest. Adriana’s customer service instantly sold me. She was patient, helpful, and actually took the time to track down answers for my questions instead of guessing or brushing things off. Super professional, super friendly honestly the best experience I’ve had wh
+    source: "Google"
+logo: "/images/clinics/logos/flow-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/flow-plastic-surgery.jpg
+lastUpdated: "2026-02-12"

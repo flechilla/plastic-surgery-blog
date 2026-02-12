@@ -1,0 +1,54 @@
+name: "Bella Vida Aesthetics & Wellness"
+slug: bella-vida-aesthetics-wellness
+city: miami
+state: FL
+address: "151 SE 1st St Ph 05, Miami, FL 33131"
+zipCode: "33131"
+phone: "(786) 338-8346"
+website: "https://bellavidaaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15556259482408753649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Bella Vida Aesthetics & Wellness is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 140 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 140
+reviews:
+  - author: "Aisha T."
+    rating: 5
+    date: "2025-09-15"
+    text: >-
+      I just left Bella Vida and I am soooo happy I trusted them with my face. So many other women I know come here and love their results. Not only is it a beautiful office, you can tell they care deeply about each patient by the way they take the time to ask so many detailed questions and truly make sure they’re doing exactly what you want. They offer snacks and drinks and the valet parking out front 
+    source: "Google"
+  - author: "Elise M."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Ina and Bella Vida IS THE BEST!!  I just started coming here and Ive never had such great results and she is so knowledgable ! She also has a great friendly personality ! I feel like I am  seeing a friend for my  treatments since the day I met her.... I drive over an hour to get to see her and it's WELL WORTH IT !!! AND the membership?? come on now...this is a like a dream place! DEF go for all yo
+    source: "Google"
+  - author: "Angelica d. T."
+    rating: 5
+    date: "2025-10-09"
+    text: >-
+      Iani is absolutely the best ever!! Highly recommend! 10/10. I was terrified of getting my lips done for reasons like pain and outcome mostly. I had the best experience! Iani and her team made me feel comfortable and at ease. She pulled out all the stops seeing how I was nervous. I had ice, a vibrating tool, a stress ball, music...And of course the numbing 🙏 I can go on and on about how sweet and 
+    source: "Google"
+  - author: "Sofia B."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      Amazing experience Ginna did my Ulthera and Areolase and she was fantastic! She explained what which procedure did and showed me while I was getting it done exactly what was happening! They are so professional, knowledgeable, and kind.  Nicole greeted me when I came in and was super sweet too! Would recommend to all my friends looking for a new med spa:)
+    source: "Google"
+  - author: "Rebecca G."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      I highly recommend Bella Vida Athletics! Iani is not only extremely knowledgeable, but also professional, honest, and gentle in helping you achieve exactly what you’re looking for. Her staff is top-notch—professional, kind, and attentive. I honestly trust them with my life at this point! Couldn’t recommend them more! She is my beauty guru !!!
+    source: "Google"
+logo: "/images/clinics/logos/bella-vida-aesthetics-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

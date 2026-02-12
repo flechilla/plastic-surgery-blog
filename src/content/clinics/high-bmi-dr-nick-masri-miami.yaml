@@ -1,0 +1,54 @@
+name: "High BMI Dr Nick Masri Miami"
+slug: high-bmi-dr-nick-masri-miami
+city: miami
+state: FL
+address: "1100 SW 57th Ave, West Miami, FL 33144"
+zipCode: "33144"
+phone: "(305) 262-6484"
+website: "https://highbmi.org/"
+googleMapsUrl: "https://maps.google.com/?cid=425106902502129156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  High BMI Dr Nick Masri Miami is a plastic surgery practice located in Miami, FL. With a 4.2-star rating from 27 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.2
+reviewCount: 27
+reviews:
+  - author: "Dheya D."
+    rating: 5
+    date: "2025-11-23"
+    text: >-
+      Dr. Masri was an absolute pleasure to work with. He truly takes the time to explain the procedure and patiently answers any and all questions you may have. He works incredibly hard to achieve the results you want, and I could not be happier with my final outcome.  Angie, his office manager, is just as wonderful. She is amazing at guiding you through every step of the process and is always communic
+    source: "Google"
+  - author: "Crystal S."
+    rating: 5
+    date: "2025-11-26"
+    text: >-
+      If I could give Dr Masri 10 stars I would! After researching and following his practice for 3 years I finally decided I was ready for a life changing procedure. I could not be happier with my results, Dr Masri went above and beyond my expectations. Although everyone’s journey is different I can say for myself I would choose Dr Masri again and again. Both Angie and him have been heaven sent before,
+    source: "Google"
+  - author: "Kay"
+    rating: 5
+    date: "2025-08-19"
+    text: >-
+      Had 3 separate procedures with Dr Masri & my experience has been fantastic. The hospital he operates in has outstanding staff & post op care. Highly recommend!
+    source: "Google"
+  - author: "Michelle J."
+    rating: 5
+    date: "2025-08-07"
+    text: >-
+      Dr. Nick Masri and his staff are absolutely the best! From the minute you step into his office you will feel comfortable and at ease. Dr. Masri is one of the best plastic surgeon's in the country.  He takes the upmost pride in his work. My breast augmentation and eye lift both look completely natural. You will be nothing but pleased with his work. I highly recommend Dr. Masri for any ps needs!
+    source: "Google"
+  - author: "MarieClaude B."
+    rating: 5
+    date: "2025-04-25"
+    text: >-
+      The best Surgeon every. Awesome work and outcome. He has excellent bedside mannerism. He is honest, and kind. He and his Staff treat you like Family. 🙌
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,54 @@
+name: "Dr. Pierre Gordon MD"
+slug: dr-pierre-gordon-md
+city: miami
+state: FL
+address: "330 SW 27th Ave STE 609, Miami, FL 33135"
+zipCode: "33135"
+phone: "(305) 723-9974"
+website: "https://vbsurgicalarts.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1924019279484466781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Pierre Gordon MD is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 42 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 42
+reviews:
+  - author: "Alysha P."
+    rating: 5
+    date: "2024-08-12"
+    text: >-
+      Absolutely amazing. Had an extended tummy tuck and my arms done 3 months ago He is extremely attentive to your needs especially since I don’t live in Miami. I did have a complication and the service I got from him and the office was amazing. They always checked on me and helped thru the issue   I am plus size and he really made me comfortable in making sure the changes I was making after my 170 po
+    source: "Google"
+  - author: "Ynez W."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      Dr. Pierre is the go to surgeon for tummy tuck and lipo procedure s.  I and others are very happy with my results and have shared his information with all my girl friends.  Dr. Pierre and his staff are very responsive and will answer all your pre and post operative questions.  I will post pictures on my cruise next month.
+    source: "Google"
+  - author: "Mary S."
+    rating: 5
+    date: "2024-07-25"
+    text: >-
+      Dr Gordon is an excellent plastic surgeon! He do a tummy tuck on me 6 months ago and the results are phenomenal! I am very pleased. I am having a 360 coming up and will be doing more surgery with him in the future!
+    source: "Google"
+  - author: "Yubana R."
+    rating: 5
+    date: "2025-01-27"
+    text: >-
+      Dr. Pierre Gordon, in addition to his experience and knowledge, makes communication with his patients transparent and effective. He is an excellent professional, pleasant and concerned with providing the best care. My surgery was 7 weeks ago, there was a climate of trust, the care and the operation were a complete success. I am very happy and grateful with the results!
+    source: "Google"
+  - author: "Immanuel F. A. A."
+    rating: 5
+    date: "2024-08-14"
+    text: >-
+      My experience with Dr. Gordon  was excellent.  I had a tummy tuck under another surgeon and the treatment was the worst. Dr. Gordon was very personable. He made sure of my safety from the very start to the end.  He made sure I knew the process and was comfortable about the decision I made concerning the procedure. I am impressed with my results. Yes, if there is any procedure that I may want, Dr. 
+    source: "Google"
+logo: "/images/clinics/logos/dr-pierre-gordon-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

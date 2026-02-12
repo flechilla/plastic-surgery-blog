@@ -1,48 +1,54 @@
-name: Dr. Sean Simon MD
+name: "Dr. Sean Simon MD"
 slug: dr-sean-simon-md
 city: miami
 state: FL
-address: 3850 Bird Rd STE 201
+address: "3850 Bird Rd STE 201, Miami, FL 33146"
 zipCode: "33146"
-phone: (305) 668-0496
-website: https://www.drsimonplasticsurgery.com/
-googleMapsUrl: https://maps.google.com/?cid=1608915958978744056
-description: Dr. Sean Simon MD is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 240 reviews, they offer cosmetic and reconstructive surgery services.
+phone: "(305) 668-0496"
+website: "https://www.drsimonplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1608915958978744056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Sean Simon MD is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 240 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
-  - Plastic Surgery
-  - Cosmetic Surgery
-  - Reconstructive Surgery
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
 rating: 4.5
 reviewCount: 240
 reviews:
-  - author: Cassandra D.
+  - author: "Cassandra D."
     rating: 5
     date: "2026-01-29"
-    text: Having my breast reduction with Dr. Simon was the best decision I’ve ever made for myself. Choosing him and his team was absolutely the right choice. Dr. Simon is amazing and extremely attentive to his work. I am loving my results so far and feel so confident showing them off.  The office and surgic...
-    source: Google
-  - author: Arlem C.
+    text: >-
+      Having my breast reduction with Dr. Simon was the best decision I’ve ever made for myself. Choosing him and his team was absolutely the right choice. Dr. Simon is amazing and extremely attentive to his work. I am loving my results so far and feel so confident showing them off.  The office and surgical staff are just as wonderful. Every time I go into the office, Andrea, Alicia, and the entire team
+    source: "Google"
+  - author: "Arlem C."
     rating: 5
     date: "2025-12-11"
-    text: I had an absolutely amazing experience with Dr. Simon and his entire team. From start to finish, everyone in the office was so kind, professional, and genuinely caring. I underwent a breast augmentation and a tummy tuck, and I could not be happier with my results. Dr. Simon made me feel completely c...
-    source: Google
-  - author: Dario G.
+    text: >-
+      I had an absolutely amazing experience with Dr. Simon and his entire team. From start to finish, everyone in the office was so kind, professional, and genuinely caring. I underwent a breast augmentation and a tummy tuck, and I could not be happier with my results. Dr. Simon made me feel completely comfortable, explained every step of the process, and delivered beautiful, natural-looking outcomes. 
+    source: "Google"
+  - author: "Dario G."
     rating: 1
     date: "2025-09-09"
-    text: I have been debating on writing a review on Dr Simon for quite some time now. My wife had a couple of procedures done with him back in January of this year. She had a Breast Augmentation and some Liposuction on some areas. I Strongly recommend getting everything in writing. I kinda Blame myself for ...
-    source: Google
-  - author: Yunior E.
+    text: >-
+      I have been debating on writing a review on Dr Simon for quite some time now. My wife had a couple of procedures done with him back in January of this year. She had a Breast Augmentation and some Liposuction on some areas. I Strongly recommend getting everything in writing. I kinda Blame myself for not helping my wife do her research. If you notice on his review pattern you will see that some year
+    source: "Google"
+  - author: "Yunior E."
     rating: 5
     date: "2025-03-11"
-    text: ⭐⭐⭐⭐⭐  I cannot say enough great things about Dr. Simon and their entire team! My wife recently underwent a breast augmentation, and the results are absolutely beautiful—natural, symmetrical, and exactly what she envisioned. From the initial consultation to post-op care, Dr. Simon was incredibly pro...
-    source: Google
-  - author: Yadirka R.
+    text: >-
+      ⭐⭐⭐⭐⭐  I cannot say enough great things about Dr. Simon and their entire team! My wife recently underwent a breast augmentation, and the results are absolutely beautiful—natural, symmetrical, and exactly what she envisioned. From the initial consultation to post-op care, Dr. Simon was incredibly professional, compassionate, and attentive. They took the time to understand her goals, explained every
+    source: "Google"
+  - author: "Yadirka R."
     rating: 5
     date: "2025-07-15"
-    text: Excellent Care and Professional Staff  I had a great experience. From the initial consultation to post-surgery follow-up, everything was handled with care and professionalism. The doctors were knowledgeable, explained everything clearly, and made me feel at ease. The nursing and administrative staff...
-    source: Google
+    text: >-
+      Excellent Care and Professional Staff  I had a great experience. From the initial consultation to post-surgery follow-up, everything was handled with care and professionalism. The doctors were knowledgeable, explained everything clearly, and made me feel at ease. The nursing and administrative staff were also kind, organized, and responsive to any concerns I had.The facility was clean and modern, 
+    source: "Google"
+logo: "/images/clinics/logos/dr-sean-simon-md.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
-logo: /images/clinics/logos/dr-sean-simon-md.jpg
+lastUpdated: "2026-02-12"

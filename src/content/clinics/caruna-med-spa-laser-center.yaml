@@ -1,0 +1,54 @@
+name: "Caruna Med Spa & Laser Center"
+slug: caruna-med-spa-laser-center
+city: miami
+state: FL
+address: "1800 SW 1st Ave Suite 103, Miami, FL 33129"
+zipCode: "33129"
+phone: "(305) 456-9336"
+website: "https://www.carunamedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11458568685828853865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Caruna Med Spa & Laser Center is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 154 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 154
+reviews:
+  - author: "Rafael T."
+    rating: 5
+    date: "2024-08-05"
+    text: >-
+      Caruna MedSpa: A Haven of Advanced Skincare and Wellness I recently had the pleasure of experiencing the exceptional services at Caruna MedSpa, and I can confidently say that it is a top-tier medspa that truly stands out in the industry. From the moment I walked through the doors, I was greeted with a warm and inviting atmosphere that immediately put me at ease. The staff at Caruna MedSpa are not 
+    source: "Google"
+  - author: "Sadhana S."
+    rating: 5
+    date: "2024-03-02"
+    text: >-
+      I had an amazing experience at Caruna Spa! From the moment I walked in, I felt welcomed and relaxed. The ambiance was soothing, with soft music playing and the scent of essential oils in the air. The staff were professional and attentive, making sure I was comfortable throughout my visit.  I opted for a facial and hair removal package, and I was not disappointed.  The therapists were skilled and k
+    source: "Google"
+  - author: "Trae 1."
+    rating: 5
+    date: "2024-05-23"
+    text: >-
+      Wow! I had a such a pleasant experience at Caruna Med Spa. I went for the Caruna classic facial, and Sofia did an amazing job! It was a comfortable session. They also use high quality skin care product's. Thank you so much, I will be returning soon
+    source: "Google"
+  - author: "H R."
+    rating: 5
+    date: "2025-06-11"
+    text: >-
+      I recently visited Caruna med spa, and it was an absolutely delightful experience. From the moment I walked in, I was impressed by the serene and beautifully designed environment. The atmosphere is incredibly relaxing, making it easy to unwind.  I opted for a facial, and it was one of the best I've ever had. Sophie at the spa not only is professional but also knowledgeable. She took the time to un
+    source: "Google"
+  - author: "Caroline A."
+    rating: 5
+    date: "2024-06-05"
+    text: >-
+      Today, I experienced the most incredible facial treatment at Caruna Med Spa & Laser Center, and I cannot recommend it highly enough! From the moment I walked in, the ambiance was serene and welcoming, setting the tone for a truly relaxing experience.  The staff were exceptionally professional and attentive, ensuring I felt comfortable and pampered throughout my visit. My esthetician Sofia took the
+    source: "Google"
+logo: "/images/clinics/logos/caruna-med-spa-laser-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

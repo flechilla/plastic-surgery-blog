@@ -1,0 +1,54 @@
+name: "Miami Surgical MedSpa"
+slug: miami-surgical-medspa
+city: miami
+state: FL
+address: "815 NW 57th Ave # 207, Miami, FL 33126"
+zipCode: "33126"
+phone: "(305) 515-5009"
+website: "https://rymaps.xyz/business/miami-surgical-medspa-37fhvr"
+googleMapsUrl: "https://maps.google.com/?cid=10661611655552396795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Surgical MedSpa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 474 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 474
+reviews:
+  - author: "Bernadette M."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      The Best in Miami! Orlando at the Best Miami Surgical Center is absolutely incredible! He is extremely knowledgeable, professional, and makes me feel completely comfortable every time I visit. His attention to detail and expertise keep me looking and feeling beautiful. I couldn’t imagine trusting anyone else. Truly the best!
+    source: "Google"
+  - author: "Denise V."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Amazing service and quality of product used. I’ve done Botox for years in various places and for the longest no product has been able to last me past a month or so. Every aesthetician would tell me that It wasn’t their product but more that I was becoming desensitized from years of use. I found Miami Surgical MedSpa through a reliable recommendation and I’m so thankful I did. The product has not o
+    source: "Google"
+  - author: "Karen C."
+    rating: 5
+    date: "2025-11-24"
+    text: >-
+      Landy was incredible. He guided me through the surgical procedure with such patience, clarity, and genuine care. Their knowledge was obvious in every step, and they made a stressful experience feel calm and manageable. I’m truly grateful for their expertise and their kindness. Thank you!!!
+    source: "Google"
+  - author: "M S."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      I’ve been going to Orlando for a few years now. I travel about 2 hours to see him. I’ve tested out some closer places just out of convenience but I absolutely can not find anyone who can hold a candle to him for expertise or price! You won’t regret it!!
+    source: "Google"
+  - author: "J N."
+    rating: 5
+    date: "2025-11-04"
+    text: >-
+      Been coming here for years! Amazing experience every time!!!!! Miami surgical med spa is top notch best I have ever been to! Landy is the best! Painless experience! Quick and relaxing visit! Anti aging expert!
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,54 @@
+name: "Trends Plastic Surgery"
+slug: trends-plastic-surgery
+city: miami
+state: FL
+address: "3905 NW 107th Ave suite 401, Doral, FL 33178"
+zipCode: "33178"
+phone: "(786) 542-5358"
+website: "https://trendsplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18066438541033821521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Trends Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 437 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.5
+reviewCount: 437
+reviews:
+  - author: "Johanna A."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      From the moment I walked in, I received a warm and welcoming greeting. The staff was extremely attentive, kind, and professional throughout the entire experience. Everything was well organized, and they took the time to explain every step clearly, which made me feel comfortable and confident. The level of care and professionalism truly stands out. I highly recommend Trends Plastic Surgery to anyon
+    source: "Google"
+  - author: "Ann"
+    rating: 4
+    date: "2025-12-18"
+    text: >-
+      From day one, Dr. Mike consistently took the time to listen to all of my questions, and none of my consultations ever felt rushed. I truly appreciated how attentive and patient he was throughout the entire process.  On the day of my surgery, I arrived bright and early and was immediately prepped and ready to go within moments. The anesthesiologist, Armando, was incredibly kind, reassuring and info
+    source: "Google"
+  - author: "Lianet H."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      My experience at Trends Plastic Surgery has been incredible from the very beginning. They exceeded my expectations in every way: impeccable cleanliness, great organization, attention to detail, and above all, an incredibly kind and professional staff.  Before making my decision, I visited several clinics and compared options, but today I can say with complete confidence that I chose the best one. 
+    source: "Google"
+  - author: "Daniela V."
+    rating: 5
+    date: "2025-10-16"
+    text: >-
+      I loved the clinic from start to finish. It was a pleasure meeting the doctor in person his evaluation was thorough and made me feel confident about the procedure. The staff is very helpful and friendly, creating a welcoming atmosphere throughout my journey.  A special thanks to the coordinator, Mirel, who was incredibly nice and supportive during the Lipo 360 orientation. She made sure I understo
+    source: "Google"
+  - author: "Rubi S."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      Armando and his ENTIRE team have always been so hospitable and attentive. They make you feel at ease throughout the process and explain everything. The nurses and surgical staff are amazing. I wish I could bring them home with me. From reception to post op- it’s been consistent care for their patients. My Dr DeLuca was extremely professional and my recovery has been smooth. I had my pain meds and 
+    source: "Google"
+logo: "/images/clinics/logos/trends-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

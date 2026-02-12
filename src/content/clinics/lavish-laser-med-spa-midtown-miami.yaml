@@ -1,0 +1,54 @@
+name: "Lavish Laser Med Spa Midtown Miami"
+slug: lavish-laser-med-spa-midtown-miami
+city: miami
+state: FL
+address: "65 NE 16th St, Miami, FL 33132"
+zipCode: "33132"
+phone: "(754) 287-2084"
+website: "https://lavishlasermedspa.com/?utm_source=google-business-profile&utm_content=midtown"
+googleMapsUrl: "https://maps.google.com/?cid=1750147719581905530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Lavish Laser Med Spa Midtown Miami is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 24 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 24
+reviews:
+  - author: "Jennifer G."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      Great experience.  I love the membership option so that I can stick to a plan for my skincare routine.  Erika is great, very knowledgeable and professional, and also sweet. I recommend Lavish Laser!
+    source: "Google"
+  - author: "Anna M."
+    rating: 5
+    date: "2025-10-06"
+    text: >-
+      I had such a wonderful experience getting a HydraFacial here! The space was so relaxing, and Rachel, the owner, did my service herself. She was incredibly gentle (especially during the manual part) and made the entire treatment feel luxurious. I almost fell asleep a few times because it was that calming! My skin was glowing afterward and felt so refreshed. I can’t wait to go back!
+    source: "Google"
+  - author: "carolina g."
+    rating: 5
+    date: "2024-08-09"
+    text: >-
+      I love this spa! For starters, their entire staff is so friendly and super accommodating to all my needs. I’ve been getting facials my whole life but here every time I do the deluxe hydrofacial my skin is glowing and I see the results immediately. This spa also has the best products. Everything is so clean and healthy for my skin. I highly recommend becoming a member. The memebership is so worth i
+    source: "Google"
+  - author: "Amelia D."
+    rating: 5
+    date: "2025-07-24"
+    text: >-
+      Amazing Spa! I received various treatments here for almost a year, from massages, to facials, Venus, weight management and vitamin shots. I’m so thankful to their wonderful staff and owners. They were so helpful in my entire journey and I felt very well taken care of. Diana and the entire staff are professional, kind and knowledgeable. Thank you!
+    source: "Google"
+  - author: "Rubeth R."
+    rating: 5
+    date: "2025-09-17"
+    text: >-
+      Love the relaxing place & service! MJ did the most beautiful Brow Lamination and Lash Lift for me. Then I returned for the Hydrafacial, my skin was glowing hard for the rest of the week, ppl complimented my skin for the whole week. Thank-you 💛
+    source: "Google"
+logo: "/images/clinics/logos/lavish-laser-med-spa-midtown-miami.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

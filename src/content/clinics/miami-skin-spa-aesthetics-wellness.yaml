@@ -1,0 +1,54 @@
+name: "Miami Skin Spa Aesthetics & Wellness"
+slug: miami-skin-spa-aesthetics-wellness
+city: miami
+state: FL
+address: "1501 S Miami Ave UNIT 201, Miami, FL 33129"
+zipCode: "33129"
+phone: "(305) 557-1615"
+website: "https://www.miamiskinspa.com/?utm_source=gmb&utm_medium=organic&utm_campaign=directory"
+googleMapsUrl: "https://maps.google.com/?cid=10463862649382988209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Skin Spa Aesthetics & Wellness is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 146 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 146
+reviews:
+  - author: "Vanessa G."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      I’ve had a total of 3 Pico Genesis laser treatments at Miami Skin Spa and I’m honestly so happy with the results — it made a huge difference in removing my sun spots and evening out my skin tone.  The team is super professional and attentive and they really take the time to understand your concerns. My provider is Mariana and she’s the best — she’s been following up on my progress, which made me f
+    source: "Google"
+  - author: "Anita M."
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      I just did the second session of my laser scare removal treatment. I was already seeing results from the first session, mainly on skin pigmentation, and I can wait to complete my treatment! Overall, a great experience! The place has a very peaceful and pleasant atmosphere. The staff were all very kind and professional, and I felt really comfortable during all my visits. It’s been an investment, bu
+    source: "Google"
+  - author: "Giselle"
+    rating: 5
+    date: "2025-12-08"
+    text: >-
+      Miami Skin Spa was easy to book, super professional and very clean. From facials to laser tattoo removal, they do a phenomenal job. 10/10 recommend!
+    source: "Google"
+  - author: "Sydney S."
+    rating: 5
+    date: "2025-10-13"
+    text: >-
+      I had a laser tattoo removal session here recently. It was my 3rd session on this tattoo, but my 1st at this spa (I moved!). They were accommodating and very knowledgeable throughout the process, and use a cooling device as well which greatly reduces the pain. The cost was considerably more than the previous spa I visited, but Miami is a much bigger city so a price difference was expected. They di
+    source: "Google"
+  - author: "Alexandra F."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      I have had only wonderful experiences at Miami Skin Spa. Friendly staff including JJ, Amy, Lauren, and Dr. Almeida, I can’t recommend them enough. So lucky to have found a place with quality people and services you can rely on. Highly recommend!
+    source: "Google"
+logo: "/images/clinics/logos/miami-skin-spa-aesthetics-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

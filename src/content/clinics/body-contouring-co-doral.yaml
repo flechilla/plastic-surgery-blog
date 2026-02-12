@@ -1,0 +1,54 @@
+name: "Body Contouring Co. Doral"
+slug: body-contouring-co-doral
+city: miami
+state: FL
+address: "8180 NW 36th St Suite 101, Doral, FL 33166"
+zipCode: "33166"
+phone: ""
+website: "http://bodycontouringco.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10357590311152512121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Body Contouring Co. Doral is a plastic surgery practice located in Miami, FL. With a 5-star rating from 185 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 185
+reviews:
+  - author: "Aguasanta G."
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      This place is great. I love the hospitality, the warmth, the experience, and the results that I get. You're going to love Elizabeth, she's so accommodating and flexible. With her Body Contouring, she's made my body look like a piece of art. I drive all the way from Hollywood to Doral for my appointments, because the results are amazing. In addition to their Body Contouring services, they also have
+    source: "Google"
+  - author: "Maylin T."
+    rating: 5
+    date: "2025-11-11"
+    text: >-
+      I first started with 10 body contouring sessions to try it out, and I ended up buying 10 more because I absolutely loved the results! I noticed a difference in my shape and how my clothes fit after only a couple of visits. The treatments are relaxing, completely painless, and there’s no downtime,  which makes them super convenient. I feel more confident and motivated to maintain a healthy lifestyl
+    source: "Google"
+  - author: "Sophia V."
+    rating: 5
+    date: "2025-12-02"
+    text: >-
+      I cannot recommend this place enough! I have been seeing Elizabeth and Helen for years—even after moving from New York to Miami, I continued with them because no one compares. They are incredibly professional, knowledgeable, and genuinely cares about your results and overall well-being. Every session is personalized and you leave feeling (and looking) amazing.  The entire team in Doral is warm, ef
+    source: "Google"
+  - author: "Diandra E."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      I had an EMS sculpting session here in Miami and everything was absolutely fine. I’ve already had EMS treatments before in Germany, so I have something to compare it to. Of course, the devices used in Germany are different, but I felt very well taken care of here. The staff made me feel comfortable, safe and supported throughout the entire session. Overall a very positive experience and I can defi
+    source: "Google"
+  - author: "Alexandra F."
+    rating: 5
+    date: "2025-12-30"
+    text: >-
+      I’ve been coming to this location for a year, and the experience has been absolutely amazing! Elizabeth is fantastic—professional, attentive, and always makes me feel comfortable and relaxed. The facilities are top-notch: clean, modern, and very calming. The customer service is wonderful. Highly recommend this place if you’re looking for quality care and a great atmosphere!
+    source: "Google"
+logo: "/images/clinics/logos/body-contouring-co-doral.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

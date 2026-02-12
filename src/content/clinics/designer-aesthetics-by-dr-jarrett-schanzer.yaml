@@ -1,0 +1,54 @@
+name: "Designer Aesthetics by Dr. Jarrett Schanzer"
+slug: designer-aesthetics-by-dr-jarrett-schanzer
+city: miami
+state: FL
+address: "4770 Biscayne Blvd Suite #1100, Miami, FL 33137"
+zipCode: "33137"
+phone: ""
+website: "http://doctorjarrett.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6136043378569018965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Designer Aesthetics by Dr. Jarrett Schanzer is a plastic surgery practice located in Miami, FL. With a 5-star rating from 289 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 289
+reviews:
+  - author: "Matthew C."
+    rating: 5
+    date: "2026-01-25"
+    text: >-
+      I can’t say enough about my experience with Dr. Schanzer. Almost three weeks ago, I had a full-face Erbium treatment with exosome therapy, and the results have been truly amazing. My skin is glowing, years have been taken off my face, and my hyperpigmentation spots have faded beautifully. Dr. Schanzer is a gifted physician—highly skilled and incredibly personable. He has checked in on me multiple 
+    source: "Google"
+  - author: "Angela"
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      As someone who has been getting injections for over ten years and is very particular about who I trust with my face, I truly appreciate Dr. Jarrett’s approach. Dr. Jarrett is incredibly skilled, conservative, and focused on enhancing features without changing your natural appearance. His bedside manner is excellent, and he takes the time to explain his recommendations, which immediately builds tru
+    source: "Google"
+  - author: "Luca P."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      Dr. Jarrett is awesome. Super chill, really knows his stuff, and makes the whole process easy. I get my B12 shots with him and it’s always quick, smooth, and actually makes a difference in how I feel, more energy, better focus, overall just feeling on point.  What I like most is that he actually cares about optimization and helping you feel your best, not just rushing you in and out. If you’re int
+    source: "Google"
+  - author: "Reina F."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      In a place like Miami where everyone is searching for the very best care I can confidently say that Dr. Jarrett is hands down the ultimate choice. He and his team are exceptional. Their attention, follow-through, and genuine care go beyond the procedure itself; they check in days afterward to make sure you’re feeling your best.  The treatments are top-tier, the results speak for themselves, and th
+    source: "Google"
+  - author: "Jessica H."
+    rating: 5
+    date: "2025-11-05"
+    text: >-
+      Dr. Jarrett is truly an artist! I was in a car accident years ago that left me with nerve damage on one side of my forehead, making it difficult to achieve facial symmetry. Dr. Jarrett was incredibly meticulous and precise, and the results exceeded my expectations. He restored balance and confidence. By far the best injector!
+    source: "Google"
+logo: "/images/clinics/logos/designer-aesthetics-by-dr-jarrett-schanzer.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

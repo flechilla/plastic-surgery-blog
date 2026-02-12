@@ -1,0 +1,54 @@
+name: "Dr. JC Alvarez Plastic Surgery"
+slug: dr-jc-alvarez-plastic-surgery
+city: miami
+state: FL
+address: "2100 Ponce de Leon Suite 1010, Coral Gables, Miami, FL 33134"
+zipCode: "33134"
+phone: "(305) 505-0560"
+website: "https://www.jcalvarez-plasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12562128397172836936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. JC Alvarez Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 144 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 144
+reviews:
+  - author: "Daimy M. B."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      My experience with Dr. JC Álvarez’s hyperbaric chamber was outstanding. After my BBL with abdominoplasty, I needed a treatment that would speed up my recovery, reduce swelling, and help my body heal safely. From the very first session, I noticed a huge difference—less pain, better tissue oxygenation, and a much faster recovery than I expected.  Dr. Álvarez and his team are extremely professional, 
+    source: "Google"
+  - author: "Viviana A."
+    rating: 5
+    date: "2025-12-18"
+    text: >-
+      Dr. Jc Alvarez is an amazing plastic surgeon. Professional, caring, and extremely skilled. He incredibly knowledgeable, patient, and truly listens to your goals while being honest and professional. The entire process was smooth. My results exceeded my expectations and look beautiful. I am beyond grateful for the care I received and would highly recommend Dr. JC Alvarez to anyone considering plasti
+    source: "Google"
+  - author: "Arianna C."
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      Just had my post-op appointment today with Dr. JC Alvarez, and I AM EXTREMELY HAPPY WITH MY RESULTS!! He completed my surgery 2 weeks ago, and it's been an extremely smooth healing process. From the moment we had our pre-op consult, he was extremely realistic and provided me with my DREAM RESULTS!! Special mention to all the nurses on his team as well that are extremely caring!!
+    source: "Google"
+  - author: "Sharelis A."
+    rating: 5
+    date: "2025-10-10"
+    text: >-
+      Extremely satisfied with my Results I was a little nervous at first normal, but it’s been seven weeks Since my surgery, and as time goes by,  I’m loving my results more and more. I would highly recommend Dr. JC Alvarez , you did an amazing job. God bless your hands always Thank you so much.
+    source: "Google"
+  - author: "Angelo C."
+    rating: 5
+    date: "2025-08-18"
+    text: >-
+      Liliana was great one of the best workers in the clinic !! Best service ever !! So polite and nice! Definitely recommend everyone here and her brother Dr. JC Alvarez one of the best doctors in the clinic
+    source: "Google"
+logo: "/images/clinics/logos/dr-jc-alvarez-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

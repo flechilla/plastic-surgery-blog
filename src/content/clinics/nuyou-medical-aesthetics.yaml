@@ -1,12 +1,12 @@
-name: NuYou Medical Aesthetics
+name: "NuYou Medical Aesthetics"
 slug: nuyou-medical-aesthetics
 city: miami
 state: FL
-address: "888 Biscayne Blvd Suite 505"
+address: "888 Biscayne Blvd Suite 505, Room 532, Miami, FL 33132"
 zipCode: "33132"
 phone: "(305) 204-0659"
 website: "http://www.lovethenuyou.com/"
-googleMapsUrl: "https://maps.google.com/?cid=14537337872203551502"
+googleMapsUrl: "https://maps.google.com/?cid=14537337872203551502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
   NuYou Medical Aesthetics is a plastic surgery practice located in Miami, FL. With a 5-star rating from 425 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
@@ -20,21 +20,21 @@ reviews:
     rating: 5
     date: "2026-01-13"
     text: >-
-      Amazing experience. I just moved in near by so I stopped by unexpectedly.  I don’t encourage that for Nicole’s sanity… but she was so accommodating, was able to squeeze me in, and even helped me with getting the invoice to a third party payer. I knew right away she was experienced and I loved her su...
+      Amazing experience. I just moved in near by so I stopped by unexpectedly.  I don’t encourage that for Nicole’s sanity… but she was so accommodating, was able to squeeze me in, and even helped me with getting the invoice to a third party payer. I knew right away she was experienced and I loved her suggestions. She never encouraged me to do more than I wanted and actually suggested the lowest therap
     source: "Google"
   - author: "Greta V."
     rating: 5
     date: "2025-10-30"
     text: >-
-      It was my first time at NuYou, and I had an amazing experience. Nicole came highly recommended, and she exceeded my expectations. I’ve been to several practices across New York, Miami, and even Italy, but Nicole stands out for her warmth, expertise, and generosity with her time. She explains everyth...
+      It was my first time at NuYou, and I had an amazing experience. Nicole came highly recommended, and she exceeded my expectations. I’ve been to several practices across New York, Miami, and even Italy, but Nicole stands out for her warmth, expertise, and generosity with her time. She explains everything clearly and tailors each recommendation to your unique features, not a cookie-cutter approach. H
     source: "Google"
-  - author: "Juliet D."
+  - author: "Juliet D. P."
     rating: 5
     date: "2026-01-30"
     text: >-
-      I just went to NuYou for some maintenance and I loved the experience. Highly recommend Nicole. She was efficient and kind and just understood my goals right away. She gave me long term recommendations for my skin, but she was not pushy at all. I am super happy with the results and will be telling al...
+      I just went to NuYou for some maintenance and I loved the experience. Highly recommend Nicole. She was efficient and kind and just understood my goals right away. She gave me long term recommendations for my skin, but she was not pushy at all. I am super happy with the results and will be telling all of my friends to go to her.
     source: "Google"
-  - author: "Hannah ."
+  - author: "Hannah"
     rating: 5
     date: "2026-01-28"
     text: >-
@@ -44,10 +44,11 @@ reviews:
     rating: 5
     date: "2025-12-24"
     text: >-
-      I had such a wonderful experience! Nicole was incredibly friendly, patient and truly knowledgeable. She took the time to listen to my goals, answered all of my questions thoroughly and made me feel completely comfortable throughout the entire process. The service was excellent and never felt rushed ...
+      I had such a wonderful experience! Nicole was incredibly friendly, patient and truly knowledgeable. She took the time to listen to my goals, answered all of my questions thoroughly and made me feel completely comfortable throughout the entire process. The service was excellent and never felt rushed and I’m so happy with my results. I highly recommend her to anyone looking for someone skilled, prof
     source: "Google"
+logo: "/images/clinics/logos/nuyou-medical-aesthetics.jpg"
 yearEstablished: null
 certifications: []
 verified: false
 featured: false
-lastUpdated: "2026-02-11"
+lastUpdated: "2026-02-12"

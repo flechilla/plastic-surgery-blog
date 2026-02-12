@@ -1,0 +1,54 @@
+name: "The Gables Look"
+slug: the-gables-look
+city: miami
+state: FL
+address: "266 Palermo Ave, Coral Gables, FL 33134"
+zipCode: "33134"
+phone: "(305) 394-6518"
+website: "https://thegableslook.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7799972043547248733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Gables Look is a plastic surgery practice located in Miami, FL. With a 5-star rating from 600 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 600
+reviews:
+  - author: "Shenelle G."
+    rating: 5
+    date: "2025-10-08"
+    text: >-
+      Evelyn was great with my post surgery massage. She was very friendly and I feel it was very helpful. I also did an IV which made me feel much better after the massage
+    source: "Google"
+  - author: "Samantha L."
+    rating: 5
+    date: "2025-08-06"
+    text: >-
+      Dr Carvalho was absolutely amazing! He’s very friendly and very straight forward. So happy to have him for my third bbl. I was looking forward to it and he didn’t disappoint. I paid for the 6 massages and they definitely do an amazing job. I feel amazing after I have them.
+    source: "Google"
+  - author: "cherlyne u."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      Dr Yanet is wonderful, she was able to assist every time I come for my follow up, the staff is wonderful as well.
+    source: "Google"
+  - author: "Christopher P."
+    rating: 5
+    date: "2025-07-17"
+    text: >-
+      I had a wonderful experience with Dra. Ania and Dr. Yosdani. Both were extremely attentive and professional throughout my care. Their dedication to patient care really stood out — I never felt rushed, and they made sure I had the support I needed. I truly appreciate the compassion and professionalism they showed. Highly recommended!
+    source: "Google"
+  - author: "CARMEN M. M."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Excellent place to go and do your makeover. The treatment was excellent. I will recommend this place 100%
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

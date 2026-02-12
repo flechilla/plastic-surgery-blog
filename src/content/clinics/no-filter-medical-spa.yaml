@@ -1,0 +1,54 @@
+name: "No Filter Medical Spa"
+slug: no-filter-medical-spa
+city: miami
+state: FL
+address: "829 SW 1st Ave, Miami, FL 33130"
+zipCode: "33130"
+phone: "(305) 619-2651"
+website: "https://nofiltermedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13859591413779846069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  No Filter Medical Spa is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 193 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 193
+reviews:
+  - author: "Jessica J."
+    rating: 5
+    date: "2025-10-02"
+    text: >-
+      I absolutely love this med spa! I’ve been coming here for my laser hair removal, and the experience has been nothing short of amazing. The staff is so sweet and welcoming, and they always make me feel comfortable. The treatments are super quick and efficient, which I really appreciate with my busy schedule.  A special shoutout to Lior— he is incredibly kind, professional, and makes the whole proce
+    source: "Google"
+  - author: "lara"
+    rating: 5
+    date: "2025-10-10"
+    text: >-
+      I had a laser hair removal treatment at No Filter, and I’m so happy with the experience! The staff was professional, friendly, and made me feel comfortable from start to finish. The procedure itself was quick and much less painful than I expected. My skin feels smooth, and I can already see great results. Highly recommend this spa for anyone looking for safe and effective laser hair removal!
+    source: "Google"
+  - author: "Pamela C."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I am happy with the care that I have received at No Filter Medical Spa.  The staff is attentive and wants the best outcome from their clients.  Thank you Lior for your caring heart.I am very   Satisfied with the ongoing results.  Thank you, No Filter. Pami
+    source: "Google"
+  - author: "kristina h."
+    rating: 5
+    date: "2025-09-15"
+    text: >-
+      I just did the quantum rf at no filter medspa in brickell. I was really nervous to do this procedure but I really wanted to tighten my neck and inner thighs with out the need of surgery or lipo so I put my fear aside and went all in. I can’t recommend no filter enough the staff and the facility passes every expectation I had. The procedure was PAINLESS and I already see results.
+    source: "Google"
+  - author: "Marissa"
+    rating: 5
+    date: "2025-09-19"
+    text: >-
+      No Filter is hands down my go-to for everything beauty. The owner makes you feel like family and takes the time to really understand what you’re hoping to achieve. Every nurse here is a perfectionist—detail-oriented and so talented. I love that I always leave looking like myself, just more polished and refreshed. They know how to enhance your natural features so the results are beautiful without e
+    source: "Google"
+logo: "/images/clinics/logos/no-filter-medical-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

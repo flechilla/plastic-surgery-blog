@@ -1,0 +1,54 @@
+name: "Monaco MedSpa"
+slug: monaco-medspa
+city: miami
+state: FL
+address: "2930 NE 2nd Ct, Miami, FL 33137"
+zipCode: "33137"
+phone: "(786) 536-6117"
+website: "https://www.monacomedspa.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=3275467807106455088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Monaco MedSpa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 148 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 148
+reviews:
+  - author: "Stephanie L."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      I love Monaco MedSpa! I’ve seen Dr. Barrueta for so many services over the years: injections, laser treatments, Morpheus8, etc. Her consultations are fantastic, because she listens carefully and gives her honest opinion of the pros and cons of each option. She also takes her time with treatments, and I appreciate that she’s such a perfectionist. I’ve had great results across the board and will alw
+    source: "Google"
+  - author: "Amanda H."
+    rating: 5
+    date: "2025-09-09"
+    text: >-
+      This doctor is the best doctor in town not only for cosmetic beauty med spa procedures, but for safety and ethical, moral values. I have been to every other cosmetic doctor in Miami in the past 22 years and Dr. Barrueta is by far the best I’ve ever been to. Once I found her two years ago I have never gone to anyone else. She completely fixed my face and keeps me looking so beautiful and young look
+    source: "Google"
+  - author: "Andrea R."
+    rating: 5
+    date: "2025-10-16"
+    text: >-
+      Dr. Jeannette Barrueta and her front desk team are absolutely amazing! I went in for under-eye filler, and Dr. Barrueta took the time to truly understand my specific needs, explaining everything in detail based on my bone structure. The results were immediate and incredible. I’m so happy with how natural and refreshed I look! She’s truly a magician. I wouldn’t consider going anywhere else. Thank y
+    source: "Google"
+  - author: "Kimberly M."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      The staff at Monaco Med Spa are professional, patient and kind. Questions are answered in a very timely manner. Doc Barrueta is honest in her assessment and treatment recommendations and is always thorough in discussing anticipated results. She cares deeply for her patients and has my trust.
+    source: "Google"
+  - author: "Alex A."
+    rating: 5
+    date: "2025-09-19"
+    text: >-
+      I cannot say enough wonderful things about Dr. Barrueta and her team at Monaco Med Spa. From the moment you walk in, you’re welcomed into a modern, clean, and beautifully maintained space that sets the tone for the entire experience.  The staff is warm, professional, and attentive, making you feel comfortable and cared for from start to finish. Their customer service truly stands out—every detail 
+    source: "Google"
+logo: "/images/clinics/logos/monaco-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
