@@ -1,0 +1,60 @@
+name: "Vielux Wellness and Medspa"
+slug: vielux-wellness-and-medspa
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1091 S University Dr suite #36, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.107355199999997
+  lng: -80.252068
+phone: "(754) 242-3075"
+website: "https://vieluxvitaminlounge.com/"
+googleMapsUrl: "https://maps.google.com/?cid=16645452551683978224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Vielux Wellness and Medspa is a plastic surgery practice located in Plantation, FL. With a 5-star rating from 8 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 8
+reviews:
+  - author: "Tanya T."
+    rating: 5
+    date: "2024-02-09"
+    text: >-
+      My husband is absolutely thrilled with the weight loss results he’s seen  thus far. After struggling for so long,  Tanisha’s Semagluitde weight loss program has made all the difference. He’s down 15lbs in  2 months. Absolutely love the progress. Highly recommend!!
+    source: "Google"
+  - author: "Daniel L."
+    rating: 5
+    date: "2023-10-26"
+    text: >-
+      Timely and professional service. I received an IV therapy, and it really hydrated and boosted my energy
+    source: "Google"
+  - author: "George D."
+    rating: 5
+    date: "2023-10-26"
+    text: >-
+      Love their immunity drip! Haven't gotten sick since then
+    source: "Google"
+  - author: "Anderson R."
+    rating: 5
+    date: "2023-10-26"
+    text: >-
+      Tanisha took time to explain everything before starting the IV
+    source: "Google"
+  - author: "Raimond M."
+    rating: 5
+    date: "2023-10-26"
+    text: >-
+      Felt re energized after the energy drip
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/vielux-wellness-and-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Blueberry MedSpa"
+slug: blueberry-medspa
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "12160 W Sunrise Blvd Suite # 219, Plantation, FL 33323"
+zipCode: "33323"
+coordinates:
+  lat: 26.1445707
+  lng: -80.3107342
+phone: "(954) 325-6247"
+website: "http://www.blueberrymedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7155351244598110600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Blueberry MedSpa is a plastic surgery practice located in Plantation, FL. With a 5-star rating from 29 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 29
+reviews:
+  - author: "Hara W."
+    rating: 5
+    date: "2025-09-28"
+    text: >-
+      I’ve been to Blueberry Med Spa twice now, and I can honestly say if you come here you will be given the best facials of your life! The products are top of the line, and my skin has never looked or felt better! I have combo/dry and sensitive skin as well as rosacea so I am super careful about who I go to. Jackie is absolutely amazing—she makes you feel completely at ease the moment you walk in, and
+    source: "Google"
+  - author: "Jamila"
+    rating: 5
+    date: "2025-12-30"
+    text: >-
+      I had a lovely & luscious facial with Jaclyn on Monday 12/22/25. Among many other nutrient rich products she used on my face, I received a hydrafacial. She made me feel like I was a vip client. I absolutely love her passion for what she does and my face was glowing and my pores cleared. My face felt hydrated and supple all day. I will definitely go back to her, because she knows what she is doing,
+    source: "Google"
+  - author: "S B."
+    rating: 5
+    date: "2026-01-03"
+    text: >-
+      Jackie was absolutely wonderful. It was my first time getting a hydrafacial/microdermabrasion and she made sure to explain everything she was doing, its benefits and made sure I was comfortable each step of the way. She’s very knowledgeable in skincare and gave great take home recommendations. Will definitely be back. Thank you Jackie!
+    source: "Google"
+  - author: "Marc"
+    rating: 5
+    date: "2025-09-27"
+    text: >-
+      I can't say enough wonderful things about Blueberry Med Spa in Plantation, Florida, and the incredible aesthetician, Jackie! Her professionalism, expertise, and genuine care for each client are unmatched. Jackie goes above and beyond to ensure the best possible outcome for your skin, tailoring her services to meet individual needs with precision and dedication.  Her treatments are not only highly 
+    source: "Google"
+  - author: "Iraines R."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      I have had the pleasure of having Jackie as my Esthetician for many years and I recommend her to all my friends and family. She is truly amazing. I don't trust many people with my facial treatments because I suffer from rosacea but since I started with her years ago I have noticed the wonderful improvements.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/blueberry-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,30 @@
+name: "the new look is yours head and med spa"
+slug: the-new-look-is-yours-head-and-med-spa
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "455 SW 78th Ave, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.1145867
+  lng: -80.25631659999999
+phone: "(754) 246-3904"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=1144247671847005325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  the new look is yours head and med spa is a plastic surgery practice located in Plantation, FL.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-new-look-is-yours-head-and-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

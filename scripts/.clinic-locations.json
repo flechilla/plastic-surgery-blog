@@ -97,12 +97,14 @@
         {
           "city": "davie",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 67,
+          "date": "2026-02-12"
         },
         {
           "city": "plantation",
           "state": "FL",
-          "status": "queued"
+          "status": "running"
         }
       ]
     },

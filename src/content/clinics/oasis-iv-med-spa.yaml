@@ -1,0 +1,60 @@
+name: "Oasis Iv Med Spa"
+slug: oasis-iv-med-spa
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "6738 W Sunrise Blvd Suite 106, Plantation, FL 33313"
+zipCode: "33313"
+coordinates:
+  lat: 26.1384696
+  lng: -80.23991389999999
+phone: "(954) 444-1969"
+website: "http://www.oasisivmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8754759262880188668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Oasis Iv Med Spa is a plastic surgery practice located in Plantation, FL. With a 5-star rating from 88 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 88
+reviews:
+  - author: "Alyson “. M."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      Dr. Luis is extremely knowledgeable and attentive.  During our scheduled appointments, his focus was solely on my husband and I, we did not feel rushed at all. He really cares about his patients and it shows. We are thankful for the referral and truly feel our heath & wellness are in excellent hands.
+    source: "Google"
+  - author: "Alex W."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      I had PRP done on my knee for a torn meniscus with Luis, and I couldn’t be happier with the results. From the start, Luis was knowledgeable, professional, and took the time to explain the entire process clearly, which made me feel confident and comfortable moving forward.  Since the treatment, my knee has been feeling great. I’ve been able to return to many of my normal activities, including golf,
+    source: "Google"
+  - author: "Jonathan S."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      5 star service, Doctor Soriano is the best in South Florida. He is very knowledgeable and compassionate. He has multiple services available for you. If you want to change your lifestyle he is the only wellness Doctor I trust and would go to.
+    source: "Google"
+  - author: "Erin P."
+    rating: 5
+    date: "2025-10-16"
+    text: >-
+      I had such a wonderful experience at Oasis. From the moment I arrived, the provider made me feel welcomed and at ease. The environment is calm, clean, and relaxing, and you can tell they genuinely care about each patient’s well-being. My provider took the time to listen, explain everything clearly, and tailor the treatment to what I needed. I left feeling refreshed, cared for, and already looking 
+    source: "Google"
+  - author: "Brianna G."
+    rating: 5
+    date: "2025-11-15"
+    text: >-
+      I can’t say enough good things about Dr. Soriano and his wife! I came in for Botox, filler, GLP’s, and XERF on my face and neck, and they did a tremendous job. They took their time, explained everything, and made me feel so comfortable throughout the process. My results are beautiful and natural, lifted, and exactly what I hoped for. I’m genuinely so happy and grateful for their work. If you’re co
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/oasis-iv-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
