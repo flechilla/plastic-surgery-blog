@@ -1,0 +1,60 @@
+name: "Aventura Aesthetics Spa"
+slug: aventura-aesthetics-spa
+city: sunny-isles-beach
+cityDisplay: "Sunny Isles Beach"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "19201 Collins Ave CU-204-A, Sunny Isles Beach, FL 33160"
+zipCode: "33160"
+coordinates:
+  lat: 25.9544294
+  lng: -80.11976729999999
+phone: "(305) 454-0449"
+website: "http://aventuraesthetics.square.site/"
+googleMapsUrl: "https://maps.google.com/?cid=10254515998267376773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aventura Aesthetics Spa is a plastic surgery practice located in Sunny Isles Beach, FL. With a 4.9-star rating from 83 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 83
+reviews:
+  - author: "Tommie L."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      Bomb and amazing experience at Aventura Aesthetics Spa!! Raquel was absolutely incredible! From the moment I walked in, she made me feel very welcome and comfortable. I shared my weight goals with her, and she took the time to listen and offer fantastic advice and encouragement. Her professionalism and genuine care truly made a difference. I highly recommend this spa and especially Raquel for anyo
+    source: "Google"
+  - author: "Serena C."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      A very welcoming and professional beauty center. The staff is knowledgeable, attentive, and always offers helpful, personalized advice. I felt comfortable and well cared for—highly recommended! Raquel is very professional, knowledgeable, and attentive.
+    source: "Google"
+  - author: "Kyla M."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      My doctor recommended a lymphatic drainage massage after getting lipo done around my stomach. I’m so thankful for Raquel for talking me through the process and helping with my pain. She has the hands of an angel.
+    source: "Google"
+  - author: "GOOGLE U."
+    rating: 5
+    date: "2025-09-12"
+    text: >-
+      Thank you! Raquel! Your the best. My face feels great. I feel brand new. I will definitely be back. I Love Aventura Aesthetics Spa. They have a wide selection of spa treatments, go on there website check out the menu. You can do a spa party with the girlies. I can't wait to go back.
+    source: "Google"
+  - author: "Nancy S."
+    rating: 5
+    date: "2024-01-30"
+    text: >-
+      Best facial and body treatments The procedures were extremely well done and I am personally very happy with the results. I would extremely recommend this fantastic center to anyone.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aventura-aesthetics-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "The Aesthetics Collective"
+slug: the-aesthetics-collective
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "15805 Biscayne Blvd Suite 104, Aventura, FL 33160"
+zipCode: "33160"
+coordinates:
+  lat: 25.921476799999997
+  lng: -80.1539911
+phone: "(305) 469-9677"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=7154512527888502447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Aesthetics Collective is a plastic surgery practice located in Aventura, FL. With a 5-star rating from 33 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 33
+reviews:
+  - author: "Amy A."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Daniela is absolutely amazing at what she does. She made me feel so comfortable from start to finish and really listened to exactly what I wanted. My lips look so natural, balanced, and perfectly enhanced—never overdone. Her attention to detail and technique are unmatched. I trust her completely and wouldn’t go to anyone else. Highly recommend!
+    source: "Google"
+  - author: "Lauren J."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      Dani makes everything seamless. I've been working with her under a year and have lost 65 lbs. I've referred friends who refer friends because whether it's for peptides, a lip plump, laser, everyone loves her. The office is clean, comfortable, chic and offers a stress-free private experience. Her prices are unbearable and her attention to detail and skill is unmatched. I'd HIGHLY recommend booking 
+    source: "Google"
+  - author: "cory a."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      I absolutely love The Aesthetics Collective. I’ve been coming here for everything from lip filler, clear and brilliant, to wellness check-ins, peptides, and more, and every experience has been amazing.  Dani is knowledgeable, attentive, and truly cares about personalized results. I always feel confident and taken care of when I’m here.  Highly recommend, my absolute favorite medspa!
+    source: "Google"
+  - author: "Becky M."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Daniela is incredible. She’s professional, detail-oriented, and truly an artist. My lips look natural, hydrated, and perfectly shaped every single time. I always get compliments. Highly recommend her if you want flawless results
+    source: "Google"
+  - author: "Kaylee M."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Daniela has been absolutely amazing throughout my Ozempic journey. She took the time to explain everything clearly, answered all my questions, and made me feel completely comfortable and supported. Her guidance has been thoughtful, professional, and personalized. I truly feel cared for and confident in the process. Highly recommend her.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-aesthetics-collective.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "AOS: Airway, Aesthetic & Orofacial Surgery"
+slug: aos-airway-aesthetic-orofacial-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2627 NE 203rd St Suite 100, Miami, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9639113
+  lng: -80.14886229999999
+phone: "(305) 701-3901"
+website: "https://www.aoscenter.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8167116087932291895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  AOS: Airway, Aesthetic & Orofacial Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 12 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 12
+reviews:
+  - author: "Michelle M."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      An amazing experience from start to finish. Dr. Salcines has the best bedside manner of any doctor I'd been to. He is knowledgeable and competent, given than I had a tooth extraction and bone graft. Shockingly, I felt absolutely no pain at all and I'm was and out in no time. Giving credit to his assistant Latishsa, she was amazing as well. I HIGHLY recommend this doctor and his practice to anyone.
+    source: "Google"
+  - author: "Adam L."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      I had an outstanding visit with Dr. Halepas. He made me feel completely comfortable and took the time to answer every one of my questions thoroughly. His office is exceptionally clean, and his staff is professional, friendly, and efficient. I’m truly thrilled with my results and would highly recommend him without hesitation.
+    source: "Google"
+  - author: "Eric P."
+    rating: 5
+    date: "2025-11-22"
+    text: >-
+      I had a great experience with AOS. The team was extremely knowledgeable and made sure every question was answered clearly. From the initial consultation through follow-up, I felt well-informed and taken care of. The office is modern, organized, and very efficient. Highly recommend them to anyone considering airway, aesthetic, or orofacial surgery.
+    source: "Google"
+  - author: "Charlotte"
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      Dr Alfi and the AOS team were all incredible. Very accommodating and patient with all needs questions. Beyond grateful to have this opportunity to work with them.
+    source: "Google"
+  - author: "Jocelyn O."
+    rating: 5
+    date: "2026-01-08"
+    text: >-
+      The doctors and staff were very knowledgeable and answered all of my questions with patience and care. The whole process was smooth from beginning to end. Overall, a great experience.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aos-airway-aesthetic-orofacial-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

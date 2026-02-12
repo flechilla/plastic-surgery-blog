@@ -1,0 +1,60 @@
+name: "Blum-Nico Oral-Facial Surgery Associates"
+slug: blum-nico-oral-facial-surgery-associates
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2999 NE 191st St UNIT 607, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.952628699999998
+  lng: -80.14184279999999
+phone: "(305) 936-5974"
+website: "https://www.blumnico.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10055884920050097631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Blum-Nico Oral-Facial Surgery Associates is a plastic surgery practice located in Aventura, FL. With a 4.9-star rating from 107 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 107
+reviews:
+  - author: "Victor T."
+    rating: 5
+    date: "2025-03-28"
+    text: >-
+      Truly life-changing experience! Huge thanks Dr. Eduardo Nicolaievsky for their incredible skill, dedication, and care throughout my transformation. The level of precision and expertise required for this type of procedure is no small feat, but they handled it flawlessly. I am beyond grateful for the results and the confidence they’ve given me. If you're considering a major dental procedure, trust t
+    source: "Google"
+  - author: "Emerald B."
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      Dr. Nico and his team are always on their game. Thanks again for restoring my health to extra- ordinary.-
+    source: "Google"
+  - author: "Henry s."
+    rating: 5
+    date: "2024-06-02"
+    text: >-
+      Dr Nico & his staff are wonderful. He is intelligent, professional, competent & I was very fortunate to have him care for me. He did a very thorough job of correcting my dental problem. His well-trained staff were kind & supportive. He was a the only dentist that immediately made the correct diagnosis.
+    source: "Google"
+  - author: "Daniel C."
+    rating: 5
+    date: "2024-11-15"
+    text: >-
+      Dr Nico is very knowledge, kind, and patient. He took out my wisdom teeth and has stayed relevant in my dental work since then. I wholeheartedly trust his opinions/advice and highly recommend his services. You cannot go wrong with Dr Nico
+    source: "Google"
+  - author: "Fatima S."
+    rating: 5
+    date: "2024-04-02"
+    text: >-
+      Dr. Nico and his office personnel are a phenomenal team. From the warm welcome at the front desk to the efficient and friendly assistance throughout the visit, their professionalism and kindness shine through. Together, they create a welcoming and comfortable environment that complements Dr. Nico's exceptional care. I highly recommend their practice for anyone seeking top-notch dental services.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/blum-nico-oral-facial-surgery-associates.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

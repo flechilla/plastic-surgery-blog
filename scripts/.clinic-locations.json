@@ -76,12 +76,14 @@
         {
           "city": "homestead",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 45,
+          "date": "2026-02-12"
         },
         {
           "city": "aventura",
           "state": "FL",
-          "status": "queued"
+          "status": "running"
         },
         {
           "city": "weston",

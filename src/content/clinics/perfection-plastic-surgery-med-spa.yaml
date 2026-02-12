@@ -1,0 +1,60 @@
+name: "Perfection Plastic Surgery & Med Spa"
+slug: perfection-plastic-surgery-med-spa
+city: sunny-isles-beach
+cityDisplay: "Sunny Isles Beach"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "16690 Collins Ave suite 702, Sunny Isles Beach, FL 33160"
+zipCode: "33160"
+coordinates:
+  lat: 25.929412199999998
+  lng: -80.122518
+phone: "(305) 600-6083"
+website: "https://perfectionsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10584658532684901431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Perfection Plastic Surgery & Med Spa is a plastic surgery practice located in Sunny Isles Beach, FL. With a 4.3-star rating from 266 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.3
+reviewCount: 266
+reviews:
+  - author: "Gina P."
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      Wow simply Perfect ……it’s all in the name the staff is incredible the services are phenomenal 😍. I just had my BBL and Lipo360 done with Dr. Ortega. 🙌 my body is snatched I look like a better version of myself. This medspa is a dream come true. I’ve been getting services here for the last 5 years and I absolutely adore the staff. Perfections is clean and super professional I wish I could live th
+    source: "Google"
+  - author: "Meliza R."
+    rating: 5
+    date: "2025-05-02"
+    text: >-
+      ⭐⭐⭐⭐⭐ Amazing Experience!  I had an absolutely wonderful experience at Perfection Plastic Surgery and Medspa. From the moment I walked in, the staff made me feel incredibly welcome and at ease. The entire team is professional, knowledgeable, and genuinely cares about your comfort and results.  The medspa services are top-notch as well! I’ve had a few facial treatments, and the results are phenomen
+    source: "Google"
+  - author: "brendan r."
+    rating: 5
+    date: "2025-09-06"
+    text: >-
+      The BH Perfection services were first-class from the moment I entered the facility. The office is aesthetically pleasing, clean, light, and full of good energy. The staff greeted me with professionalism, care, and attention to detail. It’s nice when you enter a place of business to receive spa services and they address you by your title and offer you a warm welcome. I received a facial and teeth w
+    source: "Google"
+  - author: "Jocelyn P."
+    rating: 5
+    date: "2025-07-16"
+    text: >-
+      Absolutely love Perfection Med Spa & Plastic Surgery! From the moment I walked in, I felt welcomed and cared for. The staff is not only professional, but also incredibly warm and knowledgeable. They took the time to explain every step of the treatment and made sure I was comfortable throughout. The space is spotless, beautifully decorated, and has such a calming vibe. Whether you’re new to med spa
+    source: "Google"
+  - author: "Adri G."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      I went to this place for the first time and I loved the professionalism with which the estheticians provide their service, as well as the friendliness of the reception staff. A pleasant experience, and of course I will continue.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/perfection-plastic-surgery-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

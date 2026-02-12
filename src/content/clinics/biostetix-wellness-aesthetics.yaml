@@ -1,0 +1,60 @@
+name: "Biostetix - Wellness & Aesthetics"
+slug: biostetix-wellness-aesthetics
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2820 NE 214th St Suite 832, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9730125
+  lng: -80.14498449999999
+phone: "(305) 922-7988"
+website: "https://biostetix.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10557813000282955248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Biostetix - Wellness & Aesthetics is a plastic surgery practice located in Aventura, FL. With a 5-star rating from 36 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 36
+reviews:
+  - author: "Gianna S."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      Beatriz was incredibly professional and detail-oriented. She was well versed and extremely knowledgeable on everything. Her staff is amazing as well, will be coming back again for other appointments
+    source: "Google"
+  - author: "Angie M."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      This was an amazing experience. They made this so pleasant and relaxing. I am coming back to do another service of how good and perfessional the doctors and assistant attended my friend and I. For anyone looking and wanting to have a change and keep looking beautiful this is the place to come. Not only did they do a great job but also worked on creating that balance of rejuvenation to another leve
+    source: "Google"
+  - author: "Sharon T."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      Got worked on by Beatriz. She was amazing and with gental hands. Was talking to me every step of the way and always made sure I was comfortable. Recommended 1000%
+    source: "Google"
+  - author: "Christine S."
+    rating: 5
+    date: "2024-10-29"
+    text: >-
+      Beatriz is the best at what she does! She listens and customizes each treatment to the individual. I will not let anyone else touch my face. I trust her expertise and feel she will give me the most natural results. I’m in love with my new lips! 🙏💕👄
+    source: "Google"
+  - author: "Tim"
+    rating: 5
+    date: "2025-01-23"
+    text: >-
+      Beatriz treated my wife and I and she was incredible. A complete subject matter expert in the field and we couldn’t be happier. It was my first time/treatment and I looked amazing afterwards. Strongly recommend.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/biostetix-wellness-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

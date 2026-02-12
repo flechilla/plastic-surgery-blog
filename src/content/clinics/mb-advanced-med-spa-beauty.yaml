@@ -1,0 +1,60 @@
+name: "MB Advanced Med Spa & Beauty"
+slug: mb-advanced-med-spa-beauty
+city: sunny-isles-beach
+cityDisplay: "Sunny Isles Beach"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "17070 Collins Ave Suite 258, Sunny Isles Beach, FL 33160"
+zipCode: "33160"
+coordinates:
+  lat: 25.9333137
+  lng: -80.1225551
+phone: "(305) 399-9498"
+website: "https://www.mbadvancedbeauty.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8827338550076656834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  MB Advanced Med Spa & Beauty is a plastic surgery practice located in Sunny Isles Beach, FL. With a 5-star rating from 63 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 63
+reviews:
+  - author: "Rossana R."
+    rating: 5
+    date: "2025-10-04"
+    text: >-
+      This was my very first experience with eyebrow laser treatment and it was amazing! I was a little nervous at the beginning because I was worried about the pain, but they applied anesthesia and made me feel completely comfortable. The whole process was done in such a professional and caring way, and the doctor is truly the sweetest. I’m beyond happy with my results — my eyebrows look incredible!  O
+    source: "Google"
+  - author: "Laura d. V. d. A."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      I am a patient of Dr. Leticia Burgos I can say that the quality of the product and the method she uses to administer Botox are unlike anything I've ever seen in Miami. I wholeheartedly recommend her because qualified and dedicated professionals deserve all the recognition.
+    source: "Google"
+  - author: "Ali S."
+    rating: 5
+    date: "2025-08-19"
+    text: >-
+      I had an amazing experience getting my eyebrow tattoo removed! The process was completely pain-free, and Mari made me feel so comfortable and confident throughout. The results are already noticeable, and I couldn’t be happier with the care and professionalism. Highly recommend!
+    source: "Google"
+  - author: "Nadezhda R."
+    rating: 5
+    date: "2025-09-30"
+    text: >-
+      Tattoo removal. Great quality! I love it. I did my first session and I already look natural. I need one or two sessions and I will definitely come back and suggest to come here to my friends.
+    source: "Google"
+  - author: "Paola W."
+    rating: 5
+    date: "2025-08-19"
+    text: >-
+      I had an amazing and positive experience with eyebrow Makeup removal assisted by Mary Furtado ,she was professional and explained me the whole process, and despite that I am claustrophobic she had the patience and kindness to walk me through the process .  I highly recommend her  10/10
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/mb-advanced-med-spa-beauty.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

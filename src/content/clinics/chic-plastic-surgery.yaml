@@ -1,0 +1,60 @@
+name: "CHic Plastic Surgery"
+slug: chic-plastic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "19495 Biscayne Blvd # 204, Miami, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9559461
+  lng: -80.14625459999999
+phone: "(305) 400-9112"
+website: "https://chicplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8413257793774870047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  CHic Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 58 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 58
+reviews:
+  - author: "Jay D."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Dr. Fabio Castro is the best experienced plastic surgeon Miami currently has and with Dr. Castro being the first surgeon to bring the Brazilian Butt Lift procedure to Miami and the oldest experienced surgeon that Miami has, I was more than comfortable/confident that he would take extra caution and care especially me being a Type 2 Diabetic!!! I cannot believe how fast I recovered after surgery bei
+    source: "Google"
+  - author: "Paula T."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      I haven’t had my surgery yet, but I already feel so confident and excited about my decision thanks to this amazing team. Jocelyn, my coordinator, truly deserves all the praise. From day one, she has been beyond amazing , incredibly attentive, patient, knowledgeable, and genuinely caring. She responds quickly, follows up consistently, and makes sure nothing falls through the cracks. You can tell sh
+    source: "Google"
+  - author: "Kayla M."
+    rating: 4
+    date: "2025-12-21"
+    text: >-
+      I just wanted to write a constructive review - definitely not bad or ANYTHING - just for future patients & maybe even if I come back to Miami & here for future surgeries. The reason I chose CHIC was because how great Ashley was at the beginning & making me feel comfortable choosing y’all for my breast revision. I had been quoted 16,000 where I live & I have been desperate to find somewhere a littl
+    source: "Google"
+  - author: "Dena B."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      So far so good!  Team has been great to work with, really listen to their patients- will update further after to procedure with care and results!  Update post surgery- wonderful experience and so pleased with my results Adi is wonderful and the anesthesiologist is top notch.  The clinic is great- wonderful follow up as well.  i flew in for surgery and Dr Fabio is planning to do video conference wi
+    source: "Google"
+  - author: "scarlet l."
+    rating: 5
+    date: "2025-11-05"
+    text: >-
+      Where do I even begin? I had an amazing experience with Chic Plastic Surgery from start to finish.  From the moment I spoke with Ashley, my sales  coordinator, I knew I was in great hands. She was incredibly sweet, down to earth, and patient. She walked me through every step of the booking and payment process, explained how surgery day would go, and was very realistic about what aftercare and reco
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/chic-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

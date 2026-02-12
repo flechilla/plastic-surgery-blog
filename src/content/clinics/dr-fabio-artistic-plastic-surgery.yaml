@@ -1,0 +1,60 @@
+name: "Dr. Fabio Artistic Plastic Surgery"
+slug: dr-fabio-artistic-plastic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "19495 Biscayne Blvd # 204, Miami, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9559461
+  lng: -80.14625459999999
+phone: "(305) 932-9877"
+website: "http://www.drfabiocastromd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15689512911307993260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Fabio Artistic Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 44 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 44
+reviews:
+  - author: "Mara I."
+    rating: 5
+    date: "2025-10-01"
+    text: >-
+      I recently had mastopexy surgery with Dr. Castro a week ago. My experience from the first consultation to now that I’m still in the post op stage has been amazing. Dr. Castro is very sweet and caring. He is very meticulous with the post op stage and results. His whole staff has been very supportive, sweet and excellent since day one. I highly recommend Dr. Castro and his team. The experience has b
+    source: "Google"
+  - author: "Kevin N."
+    rating: 5
+    date: "2025-09-03"
+    text: >-
+      Dr. Fabio Castro saved me from an open wound in my leg from an accident. He was very professional, kind, and very attentive to my needs throughout the surgery and the post recovery. His team in the office is also very professional, kind and very efficient with the paperwork I needed for my job and such.  I highly recommend them 👍🏽
+    source: "Google"
+  - author: "Zazen N."
+    rating: 5
+    date: "2025-11-25"
+    text: >-
+      Dr Fabio went above and beyond. He is pationate about his work. And that the patient feels comfortable threw the whole process. He doesn't rush things and takes his time. I highly recommend!
+    source: "Google"
+  - author: "Rochelle F."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      Best Dr ever!! The staff is awsome and the work is flawless !! I recommend Dr Castro for all your surgical needs!!
+    source: "Google"
+  - author: "Daniela T."
+    rating: 5
+    date: "2025-04-25"
+    text: >-
+      Dr. Fabio and his team made my breast augmentation experience absolutely perfect! I came all the way from Canada and I made the best decision booking with Dr.Fabio in Aventura, Miami. Booking my consultation was seamless, and Andrea, Genoveva, and Adriana were incredibly responsive, detail-oriented, and communicative. Dr. Fabio was kind, highly knowledgeable, and took the time to explain every det
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dr-fabio-artistic-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

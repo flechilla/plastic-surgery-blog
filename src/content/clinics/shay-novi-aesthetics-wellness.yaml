@@ -1,0 +1,60 @@
+name: "Shay Novi Aesthetics & Wellness®"
+slug: shay-novi-aesthetics-wellness
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "20200 W Dixie Hwy #1101, Miami, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9632174
+  lng: -80.14828320000001
+phone: "(954) 945-7888"
+website: "https://shaynovi.com/"
+googleMapsUrl: "https://maps.google.com/?cid=16189664535828009636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Shay Novi Aesthetics & Wellness® is a plastic surgery practice located in Miami, FL. With a 5-star rating from 292 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 292
+reviews:
+  - author: "Daniela V."
+    rating: 5
+    date: "2025-09-19"
+    text: >-
+      Shay is amazing. She works hard to get you the results you want. She cares about her clients and ensuring they are happy. I have brought my mom to get Botox and she is so happy with her results. My whole family wants to schedule with Shay. She’s amazing and she will always have me as a client. If you want the best results with someone who cares come to Shay!!!
+    source: "Google"
+  - author: "Kourtney R."
+    rating: 5
+    date: "2025-11-22"
+    text: >-
+      Shay is the only injector i trust!! I have been going to her for years and her work is amazing. She always listens to what i want and never over does it. Also love her as a person, she’s extremely personable and really cares about her clients. I’ll never go to another injector
+    source: "Google"
+  - author: "Julia R."
+    rating: 5
+    date: "2025-11-24"
+    text: >-
+      Shay is the best of the best! My results are stunning, she is an artist. I felt truly cared for, Shay is highly knowlegeable and sweet. I cannot wait to go back!
+    source: "Google"
+  - author: "Sophia C."
+    rating: 5
+    date: "2024-04-18"
+    text: >-
+      If I could give Shay more than 5 stars I would. She has that special touch and understands exactly what you want. Even when you have numbing cream on your lips she knows exactly what you are going to say. Shay is very patient, caring, and pays attention to detail. I am so happy to say that I found a talented injector. I have received so many compliments on my lips every time I’ve gone to touch the
+    source: "Google"
+  - author: "Dayana P."
+    rating: 5
+    date: "2025-06-22"
+    text: >-
+      I’ve been going to Shay for many years. I’ve gotten a lot of different work done with her. She’s professional, reliable, and knowledgeable. Her work is real and I trust her. You simply can’t put a price on that. She will also be very honest with you.  There are many injectors out there with fake or edited photos and luring you in with “sales and discounts”. Don’t fall for it. She uses only the bes
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/shay-novi-aesthetics-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

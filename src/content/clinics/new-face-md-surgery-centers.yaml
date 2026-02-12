@@ -1,0 +1,60 @@
+name: "New Face MD Surgery Centers"
+slug: new-face-md-surgery-centers
+city: north-miami-beach
+cityDisplay: "North Miami Beach"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "14432 Biscayne Blvd, North Miami Beach, FL 33181"
+zipCode: "33181"
+coordinates:
+  lat: 25.9086209
+  lng: -80.1583723
+phone: "(305) 848-0008"
+website: "https://www.newfacemd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11245416988826425179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  New Face MD Surgery Centers is a plastic surgery practice located in North Miami Beach, FL. With a 4.7-star rating from 1164 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 1164
+reviews:
+  - author: "Yasmelly V. B."
+    rating: 1
+    date: "2025-10-22"
+    text: >-
+      Warning: My experience with Dr. Jativa at New Face MD was life-threatening. I was told my labs were “perfect,” but my hemoglobin was actually low  at a dangerous level for liposuction. He operated anyway. After surgery, I fainted, blacked out, and ended up in the hospital with a hemoglobin of 7, needing an emergency blood transfusion to survive. His monstrous obsession with making a dollar almost 
+    source: "Google"
+  - author: "Marisleidy G."
+    rating: 5
+    date: "2025-11-28"
+    text: >-
+      My experience with Dr. Jativa was wonderful! The entire staff was very nice, and Andrea in the front was extremely helpful. Lorena did my massages and she was so patient, informative, and truly a perfectionist—her work shows it! I’m 10 days post-op and already loving my results. I can’t wait to see the final outcome. Highly recommend!
+    source: "Google"
+  - author: "Rossangel V."
+    rating: 5
+    date: "2025-09-29"
+    text: >-
+      I am incredibly grateful for my experience with Dr. Desiree Valladolid and Daniel's assistance, as well as the excellent personalized care from Patricia and the entire New Face team. Dr. Desiree did an impeccable job removing my breast implants and performing a flawless breast lift, exceeding all my expectations. The results are incredible: I feel confident, renewed, and like a new person. Best of
+    source: "Google"
+  - author: "Ruben P."
+    rating: 1
+    date: "2025-11-19"
+    text: >-
+      My wife had her procedure here, and it was honestly the worst experience she’s ever had at any clinic. The level of disorganization is unbelievable. They make you wait 3–5 hours past your scheduled appointment, every single time, and when you ask what’s going on, you’re given different excuses that never match — it feels like they lie just to keep you sitting there.  The staff is extremely nice at
+    source: "Google"
+  - author: "Nicole M."
+    rating: 5
+    date: "2025-09-16"
+    text: >-
+      My mom recently had a surgery here and we could not be more happy with her experience! From day one of the consultation with Dr. Jativa, to the daily warm greetings and customer service of Andrea, at the front desk, we have had nothing but exceptional experiences with the staff here. Everyone on Dr. Jativa’s team is welcoming, helpful, and knowledgeable to support patients through their procedures
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/new-face-md-surgery-centers.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

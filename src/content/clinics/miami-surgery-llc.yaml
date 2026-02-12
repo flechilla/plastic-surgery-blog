@@ -1,0 +1,54 @@
+name: "Miami Surgery LLC"
+slug: miami-surgery-llc
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "20200 W Dixie Hwy, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.963098199999997
+  lng: -80.1482419
+phone: "(754) 209-0927"
+website: "http://miamisurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3727267809921310753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Surgery LLC is a plastic surgery practice located in Aventura, FL. With a 5-star rating from 4 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 4
+reviews:
+  - author: "Jennie C."
+    rating: 5
+    date: "2019-10-14"
+    text: >-
+      This is my surgery heaven. Not only is the OR immaculate but you can tell it’s newly built. Also, the staff is extremely warm and friendly. They truly make you feel at home and comfortable. Let’s not forget the best part; Dr. Lampert. Truly he is one of the top in the country. I have done a few procedures with other doctors and he is by far the most knowledgeable and detailed Dr. I have ever had. 
+    source: "Google"
+  - author: "Kelly S."
+    rating: 5
+    date: "2019-10-09"
+    text: >-
+      When going into surgery, it was very scary not being at a hospital. At Dr. Lampert’s surgical room, I felt completely confident that they had all the tools necessary to ensure everything ran smoothly! I felt very comfortable and safe being at their surgical office, with Dr. Lampert and with his team of amazing nurses!
+    source: "Google"
+  - author: "jodi j."
+    rating: 5
+    date: "2019-10-05"
+    text: >-
+      5 STARS!!!
+    source: "Google"
+  - author: "Kimberle S."
+    rating: 5
+    date: "2019-10-05"
+    text: >-
+      
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/miami-surgery-llc.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

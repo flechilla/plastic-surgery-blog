@@ -1,0 +1,60 @@
+name: "BOND Aesthetic | Aventura, FL"
+slug: bond-aesthetic-aventura-fl
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2875 NE 191st St UNIT 201, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9528203
+  lng: -80.1434617
+phone: "(305) 703-6494"
+website: "https://bondaesthetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15024027944471705238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  BOND Aesthetic | Aventura, FL is a plastic surgery practice located in Aventura, FL. With a 4.9-star rating from 59 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 59
+reviews:
+  - author: "Sophia S."
+    rating: 5
+    date: "2025-11-27"
+    text: >-
+      I recently had a smile makeover completed with Dr. Stanley and it was the best dental experience I have had. After several consultations with other dentists in New York and Miami, I landed on Dr. Stanely with Bond Aesthetic. Initially, I had a virtual consultation to get an idea of what type of work I needed in order to achieve the smile I dreamed of. The entire process from the very beginning was
+    source: "Google"
+  - author: "Rinalya M."
+    rating: 5
+    date: "2025-12-03"
+    text: >-
+      Вот короткий, но цепляющий отзыв для Google:  🌟🌟🌟🌟🌟 I had an amazing experience at this dental clinic! The team was incredibly professional, caring, and made me feel comfortable from the moment I walked in. The doctor explained everything clearly and the treatment was completely painless. The clinic is modern, clean, and the service is truly top-level. I’m so glad I chose this place — highly 
+    source: "Google"
+  - author: "Елена Б."
+    rating: 5
+    date: "2025-11-04"
+    text: >-
+      My experience at Bond Aesthetic has been absolutely incredible from start to finish! From the very first smile makeover consultation with Dr. Stanley Spektor, I knew I was in the best possible hands. He took the time to listen to exactly what I wanted, explained every step of the process in detail, and made me feel completely comfortable and confident about my decision.  Each visit was a genuinely
+    source: "Google"
+  - author: "Max S."
+    rating: 5
+    date: "2025-11-16"
+    text: >-
+      Beautiful practice and amazing experience. I haven’t seen a dentist like this anywhere in Miami. Dr. Spektor and his team were amazing and extremely friendly. Highly recommended
+    source: "Google"
+  - author: "BLANCA L."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      I recently visited Bond Aesthetic, led by Dr. Spektor Stanley, and was thoroughly impressed with the quality of care and expertise. The staff were friendly and professional, and the facility was modern and well-equipped. Dr. Stanley was very attentive and explained everything in detail, making me feel comfortable throughout the treatment. The results were amazing, and I've already recommended Bond
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/bond-aesthetic-aventura-fl.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

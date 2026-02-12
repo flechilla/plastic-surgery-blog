@@ -1,0 +1,60 @@
+name: "Med Aesthetics Miami in Aventura"
+slug: med-aesthetics-miami-in-aventura
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "Beacon Tower, 20200 W Dixie Hwy Suite G-11, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.963229499999997
+  lng: -80.1480488
+phone: "(305) 356-7402"
+website: "https://www.medaestheticsmiami.com/?utm_source=google&utm_medium=organic&utm_content=aventura&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=7742379069944419103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Med Aesthetics Miami in Aventura is a plastic surgery practice located in Aventura, FL. With a 4.8-star rating from 187 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 187
+reviews:
+  - author: "ivon d."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      I had an amazing experience with Botox. Liz is wonderful — I absolutely loved her. I’ve been coming here for a long time for my treatments, and I always have a great experience. She is extremely professional, knowledgeable, and makes me feel comfortable every time. I truly love this place and highly recommend it.
+    source: "Google"
+  - author: "Klara"
+    rating: 5
+    date: "2025-08-30"
+    text: >-
+      I did 8 sessions of Candela on multiple areas with Liliana/Olga, and I absolutely love the results—bye bye razors, best thing ever! ✨ What stood out the most was how comfortable she made every appointment. She is such a sweet and caring lady, works fast, and always makes sure you’re comfortable. She’s also very knowledgeable, setting the machine in a way that’s both safe and effective. Couldn’t be
+    source: "Google"
+  - author: "Colleen C."
+    rating: 5
+    date: "2025-08-26"
+    text: >-
+      had the Morpheus8 treatment at Med Aesthetics Miami and I couldn’t be happier with the results! The staff was extremely professional, explained every step of the process, and made me feel comfortable throughout. The treatment itself was much easier than I expected, and I noticed my skin felt tighter and smoother almost immediately. Over the following weeks, I could see a real difference in my skin
+    source: "Google"
+  - author: "Romina L."
+    rating: 3
+    date: "2025-10-14"
+    text: >-
+      I used to go with them for a while ( 18 sessions in total ) because one of the workers there was really good .. by the end she left and I had to stayed because I pay for a package for my forehead.after that everything   was terrible. Liliana took over and I ended up with my long hair  close to the forehead gone, it looked like I had a huge forehead. I called to complain and they “ helped” me with 
+    source: "Google"
+  - author: "Malika Y."
+    rating: 5
+    date: "2023-12-19"
+    text: >-
+      Today was my 5th session with Med Aesthetics Miami located in Aventura and for the fifth time I left the office very satisfied. I started the laser for hair removal in August and I saw the great results after the 2nd session. All the staff is very friendly and professional, everyone makes me feel comfortable. They are quick and efficient. Two of my friends recommended this place, and I recommend i
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/med-aesthetics-miami-in-aventura.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

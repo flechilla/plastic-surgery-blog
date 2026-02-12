@@ -1,0 +1,60 @@
+name: "BioAesthetics Wellness"
+slug: bioaesthetics-wellness
+city: north-miami-beach
+cityDisplay: "North Miami Beach"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "18100 W Dixie Hwy Ste 205, North Miami Beach, FL 33160"
+zipCode: "33160"
+coordinates:
+  lat: 25.9429341
+  lng: -80.1495265
+phone: "(305) 704-8503"
+website: "https://www.instagram.com/invites/contact/?i=scetojtpx61u&utm_content=1vthox3"
+googleMapsUrl: "https://maps.google.com/?cid=1674169883153749133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  BioAesthetics Wellness is a plastic surgery practice located in North Miami Beach, FL. With a 5-star rating from 37 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 37
+reviews:
+  - author: "Denisse M."
+    rating: 5
+    date: "2025-06-15"
+    text: >-
+      Wickander was very knowledge, professional, and made me feel comfortable. I haven’t gotten a facial in many years and honestly I’m so glad I got it done with him, I did a rejuvenation facial and my face is looking snatched!! Can’t wait to do my next one! If you have any kind of skin concern definitely go to him before you buy a bunch of skin care products!
+    source: "Google"
+  - author: "Maria N."
+    rating: 5
+    date: "2025-08-13"
+    text: >-
+      Great service, he’s very attentive of your every need and concern. Very communicative. Also connects with you in a personal level. Such a nice soul to encounter!! Best facial ever!
+    source: "Google"
+  - author: "Melissa L."
+    rating: 5
+    date: "2025-03-11"
+    text: >-
+      Wicklander and his team are the best! I needed to get some labs performed at home and the service and experience was exceptional. Wicklander is going to make sure all of your questions are answers before hand and make sure you feel comfortable throughout every step of the process. I can’t recommend his services highly enough.
+    source: "Google"
+  - author: "Jeanette G."
+    rating: 5
+    date: "2025-06-27"
+    text: >-
+      Wickander  went above and beyond to provide me with an amazing facial experience!!! Make an appointment today, he is a true expert in the field of bio aesthetics, you won't be disappointed!!!
+    source: "Google"
+  - author: "Heri R."
+    rating: 5
+    date: "2025-02-26"
+    text: >-
+      I recently visited BioAesthetics for a PRP facial treatment with Wickander, and I'm absolutely thrilled with the results! From the moment I walked in, I felt at peace in their serene and calming environment.  Wickander was outstanding! His expertise and gentle touch made the treatment a breeze. He took the time to explain the process, answered all my questions, and made sure I was comfortable thro
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

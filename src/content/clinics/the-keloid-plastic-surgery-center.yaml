@@ -1,0 +1,60 @@
+name: "The Keloid Plastic Surgery Center"
+slug: the-keloid-plastic-surgery-center
+city: miami-beach
+cityDisplay: "Miami Beach"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Nautilus"
+address: "4308 Alton Rd Suite #720, Miami Beach, FL 33140"
+zipCode: "33140"
+coordinates:
+  lat: 25.814880799999997
+  lng: -80.1405032
+phone: "(833) 453-5643"
+website: "https://www.thekeloidplasticsurgerycenter.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB"
+googleMapsUrl: "https://maps.google.com/?cid=18062941682118690996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Keloid Plastic Surgery Center is a plastic surgery practice located in Miami Beach, FL. With a 5-star rating from 12 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 12
+reviews:
+  - author: "Ozy A."
+    rating: 5
+    date: "2024-09-25"
+    text: >-
+      Update 09.25.2024 - 2 Years Post Op:  I am 2 years post op (Keloids removed in 2022)No itching,  no pain, and both sites are still flat! I will add photos to show the current results for comparison!  If you are reading this, I know how important it is to see the longevity of an operation of this kind. I am still happy with my results and so so grateful to Dr. Mendez for helping me!  Original Post 
+    source: "Google"
+  - author: "Montserrat G."
+    rating: 5
+    date: "2022-03-07"
+    text: >-
+      Dr. Mendez is an amazing surgeon. He is kind, a good listener, and very conscientious of those of us who have had bad results and are dealing with the trauma associated with this outcome. I felt respected and seen. My only regret was not seeking him out sooner. I had to take some time to reflect on my experience before I was ready to deal with surgery again. Taking my time paid off since it allowe
+    source: "Google"
+  - author: "Natalie T."
+    rating: 5
+    date: "2021-07-12"
+    text: >-
+      Persons do not realise how traumatizing keloids can be. After researching the positive results patients were experiencing from SRT (superficial radiation therapy) after undergoing keloid surgery removal, I began searching for surgeons who specialize in this treatment and initially my attempts were unsuccessful. Nonetheless, I persisted until I found Dr. Mendez at The Keloid Plastic Surgery Center 
+    source: "Google"
+  - author: "A &. T. B."
+    rating: 5
+    date: "2021-07-12"
+    text: >-
+      5-Star doctor! I had a very large unsightly keloid that continued to grow even surgical removal and steroid injections. I finally discovered the Keloid Plastic Surgery center and Dr. Mendez. I was instantly sold just by his bedside manner and knowledge about Keloids. My treatment plan went perfect and follow up care perfect including my SRT treatments.  I am very pleased with my results; they’re l
+    source: "Google"
+  - author: "Chris S."
+    rating: 5
+    date: "2021-01-25"
+    text: >-
+      For years I dealt with a large unsightly keloid on the back of my head.  When years of dermatology visits with treatment including injections and oral antibiotic medication did nothing to stop the growth and discomfort of this keloid, I decided to seek a different route and look into surgery. That’s when I met Dr. Mendez. He informed me of a procedure I never thought of or knew was avaiable to me.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-keloid-plastic-surgery-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

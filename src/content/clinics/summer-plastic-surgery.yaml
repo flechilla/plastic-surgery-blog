@@ -1,0 +1,30 @@
+name: "Summer Plastic Surgery"
+slug: summer-plastic-surgery
+city: north-miami-beach
+cityDisplay: "North Miami Beach"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Eastern Shores"
+address: "3909 NE 163rd St Ste 307, North Miami Beach, FL 33160"
+zipCode: "33160"
+coordinates:
+  lat: 25.931413499999998
+  lng: -80.1313457
+phone: "(786) 363-9810"
+website: "https://www.summerplastic.surgery/"
+googleMapsUrl: "https://maps.google.com/?cid=5438222555630938744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Summer Plastic Surgery is a plastic surgery practice located in North Miami Beach, FL.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/summer-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

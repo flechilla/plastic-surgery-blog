@@ -1,0 +1,60 @@
+name: "Nava Wellness & Med Spa"
+slug: nava-wellness-med-spa
+city: north-miami-beach
+cityDisplay: "North Miami Beach"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "15805 Biscayne Blvd suite 101, North Miami Beach, FL 33160"
+zipCode: "33160"
+coordinates:
+  lat: 25.921477199999998
+  lng: -80.1541644
+phone: "(305) 705-2300"
+website: "https://www.navawellnessmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6712982836365846636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Nava Wellness & Med Spa is a plastic surgery practice located in North Miami Beach, FL. With a 5-star rating from 105 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 105
+reviews:
+  - author: "Caprice P."
+    rating: 5
+    date: "2025-04-17"
+    text: >-
+      I am  having an absolute incredible experience at Nava Wellness . Theresa has taken the time and  genuine care  to help with all my many needs. From skin issues, health, and beauty. She is very detailed in her treatment plans. Has a huge knowledge of so many areas in  the body. I am grateful to be a part of the “Nava Family “. I always leave the office feeling refreshed and pampered. Please treat 
+    source: "Google"
+  - author: "Bar F."
+    rating: 5
+    date: "2025-08-27"
+    text: >-
+      I received the best post op aftercare! Amazing massages and amazing staff and the owner is super sweet as well. I definitely recommend and will come again.
+    source: "Google"
+  - author: "Leslie S."
+    rating: 5
+    date: "2025-04-16"
+    text: >-
+      I had such a great experience at this med spa! I came in for a Hydrafacial and rosacea treatment, and the care I received was truly above and beyond. The staff didn’t just give me a basic facial—they really took the time to treat my skin based on its specific needs. I felt like my face was in such good hands. Everyone was kind, friendly, and professional, which helped me feel totally relaxed throu
+    source: "Google"
+  - author: "Danny P."
+    rating: 5
+    date: "2025-04-17"
+    text: >-
+      I had a fantastic experience at Nava Wellness & Med Spa! Theresa was amazing, kind, knowledgeable, and attentive. She made me feel completely at ease and tailored the treatment to exactly what I needed. The spa is beautiful and relaxing, and I left feeling refreshed and confident. Highly recommend!
+    source: "Google"
+  - author: "yanina s."
+    rating: 5
+    date: "2025-04-17"
+    text: >-
+      Teresa is a professional with a huge heart and knowledge.  My skin has improved significantly. And i was told I look 10 years younger🥰 I love the fact that she uses natural ingredients. But the best thing, Theresa's magic hands 🙌🏽
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/nava-wellness-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
