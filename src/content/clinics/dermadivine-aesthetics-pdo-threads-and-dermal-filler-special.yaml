@@ -1,0 +1,60 @@
+name: "DermaDivine Aesthetics - PDO Threads and Dermal Filler Specialist"
+slug: dermadivine-aesthetics-pdo-threads-and-dermal-filler-special
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1091 S University Dr Suite 18, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.107355899999998
+  lng: -80.2520683
+phone: "(786) 671-7876"
+website: "http://www.dermadivineaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17501453901031737918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  DermaDivine Aesthetics - PDO Threads and Dermal Filler Specialist is a plastic surgery practice located in Plantation, FL. With a 5-star rating from 56 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 56
+reviews:
+  - author: "Laura V."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      I cannot recommend Dermadivine with Anisleydi highly enough! From the moment I walked in, I felt completely comfortable and confident that I was in expert hands. She took the time to really listen to my concerns, explained everything clearly, and made sure the results would look natural and not overdone. The treatment itself was quick, gentle, and professional, and the results are amazing: smooth,
+    source: "Google"
+  - author: "giorgia a."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      Have been going to DermaDivine Aesthetic since I moved to Miami in 2021, and I couldn’t be happier with my results. I trust her completely for both fillers and Botox, and she is always extremely professional, attentive, and highly skilled. What truly sets her apart is her integrity. Unlike some practitioners who are willing to perform treatments even when they are unnecessary-simply for money-she 
+    source: "Google"
+  - author: "Maddie G."
+    rating: 5
+    date: "2025-12-13"
+    text: >-
+      I had such a great experience at this med spa. Ani made me feel completely comfortable from start to finish and took the time to answer all of my questions. I really appreciated her conservative, thoughtful approach—she truly did more with less, and the Botox results were amazing. My face looks more symmetrical, refreshed, and still natural. I’m so happy with how everything turned out and can’t wa
+    source: "Google"
+  - author: "Loraine G."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      I had a great experience at this aesthetic clinic. From the moment you arrive, you can sense the professionalism and warmth. They explain the procedure you want to do clearly and respect your time, with no long waiting. The provider listens carefully to your goals, answers your questions in a clear way, and explains each step before starting treatment. The space feels clean, organized, and calm, w
+    source: "Google"
+  - author: "Ana N."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      I have been getting my treatments with Ani for over 3 years! Her services are impeccable, she is the best! She has very competitive prices. Now that she moved from Miami to Plantation I will drive there to continue with her. I highly recommend her!!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dermadivine-aesthetics-pdo-threads-and-dermal-filler-special.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

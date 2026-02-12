@@ -1,0 +1,60 @@
+name: "Baptist Health Surgery Center | Plantation"
+slug: baptist-health-surgery-center-plantation
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1228 S Pine Island Rd Suite 220, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.103629899999998
+  lng: -80.261482
+phone: "(954) 837-1601"
+website: "https://baptisthealth.net/locations/surgery-centers/baptist-health-surgery-center---plantation?y_source=1_MTkzMTA5MTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+googleMapsUrl: "https://maps.google.com/?cid=5970939302234029507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Baptist Health Surgery Center | Plantation is a plastic surgery practice located in Plantation, FL. With a 4.9-star rating from 688 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 688
+reviews:
+  - author: "Anne L."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      I had an excellent experience at Baptist Health. The facility is well-run and efficient, and the staff was professional, punctual, and extremely kind. Everyone I interacted with was knowledgeable and patient, taking the time to explain things clearly and answer all of my questions without rushing. It truly made a difference to feel cared for and respected throughout my visit. I highly recommend Ba
+    source: "Google"
+  - author: "Vivian E."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Staff could not have been better.   I arrived at 6 am and was called back by 6:20.   Team was ready and extremely efficient.   Every step was explained in detail. I had additional questions when I got home and they were easy to reach.   Would highly recommend Baptist Orthopedic in Plantation
+    source: "Google"
+  - author: "Anabel V."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Nurse: Romina is the true definition of an Excellent Nurse!!! She treated my son like she was treating her own. Dr. Davis has great bed side manners and takes the time to explain the procedure in detail. Great service overall!!!
+    source: "Google"
+  - author: "Rick B."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      Beautiful cleaning facility. Staff was very caring and easy to communicate with. They went out of their way to assist me in making sure the surgery went as planned. Thank you
+    source: "Google"
+  - author: "Lynne"
+    rating: 5
+    date: "2025-11-25"
+    text: >-
+      This place is special!  I had a great experience!  The staff is attentive, professional and real. Dr. Thottam is quite possibly the kindest doctor I have ever met. Before the procedure he explained everything to me. While doing the procedure he told me step by step everything he was doing. I had total confidence everything would turn out fine. It did!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/baptist-health-surgery-center-plantation.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

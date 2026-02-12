@@ -90,12 +90,14 @@
         {
           "city": "weston",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 47,
+          "date": "2026-02-12"
         },
         {
           "city": "davie",
           "state": "FL",
-          "status": "queued"
+          "status": "running"
         },
         {
           "city": "plantation",

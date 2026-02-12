@@ -1,0 +1,60 @@
+name: "Facial Mania Med Spa Plantation"
+slug: facial-mania-med-spa-plantation
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "801 S University Dr suite C-123, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.109745999999998
+  lng: -80.2520284
+phone: "(954) 799-9397"
+website: "https://facialmaniamedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7104188859288870099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Facial Mania Med Spa Plantation is a plastic surgery practice located in Plantation, FL. With a 4.7-star rating from 329 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 329
+reviews:
+  - author: "Nathalie M."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I can’t say enough good things about Arleht and this spa! From the moment I walked in, I felt welcomed and relaxed. The Botox treatment was quick, virtually painless, and Arleht was so gentle and thorough. Highly recommend her! My results are subtle, natural, and make me feel refreshed—not frozen. I’m already looking forward to my next visit!
+    source: "Google"
+  - author: "Amanda L."
+    rating: 5
+    date: "2025-06-04"
+    text: >-
+      Such a Super Clean and Organized  Med Spa! The staff is wonderful! I’ve been blessed to have experience with both Estheticians Melissa & Laura both are extremely talented and attentive! My skin has never looked better. Arleht is the best! She is the only person I will allow to touch my face with any injections. She’s extremely knowledgeable and gentle. 10/10 highly recommend! All 3 of them 💜
+    source: "Google"
+  - author: "Balinda M."
+    rating: 5
+    date: "2025-12-27"
+    text: >-
+      I had an amazing experience at this med spa with Arleht! She was knowledgeable, kind, and never pushy, which made me feel really comfortable throughout the entire process. She fixed my crooked smile and chin dimple beautifully, and I also get masseter Botox because I grind my teeth. The results are incredible—and best of all, I had no bruising at all afterward. I’m so happy with how everything tur
+    source: "Google"
+  - author: "Jaclyn P."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      Love this place but especially LOVE Arleht. She is, by far, the most professional, kind, reassuring, and talented individual. I have never seen as amazing results as I do with her and I recommend her 100% without reservation. So grateful I found her!
+    source: "Google"
+  - author: "Alyce G."
+    rating: 5
+    date: "2025-09-27"
+    text: >-
+      It was my first Facial that I had with Laura. She was amazing! So tentative, and throughout the entire process, made sure I was educated on what she was doing and making sure I was comfortable. It was so relaxing. I loved every minute of it, and my skin looks so much better. I will be back. I highly recommend this place!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/facial-mania-med-spa-plantation.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

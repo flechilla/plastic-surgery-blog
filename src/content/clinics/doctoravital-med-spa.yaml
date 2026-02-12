@@ -1,0 +1,60 @@
+name: "Doctoravital Med Spa"
+slug: doctoravital-med-spa
+city: cooper-city
+cityDisplay: "Cooper City"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "9650 Stirling Rd Unit 102, Cooper City, FL 33024"
+zipCode: "33024"
+coordinates:
+  lat: 26.043758
+  lng: -80.2745614
+phone: "(754) 286-1341"
+website: "http://www.doctoravitalmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17639405269842425330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Doctoravital Med Spa is a plastic surgery practice located in Cooper City, FL. With a 5-star rating from 102 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 102
+reviews:
+  - author: "Bryan W."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      ⭐⭐⭐⭐⭐ Doctoravital Med Spa provides an amazing experience every time. The staff is extremely attentive and truly listens to your requests and concerns. They take the time to explain everything clearly and answer all questions, which makes you feel confident and well-informed throughout your visit.  Everyone is respectful, professional, and genuinely cares about their clients. The spa itself is ver
+    source: "Google"
+  - author: "Jorge C."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      ⭐⭐⭐⭐⭐ I had an excellent experience here. The service was outstanding from start to finish. Everything was done with great care and professionalism, and the quality truly exceeded my expectations. I received exactly what I paid for—no surprises, just honest and transparent service.  Appointments were on time, which I really appreciated, and the staff was incredibly patient, taking the time to answ
+    source: "Google"
+  - author: "Sofia M."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      I had the most amazing experience at this Med Spa! I recently got lip filler done by Dr. Svetlana Plotnikow, and I truly couldn’t be happier with the results. She is incredibly talented, gentle, and detail-oriented, and she made me feel so comfortable from the moment I walked in.  Dr. Svetlana took her time to understand the look I wanted, explained everything clearly, and was so careful and preci
+    source: "Google"
+  - author: "Marysol P."
+    rating: 5
+    date: "2025-12-27"
+    text: >-
+      I’ve been Dra Svetlana’s patient for more than 10 years and I always receive compliments about my skin. She has respected my features over the years with natural yet impactful results. Right now I am receiving SylfirmX for face and neck at least 3 times a year, Biostimulation with Sculptra, Radiesse, and Dysport… and of course, amazing skincare from their Boutique. I recommend this Spa for everyon
+    source: "Google"
+  - author: "Super K."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      This place is amazing! Dr Svetlana is so knowledgeable and awesome .. She treats you with individualize plans and high quality treatments and products! My skin has improved so much!! Thanks you for always making feel like a family
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/doctoravital-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

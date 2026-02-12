@@ -1,0 +1,60 @@
+name: "Absolute Aesthetics Rejuvenation Center"
+slug: absolute-aesthetics-rejuvenation-center
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "150 NW 70th Ave #5, Plantation, FL 33317"
+zipCode: "33317"
+coordinates:
+  lat: 26.122732199999998
+  lng: -80.2409957
+phone: "(954) 500-4526"
+website: "https://theabsoluteaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14266333228399758559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Absolute Aesthetics Rejuvenation Center is a plastic surgery practice located in Plantation, FL. With a 4.7-star rating from 155 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 155
+reviews:
+  - author: "Meagan B."
+    rating: 5
+    date: "2025-12-22"
+    text: >-
+      Absolutely love Amy at Absolute Aesthetics! She always focuses on what’s best for my face. Never overdone, never cookie-cutter. Amy is thoughtful, and so skilled, and I completely trust her recommendations. I'm 48 and feel prettier and more confident after each treatment. I’ve always felt she has my best interests in mind, never felt pressure to go out of my comfort zone or do more ... and the res
+    source: "Google"
+  - author: "Michele O."
+    rating: 5
+    date: "2025-12-09"
+    text: >-
+      I recently had the pleasure of visiting Absolute Aesthetics, they are IMPRESSIVE! From the moment I walked in, the atmosphere was welcoming and serene. The staff is super professional and caring. Amy is so very talented and knowledgeable , I trust her implicitly! She tailors my treatment to my exact requests and needs. I always feel as though I am great, capable hands.  I can confidently brag my v
+    source: "Google"
+  - author: "Aria C."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      I cannot say enough amazing things about Absolute Aesthetics! From the moment I walked in, the entire experience was warm, welcoming, and incredibly professional. The ambience is super girly and fun. But the real star is Amy. She is the absolute best—honest, knowledgeable, and incredibly skilled at what she does. She always takes her time, explains everything thoroughly, and gives results that loo
+    source: "Google"
+  - author: "Elizabeth G."
+    rating: 5
+    date: "2025-07-22"
+    text: >-
+      I had such a wonderful experience at Absolute Aesthetics Rejuvenation Center! I came in for a treatment I purchased through Groupon and from the moment I walked in, everyone was incredibly sweet and welcoming. The entire staff made me feel so comfortable and at ease. The place itself is adorable — clean, cozy, and beautifully decorated. Amy was especially amazing — she’s so kind and really takes h
+    source: "Google"
+  - author: "Johanna M. G."
+    rating: 1
+    date: "2025-12-08"
+    text: >-
+      I strongly advise anyone considering Absolute Aesthetics to be very cautious. My Botox treatment here caused significant facial asymmetry. Amy placed product incorrectly into the DAO muscle (side of the chin) on the right side, leaving that side of my lower face almost paralyzed. When I talk or smile, it looks like only one side of my mouth works, and speaking takes a lot of effort. She recommende
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/absolute-aesthetics-rejuvenation-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

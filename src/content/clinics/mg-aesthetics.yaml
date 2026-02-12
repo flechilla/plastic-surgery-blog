@@ -1,0 +1,60 @@
+name: "MG Aesthetics"
+slug: mg-aesthetics
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1091 S University Dr Suite #4, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.107355199999997
+  lng: -80.252068
+phone: "(754) 900-7209"
+website: "https://mdaestheticsfl.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5124182904196300507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  MG Aesthetics is a plastic surgery practice located in Plantation, FL. With a 5-star rating from 30 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 30
+reviews:
+  - author: "Hanna S."
+    rating: 5
+    date: "2026-01-12"
+    text: >-
+      I had an excellent experience with Michal Goldshmid. She is incredibly professional, attentive, and truly skilled in Sculptra, Botox, and fillers. The results look natural, balanced, and exactly what I was hoping for. She took the time to explain everything, made me feel comfortable throughout the process, and clearly cares about achieving the best outcome for her patients. Highly recommend!
+    source: "Google"
+  - author: "Israela Z."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      Every time that I go, I get better and better result. Great product, great results, great service, very professional. I would never ever change to a different service provider. I love my natural looks, doesn’t look fake. Highly recommended if you want to have great long lasting look. The injection queen is a true injectable magician. You will not regret.👍🏻👌🏻
+    source: "Google"
+  - author: "Shayna C."
+    rating: 5
+    date: "2025-11-25"
+    text: >-
+      Michal is the best injector I have ever been to. She is kind, gentle, professional and most of all honest. Highly recommend her.
+    source: "Google"
+  - author: "Ilissa W."
+    rating: 5
+    date: "2025-01-02"
+    text: >-
+      I have never written a Google review but Michal is such an increíble high quality human that to not post would be doing her (and her future patients) a disservice.  First of all, I am a total perfectionist, and Michal is able to meet my needs and impart her clinical recommendation if she feels it is necessary.  She is an impecable injector who really listens to and collaborates with her patients. 
+    source: "Google"
+  - author: "Christina A."
+    rating: 5
+    date: "2024-03-22"
+    text: >-
+      I wont Go to anyone else! I have Been seeing Michal for years and I have always seen beautiful natural results! I am The the point now where I trust her 100% with my face and let her call the shots. She is always on top of the new techniques and continuing education in the field. Clean, professional, HONEST, the list goes on. Book with her she will have you as a forever client like me. Thank you f
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/mg-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

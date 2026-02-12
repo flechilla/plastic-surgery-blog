@@ -1,0 +1,60 @@
+name: "AD Aesthetics"
+slug: ad-aesthetics
+city: cooper-city
+cityDisplay: "Cooper City"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "9660 Stirling Rd 101 Suite 6, Cooper City, FL 33024"
+zipCode: "33024"
+coordinates:
+  lat: 26.0443359
+  lng: -80.2745344
+phone: "(754) 799-8785"
+website: "http://adaestheticsmed.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7454547452540626803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  AD Aesthetics is a plastic surgery practice located in Cooper City, FL. With a 4.8-star rating from 33 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 33
+reviews:
+  - author: "Zelda B."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      I had an excellent experience with Atara. She is extremely knowledgeable, professional, and precise. She took the time to fully understand my goals, explained everything clearly, and made sure I was comfortable throughout the entire process.  The results are incredibly natural and beautifully done — refreshed, subtle, and balanced. I highly recommend her to anyone looking for high-quality, expert 
+    source: "Google"
+  - author: "Alexis L."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Atara is absolutely amazing! I recommend her for all your aesthetic needs 🫶
+    source: "Google"
+  - author: "Dina R."
+    rating: 5
+    date: "2025-03-20"
+    text: >-
+      I had an amazing experience at AD Aesthetics! Atara was incredibly professional, knowledgeable, and made me feel completely at ease. My Botox treatment was quick, virtually painless, and the results are flawless—natural and refreshed! I highly recommend this place to anyone looking for top-tier aesthetic care. I’ll definitely be coming back! ✨💉😊
+    source: "Google"
+  - author: "Jackie B."
+    rating: 5
+    date: "2024-04-02"
+    text: >-
+      Love going to Atara to keep me looking my best! She is very welcoming and knowledgeable. Her suite is cute and clean. Highly recommend looking into her beauty membership and booking your first appt yesterday!!
+    source: "Google"
+  - author: "Angela B."
+    rating: 2
+    date: "2023-11-14"
+    text: >-
+      Atara is a very nice person. The spa is beautiful I went for a Restylane Lift 2 weeks ago.I didn’t get the results I hope for.I spent a lot of money!I had this done before and had great results which lasted 5 months.She wanted me to come back so she could see the results.I text her a picture-instead.Wouldn’t drive all the way back to Cooper City.I will never go back there again!
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

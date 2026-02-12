@@ -1,0 +1,60 @@
+name: "DermaMAG Aesthetics Academy"
+slug: dermamag-aesthetics-academy
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "9900 Stirling Rd Suite 301, Hollywood, FL 33024"
+zipCode: "33024"
+coordinates:
+  lat: 26.044155699999997
+  lng: -80.27815439999999
+phone: "(954) 870-8641"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=9581691210715033626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  DermaMAG Aesthetics Academy is a plastic surgery practice located in Hollywood, FL. With a 4.9-star rating from 26 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 26
+reviews:
+  - author: "Paola P."
+    rating: 5
+    date: "2023-09-24"
+    text: >-
+      The best academy, very professional and expert techniques. Highly recommended. I’m one of their Masters.  They are always there if I ever need their help. I never hesitate to contact them for any questions. Thank you DermaMAG!
+    source: "Google"
+  - author: "Mercedes M."
+    rating: 5
+    date: "2023-08-06"
+    text: >-
+      This is a great place to get your certificate. The training is hands on with the last techniques and very friendly environment where you can learn ask and feel confident to start your new career in  Esthetics and Health industry. You Rock ladies 🤩
+    source: "Google"
+  - author: "Olis M."
+    rating: 5
+    date: "2023-09-24"
+    text: >-
+      Excellent . Recommend 100 %
+    source: "Google"
+  - author: "Magda M."
+    rating: 5
+    date: "2024-02-27"
+    text: >-
+      Genial !
+    source: "Google"
+  - author: "Veronica C."
+    rating: 5
+    date: "2023-09-17"
+    text: >-
+      The laser training was excellent. Professor Marcela Velez explained everything clearly. Highly recommended. I'm very happy and pleased with what I accomplished. Thank you!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dermamag-aesthetics-academy.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

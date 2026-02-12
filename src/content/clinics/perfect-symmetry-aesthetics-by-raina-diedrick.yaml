@@ -1,0 +1,60 @@
+name: "Perfect Symmetry Aesthetics by Raina Diedrick"
+slug: perfect-symmetry-aesthetics-by-raina-diedrick
+city: davie
+cityDisplay: "Davie"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "6490 Griffin Rd Suite 204, Davie, FL 33314"
+zipCode: "33314"
+coordinates:
+  lat: 26.064601999999997
+  lng: -80.23289380000001
+phone: "(561) 285-2808"
+website: "http://www.perfectsymmetryaestheticsfl.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18317109100374521584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Perfect Symmetry Aesthetics by Raina Diedrick is a plastic surgery practice located in Davie, FL. With a 4.9-star rating from 34 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 34
+reviews:
+  - author: "Marie T."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      I had an excellent experience with facial injections, filler, and Botox here. Raina was professional, knowledgeable, and made me feel completely comfortable throughout the process. The level of care was very high, and I’m extremely happy with my results. I highly recommend this business for quality aesthetic treatments.
+    source: "Google"
+  - author: "Asil A."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      Raina is truly one of a kind. She’s the only person I trust with injectables, and for good reason. Her hands are unbelievably light I barely feel a thing during treatment. She takes her time, pays attention to every detail, and her work is always flawless. If you’re looking for someone skilled, gentle, and genuinely gifted at what she does, Raina is the one.
+    source: "Google"
+  - author: "Erica I."
+    rating: 5
+    date: "2025-08-13"
+    text: >-
+      I had an amazing experience with Raina. She was incredibly professional and made me feel completely comfortable throughout the entire process. The results look natural and refreshed—just what I wanted! The treatment was quick, virtually painless, and the clinic was clean and welcoming. I’m so happy with how everything turned out and would highly recommend this place to anyone. Will definitely be b
+    source: "Google"
+  - author: "Tamara G."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I had a great experience with Raina! She’s professional, kind, and really reads into what you need. My Botox appointment didn’t feel rushed. She was gentle and patient. Her technique caused zero pain! I highly recommend her to anyone looking for an aesthetic injector!
+    source: "Google"
+  - author: "Bethany C."
+    rating: 5
+    date: "2025-09-16"
+    text: >-
+      🤩 Raina is super amazing!! 🤩 First of all she makes you feel at home as soon as you walk in. She’s very thorough with all the services that are offered for an inexpensive price!! It’s private and extremely convenient with her own space, allows the session to go seamlessly!! Already booked for ✌️more sessions!!!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/perfect-symmetry-aesthetics-by-raina-diedrick.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

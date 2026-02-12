@@ -1,0 +1,60 @@
+name: "Ambar Carmona Med Spa"
+slug: ambar-carmona-med-spa
+city: davie
+cityDisplay: "Davie"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "5400 S University Dr Suite 402, Davie, FL 33328"
+zipCode: "33328"
+coordinates:
+  lat: 26.0533586
+  lng: -80.2498765
+phone: "(954) 336-7168"
+website: "https://ambarcarmonamedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13113094150896522413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Ambar Carmona Med Spa is a plastic surgery practice located in Davie, FL. With a 5-star rating from 11 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 11
+reviews:
+  - author: "DEISY J."
+    rating: 5
+    date: "2025-12-03"
+    text: >-
+      “My experience at Ámbar Carmona Med Spa was simply spectacular. I had the European facial treatment and the results were immediate: my skin looked radiant, hydrated, and felt incredible. The service is extremely professional, the place is spotless, and the atmosphere is very relaxing. Plus, the prices are very good for the quality of service they offer. I will definitely be back and I recommend it
+    source: "Google"
+  - author: "Eliana D."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      If you're looking for a place that truly cares for your skin and makes you feel pampered from the moment you arrive, I highly recommend Med Spa Facial, run by its owner, Lic. Ambar Carmona. Her service is incredible; she works with meticulous attention to detail and leaves your skin radiant, clean, and incredibly soft. Plus, the atmosphere is relaxing, and you leave feeling completely refreshed. I
+    source: "Google"
+  - author: "Dalia L."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      The service offered by Ámbar Carmona Medic Spa is absolutely excellent. You'll find the best facial treatments; the feeling it leaves on your face is truly spectacular. I recommend it 1000%, and it has very good prices.
+    source: "Google"
+  - author: "Willemson B."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      Excellent service and attention, I had a nourishing facial and it was the best!
+    source: "Google"
+  - author: "Dixiana E."
+    rating: 5
+    date: "2025-12-03"
+    text: >-
+      The platelet-rich plasma treatment left my skin hydrated and renewed – an exceptional service, without a doubt.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/ambar-carmona-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

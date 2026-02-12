@@ -1,0 +1,60 @@
+name: "Samsara Aesthetics and Wellness"
+slug: samsara-aesthetics-and-wellness
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "331 N University Dr suite m2 800, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.124609
+  lng: -80.257521
+phone: "(954) 688-7255"
+website: "https://www.samsaramedspa.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+googleMapsUrl: "https://maps.google.com/?cid=13016155284204401794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Samsara Aesthetics and Wellness is a plastic surgery practice located in Plantation, FL. With a 5-star rating from 40 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 40
+reviews:
+  - author: "Veronika V."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      The perfect recovery, treatment kickstart my immune system! The staff there was so nice and personable. They made me feel so welcomed. Highly recommend them to anybody looking for treatments in the area! I will definitely be going back.
+    source: "Google"
+  - author: "Gilda B."
+    rating: 5
+    date: "2025-11-12"
+    text: >-
+      Maureen, the therapist was super cool. She worked out the knots under the shoulder blades and the kink in my neck.  I walked out of there so relaxed.**** Also the hydro facial was much needed. Thank you, Michelle! Made it a spa day!! It was much needed.
+    source: "Google"
+  - author: "Razja H."
+    rating: 5
+    date: "2025-11-01"
+    text: >-
+      I had an amazing experience with Andrea for my laser hair removal! The clinic was spotless, and beautiful the staff were knowledgeable, and the treatment was comfortable no pain. Highly recommend to anyone considering laser — truly worth it!
+    source: "Google"
+  - author: "Karlyona F."
+    rating: 5
+    date: "2026-01-03"
+    text: >-
+      I came in as a walk-in and was helped right away. All of my questions were answered, and everyone was so kind and informative. I got a HydraFacial from (I believe) Michelle, and I absolutely loved it — highly recommend. Kylie at the front desk was also super sweet and welcoming.
+    source: "Google"
+  - author: "Kelly H."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      Highly satisfied and strongly recommend! They listened to all of my concerns and addressed each one individually. Michelle gave me a fantastic Hydrafacial!! 6 stars!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/samsara-aesthetics-and-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
