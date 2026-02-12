@@ -12,8 +12,8 @@ KEEP_RELEASES=5
 SITE_URL="https://plastic-surgery-blog.monsoftlabs.com"
 
 # Timeouts (seconds)
-NPM_INSTALL_TIMEOUT=120
-NPM_BUILD_TIMEOUT=120
+NPM_INSTALL_TIMEOUT=180
+NPM_BUILD_TIMEOUT=180
 HEALTH_CHECK_TIMEOUT=10
 
 TIMESTAMP=$(date +%Y%m%d-%H%M%S)
@@ -57,18 +57,28 @@ git reset --hard origin/main
 # Install dependencies with timeout and retry
 log "Installing dependencies..."
 install_attempt=0
-max_attempts=2
+max_attempts=3
 
 while [ $install_attempt -lt $max_attempts ]; do
-    if timeout $NPM_INSTALL_TIMEOUT npm ci --silent 2>&1; then
+    install_attempt=$((install_attempt + 1))
+    
+    # First attempt: npm ci (fast, strict)
+    # Later attempts: npm install (more forgiving)
+    if [ $install_attempt -eq 1 ]; then
+        CMD="npm ci --silent"
+    else
+        CMD="npm install --silent"
+    fi
+    
+    if timeout $NPM_INSTALL_TIMEOUT $CMD 2>&1 | tee -a "$DEPLOY_LOG"; then
+        log "✅ Dependencies installed (attempt $install_attempt)"
         break
     else
-        install_attempt=$((install_attempt + 1))
         if [ $install_attempt -lt $max_attempts ]; then
-            log "⚠️ npm install failed, clearing cache and retrying..."
+            log "⚠️ npm install failed (attempt $install_attempt), retrying in 5s..."
+            sleep 5
             npm cache clean --force 2>/dev/null || true
-            rm -rf node_modules package-lock.json
-            git checkout package-lock.json
+            rm -rf node_modules
         else
             log "❌ npm install failed after $max_attempts attempts"
             exit 1
