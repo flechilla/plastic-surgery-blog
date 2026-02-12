@@ -1,0 +1,60 @@
+name: "Lickstein Plastic Surgery"
+slug: lickstein-plastic-surgery
+city: palm-beach-gardens
+cityDisplay: "Palm Beach Gardens"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "5540 PGA Blvd Suite 200, Palm Beach Gardens, FL 33418"
+zipCode: "33418"
+coordinates:
+  lat: 26.838272699999997
+  lng: -80.12105070000001
+phone: "(561) 220-4475"
+website: "https://www.licksteinplasticsurgery.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=palmbeachgardens"
+googleMapsUrl: "https://maps.google.com/?cid=609464101670088973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Lickstein Plastic Surgery is a plastic surgery practice located in Palm Beach Gardens, FL. With a 4.6-star rating from 86 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.6
+reviewCount: 86
+reviews:
+  - author: "Allie W."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      I just switched from a doctor that was not kind to Dr. Forleiter.  What a difference!  Melissa the office manager was  helpful on getting the appointment and my records from my former surgeon.. Taylor, the PA  is  amazing and answered all my questions very clearly.  Dr. Forleiter is so kind and funny.  My husband and I were at ease right away.   By the time the appointment was over I had a very cl
+    source: "Google"
+  - author: "Jeaneth O."
+    rating: 5
+    date: "2025-11-04"
+    text: >-
+      Dr. Lickstein and his staff are the ultimate. The best team. Friendly, professional. I love coming for my follow ups. Dr. Licksteins work is exceptional. The very best surgeon you will have. Genuine, caring and the follow up care is unlike anything you will ever experience.
+    source: "Google"
+  - author: "Loving R."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      I have been seeing Dr. Forleiter for several months. I had mohs surgery on my nose performed by a dermatologist/mohs surgeon. It never dawned on me to see a plastic surgeon to close after the mohs surgeon removed the cancer. I can’t emphasize this enough that if you have any mohs surgery on your face, please seek a plastic surgeon to close. Doctor Forleiter and his staff are absolutely wonderful. 
+    source: "Google"
+  - author: "Danielle F."
+    rating: 5
+    date: "2025-08-05"
+    text: >-
+      I had a breast lift about 7 weeks ago and I am beyond happy that I chose Dr Forleighter. He exceeded every expectation and the results are amazing. I was always nervous about scarring. But even the scars look incredible for being less than 2 months post op. I didn’t realize how much of a confidence boost the surgery would be and I am so grateful to Dr Forleighter and his amazing team.
+    source: "Google"
+  - author: "Rachel V."
+    rating: 5
+    date: "2025-03-27"
+    text: >-
+      I had an amazing experience with Dr. Lickstein for my breast augmentation revision. After a previous surgeon in Boca completely botched my initial surgery in 2023, I was nervous about correcting it. Dr. Lickstein did a phenomenal job on the revision and gave me exactly what I asked for. I am coming up on one year post op and am so incredibly grateful for his expertise and care.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/lickstein-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

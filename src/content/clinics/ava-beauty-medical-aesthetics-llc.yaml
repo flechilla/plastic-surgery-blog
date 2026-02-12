@@ -1,0 +1,60 @@
+name: "Ava Beauty Medical Aesthetics, LLC"
+slug: ava-beauty-medical-aesthetics-llc
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Downtown"
+address: "410 Evernia St STE 110, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.7112184
+  lng: -80.0537829
+phone: "(561) 402-2557"
+website: "https://avabeautymedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14656676028997334714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Ava Beauty Medical Aesthetics, LLC is a plastic surgery practice located in West Palm Beach, FL. With a 4.9-star rating from 53 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 53
+reviews:
+  - author: "Ashley L."
+    rating: 5
+    date: "2025-07-09"
+    text: >-
+      I can’t say enough about my experience with Milena! I traveled all the way from Philadelphia to Florida to see her, and it was 100% worth it.  I’ve been to many injectors over the years, including some of the most highly regarded professionals in New York City, and no one has ever achieved results like this. My lips are by far the best they’ve ever looked—beautifully shaped, natural, and balanced.
+    source: "Google"
+  - author: "Ashley D."
+    rating: 5
+    date: "2024-11-04"
+    text: >-
+      I absolutely recommend Milena for all of your medical aesthetics needs! I have had the best experiences with her for my own services. She is knowledgeable, detail oriented, and incredibly patient. My neurotoxin treatments have turned out beautifully and I decided to do my first ever lip filler with her today. I was very nervous being my first time and she was so comforting and patient. my lips loo
+    source: "Google"
+  - author: "Briana C. H."
+    rating: 5
+    date: "2024-10-07"
+    text: >-
+      I had an exceptional experience from start to finish! Milena's expertise is remarkable; she not only provided comprehensive information but also took the time to address all my concerns with patience and clarity. Her professionalism and attention to detail truly set her apart. I highly recommend her services—I'm absolutely thrilled with the results and can’t thank her enough for the confidence she
+    source: "Google"
+  - author: "Janay S."
+    rating: 5
+    date: "2024-10-07"
+    text: >-
+      This facility is beautifully done with exceptional staff and customer service! Milena is very professional, courteous, and considerate of all patient needs and goals. I have had multiple appointments with her and have been more than satisfied with her performance and my results! I recommend her to almost everyone I meet. 10 out of 10 for me!! ❤️
+    source: "Google"
+  - author: "Stefanie B."
+    rating: 5
+    date: "2022-08-28"
+    text: >-
+      I was referred to Milena by a friend of mine who had her lips filled. I had it done  by someone else in 2016 and it did not last a month. I was skeptical. I decided to try again cuz my friends lips came out amazing and my lips are very small and thin. Milena is amazing!  I LOVE my new lips.  She is professional, knowledgeable and made me feel very comfortable. . She has my highest recommendation!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/ava-beauty-medical-aesthetics-llc.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

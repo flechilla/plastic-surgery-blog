@@ -1,0 +1,60 @@
+name: "Ultra Aesthetics - Dr. Ravinder Jarial, D.O."
+slug: ultra-aesthetics-dr-ravinder-jarial-d-o
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Downtown"
+address: "410 Evernia St Ste 109, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.7111018
+  lng: -80.0539295
+phone: "(561) 249-0390"
+website: "https://ultra-aesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11016927471463691012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Ultra Aesthetics - Dr. Ravinder Jarial, D.O. is a plastic surgery practice located in West Palm Beach, FL. With a 4.7-star rating from 24 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 24
+reviews:
+  - author: "Dessert O. d."
+    rating: 1
+    date: "2025-12-22"
+    text: >-
+      Doctor ghosted me through email and phone. Turns out he’s with a new office and doesn’t take insurance like we thought he did.
+    source: "Google"
+  - author: "Kadie"
+    rating: 1
+    date: "2021-04-15"
+    text: >-
+      I had the worst experience with this doctor for about a most a year. I have proof. I went in to see if I could get a breast reduction via my insurance last year September. It’s now April and this doctor has canceled on me every procedure he has set for me since September of last year. Today was the last straw.  Since March 31st I was scheduled for a surgery and now it’s April and I was scheduled f
+    source: "Google"
+  - author: "Vanusa o."
+    rating: 5
+    date: "2021-07-24"
+    text: >-
+      I am very happy with my surgery. Dr Jarial was great, very professional and an excellent doctor. All the staff was great.
+    source: "Google"
+  - author: "Linet C."
+    rating: 5
+    date: "2018-11-16"
+    text: >-
+      After  a consultation and speaking with DR.Jarial he will definitely be my doctor , he answer all my questions and concerns
+    source: "Google"
+  - author: "Kedisha F."
+    rating: 5
+    date: "2021-05-09"
+    text: >-
+      Dr ravinder is the best i love love my results and im just 5weeks post op thank you dr rj
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/ultra-aesthetics-dr-ravinder-jarial-d-o.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

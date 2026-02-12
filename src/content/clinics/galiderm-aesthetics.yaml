@@ -1,0 +1,60 @@
+name: "GaliDerm Aesthetics"
+slug: galiderm-aesthetics
+city: royal-palm-beach
+cityDisplay: "Royal Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "9100 Belvedere Rd STE 105, Royal Palm Beach, FL 33411"
+zipCode: "33411"
+coordinates:
+  lat: 26.6911201
+  lng: -80.19261929999999
+phone: "(561) 336-0994"
+website: "http://www.galiderm.com/?utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=9305684688400175204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  GaliDerm Aesthetics is a plastic surgery practice located in Royal Palm Beach, FL. With a 4.9-star rating from 201 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 201
+reviews:
+  - author: "Aimee R."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I had an outstanding experience at Galiderm Aesthetics. Meg’s expertise put me at ease during the consultation—I’ve been seeing her for years because I trust her implicitly. Cigdem delivered impeccable technique and even trains others nationally thanks to her exceptional skill. Isabel was attentive and professional throughout the treatment, and Gabby and Victoria in the front office welcomed me wa
+    source: "Google"
+  - author: "Lele R. J."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I’ve been going to GaliDerm Aesthetics for years, and today’s visit reminded me exactly why I keep coming back. The entire process was seamless, and I left feeling so happy and confident. What truly sets this place apart is the trust I have in Cigdem Gali, the owner and my aesthetician. She not only owns the practice but also does the work herself, which makes the experience feel even more persona
+    source: "Google"
+  - author: "Dilara A."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I cannot say enough great things about Galiderm Aesthetics! I have done several treatments over the past year, including microneedling, laser facials, fillers, laser hair reduction, and even the skinny shot treatments—and I am extremely pleased with all of my results. Every treatment has exceeded my expectations, and the team is incredibly knowledgeable and professional. A special shout-out to the
+    source: "Google"
+  - author: "Gabriella C."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      Galiderm Aesthetics in Royal Palm Beach is the absolute best there is! Cigdem Gali is knowledgeable and such a skilled and experienced provider as she is a nationwide trainer and master injector! She knows the exact treatments you need to achieve the result you’re looking for and I have had the most natural beautiful results every time. I couldn’t be more happy with my results post QuantumRF, fill
+    source: "Google"
+  - author: "Christine H."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      I absolutely love this med spa.. I always have an amazing experience with Cigdem and my Botox treatments.. I recently signed up for a laser treatment with Meg Brewster, I’ve never had a laser this intense before.. Meg made me feel so comfortable and did a phenomenal job! I actually just enjoyed my time talking and laughing with her through it.. I highly recommend Meg and Cigdem, they’re the best
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/galiderm-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

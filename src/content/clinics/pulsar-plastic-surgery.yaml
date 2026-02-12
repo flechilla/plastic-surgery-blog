@@ -1,0 +1,30 @@
+name: "Pulsar Plastic Surgery"
+slug: pulsar-plastic-surgery
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Palm Beach Lakes"
+address: "1920 Palm Beach Lakes Blvd Suite 119, West Palm Beach, FL 33409"
+zipCode: "33409"
+coordinates:
+  lat: 26.7163763
+  lng: -80.0909143
+phone: ""
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=13773542019537959869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Pulsar Plastic Surgery is a plastic surgery practice located in West Palm Beach, FL.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

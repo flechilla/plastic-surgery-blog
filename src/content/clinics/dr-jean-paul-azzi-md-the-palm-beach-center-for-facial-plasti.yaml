@@ -1,0 +1,60 @@
+name: "Dr. Jean-Paul Azzi, MD | The Palm Beach Center for Facial Plastic & Laser Surgery"
+slug: dr-jean-paul-azzi-md-the-palm-beach-center-for-facial-plasti
+city: jupiter
+cityDisplay: "Jupiter"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Abacoa"
+address: "4495 Military Trail Suite 202, Jupiter, FL 33458"
+zipCode: "33458"
+coordinates:
+  lat: 26.892636099999997
+  lng: -80.10274
+phone: "(561) 429-5403"
+website: "http://www.palmbeachfacialsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12383887604571570479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Jean-Paul Azzi, MD | The Palm Beach Center for Facial Plastic & Laser Surgery is a plastic surgery practice located in Jupiter, FL. With a 5-star rating from 298 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 298
+reviews:
+  - author: "Monica C."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      Great experience and the staff is wonderful.  Dr. Azzi did not disappoint me one bit.  I love the work I had done and he did exactly what he promised he could do. He literally took years off of my appearance and I still look like ME which was important! Dr. Azzi is extremely talented and skilled in his profession.  I really do believe he is among the BEST facial surgeons around. if you’re going to
+    source: "Google"
+  - author: "Larissa V."
+    rating: 5
+    date: "2025-11-05"
+    text: >-
+      I had an incredible experience at the Palm Beach Center for Facial Plastic & Laser Surgery! Dr. Jean-Paul Azzi and his entire office staff have been absolutely amazing from start to finish. Their communication was outstanding — they made sure I felt comfortable, informed, and supported every step of the way. I recently had a rhinoplasty, and I couldn’t be happier with the results! Dr. Azzi’s skill
+    source: "Google"
+  - author: "Lesley"
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      I cannot recommend Dr. Azzi highly enough. From start to finish, my surgical experience was exceptional and I felt completely confident in his care. He is a highly skilled surgeon and a truly lovely man: thoughtful, honest, and refreshingly clear about what you need and what you don’t, which is rare in this field. He prioritizes your health above all else and never puts it at risk — and you will h
+    source: "Google"
+  - author: "Leslie S."
+    rating: 5
+    date: "2025-11-13"
+    text: >-
+      Dr. Azzi is a gem!. His expertise and artistry as a facial plastic surgeon are exceptional. The surgery with oral sedation was painless. The recovery period was easy.   And best of all the results are amazing. He has a very nice and helpful staff. I especisly adore Katherine, Dr Azzi's assistant. She made me feel very comfortable and wasalways there to answer any questions or concerns. I highly re
+    source: "Google"
+  - author: "Margaret C."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      I had a lower deep plane facelift 9 months ago, along with a lower blepharoplasty and a lip lift, performed by Dr. Azzi. He is amazingly skilled, and the results are outstanding. The entire experience was virtually painless and incredibly smooth. I couldn’t be happier. Amazing!  Katherine Green and his staff are exceptional, providing thoughtful and professional care throughout. I highly recommend
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dr-jean-paul-azzi-md-the-palm-beach-center-for-facial-plasti.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

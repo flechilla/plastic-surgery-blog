@@ -1,0 +1,60 @@
+name: "E Aesthetics"
+slug: e-aesthetics
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "101 N Clematis St #103, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.713808000000004
+  lng: -80.050308
+phone: "(561) 537-9302"
+website: "http://www.eaestheticswpb.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8731238023805781583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  E Aesthetics is a plastic surgery practice located in West Palm Beach, FL. With a 4.9-star rating from 62 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 62
+reviews:
+  - author: "Monika G."
+    rating: 5
+    date: "2025-07-16"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ I cannot speak highly enough of Erin Drinnen, PA-C, at E-Aesthetics in West Palm Beach. After receiving Restylane Lyft filler injections in Los Angeles, I developed severe granulomas that progressed into a biofilm reaction—a rare and extremely difficult complication to treat. This unexpected outcome deeply affected me both physically and emotionally.  A close friend recommended Erin, an
+    source: "Google"
+  - author: "Diane C."
+    rating: 5
+    date: "2024-07-12"
+    text: >-
+      Erin's exceptional skills, dedication to high-quality services, and competitive pricing make her a standout aesthetician. She is honest, caring, very conscientious, and very knowledgeable. Each time I visit her clinic, I am impressed by the beautiful, long-lasting results. She outperforms easily all excellent spas and clinics I visited in the last 20 years. It is such a pleasure to highly recommen
+    source: "Google"
+  - author: "Daniela D."
+    rating: 5
+    date: "2024-12-26"
+    text: >-
+      I can’t believe it’s taken me this long to review Erin . Erin is in a class all by herself - I have been seeing Erin for almost 3 years . Erin will give you the most beautiful lips - hands down . Erin is honest, skillful and a master at her craft !
+    source: "Google"
+  - author: "Ashley M."
+    rating: 5
+    date: "2023-09-07"
+    text: >-
+      Erin is incredible! She is kind and honest. I've had filler, toxin and laser treatments done with her and all services are top notch. That's why I continue to use her. I've been seeing Erin for roughly 6 years now. Highly recommend!
+    source: "Google"
+  - author: "Kiara M."
+    rating: 5
+    date: "2023-08-12"
+    text: >-
+      Erin is absolutely amazing! Patient, understanding, trust worthy and caring!! She understood all of my needs and advised complete honesty. Her prices are more than fair and she truly cares for the work she does. The results are just the cherry on top! Don’t think twice, just book with her!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/e-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

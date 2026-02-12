@@ -1,0 +1,60 @@
+name: "Rowe Plastic Surgery"
+slug: rowe-plastic-surgery
+city: palm-beach
+cityDisplay: "Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "175 Bradley Pl, Palm Beach, FL 33480"
+zipCode: "33480"
+coordinates:
+  lat: 26.721118999999998
+  lng: -80.0408334
+phone: "(561) 956-3674"
+website: "https://roweplasticsurgery.com/?utm_source=GMBSocialClimb&utm_medium=RowePlasticSurgery"
+googleMapsUrl: "https://maps.google.com/?cid=6463567174490348626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Rowe Plastic Surgery is a plastic surgery practice located in Palm Beach, FL. With a 4.9-star rating from 39 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 39
+reviews:
+  - author: "Solanlli V."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      I had an excellent experience with Rowe Plastic Surgery. From the very first consultation, the staff was professional, welcoming, and informative. They took the time to answer all of my questions and made sure I felt comfortable and confident throughout the entire process.  The surgical team was attentive and compassionate, and my surgeon was honest, skilled, and thorough when explaining expectati
+    source: "Google"
+  - author: "Lynne E."
+    rating: 5
+    date: "2026-01-03"
+    text: >-
+      Beautiful office in Palm Beach. The staff are lovely and professional. Dr Rowe was so nice and easy to talk to.  They even checked on me the next day after my procedure to see how I was doing.  I highly recommend Rowe Plastic Surgery!!!
+    source: "Google"
+  - author: "Amber G."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      An exceptional experience. She was incredibly thoughtful and took the time to explain every detail thoroughly, ensuring I felt informed and at ease. She respected my comfort level and allowed me to move at my own pace, which I truly appreciated. Her professionalism, warmth, and expertise made the entire experience seamless and reassuring
+    source: "Google"
+  - author: "brenda g."
+    rating: 5
+    date: "2025-10-28"
+    text: >-
+      The office staff welcomed me  when I arrived. Everyone was so friendly.  The PA, Brooke, was so informative. She explained everything she was doing and made me feel at ease. She was calm and very polite. I will be going back for sure!
+    source: "Google"
+  - author: "Donnella D."
+    rating: 5
+    date: "2025-09-15"
+    text: >-
+      Dr. Rowe and his team are phenomenal. I never been in an office where all the staff is very very welcoming from the beginning to the end of your service or services. They truly care about their patients and they do incredible work.  Thank you all for what you do I highly recommend Dr. Rowe and his staff so welcoming and caring. I am so so proud of the my results. Thank thank you!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/rowe-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

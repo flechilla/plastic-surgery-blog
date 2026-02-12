@@ -1,0 +1,60 @@
+name: "Patrick Cleveland Facial Plastic Surgery"
+slug: patrick-cleveland-facial-plastic-surgery
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Providencia Park"
+address: "625 N Flagler Dr Suite 507, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.7187383
+  lng: -80.0509098
+phone: "(561) 536-7337"
+website: "https://www.drpatrickcleveland.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=Patrick-Cleveland-Facial-Plastic-Surgery&utm_content=website"
+googleMapsUrl: "https://maps.google.com/?cid=7802249209665514431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Patrick Cleveland Facial Plastic Surgery is a plastic surgery practice located in West Palm Beach, FL. With a 5-star rating from 96 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 96
+reviews:
+  - author: "Debbie"
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      So very happy with results of my blepharoplasty! I knew it had to be done by Dr. Cleveland as he performed a beautiful, natural rhinoplasty on my daughter. From the 1st consultation he & his staff were incredibly professional & answered all of our questions & clearly explained what to expect. Dr. Cleveland does pristine work with minimal trauma. Erin & staff were so thorough with prep & instructio
+    source: "Google"
+  - author: "Alora S."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      I had the best experience with Dr. Cleveland and his team. I was treated amazing throughout the whole process. They explained every step to me and answered any questions I had. The communication was nothing but perfect.  I am beyond pleased with the results of my rhinoplasty as well. Dr. Cleveland was able to do exactly what I envisioned for my nose. My final results almost a year later look exact
+    source: "Google"
+  - author: "alexandra v."
+    rating: 5
+    date: "2025-07-16"
+    text: >-
+      I cannot speak highly enough of Dr. Patrick Cleveland. From the initial consultation to the final results, his professionalism, expertise, and compassionate care were evident every step of the way. He took the time to listen to my concerns, explained every detail of the procedure, and ensured I felt comfortable and confident in my decision.  Dr. Cleveland’s surgical skills are exceptional. My resu
+    source: "Google"
+  - author: "G S."
+    rating: 5
+    date: "2025-08-05"
+    text: >-
+      I cannot say enough positive things about Patrick Cleveland and his practice. I had three consultations for a rhinoplasty in total, and after meeting with Dr. Cleveland, I knew he was the right choice. He has a compassionate, kind, and thoughtful approach. The main reason I chose him was his ability to deliver natural results tailored to each individual rather than using a one-size-fits-all approa
+    source: "Google"
+  - author: "Laura M."
+    rating: 5
+    date: "2025-12-02"
+    text: >-
+      I cannot recommend Dr. Patrick Cleveland enough! Everyone at the practice is warm and welcoming, and I had a wonderful experience. I was highly impressed by Dr. Cleveland and his bedside manner, knowledge and expertise, and technique. The results have far exceeded my expectations, and I am beyond thrilled. 10/10 Amazing!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/patrick-cleveland-facial-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

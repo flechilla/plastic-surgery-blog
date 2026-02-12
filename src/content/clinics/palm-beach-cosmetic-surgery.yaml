@@ -1,0 +1,60 @@
+name: "Palm Beach Cosmetic Surgery"
+slug: palm-beach-cosmetic-surgery
+city: palm-beach-gardens
+cityDisplay: "Palm Beach Gardens"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "11211 Prosperity Farms Rd Suite 104B, Palm Beach Gardens, FL 33410"
+zipCode: "33410"
+coordinates:
+  lat: 26.839942699999998
+  lng: -80.07317929999999
+phone: "(561) 499-9000"
+website: "https://palmbeachcosmeticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14643370571034241045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Palm Beach Cosmetic Surgery is a plastic surgery practice located in Palm Beach Gardens, FL. With a 4.8-star rating from 32 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 32
+reviews:
+  - author: "Me M."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      I am totally blown away by Dr. Sistare's talent as a young cosmetic surgeon. He's definitely ahead of the curve as it relates to new technology in cosmetic surgery. Dr. Sistare is a gamechanger. His attention to detail, and precision are unmatched. He took the time to understand my goals and delivered results that far exceeded my expectations. His artistic eye and skills for balance and symmetry a
+    source: "Google"
+  - author: "Orchid G."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      My sister Sharon had a chin lift and Dr. Michael Sistare did an excellent job during and after surgery.  The post-opt experience was very good.  He answered all her questions, he gave clear a detailed instructions and was readily available by phone to answer any questions. He was personable, patient, caring and kind. He boosted her confidence when she saw her neck and face a week after the surgery
+    source: "Google"
+  - author: "Sharon G."
+    rating: 5
+    date: "2025-10-17"
+    text: >-
+      Dr. Michael Sistare did surgery for my neck & face and I was very pleased with his expertise during my surgery. He called me later that night after the surgery to check up on me. That was very impressive. The post-opt experience was very good.  He answered all my questions and was very patient, caring and kind. A week after my surgery, my face and neck looked significantly better. It boosted my co
+    source: "Google"
+  - author: "Alexandra K."
+    rating: 5
+    date: "2025-11-20"
+    text: >-
+      After going on several consultations for a breast implant removal procedure with a breast lift, I was sure Dr. Sistare was going to be the doctor I would choose. He listened carefully to what I wanted and explained step by step how and what to expect from the procedure. He took his time to answer ALL of my questions. I didn’t feel persuaded to change my mind about what I wanted. He listened! I hav
+    source: "Google"
+  - author: "Yours T."
+    rating: 1
+    date: "2025-11-08"
+    text: >-
+      WARNING about Michael Sistare. This is my abdomen almost two months after liposuction. I have plenty of fat left over post procedure as well as unevenness. There is zero definition at all which is something I specifically went over in the consultation. I had more definition before the procedure than after. Also I have plenty of fat left on my arms and only a very small portion of fat was removed. 
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/palm-beach-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Élévatione Med Spa & Beauty"
+slug: l-vatione-med-spa-beauty
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "1515 N Flagler Dr STE 100, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.7264566
+  lng: -80.05112
+phone: "(561) 469-6135"
+website: "http://elevationewpb.squarespace.net/"
+googleMapsUrl: "https://maps.google.com/?cid=12083145227499798162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Élévatione Med Spa & Beauty is a plastic surgery practice located in West Palm Beach, FL. With a 4.7-star rating from 761 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 761
+reviews:
+  - author: "Christina"
+    rating: 5
+    date: "2025-11-22"
+    text: >-
+      Gina and Maria are amazing. Th facial and services I received were so relaxing and incredible. Maria’s customer service is perfect and her cafe even better! Super sweet and lovely service in an elegant and luxurious atmosphere.
+    source: "Google"
+  - author: "Katrina S."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Tracy is absolutely incredible! She treated me with such love and care. I feel like a whole new person! I will be back! If you are looking for that perfect spa experience that will teach you what you need to know to keep that yourhful look this is that place! 5 stars if I could give them 10 I would!
+    source: "Google"
+  - author: "Rosa G."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      I signed up for a plan! And it was my first appointment today. And I so happy from the girls, everyone is very knowledgeable and kind. From the front and the estheticians.
+    source: "Google"
+  - author: "Shannon D."
+    rating: 5
+    date: "2026-01-05"
+    text: >-
+      I couldnt have been happier with the services here! Came in on a promotion (incredible pricing) and left a new member. Tracey was phenomenal.  I dont ever remember my skin feeling this smooth. Tracey was so knowledgeable about my skin, gave me many tips . The receptionist was very professional and helpful as well.
+    source: "Google"
+  - author: "Samona P."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      Gina was absolutely amazing, very educational and warm. She brightened my day and I will definitely return. The room was very inviting and with a relaxing environment. Thanks so much for a wonderful experience!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/l-vatione-med-spa-beauty.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

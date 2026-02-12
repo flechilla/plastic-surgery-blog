@@ -1,0 +1,60 @@
+name: "Lickstein Plastic Surgery Medical Spa"
+slug: lickstein-plastic-surgery-medical-spa
+city: palm-beach-gardens
+cityDisplay: "Palm Beach Gardens"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "11701 Lake Victoria Gardens Ave Suite 3110, Palm Beach Gardens, FL 33410"
+zipCode: "33410"
+coordinates:
+  lat: 26.8486472
+  lng: -80.0937251
+phone: "(561) 571-4000"
+website: "https://www.licksteinplasticsurgery.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=palmbeachgardens"
+googleMapsUrl: "https://maps.google.com/?cid=11329005449277041726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Lickstein Plastic Surgery Medical Spa is a plastic surgery practice located in Palm Beach Gardens, FL. With a 5-star rating from 35 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 35
+reviews:
+  - author: "Cynthia B."
+    rating: 5
+    date: "2025-09-26"
+    text: >-
+      Christina and her team at Lickstein Med Spa are the best in the biz! They were very patient with all my questions and scheduling.
+    source: "Google"
+  - author: "Andria L."
+    rating: 5
+    date: "2025-12-08"
+    text: >-
+      Leah is one of the most talented practitioners I’ve ever worked with. I trust her implicitly with lasers and injectables. She’s truly the best.
+    source: "Google"
+  - author: "Suzanne"
+    rating: 5
+    date: "2025-08-21"
+    text: >-
+      I had a halo/bbl laser treatment and injectables with Leah and a hydra facial with Bev.  The results are amazing.  Leah and Bev are both outstanding to work with.  They both care greatly for their patients and are a pleasure to deal with.  Highly recommend!
+    source: "Google"
+  - author: "Jessica"
+    rating: 5
+    date: "2025-04-12"
+    text: >-
+      Omg I absolutely 💯 love this place! Highly recommended!!!!! Especially Mindy and Leah! They are so thorough and knowledgeable and incredibly talented with their work! And I legit am not a reviewer but I had to do this one so that other woman can find this gem of a Medspa! Mindy is fabulous!!! She does my facials. And Leah is also fabulous! She does my injectables. I’ll tell you ReAd this review a
+    source: "Google"
+  - author: "Joanel G."
+    rating: 5
+    date: "2024-02-22"
+    text: >-
+      From my first consultation with Leah Verdream to the day when the treatment was done, she has been very knowledgeable & professional.  She recommended exactly what I needed and I LOVE the result. She is amazing and took really good care of me. I will give Lickstein Plastic Surgery more than 5 stars if I could. The entire team is amazing. I’m very happy with my results.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/lickstein-plastic-surgery-medical-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,58 +1,58 @@
 name: "VIO Med Spa"
 slug: vio-med-spa
-city: fort-lauderdale
-cityDisplay: "Fort Lauderdale"
+city: palm-beach-gardens
+cityDisplay: "Palm Beach Gardens"
 state: FL
 stateFullName: Florida
-county: "Broward County"
-neighborhood: "Harbordale"
-address: "921 SE 17th St, Fort Lauderdale, FL 33316"
-zipCode: "33316"
+county: "Palm Beach County"
+neighborhood: ""
+address: "5270 Donald Ross Rd Suite 100, Palm Beach Gardens, FL 33418"
+zipCode: "33418"
 coordinates:
-  lat: 26.1008371
-  lng: -80.1336197
-phone: "(954) 687-1846"
-website: "https://www.viomedspa.com/locations/fort-lauderdale"
-googleMapsUrl: "https://maps.google.com/?cid=17937541980736312185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  lat: 26.880831699999998
+  lng: -80.1156487
+phone: "(561) 725-8330"
+website: "https://www.viomedspa.com/locations/palm-beach-gardens"
+googleMapsUrl: "https://maps.google.com/?cid=12037512928900354579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  VIO Med Spa is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.9-star rating from 228 reviews, they offer cosmetic and reconstructive surgery services.
+  VIO Med Spa is a plastic surgery practice located in Palm Beach Gardens, FL. With a 4.9-star rating from 181 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
 rating: 4.9
-reviewCount: 228
+reviewCount: 181
 reviews:
-  - author: "Shakeyva"
-    rating: 5
-    date: "2026-01-25"
+  - author: "Pamela B."
+    rating: 1
+    date: "2025-12-11"
     text: >-
-      I booked a Hydrafacial w dermaplane for my first service at VioMedspa. My esthetician was Ashley who was very nice, welcoming and informative about the process. She did a fabulous job with my facial and I felt relaxed throughout the entire service. My skin was smooth, glowy with no concerns. I highly recommend Ashley! ❤️❤️
+      Hi I recently wrote a review that wasn’t so favorable. Sorry about that just needed to tell my experience. However since then I have been contacted by the staff with some questions. They were extremely apologetic & I appreciate that. They actually cared enough to reach out to make things right and apologize. Like I said before,  I know that one person doesn’t make up the whole company. The place w
     source: "Google"
-  - author: "Cigorney S."
+  - author: "Rebecca C."
     rating: 5
-    date: "2025-12-22"
+    date: "2025-11-17"
     text: >-
-      I’ve been seeing my girl, Chessi, for a few years now and can confidently say she’s truly the best. She always prioritizes a natural, balanced look and is not only incredibly skilled but super personable as well. I used to commute from Miami to see her, and now I still travel from the NYC area because I trust her completely. Wouldn’t go to anyone else — highly recommend.
+      had my first appointment with Yagmary at VO Med Spa in September and I cannot say enough great things about her. She instantly put me at ease, explained everything so clearly, and made the whole experience feel comfortable and personalized. I’m actually looking forward to my next appointment—she’s that good! So grateful I found her.
     source: "Google"
-  - author: "Endure T."
+  - author: "Hannah H."
     rating: 5
-    date: "2025-12-10"
+    date: "2025-09-26"
     text: >-
-      Chessi was fantastic. She listened to my concerns and my wants for my lips. She’s super personable and knows her stuff!! I highly recommend if you are looking to get anything done to go to VIO med spa. The staff is super welcoming and I felt like I’ve been going there for years!
+      I had an excellent experience at VIO. It was my first time visiting and the staff went above and beyond to make it great. Jacquie was super helpful and made the entire process easy! Yagmary did a great job. She took the time to answer any questions and made sure I was comfortable the entire time. I left with a great result, wonderful experience, and without feeling rushed. Loyal VIO customer now!
     source: "Google"
-  - author: "Kaitlyn"
+  - author: "Maria S."
     rating: 5
-    date: "2025-10-23"
+    date: "2026-01-14"
     text: >-
-      Ashley has CHANGED my skin. I have been seeing her for about 2 years now(give or take). She has put me on the best regimen. Guides me with appropriate products and honestly every appointment feels like a catch up with a friend!  I recently started seeing Taylor for lasers. She is also WONDERFUL!  Lorena does all of my tox and filler. It honestly felt like I knew her for years. I love how much time
+      It was my firs time getting Botox. I had my service with Michelle. The whole experience was great. Michelle took excellent care of me and made me feel totally at ease. I am extremely pleased with the results. I will be back.
     source: "Google"
-  - author: "Anya E. (."
+  - author: "Maddie R."
     rating: 5
-    date: "2025-10-27"
+    date: "2025-10-03"
     text: >-
-      ✨ Taylor ✨  I cannot say enough wonderful things about my experience with Taylor! From the moment I walked into her clinic, she made me feel completely comfortable and cared for. She took the time to listen to exactly what I wanted and explained every step of the lip filler and Botox process in a way that made me feel confident and at ease.  Her attention to detail and gentle technique are truly u
+      I had such a wonderful experience at VIO Med Spa in Palm Beach Gardens! The staff was so welcoming and made me feel completely comfortable from the moment I walked in. I booked a hydrafacial, and my skin has never looked or felt better—fresh, glowing, and hydrated. The provider explained every step of the process and really customized the treatment to my skin’s needs. The spa itself is spotless an
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/vio-med-spa.jpg"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/vio-med-spa.jpg"
 yearEstablished: null
 certifications: []
 verified: false

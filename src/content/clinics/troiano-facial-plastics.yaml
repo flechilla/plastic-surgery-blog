@@ -1,0 +1,60 @@
+name: "Troiano Facial Plastics"
+slug: troiano-facial-plastics
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Providencia Park"
+address: "313 10th St, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.722750899999998
+  lng: -80.05222619999999
+phone: "(561) 571-3323"
+website: "https://www.troianofacialplastics.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+googleMapsUrl: "https://maps.google.com/?cid=11904084605267256741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Troiano Facial Plastics is a plastic surgery practice located in West Palm Beach, FL. With a 4.8-star rating from 23 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 23
+reviews:
+  - author: "Kristen H."
+    rating: 5
+    date: "2025-11-23"
+    text: >-
+      Not only do I think Dr. Troiano is one of the most gifted and artistic surgeons I have had the privilege to work with, she is just an incredible human being. Her approach to care is beyond patient-centric. When you choose her as your surgeon, you become much more than a patient. Her meticulous attention to detail is the best I’ve ever seen! Her ability to minimize scarring through perfect suturing
+    source: "Google"
+  - author: "Shelley M."
+    rating: 5
+    date: "2025-11-20"
+    text: >-
+      Dr. Troiano did an amazing job on my son's rhinoplasty. We absolutely love her. Not only is she great at what she does, she's super rad. She's a perfectionist and very attentive.
+    source: "Google"
+  - author: "Lynne L."
+    rating: 5
+    date: "2025-10-17"
+    text: >-
+      I have been seeing Dr. Troiano for over a year now. She has handled everything for my skin from injections and peels to surgery to cover damage from basal cell surgery. I am always comfortable in her beautiful new offices and with her very competent assistant Kimberly.
+    source: "Google"
+  - author: "samantha c."
+    rating: 5
+    date: "2025-05-07"
+    text: >-
+      A year ago Dr. Troiano did my nose job and she is hands down AMAZING! From the start she has been very informative and overall great at answering any questions or concerns I may have had at any point. I am so happy with the results of my nose job. My nose was bigger, bulbous and crooked initially and was an overall hit to my confidence in my appearance. Now after surgery I have had more confidence
+    source: "Google"
+  - author: "Michelle D."
+    rating: 5
+    date: "2024-08-22"
+    text: >-
+      Dr. Troiano is an absolute master in her field. She performed my facelift and has added some enhancements to complete the look, achieving flawless results! I am thrilled with her work; she adopts a perfectionist approach and dedicates ample time to each patient. Her bedside manner is impeccable—she truly cares about her patients, taking time to explain and educate you at every step of the process.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/troiano-facial-plastics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

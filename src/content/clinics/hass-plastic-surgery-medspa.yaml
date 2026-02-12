@@ -1,0 +1,60 @@
+name: "Hass Plastic Surgery & MedSpa"
+slug: hass-plastic-surgery-medspa
+city: palm-beach-gardens
+cityDisplay: "Palm Beach Gardens"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "2401 PGA Blvd #150, Palm Beach Gardens, FL 33410"
+zipCode: "33410"
+coordinates:
+  lat: 26.8463772
+  lng: -80.0716954
+phone: "(561) 624-7777"
+website: "http://www.hassplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14191411433778359611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Hass Plastic Surgery & MedSpa is a plastic surgery practice located in Palm Beach Gardens, FL. With a 4.9-star rating from 239 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 239
+reviews:
+  - author: "Pink D."
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      I had an incredible experience with Dr. Brian Hass and his amazing team! I came in for liposuction, and the results turned out absolutely beautiful — even better than I imagined. From my first consultation to my follow-up visits, every single person in the office treated me with kindness, professionalism, and genuine care.  The office itself is clean and newly remodeled, creating such a comfortabl
+    source: "Google"
+  - author: "Mackenzie S."
+    rating: 5
+    date: "2025-10-01"
+    text: >-
+      I can’t say enough good things about my experience with Dr. Brian Hass and his entire staff. From the very first consultation, he made me feel comfortable and truly listened to what I wanted. He took the time to understand my goals and gave me honest, thoughtful guidance so I could make the best decision for myself. I never felt rushed, and he explained everything thoroughly so I always knew what 
+    source: "Google"
+  - author: "Sasha S."
+    rating: 5
+    date: "2025-09-18"
+    text: >-
+      After extensive research, I chose Dr. Brian Hass for my procedure, and I couldn't be happier with the results. From my first consultation, he and his team were incredibly kind and professional. They took the time to listen to my goals, answer all my questions, and make sure I felt comfortable and confident every step of the way. The results of my surgery are exactly what I had hoped for—natural an
+    source: "Google"
+  - author: "Richard D."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      When I first visited the office, I was so impressed with the location. The office was spotless as were the staff. Everyone who I met was on board with delivering great service and I felt welcome. The eye lid surgery (bilateral blepheroplasty) turned out sensationally. No more bags or droopy eyelids. I only met Andrea and I felt confident in her abilities. I chose well.
+    source: "Google"
+  - author: "Caroline P."
+    rating: 5
+    date: "2025-09-18"
+    text: >-
+      I recently had otoplasty, liposuction on my abdomen, and lipo under my chin, and I am absolutely thrilled with the results! Dr. Brian Hass and his entire team — including Tiffany, Jill, Wendy, Rhianne, Lexi, and everyone else — were incredibly friendly, supportive, and professional throughout the entire process.  The recovery definitely takes some patience, but it was 100% worth it. Dr. Hass was e
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/hass-plastic-surgery-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

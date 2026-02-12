@@ -1,0 +1,60 @@
+name: "Athena Med Spa and Salon"
+slug: athena-med-spa-and-salon
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Downtown"
+address: "701 S Olive Ave #112, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.7063939
+  lng: -80.0521695
+phone: "(561) 833-7611"
+website: "https://www.athenamedspaandsalon.com/locations/stuart/"
+googleMapsUrl: "https://maps.google.com/?cid=17730148855508369515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Athena Med Spa and Salon is a plastic surgery practice located in West Palm Beach, FL. With a 4.9-star rating from 288 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 288
+reviews:
+  - author: "Sydney M."
+    rating: 5
+    date: "2025-09-27"
+    text: >-
+      I went in for a haircut with Polina and truly had the best salon experience I have ever had. I was initially greeted with water and coffee and set up with Polina. She was absolutely fantastic in every way. I could tell she really knew what she was doing during the consult, especially with my hair type (very fine and straight). She spent extra time to make sure the cut was perfect. The wash and blo
+    source: "Google"
+  - author: "Susan V."
+    rating: 5
+    date: "2025-12-24"
+    text: >-
+      I just had to share the amazing experience I had with Polina. I went for a color and trim and came out with a whole new updated look. Polina took her time and explained her “vision” for me and I am thrilled with the results. She is so talented! I have referred several friends who are all equally happy as well.
+    source: "Google"
+  - author: "Stephanie M."
+    rating: 5
+    date: "2026-01-05"
+    text: >-
+      Had such an amazing facial with Michelle at Athena Spa! I haven't had a facial for over 2 years and arrived with dry, dull skin. However! I left refreshed and with an immediate GLOW! She really took her time and provided a relaxing experience - I'm already looking forward to my next one!
+    source: "Google"
+  - author: "Kelly L."
+    rating: 5
+    date: "2025-12-07"
+    text: >-
+      I AM EXTREMELY HAPPY WITH POLINA’S AMAZING WORK ON MY HAIR. The transformation she is doing on my hair is Unbelievable!! Two other stylists told me there’s no way it can be changed from very dark brown to Blonde. Polina had no problem creating a Beautiful New look. I am so pleased I found her. 🤩💋
+    source: "Google"
+  - author: "claudette c."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      Athena Med Spa offers a beautiful, spa-like experience that feels both luxurious and comfortable. The staff is always welcoming, professional, and genuinely friendly. I especially want to highlight Marina, the aesthetician. She is incredibly knowledgeable, kind, and caring. Marina takes the time to explain treatments thoroughly, makes sure I’m comfortable, and customizes everything to my skin’s ne
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/athena-med-spa-and-salon.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

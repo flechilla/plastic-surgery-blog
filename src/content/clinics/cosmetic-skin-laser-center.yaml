@@ -1,0 +1,54 @@
+name: "Cosmetic Skin & Laser Center"
+slug: cosmetic-skin-laser-center
+city: palm-beach
+cityDisplay: "Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "340 Royal Palm Way Suite 101, Palm Beach, FL 33480"
+zipCode: "33480"
+coordinates:
+  lat: 26.7053104
+  lng: -80.0401196
+phone: "(561) 290-2656"
+website: "https://cslcbeauty.com/palm-beach/"
+googleMapsUrl: "https://maps.google.com/?cid=7681441452965356078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Cosmetic Skin & Laser Center is a plastic surgery practice located in Palm Beach, FL. With a 5-star rating from 4 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 4
+reviews:
+  - author: "Kelly B."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      I had botox for the first time with Marli and my results are better than I ever could've imagined. Lifted and line free. I'll be back and telling all my friends about CSLC.
+    source: "Google"
+  - author: "Linda S."
+    rating: 5
+    date: "2025-06-20"
+    text: >-
+      Great center for all your concerns! From entering the office to the completion of treatment,  these ladies know what they are doing and they all are fantastic! I highly recommend CSLC and will be returning in the fall!  Stephanie was outstanding...I love her!
+    source: "Google"
+  - author: "Mermaid M."
+    rating: 5
+    date: "2025-03-25"
+    text: >-
+      I did the trio facial and the results were amazing! The staff and facilities are top notch, if I could only give more stars :) I am well versed in aesthetic treatments; their knowledge, care, and professionalism went beyond my expectations. Highly recommend!
+    source: "Google"
+  - author: "Helen P."
+    rating: 5
+    date: "2026-02-06"
+    text: >-
+      
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/cosmetic-skin-laser-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

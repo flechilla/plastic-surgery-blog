@@ -1,0 +1,60 @@
+name: "Palm Beach Plastic And Cosmetic Surgery"
+slug: palm-beach-plastic-and-cosmetic-surgery
+city: palm-beach-gardens
+cityDisplay: "Palm Beach Gardens"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "400 Ave of the Champions, Palm Beach Gardens, FL 33418"
+zipCode: "33418"
+coordinates:
+  lat: 26.829022
+  lng: -80.14100080000001
+phone: "(561) 833-4122"
+website: "https://palmbeachplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4191134389020281742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Palm Beach Plastic And Cosmetic Surgery is a plastic surgery practice located in Palm Beach Gardens, FL. With a 4.9-star rating from 48 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 48
+reviews:
+  - author: "Natalie J."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      Dr. Barr and his entire staff were absolutely amazing—kind, attentive, and professional. They took the time to answer all of my questions and explained the procedure thoroughly, which made me feel completely at ease. My comfort before, during, and after the procedure was clearly a top priority. And the results were fantastic! I look and feel wonderful. I highly recommend Dr. Barr and his team.
+    source: "Google"
+  - author: "Tina G."
+    rating: 5
+    date: "2025-11-24"
+    text: >-
+      Dr. Barr did my explant and lift surgery in August.  So thrilled with the results.  All my autoimmune issues have resolved over the past 3 months.  Thank you Dr. Barr and your incredible staff!
+    source: "Google"
+  - author: "Joseph P."
+    rating: 5
+    date: "2025-09-25"
+    text: >-
+      Every time I saw a photograph of myself, I felt that I looked tired. A lower lid blepharoplasty was just what I needed. Should have done this 5 years ago. Dr. Barr and his team did an outstanding job and put me at ease during this procedure. Relatively painless. Highly recommended. 5 stars all the way.
+    source: "Google"
+  - author: "Kimberley K."
+    rating: 5
+    date: "2025-07-28"
+    text: >-
+      Dr. Barr and his staff are amazing! I felt I had laxity in my eyelid after retina reattachment surgery. Dr. Barr suggested a lower blepharoplasty and I couldn’t be happier. My eye looks more open and both eyes look a lot better.
+    source: "Google"
+  - author: "Connie G."
+    rating: 5
+    date: "2025-06-06"
+    text: >-
+      I’ve been going to Candy @ Dr. Barr’s office for over two years. She is the best injector I’ve ever had, she explains everything and answers all my questions. I never look fake , just nice and refreshed! I highly recommend Candy for all your cosmetic needs.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/palm-beach-plastic-and-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

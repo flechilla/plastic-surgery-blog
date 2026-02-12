@@ -1,0 +1,60 @@
+name: "Bespoke Aesthetics"
+slug: bespoke-aesthetics
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "625 N Flagler Dr #675, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.7185708
+  lng: -80.0514614
+phone: "(561) 337-3375"
+website: "https://bespokeaestheticspb.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1650795538947845245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Bespoke Aesthetics is a plastic surgery practice located in West Palm Beach, FL. With a 5-star rating from 228 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 228
+reviews:
+  - author: "Karen G."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I went to Bespoke Aesthetics to inquire about Sofwave, a procedure that tightens your skin and encourages collagen production. Christina, the owner and her staff were so welcoming and informative and explained how Sofwave works that I booked a session immediately. Christina takes the time to explain everything to you in detail. I also decided to have her do my injections for Botox and Sculptra tre
+    source: "Google"
+  - author: "Rena M."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      An absolutely exceptional experience at Bespoke WPB. We flew in from California to Florida for a wedding and made time to come in for Botox for both myself and my husband—and it was hands down one of the best decisions we made on this trip.  The space is beautiful, the team is welcoming and attentive, and the level of care feels truly elevated from start to finish. Cristina is outstanding—incredib
+    source: "Google"
+  - author: "Cate"
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      I scheduled a new patient consultation with Cristina, and had such a great experience. The entire staff was professional, engaging, and caring; and the Bespoke office was clean and sterile while still maintaining a welcoming, warm energy.  Cristina went above and beyond my expectations educating me on my skin’s health and diligently walking me through a recommended treatment plan. Cristina is the 
+    source: "Google"
+  - author: "Petruta M."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      A different approach, a steady hand with a very professional environment and very friendly and compassionate staff. The results, beyond expectations and teaching and information about each product was explained in a very clear matter. I love the fact that Cristina gave me all options possible and she was very patient with my treatment. I am going to be her patient for life. Thank you for your grac
+    source: "Google"
+  - author: "Mindy S."
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      Christina is amazing.  I love how she know exactly what I need and when to do it.  Last night I had a BBL/ Moxie laser and she was gentle and trustworthy with every step. I can't wait to see the results . She is young and knows all the right procedures and is so knowledgeable!   I have been going to Bespoke for a while now and I love love love all the girls there (especially Cass) and Christina is
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/bespoke-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

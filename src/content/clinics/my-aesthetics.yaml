@@ -1,0 +1,48 @@
+name: "My Aesthetics"
+slug: my-aesthetics
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "101 N Clematis St, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.714013599999998
+  lng: -80.0504362
+phone: "(561) 351-7892"
+website: "https://myaesthetics.janeapp.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10801183862489697585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  My Aesthetics is a plastic surgery practice located in West Palm Beach, FL. With a 5-star rating from 3 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 3
+reviews:
+  - author: "Chloe G."
+    rating: 5
+    date: "2025-10-15"
+    text: >-
+      My experience at My Aesthetics was exceptional from start to finish. The space exudes elegance, and MyInjector Matthew’s expertise and attention to detail are unmatched. My Botox results are flawless—refined, natural, and beautifully subtle. Truly a five-star experience in every sense.
+    source: "Google"
+  - author: "paul m."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      Got the B-12 shots and a facial rebalancing. I’m honestly impressed with @MyInjector, the facial rebalancing left me feeling and looking refreshed not overdone.  The B-12 has given me clean, steady energy.  Solid results and a great experience over all.
+    source: "Google"
+  - author: "Cassandra P."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      Amazing experience! My first time having lip filler was with Matt and he made the entire process so smooth and assuring. He kept the shape of my lips which is why I chose to go to him initially. I’ll be back
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/my-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

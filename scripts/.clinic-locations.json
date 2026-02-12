@@ -34,12 +34,14 @@
         {
           "city": "boca-raton",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 62,
+          "date": "2026-02-12"
         },
         {
           "city": "west-palm-beach",
           "state": "FL",
-          "status": "queued"
+          "status": "running"
         },
         {
           "city": "hollywood",

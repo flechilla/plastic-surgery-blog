@@ -1,0 +1,60 @@
+name: "Gardens Dermatology & Cosmetic Surgery Center"
+slug: gardens-dermatology-cosmetic-surgery-center
+city: palm-beach-gardens
+cityDisplay: "Palm Beach Gardens"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "11030 Rca Center Dr #3015, Palm Beach Gardens, FL 33410"
+zipCode: "33410"
+coordinates:
+  lat: 26.8394372
+  lng: -80.0953734
+phone: "(561) 776-7041"
+website: "http://www.gardensdermatology.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5512412526615928399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Gardens Dermatology & Cosmetic Surgery Center is a plastic surgery practice located in Palm Beach Gardens, FL. With a 4.9-star rating from 1993 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 1993
+reviews:
+  - author: "Lindsay M."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      This office is efficient, if you’re on time you're usually in seeing your doctor within 5-10 min of your apt. The nurses are always pleasant. I had to get something removed from my nose so I preferred a plastic surgeon. I saw Dr. Greenberg and am appreciating the results, it’s already healing very well.
+    source: "Google"
+  - author: "Roger V."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      Both Dr. Shapiro and Dr. Burt Greenberg are straight forward, kind and professional. Their respective assistants, Cameron for Dr. Burt Greenberg, and Dr. Shapiro’s asst ( at the moment cannot recall her name) were most efficient and helpful. All my concerns were addressed timely. I highly recommend the clinic’s services regarding dermatology.
+    source: "Google"
+  - author: "Lauren A."
+    rating: 5
+    date: "2026-01-13"
+    text: >-
+      I recently moved from New York and was referred by my PCP to Gardens Dermatology, where I had an appointment with Dr. Kerry Hennessy. From check-in to check-out, the entire process was seamless and impressively on time. The staff was incredibly friendly and welcoming, which immediately put me at ease. Best of all, Dr. Hennessy was warm, knowledgeable, and genuinely kind. She made the transition fr
+    source: "Google"
+  - author: "Paul W."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      Always great. Knowledgeable, professional and pleasant. Also the most modern and efficiently run medical office I’ve ever visited. Important to mention because the necessity of balancing a doctors time to keep costs low, respect for patients time because we have work and home obligations too and the necessity of giving each patient the time and attention their unknown issue might require all confl
+    source: "Google"
+  - author: "Ashley S."
+    rating: 5
+    date: "2025-12-30"
+    text: >-
+      Dr. Hennessy is an amazing doctor. She's incredibly gentle and I felt very comfortable allowing her to help me with a very personal issue. She was knowledgeable about anything I had questions for and she had prompt, full solutions. I never felt uncomfortable or embarrassed. Thank you so much!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/gardens-dermatology-cosmetic-surgery-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

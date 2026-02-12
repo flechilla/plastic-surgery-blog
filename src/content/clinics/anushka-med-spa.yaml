@@ -1,0 +1,48 @@
+name: "Anushka Med Spa"
+slug: anushka-med-spa
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "CityPlace"
+address: "701 S Rosemary Ave, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.7075544
+  lng: -80.0574812
+phone: "(561) 820-8055"
+website: "https://www.anushkaspa.com/medspa/"
+googleMapsUrl: "https://maps.google.com/?cid=15933317810435115869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Anushka Med Spa is a plastic surgery practice located in West Palm Beach, FL. With a 5-star rating from 3 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 3
+reviews:
+  - author: "Lynn D."
+    rating: 5
+    date: "2019-12-06"
+    text: >-
+      Dr. Bonnie is highly skilled in injectables and procedures. I recommend her often. She is empathetic, cautious and knowledgeable - a great combination while wielding a needle!
+    source: "Google"
+  - author: "JOANNE M."
+    rating: 5
+    date: "2019-12-03"
+    text: >-
+      Dr Bonnie is a gifted and highly skilled professional who understands, strives and obtains perfection.
+    source: "Google"
+  - author: "NKP"
+    rating: 5
+    date: "2020-05-20"
+    text: >-
+      Top end Medspa with great service and care.  I have been coming here for many many years.  It is clean, safe and a very professional environment.  My results are always great.  I highly recommend to friends and family.
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

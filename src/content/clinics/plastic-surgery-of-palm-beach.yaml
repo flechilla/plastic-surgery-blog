@@ -1,0 +1,60 @@
+name: "Plastic Surgery of Palm Beach"
+slug: plastic-surgery-of-palm-beach
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "4700 N Congress Ave #103, West Palm Beach, FL 33407"
+zipCode: "33407"
+coordinates:
+  lat: 26.763086599999998
+  lng: -80.0848334
+phone: "(561) 968-7111"
+website: "http://www.plasticsurgerypb.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1378373645960953386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Plastic Surgery of Palm Beach is a plastic surgery practice located in West Palm Beach, FL. With a 4.3-star rating from 6 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.3
+reviewCount: 6
+reviews:
+  - author: "Ashley W."
+    rating: 5
+    date: "2023-04-03"
+    text: >-
+      I was feeling super anxious before recent cyst removals. Dr. Hayn is very honest, charismatic, and to the point. I appreciate that about him, and he made me feel more calm going in to the procedure. The assistant with him also made me feel so comfortable and was very kind.Thank you Dr. Hayn and team! I will be back.
+    source: "Google"
+  - author: "Jeff M."
+    rating: 5
+    date: "2024-01-19"
+    text: >-
+      Although no one wants to visit this facility to remove precancerous cells, I am happy with the quality of service I received from start to finish. The staff is above and beyond. The wait time was almost non existent. Dr Hayn was incredible.
+    source: "Google"
+  - author: "Elaina &. R. W."
+    rating: 5
+    date: "2020-01-02"
+    text: >-
+      Dr. Hayn is a caring and warm individual. He has lots of energy. He recommends and orders the newest wound care materials,  such as Promogran Prisma matrix.  Both my husband and myself felt quite anxious about today’s visit, realizing that it’s not possible to gain control of osteomyelitis of his open sternal wound and the polymicrobial infection without the surgical intervention.  Dr. Hayn explai
+    source: "Google"
+  - author: "Michael R."
+    rating: 5
+    date: "2024-11-04"
+    text: >-
+      Very pleased with the work done on my midsection.
+    source: "Google"
+  - author: "HS"
+    rating: 1
+    date: "2025-01-14"
+    text: >-
+      Had a horrible experience with Dr. Hayn
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

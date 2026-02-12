@@ -1,0 +1,60 @@
+name: "Supriya Aesthetic Dermatology"
+slug: supriya-aesthetic-dermatology
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "1411 N Flagler Dr #3900, West Palm Beach, FL 33401"
+zipCode: "33401"
+coordinates:
+  lat: 26.725900499999998
+  lng: -80.0512482
+phone: "(561) 805-9399"
+website: "https://www.supriyamd.com/?y_source=1_MTA1NDQ1NjA2My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+googleMapsUrl: "https://maps.google.com/?cid=17752354879839218104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Supriya Aesthetic Dermatology is a plastic surgery practice located in West Palm Beach, FL. With a 4.8-star rating from 160 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 160
+reviews:
+  - author: "Karla C."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      Always a delight. Especially my time with Sarah, she's the best!! I am confident I am well looked after, and highly recommend Dr. Tomar and her staff.
+    source: "Google"
+  - author: "Kamryn Z."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Sarah Fitzgerald was amazing with my daughter.  We had a great experience and will definitely recommend to others!
+    source: "Google"
+  - author: "Angela V."
+    rating: 5
+    date: "2025-08-28"
+    text: >-
+      Attentive, knowledgeable and friendly crew! I see Amanda regularly and Jackie for annual skin check. I've also had veins treated, laser service for skin issues and my kids have been multiple times. Highly recommend!
+    source: "Google"
+  - author: "Sharon O."
+    rating: 5
+    date: "2025-10-22"
+    text: >-
+      Dr. Tomar was wonderful. She took the time to answer all of my questions. Her staff is lovely and very professional. A great first-time experience!
+    source: "Google"
+  - author: "Jackie S."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      Very nice office and Staff. I went for vbeam treatment. The PA was super knowledgeable about rosacea and helpful. Let’s hope the laser works.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/supriya-aesthetic-dermatology.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

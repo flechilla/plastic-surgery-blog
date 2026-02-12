@@ -1,0 +1,60 @@
+name: "Fleur Rouge Aesthetics and Wellness Med Spa"
+slug: fleur-rouge-aesthetics-and-wellness-med-spa
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "2677 Forest Hill Blvd #113, West Palm Beach, FL 33406"
+zipCode: "33406"
+coordinates:
+  lat: 26.652024599999997
+  lng: -80.08324999999999
+phone: "(561) 429-4008"
+website: "http://fleurrougespa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1686959064003171318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Fleur Rouge Aesthetics and Wellness Med Spa is a plastic surgery practice located in West Palm Beach, FL. With a 5-star rating from 10 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 10
+reviews:
+  - author: "francemakabuTV"
+    rating: 5
+    date: "2025-03-03"
+    text: >-
+      I absolutely love Fleur Rouge! The team is skilled, professional, and truly cares about delivering natural, beautiful results. The space is clean, relaxing, and welcoming, making every visit a treat. My Botox and facials always leave me glowing and confident, and I wouldn’t trust anyone else with my skin and face. If you’re looking for expert care and amazing results near palm beach, this is the p
+    source: "Google"
+  - author: "Marie V."
+    rating: 5
+    date: "2023-05-19"
+    text: >-
+      I had a facial treatment at Fleur Rouge that was absolutely wonderful! The esthetician was knowledgeable about various treatments and skin issues and provided me with guidance on daily maintenance post-facial.  She was also skilled in her application of the facial and I left with a relaxed, glowing face! Looking forward the next one :)
+    source: "Google"
+  - author: "Hawley C."
+    rating: 5
+    date: "2023-07-03"
+    text: >-
+      I had a wonderful experience at Fleur Rouge. The Spa is beautiful. The staff is excellent, very welcoming, and accommodating. They answered all my questions. Dr. V. Harris has a great bedside manner. She did a wonderful job! She is very knowledgeable, and her technique is superb. I would highly recommend Dr. Harris and her staff to my friends and family.
+    source: "Google"
+  - author: "Arialexi H."
+    rating: 5
+    date: "2023-08-09"
+    text: >-
+      I recently went to Fleur Rouge  and I had a rejuvenating facial and spa day. it was so relaxing and I definitely saw the benefits when I was finished. My face appreciated it . I definitely recommend you coming to this establishment. Ceira was great with her hands and technique.
+    source: "Google"
+  - author: "Vendrix V."
+    rating: 5
+    date: "2023-05-12"
+    text: >-
+      I don't normally write a review on the places I visit, but this SPA deserved it. All I can say is WORLD CLASS. From the moment you walk through the door, you know this place is special with its calming and peaceful vibe. I had a lovely 80 minute facial. The product line they use is amazing, left my skin, feeling so soft and glowing.. The staff was extremely warm, professional and truly made my day
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/fleur-rouge-aesthetics-and-wellness-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

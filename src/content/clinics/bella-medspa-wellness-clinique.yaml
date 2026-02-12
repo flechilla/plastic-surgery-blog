@@ -1,0 +1,60 @@
+name: "Bella MedSpa & Wellness Clinique"
+slug: bella-medspa-wellness-clinique
+city: royal-palm-beach
+cityDisplay: "Royal Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "106 Ponce De Leon St Suite B, Royal Palm Beach, FL 33411"
+zipCode: "33411"
+coordinates:
+  lat: 26.708111300000002
+  lng: -80.221108
+phone: "(561) 249-0762"
+website: "http://bellamedspawellnessclinique.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2958166275436969890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Bella MedSpa & Wellness Clinique is a plastic surgery practice located in Royal Palm Beach, FL. With a 5-star rating from 109 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 109
+reviews:
+  - author: "Mandy M. S."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      I’m am so happy with my decision on coming to Bella Spa. This was my first time here. I came in for Botox/dysport. She was so informative. I have learned so much about my skin and what to do in the future to get the results I am wanting. I can’t express enough how happy I am that I found this spa. I definitely will be back. I’m a life long client now. Highly recommend!!!
+    source: "Google"
+  - author: "Ashley B."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      The best for everything! Getting to know Yasmeily has been life changing. I came here for Botox and then came back for a chemical peel. For years I have been exhausted and unable to focus. Yasmeily ran bloodwork and recommended hormone treatment and now iron infusions. Under her care, I am looking better and feeling more like myself than I have in a very long time. She is so knowledgeable and a jo
+    source: "Google"
+  - author: "Jounette N."
+    rating: 5
+    date: "2025-12-21"
+    text: >-
+      I had an amazing experience at Bella Medspa Wellness Clinique in Royal Palm Beach, FL! Yasmiely was absolutely fantastic - super knowledgeable and incredibly customer-friendly. She's truly a gem! 😊 I felt so comfortable and well-taken care of. Definitely going back! 💆‍♀️💖"
+    source: "Google"
+  - author: "Elizabeth"
+    rating: 5
+    date: "2025-11-07"
+    text: >-
+      When I first came in, I told her i wanted botox but nothing noticeable, and we talked for a while until she told me that she does it on herself. I also explained about my past experiences with chemical peel and she told me about lasering, and how she also does that herself- and her skin looks amazing and smooth, which was proof to me that it works.  I was incredibly nervous about doing it but she 
+    source: "Google"
+  - author: "Yonelby J."
+    rating: 5
+    date: "2025-12-21"
+    text: >-
+      I had a wellness visit with Yasmeily because I was experiencing significant symptoms. As a 38-year-old man who is active and in good shape, I was surprised to feel so exhausted, fatigued, and low on energy. I also lost interest in sex, felt foggy and unmotivated, and preferred to stay on the couch. My belly was protruding more than usual, and I was experiencing headaches. After reviewing my lab re
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/bella-medspa-wellness-clinique.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

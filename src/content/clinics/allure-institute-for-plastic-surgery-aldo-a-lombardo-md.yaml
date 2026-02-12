@@ -1,0 +1,60 @@
+name: "Allure Institute for Plastic Surgery: Aldo A. Lombardo, MD"
+slug: allure-institute-for-plastic-surgery-aldo-a-lombardo-md
+city: jupiter
+cityDisplay: "Jupiter"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: "Eastview Manor"
+address: "851 W Indiantown Rd, Jupiter, FL 33458"
+zipCode: "33458"
+coordinates:
+  lat: 26.934456299999997
+  lng: -80.10948789999999
+phone: "(561) 747-1232"
+website: "http://www.allureplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4836349593443367883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Allure Institute for Plastic Surgery: Aldo A. Lombardo, MD is a plastic surgery practice located in Jupiter, FL. With a 4.9-star rating from 216 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 216
+reviews:
+  - author: "April P."
+    rating: 5
+    date: "2025-12-13"
+    text: >-
+      Dr. Lombardo and his professional team are truly exceptional. I recently had my second procedure with him, and once again the experience exceeded my expectations. From start to finish, the care, professionalism, and attention to detail were outstanding.  Dr. Lombardo takes the time to explain everything thoroughly and makes you feel completely comfortable and confident in his care. His team is jus
+    source: "Google"
+  - author: "Jena B."
+    rating: 5
+    date: "2025-10-27"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ This was my second lift and reduction ( first one was not with him 15 years ago), and as a provider who has worked in this field for many years, I knew exactly what to look for in a surgeon. After interviewing several, I knew Dr. Lombardo was my guy. He was never pushy and truly took the time to listen to what I wanted.  From the front desk to the OR team and post-op staff, every part o
+    source: "Google"
+  - author: "Tory K."
+    rating: 5
+    date: "2025-12-13"
+    text: >-
+      Dr. Lombardo is fantastic! and Allures entire staff is the best.. Had upper/lower bleph with Co2 laser and a fat transfer to temples  6 weeks ago. I’m very happy with everything.. the outcome is exactly what i was looking for. Thank you Janine  for all her patience with me changing the dates etc.. also Jennifer, Brekkin, Sophie all excellent nurses.. 👀
+    source: "Google"
+  - author: "Carolyn K."
+    rating: 5
+    date: "2025-10-29"
+    text: >-
+      I was impressed 22 years ago when I had my first procedure with Dr. Lombardo as well as, my procedure now in 2025. He listened and took time to explain each step of my procedure, thoroughly answered all of my questions and made sure I was comfortable with my decisions. Dr. Lombardo is one of the best surgeons I have ever met; he is extremely intelligent, and passionate about his profession. He is 
+    source: "Google"
+  - author: "Chelsie G."
+    rating: 5
+    date: "2025-10-16"
+    text: >-
+      I’m so thrilled with my progress after breast augmentation. Doc Lombardo truly exceeded my expectations and I’m so happy how they’re healing. Not just his work is exceptional, his entire staff are all wonderful. Jennifer, Brekkin, Sophie, and Robert are all so kind, helpful and friendly. They’re all very professional and I’m so glad I felt comfortable in an environment where it can be extremely ne
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/allure-institute-for-plastic-surgery-aldo-a-lombardo-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

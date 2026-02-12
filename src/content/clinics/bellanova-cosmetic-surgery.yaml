@@ -1,0 +1,60 @@
+name: "BellaNova Cosmetic Surgery"
+slug: bellanova-cosmetic-surgery
+city: west-palm-beach
+cityDisplay: "West Palm Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "1261 S Congress Ave, West Palm Beach, FL 33406"
+zipCode: "33406"
+coordinates:
+  lat: 26.658085699999997
+  lng: -80.0885734
+phone: "(561) 834-6682"
+website: "https://bellanovasurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18341742197125865181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  BellaNova Cosmetic Surgery is a plastic surgery practice located in West Palm Beach, FL. With a 4.8-star rating from 17 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 17
+reviews:
+  - author: "Thalia K."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I had a consultation with Dr. Carlotti for a breast augmentation, and the experience was excellent from start to finish. Dr. Carlotti and his staff were extremely professional and welcoming. He made me feel very comfortable and confident in his approach and skills. After my consultation, I had additional questions, and Kristina has been my main point of contact. She truly goes above and beyond wit
+    source: "Google"
+  - author: "Alexis C."
+    rating: 5
+    date: "2025-12-24"
+    text: >-
+      From the very beginning, my surgery journey felt safe, smooth, and far less intimidating than I ever imagined. Dr. Carlotti is truly a gifted artist and an expert in his field, and I knew immediately that I was in the very best hands. He and his entire team treated me with such kindness and care, always making me feel comfortable, heard, and supported.  Now in my fifties, and after carrying and gi
+    source: "Google"
+  - author: "Adriana V."
+    rating: 5
+    date: "2025-10-20"
+    text: >-
+      I am very happy with the results of my cosmetic surgery. From the very beginning, I felt I was in professional hands: the doctor was very attentive, explained the entire process clearly, and gave me a lot of confidence. The clinic staff was also excellent, always friendly, caring, and attentive to my recovery.  The result exceeded my expectations—natural, harmonious, and exactly as I had imagined.
+    source: "Google"
+  - author: "Carson R."
+    rating: 5
+    date: "2026-01-13"
+    text: >-
+      I had an amazing experience at BellaNova with Dr. Carlotti. The staff was professional and welcoming, and I felt comfortable from the moment I arrived. Dr. Carlotti was attentive, took the time to explain everything clearly, and made sure I felt confident throughout the process. I’m very happy with the results and would highly recommend BellaNova!!
+    source: "Google"
+  - author: "Idenis D."
+    rating: 5
+    date: "2024-03-27"
+    text: >-
+      I had my surgery on Feb 12,2024 and I couldn’t be any happier, I love my results ❤️ I had a mommy makeover. The clinic and staff were amazing and I felt confident every step of the way, they made me feel safe.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/bellanova-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
