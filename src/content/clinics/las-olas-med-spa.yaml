@@ -1,0 +1,60 @@
+name: "Las Olas Med Spa"
+slug: las-olas-med-spa
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Beverly Heights"
+address: "888 E Las Olas Blvd Ste 110, Fort Lauderdale, FL 33301"
+zipCode: "33301"
+coordinates:
+  lat: 26.1189587
+  lng: -80.1343246
+phone: "(954) 906-3373"
+website: "https://www.topaesthetics.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb-medspa"
+googleMapsUrl: "https://maps.google.com/?cid=17891815733488684901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Las Olas Med Spa is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.9-star rating from 393 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 393
+reviews:
+  - author: "Paris"
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      Los Olas Med Spa is hands down the best med spa I’ve ever been to. They truly take their time with you and give the most honest, thoughtful opinions about what you actually need—never pushy, just genuine and knowledgeable. Everyone there is incredibly sweet and welcoming.  Judi was my injector and she did an amazing job—I couldn’t be happier with my results. Janae is also amazing and makes the who
+    source: "Google"
+  - author: "J “. y. o. y. B."
+    rating: 1
+    date: "2026-01-23"
+    text: >-
+      Saw a promotion on Facebook. September 18, 2025 Went into the office.  My biggest concern was my forehead and my eyes . I have great skin and i definitely do not show my age. He did my forehead and my eyes. The left side of my face became droopy. I went back a second time and he Gave me a couple of shot it did not fixed it and now my face on the left side has lines that were not there before. the 
+    source: "Google"
+  - author: "Jessica S."
+    rating: 5
+    date: "2025-11-20"
+    text: >-
+      Absolutely love this place! Special shout out to Leandra and the drs who take their time with you, making you feel so welcomed and appreciated as a client. Leandra has the sweetest demeanor about her truly listening to your needs and composing a plan for you to be taken care of long term. She is highly knowledgeable and the entire staff seems to be well versed in their roles. You can tell from the
+    source: "Google"
+  - author: "Loubna B."
+    rating: 5
+    date: "2025-11-28"
+    text: >-
+      I absolutely love this place!!! From the moment you walk in, you will get nothing but excellence. The staff is very welcoming and professional, the service top notch, and the results are amazing. I have not had much luck with Botox in the past (droopy eyelids) until I went to Dr. Gabriel Palladino. He listened to my concerns and was able to achieve the best results I ever had. I also had several H
+    source: "Google"
+  - author: "Devon E."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      The best MedSpa in South Florida! Staff members are polite/knowledgeable and the atmosphere is comfortable and welcoming. Val did my tox and you could tell she knows her craft and wants to get you the best results! She was able to recommend treatments tailored to me and educated me on those treatments. Definitely recommend and I will be coming back!! Thank you guys!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/las-olas-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

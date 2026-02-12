@@ -3,107 +3,337 @@
     "south-florida": {
       "name": "South Florida",
       "cities": [
-        { "city": "miami", "state": "FL", "status": "done", "clinics": 54, "date": "2026-02-12" },
-        { "city": "doral", "state": "FL", "status": "done", "clinics": 83, "date": "2026-02-12" },
-        { "city": "fort-myers", "state": "FL", "status": "done", "clinics": 35, "date": "2026-02-11" },
-        { "city": "fort-lauderdale", "state": "FL", "status": "queued" },
-        { "city": "boca-raton", "state": "FL", "status": "queued" },
-        { "city": "west-palm-beach", "state": "FL", "status": "queued" },
-        { "city": "hollywood", "state": "FL", "status": "queued" },
-        { "city": "coral-springs", "state": "FL", "status": "queued" },
-        { "city": "pembroke-pines", "state": "FL", "status": "queued" },
-        { "city": "hialeah", "state": "FL", "status": "queued" },
-        { "city": "homestead", "state": "FL", "status": "queued" },
-        { "city": "aventura", "state": "FL", "status": "queued" },
-        { "city": "weston", "state": "FL", "status": "queued" },
-        { "city": "davie", "state": "FL", "status": "queued" },
-        { "city": "plantation", "state": "FL", "status": "queued" }
+        {
+          "city": "miami",
+          "state": "FL",
+          "status": "done",
+          "clinics": 54,
+          "date": "2026-02-12"
+        },
+        {
+          "city": "doral",
+          "state": "FL",
+          "status": "done",
+          "clinics": 83,
+          "date": "2026-02-12"
+        },
+        {
+          "city": "fort-myers",
+          "state": "FL",
+          "status": "done",
+          "clinics": 35,
+          "date": "2026-02-11"
+        },
+        {
+          "city": "fort-lauderdale",
+          "state": "FL",
+          "status": "running"
+        },
+        {
+          "city": "boca-raton",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "west-palm-beach",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "hollywood",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "coral-springs",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "pembroke-pines",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "hialeah",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "homestead",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "aventura",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "weston",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "davie",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "plantation",
+          "state": "FL",
+          "status": "queued"
+        }
       ]
     },
     "central-florida": {
       "name": "Central Florida",
       "cities": [
-        { "city": "orlando", "state": "FL", "status": "queued" },
-        { "city": "tampa", "state": "FL", "status": "queued" },
-        { "city": "st-petersburg", "state": "FL", "status": "queued" },
-        { "city": "sarasota", "state": "FL", "status": "queued" },
-        { "city": "lakeland", "state": "FL", "status": "queued" }
+        {
+          "city": "orlando",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "tampa",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "st-petersburg",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "sarasota",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "lakeland",
+          "state": "FL",
+          "status": "queued"
+        }
       ]
     },
     "north-florida": {
       "name": "North Florida",
       "cities": [
-        { "city": "jacksonville", "state": "FL", "status": "queued" },
-        { "city": "tallahassee", "state": "FL", "status": "queued" },
-        { "city": "gainesville", "state": "FL", "status": "queued" }
+        {
+          "city": "jacksonville",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "tallahassee",
+          "state": "FL",
+          "status": "queued"
+        },
+        {
+          "city": "gainesville",
+          "state": "FL",
+          "status": "queued"
+        }
       ]
     },
     "los-angeles": {
       "name": "Los Angeles Metro",
       "cities": [
-        { "city": "los-angeles", "state": "CA", "status": "queued" },
-        { "city": "beverly-hills", "state": "CA", "status": "queued" },
-        { "city": "santa-monica", "state": "CA", "status": "queued" },
-        { "city": "newport-beach", "state": "CA", "status": "queued" },
-        { "city": "pasadena", "state": "CA", "status": "queued" },
-        { "city": "glendale", "state": "CA", "status": "queued" }
+        {
+          "city": "los-angeles",
+          "state": "CA",
+          "status": "queued"
+        },
+        {
+          "city": "beverly-hills",
+          "state": "CA",
+          "status": "queued"
+        },
+        {
+          "city": "santa-monica",
+          "state": "CA",
+          "status": "queued"
+        },
+        {
+          "city": "newport-beach",
+          "state": "CA",
+          "status": "queued"
+        },
+        {
+          "city": "pasadena",
+          "state": "CA",
+          "status": "queued"
+        },
+        {
+          "city": "glendale",
+          "state": "CA",
+          "status": "queued"
+        }
       ]
     },
     "new-york": {
       "name": "New York Metro",
       "cities": [
-        { "city": "new-york", "state": "NY", "status": "queued" },
-        { "city": "manhattan", "state": "NY", "status": "queued" },
-        { "city": "brooklyn", "state": "NY", "status": "queued" },
-        { "city": "long-island", "state": "NY", "status": "queued" },
-        { "city": "westchester", "state": "NY", "status": "queued" }
+        {
+          "city": "new-york",
+          "state": "NY",
+          "status": "queued"
+        },
+        {
+          "city": "manhattan",
+          "state": "NY",
+          "status": "queued"
+        },
+        {
+          "city": "brooklyn",
+          "state": "NY",
+          "status": "queued"
+        },
+        {
+          "city": "long-island",
+          "state": "NY",
+          "status": "queued"
+        },
+        {
+          "city": "westchester",
+          "state": "NY",
+          "status": "queued"
+        }
       ]
     },
     "texas": {
       "name": "Texas",
       "cities": [
-        { "city": "houston", "state": "TX", "status": "queued" },
-        { "city": "dallas", "state": "TX", "status": "queued" },
-        { "city": "austin", "state": "TX", "status": "queued" },
-        { "city": "san-antonio", "state": "TX", "status": "queued" },
-        { "city": "plano", "state": "TX", "status": "queued" }
+        {
+          "city": "houston",
+          "state": "TX",
+          "status": "queued"
+        },
+        {
+          "city": "dallas",
+          "state": "TX",
+          "status": "queued"
+        },
+        {
+          "city": "austin",
+          "state": "TX",
+          "status": "queued"
+        },
+        {
+          "city": "san-antonio",
+          "state": "TX",
+          "status": "queued"
+        },
+        {
+          "city": "plano",
+          "state": "TX",
+          "status": "queued"
+        }
       ]
     },
     "southeast": {
       "name": "Southeast",
       "cities": [
-        { "city": "atlanta", "state": "GA", "status": "queued" },
-        { "city": "charlotte", "state": "NC", "status": "queued" },
-        { "city": "nashville", "state": "TN", "status": "queued" },
-        { "city": "charleston", "state": "SC", "status": "queued" }
+        {
+          "city": "atlanta",
+          "state": "GA",
+          "status": "queued"
+        },
+        {
+          "city": "charlotte",
+          "state": "NC",
+          "status": "queued"
+        },
+        {
+          "city": "nashville",
+          "state": "TN",
+          "status": "queued"
+        },
+        {
+          "city": "charleston",
+          "state": "SC",
+          "status": "queued"
+        }
       ]
     },
     "northeast": {
       "name": "Northeast",
       "cities": [
-        { "city": "boston", "state": "MA", "status": "queued" },
-        { "city": "philadelphia", "state": "PA", "status": "queued" },
-        { "city": "washington-dc", "state": "DC", "status": "queued" }
+        {
+          "city": "boston",
+          "state": "MA",
+          "status": "queued"
+        },
+        {
+          "city": "philadelphia",
+          "state": "PA",
+          "status": "queued"
+        },
+        {
+          "city": "washington-dc",
+          "state": "DC",
+          "status": "queued"
+        }
       ]
     },
     "west": {
       "name": "West",
       "cities": [
-        { "city": "san-francisco", "state": "CA", "status": "queued" },
-        { "city": "san-diego", "state": "CA", "status": "queued" },
-        { "city": "seattle", "state": "WA", "status": "queued" },
-        { "city": "denver", "state": "CO", "status": "queued" },
-        { "city": "scottsdale", "state": "AZ", "status": "queued" },
-        { "city": "phoenix", "state": "AZ", "status": "queued" },
-        { "city": "las-vegas", "state": "NV", "status": "queued" }
+        {
+          "city": "san-francisco",
+          "state": "CA",
+          "status": "queued"
+        },
+        {
+          "city": "san-diego",
+          "state": "CA",
+          "status": "queued"
+        },
+        {
+          "city": "seattle",
+          "state": "WA",
+          "status": "queued"
+        },
+        {
+          "city": "denver",
+          "state": "CO",
+          "status": "queued"
+        },
+        {
+          "city": "scottsdale",
+          "state": "AZ",
+          "status": "queued"
+        },
+        {
+          "city": "phoenix",
+          "state": "AZ",
+          "status": "queued"
+        },
+        {
+          "city": "las-vegas",
+          "state": "NV",
+          "status": "queued"
+        }
       ]
     },
     "midwest": {
       "name": "Midwest",
       "cities": [
-        { "city": "chicago", "state": "IL", "status": "queued" },
-        { "city": "detroit", "state": "MI", "status": "queued" },
-        { "city": "minneapolis", "state": "MN", "status": "queued" }
+        {
+          "city": "chicago",
+          "state": "IL",
+          "status": "queued"
+        },
+        {
+          "city": "detroit",
+          "state": "MI",
+          "status": "queued"
+        },
+        {
+          "city": "minneapolis",
+          "state": "MN",
+          "status": "queued"
+        }
       ]
     }
   }

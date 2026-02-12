@@ -1,0 +1,60 @@
+name: "Thomassen Plastic Surgery"
+slug: thomassen-plastic-surgery
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2800 E Commercial Blvd Suite 103 Suite 103, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.1894021
+  lng: -80.1083494
+phone: "(954) 771-0200"
+website: "https://www.thomassenplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7343800304502205188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Thomassen Plastic Surgery is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.3-star rating from 79 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.3
+reviewCount: 79
+reviews:
+  - author: "Susan M."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Dr. Thomassen is absolutely amazing. From the minute you walk in the door the office is beautiful and calming without being ostentatious and flashy. He plays soothing music and  the rooms are so comfortable. His staff could not be nicer and more accommodating. Dr T is a true craftsman and his demeanor is that of an artist that loves his craft. I could not be happier with everything he’s done and m
+    source: "Google"
+  - author: "Carri G."
+    rating: 5
+    date: "2025-09-04"
+    text: >-
+      Dr Thomassen is an artist ! My experience was incredible. Dr Thomassen did  a beautiful job . He was patient , kind , described exactly was he was going to do and how the recovery would go . He was 💯 %!!! His staff were all friendly and very helpful when needed . I will continue to spread the good word !!!
+    source: "Google"
+  - author: "Mary D."
+    rating: 5
+    date: "2025-03-13"
+    text: >-
+      I was so happy to have found my way to Dr. Thomassen for a facelift. From the very first appointment, I felt confident that I was in good hands. He is very patient and happy to explain everything in as much detail as you want to know. My biggest fear was looking “overdone” post-operatively,  but the significant improvements I’m seeing in the mirror are very natural and I couldn’t be more pleased.
+    source: "Google"
+  - author: "sara A."
+    rating: 5
+    date: "2025-05-29"
+    text: >-
+      I had a primary rhinoplasty with Dr.thomassen and couldn’t be happier. He gave me everything I asked for and more. I still cannot believe how perfect my nose is. Dr.thomassen and his staff are amazing. Never wait long and always super attentive. The surgery process was also super smooth: I would recommend him 1000 times. Super grateful and happy with my results.
+    source: "Google"
+  - author: "Diosa D. M."
+    rating: 1
+    date: "2025-03-22"
+    text: >-
+      Not happy at all with the results. I waited a year to write my review in hopes that there was a miracle and I see some changes 😔Dr.Thomassen did a change of implants with a breast lift and also removed a capsular contracture that I had in one of my breast. The results: I ended up with one breast bigger than the other. Apparently he ended up putting more cc,s of saline in one breast. When I went b
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/thomassen-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

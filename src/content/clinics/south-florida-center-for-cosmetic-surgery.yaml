@@ -1,0 +1,60 @@
+name: "South Florida Center For Cosmetic Surgery"
+slug: south-florida-center-for-cosmetic-surgery
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "East Fort Lauderdale"
+address: "915 Middle River Dr #213, Fort Lauderdale, FL 33304"
+zipCode: "33304"
+coordinates:
+  lat: 26.1365286
+  lng: -80.1177502
+phone: "(954) 565-7575"
+website: "https://www.floridacentercosmetic.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_profile_floridacosmeticcenter_fort_lauderdale_location"
+googleMapsUrl: "https://maps.google.com/?cid=12492572080237778483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  South Florida Center For Cosmetic Surgery is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.3-star rating from 1158 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.3
+reviewCount: 1158
+reviews:
+  - author: "Samantha O."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      I absolutely LOVE this place. I got a septo+ rhinoplasty with Dr. Cucin. The staff and nurses are  so knowledgeable and careful with everything they do , they constantly keep you updated and let you know what to expect repeatedly. Everything is super clean and sterile and again the nurses are honestly the best everybody is so nice. Dr. Cucin recommended Arnica which i stated taking immediately and
+    source: "Google"
+  - author: "Youtube h."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      Dear Dr. Brandon,  I wanted to take a moment to sincerely thank you for the excellent care and results. I am extremely happy with how everything turned out and truly appreciate your expertise and attention to detail throughout the lipo etching procedure.  Your staff was friendly, professional, and welcoming, which made the entire experience very positive from start to finish. I felt comfortable an
+    source: "Google"
+  - author: "Chelsea G."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      I cannot recommend Dr.Pinnella enough! From my very first consultation, I felt completely comfortable, heard, and supported. They took the time to explain every detail, answer all of my questions, and truly listened to my goals for my mommy makeover. I ended up having the tummy tuck done first and do not regret my decision to not have everything done together, because I don’t think my recovery pro
+    source: "Google"
+  - author: "Arielle C."
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      I cannot say enough wonderful things about my experience with Dr. Cucin and the entire team at the South Florida Center for Cosmetic Surgery. From my very first consultation through every step of the process, I felt genuinely cared for, supported, and completely at ease. So happy I chose them for my Rhinoplasty!  The staff is incredibly kind, patient, and attentive — Dr. Cucin took the time to ans
+    source: "Google"
+  - author: "Kristen D."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      I found Dr. Brandon from social media and traveled states to see him. From the moment I walked in I was welcomed by the nicest staff and felt comfortable. Dr. Brandon’s bedside manner is exceptional. I felt heard and we worked together to come up with my surgery plan. I am a little over a week out from my breast lift and Augmentation and they look SO good already. I am so glad I did this and would
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/south-florida-center-for-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

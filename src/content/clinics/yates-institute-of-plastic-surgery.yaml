@@ -1,0 +1,60 @@
+name: "Yates Institute of Plastic Surgery"
+slug: yates-institute-of-plastic-surgery
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Poinciana Park"
+address: "407 SE 24th St, Fort Lauderdale, FL 33316"
+zipCode: "33316"
+coordinates:
+  lat: 26.0929565
+  lng: -80.1382593
+phone: "(954) 463-5208"
+website: "http://www.yatesinstitute.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11574471963867697164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Yates Institute of Plastic Surgery is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.6-star rating from 52 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.6
+reviewCount: 52
+reviews:
+  - author: "Tracy"
+    rating: 5
+    date: "2025-09-14"
+    text: >-
+      I was so nervous to have my first surgery performed. Something I wished for a very long time. I found out about Dr. Yates through Memorial HealthCare and she is absolutely phenomenal. I felt I was in great care with her and her staff. From the consultation to the actual surgery, I felt a calming peace. NO REGRETS. She is an amazing surgeon who is well informed. Anesthesia was amazing as well. The 
+    source: "Google"
+  - author: "Catherine R."
+    rating: 5
+    date: "2025-12-29"
+    text: >-
+      As a healthcare provider myself- I really appreciate and pay attention to the care I’m being provided . Dr Yates & her entire team is so friendly - knowledgeable and safe . I highly recommend this clinic. This is the best I’ve ever felt post op from a procedure !
+    source: "Google"
+  - author: "Rachel E."
+    rating: 5
+    date: "2022-05-13"
+    text: >-
+      Dr Yates is incredible! I have been a breast cancer survivor since 2019 and lived 3 years with a sad reconstruction after my double mastectomy. Now, all has changed for me. I searched for a surgeon with care for the women in this community. Dr Yates is empathetic and gifted. She has given me so much beauty with my new breasts. I am no longer living with bitterness from cancer and I feel like mysel
+    source: "Google"
+  - author: "Katelyn B."
+    rating: 5
+    date: "2025-10-01"
+    text: >-
+      LOVE my results from Dr. Yates! I had a BA three months ago and they are exactly what I wanted! The office staff and surgical team are incredible, too! Love all of you!!!
+    source: "Google"
+  - author: "Emily N."
+    rating: 5
+    date: "2022-01-20"
+    text: >-
+      I had a great experience getting a BA here. The staff are so kind and courteous. They care for your well-being and are responsive to your concerns. Dr. Yates is very knowledgeable and walks you through everything step by step. My nurse, Taylor, did a phenomenal job in all things pre and post op! I couldn’t be more happy in my experience and highly recommend it to anyone considering an operation.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/yates-institute-of-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

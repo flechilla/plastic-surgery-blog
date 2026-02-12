@@ -1,0 +1,60 @@
+name: "Angel Aesthetics & Wellness Medical Spa"
+slug: angel-aesthetics-wellness-medical-spa
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Coral Ridge"
+address: "2992 N Federal Hwy, Fort Lauderdale, FL 33306"
+zipCode: "33306"
+coordinates:
+  lat: 26.1655269
+  lng: -80.11542299999999
+phone: "(954) 826-8181"
+website: "https://www.angelaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4959546769923403414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Angel Aesthetics & Wellness Medical Spa is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 121 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 121
+reviews:
+  - author: "Brittany H."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Angel Aesthetics Medspa is truly exceptional. Melissa is incredibly skilled, knowledgeable, and honest — she takes the time to explain what will and won’t work, and never wastes your time or money. You can tell she genuinely cares about getting the best results for her clients. The front desk staff is also amazing — always professional, welcoming, and efficient. From start to finish, the entire ex
+    source: "Google"
+  - author: "Millie C."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Amazing experience!! Melissa  removed  the previous filler from my lips and added filler on my next appointment to get me to  have beautiful lips , I get so many compliments now . I love the place, front desk very friendly and welcoming!! You have to try this place, it’s very beautiful and very relaxing.  She’s an expert on anything you need done ,  trust me you will not go anywhere else once you 
+    source: "Google"
+  - author: "Gabriel R."
+    rating: 5
+    date: "2026-01-18"
+    text: >-
+      As a long-standing customer of Angel Aesthetics, I am pleased to share my positive experience. Melissa and the entire team demonstrate exceptional professionalism and expertise. They thoroughly explain each treatment, ensuring comprehensive understanding and comfort. Melissa’s mastery in her field is evident in the consistently remarkable results I have achieved under her guidance. In fact, I make
+    source: "Google"
+  - author: "Marie s."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      ⭐⭐⭐⭐⭐ Absolutely love this team! Melissa is an amazing injector, Monica is a fantastic esthetician, and Melody is the best office manager. They are all so friendly, welcoming, and incredibly talented. I’m always happy with my results and feel completely taken care of every visit.  The new office is beautiful, clean, and modern, and the entire experience is so comfortable that I honestly never want
+    source: "Google"
+  - author: "Kailyn W."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      I recently had a cold peel with Monica and it was such a great experience! She explained everything thoroughly, made me feel completely comfortable, and my skin is already looking noticeably brighter and smoother. The location is beautiful, clean, and professional, and Monica is knowledgeable, gentle, and truly cares about results. Highly recommend if you’re looking for quality skincare and someon
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/angel-aesthetics-wellness-medical-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

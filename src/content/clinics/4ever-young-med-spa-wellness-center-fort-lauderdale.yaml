@@ -1,0 +1,60 @@
+name: "4Ever Young Med Spa & Wellness Center- Fort Lauderdale"
+slug: 4ever-young-med-spa-wellness-center-fort-lauderdale
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Corals"
+address: "4331 N Federal Hwy Suite 100, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.181672499999998
+  lng: -80.11990580000001
+phone: "(954) 393-0298"
+website: "https://4everyoungantiaging.com/fort-lauderdale/?utm_source=google&utm_medium=organic&utm_campaign=gbp-fort-lauderdale"
+googleMapsUrl: "https://maps.google.com/?cid=14834749712628795079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  4Ever Young Med Spa & Wellness Center- Fort Lauderdale is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.9-star rating from 895 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 895
+reviews:
+  - author: "Madeline M."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      My appointment was right on time, and the front desk acknowledged me immediately. I was taken care of right away with no time wasted. Ryan, who assisted me, helped put my mind at ease throughout the entire process, I’m terrified of needles, and he was incredibly patient and friendly. He also explained the product he used in depth, which I really appreciated. This was my first time, and I was very 
+    source: "Google"
+  - author: "Nicole S."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      From start to finish, my visit today was upbeat and completely professional. Ryan was amazing—clear, to the point, efficient, friendly, and genuinely kind. He got me in and out while still making me feel totally comfortable.  Check-out was just as smooth. Silas is always so knowledgeable and takes the time to share details about upcoming events and sales, which I love.  Highly recommend 4EVERYOUNG
+    source: "Google"
+  - author: "Brook M."
+    rating: 5
+    date: "2025-10-22"
+    text: >-
+      Flawless, natural results — and the kindest team. Robin is an absolute artist with fillers and Botox. She listens carefully, explains options clearly, and has the lightest touch. My results are beautifully natural—refreshed, never overdone—and she always checks on comfort.  Silas is the most empathetic and charismatic manager. The practice is spotless, appointments are on time, and pricing is tran
+    source: "Google"
+  - author: "Dena S."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      The Ft Lauderdale location is consistently welcoming and very friendly. You are always taken back on time for your appointment. I had a great injector today, Ryan!  It’s worth the drive from Boca.
+    source: "Google"
+  - author: "Lucas L."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      Today’s visit to 4 Ever Young, Ft Lauderdale was excellent. It was my first time with provider Lori who took great care of my needs and addressed my concerns effectively. She recommended hyaluronic acid fillers for chin and jaw and the results could be seen immediately. Looking forward to the final look.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/4ever-young-med-spa-wellness-center-fort-lauderdale.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Plus Cosmetic Surgery Center"
+slug: plus-cosmetic-surgery-center
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hillcrest"
+address: "3702 Washington St #103, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.002229000000003
+  lng: -80.18089499999999
+phone: "(305) 778-7818"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=8754268337589671494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Plus Cosmetic Surgery Center is a plastic surgery practice located in Hollywood, FL. With a 4.7-star rating from 143 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 143
+reviews:
+  - author: "Alisa A."
+    rating: 5
+    date: "2026-02-01"
+    text: >-
+      I had breast augmentation and liposuction at Plus Cosmetic Surgery Center and I’m extremely satisfied. The staff was kind and attentive, and the whole process was well organized from start to finish. Everything was explained clearly, which made me feel confident and comfortable. Post-op instructions were easy to follow, and the follow-up care was excellent. The facility is clean and professional. 
+    source: "Google"
+  - author: "Valeriia M."
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      I recently had my implant exchange with a lift at this clinic, and I couldn’t be happier with the entire experience. From the first consultation to the final follow-up, the team was professional, attentive, and incredibly supportive. The surgeon explained everything in detail, made me feel completely comfortable, and delivered results that exceeded my expectations. The staff was warm, caring, and 
+    source: "Google"
+  - author: "Daria B."
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      I had body contouring at this clinic, including BBL, lipo 360 and fat grafting, and I want to say how impressed I am not only with the results but also with the entire team. Every person I met made the experience safe, comfortable and very well organized.  From the first consultation, the surgeon explained the plan clearly, showed the areas that would be treated, talked about possible risks and he
+    source: "Google"
+  - author: "Maria"
+    rating: 5
+    date: "2025-12-12"
+    text: >-
+      I got my breast lift and augmentation done here and had such a great experience. The whole team was super kind, explained everything clearly, and made me feel really comfortable from the time of the first consultation till the post op visits. Recovery was smooth, and my results look amazing , exactly what I wanted. Definitely recommend this clinic!
+    source: "Google"
+  - author: "Katya G."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ Plus Cosmetic Surgery is an amazing clinic with a professional, caring, and friendly staff. From the first consultation to the final results, everything was handled with great attention and care. The team made me feel comfortable and confident throughout the entire process. Highly recommend this clinic to anyone looking for excellent cosmetic services!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/plus-cosmetic-surgery-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

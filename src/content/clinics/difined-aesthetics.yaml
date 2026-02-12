@@ -1,0 +1,60 @@
+name: "DiFined Aesthetics"
+slug: difined-aesthetics
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Harbordale"
+address: "1845 Cordova Rd Suite 210 Studio 117, Fort Lauderdale, FL 33316"
+zipCode: "33316"
+coordinates:
+  lat: 26.098021799999998
+  lng: -80.1314964
+phone: "(954) 869-4505"
+website: "https://www.difinedaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13646964163161162417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  DiFined Aesthetics is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 76 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 76
+reviews:
+  - author: "Amanda P."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Rachel is the best! I used to see her in Boca Raton and happily followed her to Fort Lauderdale when she opened her own medspa. She is incredibly knowledgeable, always takes the time to explain each procedure, and is extremely gentle with her injections. Best of all, the results are consistently flawless. I would recommend Rachel to anyone looking for a skilled and trustworthy aesthetic provider.
+    source: "Google"
+  - author: "Ashley K."
+    rating: 5
+    date: "2025-12-09"
+    text: >-
+      I cannot say enough amazing things about Rachel! She is truly fabulous. I see her for microneedling and Botox, and every single visit I’m blown away by her professionalism, precision, and genuine care. She always takes the time to explain everything, makes me feel completely comfortable, and the results are incredible—natural, refreshed, and exactly what I wanted. I’m so happy with her work and ca
+    source: "Google"
+  - author: "Sunny O."
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      Rachel is amazing! I drive very far to come see her. She is so good at know what you may need without looking over done. I love that she will not push you or agree to a service if she doesn’t feel you need it. Before I could find where she moved to, I ended up going to someone close by my house and I had a terrible experience. Once I found her, It was miracle she was able to fix and adjust some of
+    source: "Google"
+  - author: "Tonya M."
+    rating: 5
+    date: "2025-09-22"
+    text: >-
+      I’ve loved Rachel since before she became an entrepreneur and launched her own business. From the beginning, I’ve admired her talent and followed her journey as she built something incredible. She is truly skilled in her profession and impressively knowledgeable about a wide range of products. She always recommends treatments and products based on your unique skin needs, never pushy, always though
+    source: "Google"
+  - author: "Margot F."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      I was referred to Rachel by a dear friend and she did not disappoint. I am excited to see my results in the next 14-21 days! She was warm, her space beautiful and clean, appointment reminder system helpful, and pricing wasn’t overwhelming. As a first timer I appreciated that she didn’t point out opportunity areas on my face, but addressed only the goals I identified. We don’t need someone else poi
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/difined-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

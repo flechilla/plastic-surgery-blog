@@ -1,0 +1,30 @@
+name: "Modigliani Med Spa"
+slug: modigliani-med-spa
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Beach Alliance"
+address: "3015 N Ocean Blvd suite C 104, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.166135999999998
+  lng: -80.10141589999999
+phone: "(954) 478-2461"
+website: "https://modiglianimed.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3195621010146273011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Modigliani Med Spa is a plastic surgery practice located in Fort Lauderdale, FL.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/modigliani-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

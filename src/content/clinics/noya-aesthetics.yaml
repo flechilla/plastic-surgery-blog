@@ -1,0 +1,60 @@
+name: "noya_aesthetics"
+slug: noya-aesthetics
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Fort Lauderdale"
+address: "315 NE 3rd Ave Suite C, Fort Lauderdale, FL 33301"
+zipCode: "33301"
+coordinates:
+  lat: 26.125757099999998
+  lng: -80.141201
+phone: "(954) 394-8009"
+website: "http://noyaaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12788942342131480097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  noya_aesthetics is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 135 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 135
+reviews:
+  - author: "Sophia R."
+    rating: 5
+    date: "2026-01-25"
+    text: >-
+      Wow wow I had the absolute best experience today at Noya Aesthetics. It was my first time with any cosmetic procedure and she did a phenomenal job at making me feel so comfortable and really creating a safe space to ask questions (even some silly and unrelated ones).  She really took her time explaining every single step of lip filler; from what goes in the filler, the different types available an
+    source: "Google"
+  - author: "M F."
+    rating: 5
+    date: "2024-12-29"
+    text: >-
+      I had the best experience with Noya. She was incredibly professional, knowledgeable, and made me feel so comfortable throughout the entire process. She really took her time to make sure the results were to my liking. My lips turned out natural, plump, and exactly what I wanted. Her attention to detail and ability to listen to my goals really set her apart. I highly recommend her.
+    source: "Google"
+  - author: "Melinda"
+    rating: 5
+    date: "2024-08-09"
+    text: >-
+      Noya is amazing! ✨ very professional, knowledgeable & and she truly cares about her patients. From the moment I met her I felt very comfortable & confident with her approach. I love that she takes her time with each patient to understand their goals. She has a great eye & very artistic approach - my results are beautiful! 💕 I highly recommend her for all of your beauty needs.
+    source: "Google"
+  - author: "J B."
+    rating: 5
+    date: "2024-08-15"
+    text: >-
+      Noya did such an amazing job! She truly is the greatest at what she does! Also she’s extremely kind and thoughtful. I am so happy with my lip filler results. She really does take the time to explain everything very well and makes you feel super comfortable. She is so kind and talented I highly recommend her!!
+    source: "Google"
+  - author: "Melanie L."
+    rating: 5
+    date: "2025-02-06"
+    text: >-
+      Noya is the BEST!! It was the first time my sister and I were getting lip injections so we had a few questions leading up to the appointment and before injecting and Noya clarified everything and made sure we were comfortable. She was so kind and delicate and my lips look amazing and healed so beautifully I can’t wait to go back💘
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/noya-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

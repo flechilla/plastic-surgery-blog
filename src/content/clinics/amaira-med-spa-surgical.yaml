@@ -1,0 +1,60 @@
+name: "Amaira Med Spa & Surgical"
+slug: amaira-med-spa-surgical
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Colee Hammock"
+address: "1213 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+zipCode: "33301"
+coordinates:
+  lat: 26.119573900000002
+  lng: -80.1306676
+phone: "(954) 982-2841"
+website: "https://amairamedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10090236388245585832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Amaira Med Spa & Surgical is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.9-star rating from 339 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 339
+reviews:
+  - author: "Aysha M."
+    rating: 5
+    date: "2026-01-01"
+    text: >-
+      I’ve been coming to Amaira almost every month for HydraFacials with Kelly, and she has completely transformed my skin. She’s taken the time to truly understand my skin and has guided me toward the right products over time, never pushing anything I didn’t need.  I’ve been coming here for treatments for over two years now, and honestly, I don’t know what I’d do without her. Kelly is such a gem, and 
+    source: "Google"
+  - author: "Brean S."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      I had an amazing experience with Wendi for my Botox and BBL spot-treatment service. From the moment I sat in her chair, it was clear that her approach is all about minimalist, natural-looking results. She took the time to evaluate my features carefully and explained every decision she made—how many units, where they were placed, and why each area mattered. What I appreciated most was the education
+    source: "Google"
+  - author: "Priscilla"
+    rating: 5
+    date: "2025-11-12"
+    text: >-
+      I had an incredible first visit! The warm and welcoming staff made me feel right at home.  Wendi is an absolute treasure, she listened to all my concerns and provided detailed explanations throughout the process. I can tell she cares deeply for her patients and is incredibly talented. I’m very grateful to have found her and Amaira Med Spa ❤️
+    source: "Google"
+  - author: "Abby"
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      I had a fantastic microneedling treatment with my aesthetician Kelly. She was professional, knowledgeable, and made the entire experience so comfortable. My skin already feels smoother and more refreshed and I must add, it was painless! The hostess Emily at the front desk was also so welcoming and professional, which made for a great start to my visit. Overall, a wonderful experience from beginnin
+    source: "Google"
+  - author: "Kylah N."
+    rating: 5
+    date: "2025-11-09"
+    text: >-
+      I went to Wendi at Amaira with lips that I was unhappy about and she did not disappoint!! She was so kind, comforting and knowledgeable about everything. I left feeling so happy and my lips looked amazing! The staff was all very accommodating and they truly care about your results. Highly recommend!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/amaira-med-spa-surgical.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

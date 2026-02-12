@@ -1,0 +1,60 @@
+name: "XS MedSpa - Fort Lauderdale"
+slug: xs-medspa-fort-lauderdale
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Lake Ridge"
+address: "1203 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+zipCode: "33304"
+coordinates:
+  lat: 26.137439999999998
+  lng: -80.131416
+phone: "(954) 947-7548"
+website: "http://xsmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5882698411610768437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  XS MedSpa - Fort Lauderdale is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.8-star rating from 370 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 370
+reviews:
+  - author: "Victoria c."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      OMG, I'm OBSESSED with XS MedSpa! I've been coming to Dr. Senger for over 9 years, and his attention to detail is immaculate. I truly appreciate his expertise, professionalism and integrity. The results he delivers are so natural, his hands are truly gifted. The facility is spotless and relaxing with a modern twist. The anesthetics are absolutely A1. Their team is literally the best — super profes
+    source: "Google"
+  - author: "dennis l."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      I have been going to Dr. Senger now for the last 15+ years. He does all my Botox and filler. The office is beautiful, modern and contemporary. The doctor is very knowledgeable in every aspects of aesthetics. His front office staff are also very nice and attentive to their patients needs. I highly recommend Doctor Senger. You can’t go wrong. He also offers a number of other services related to maki
+    source: "Google"
+  - author: "Evan T."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      I recently visited XS MedSpa for treatment and I was as always blown away by the personalized experience. From the moment I walked in, Michelle and Hannah greeted me with warm smiles and made me feel right at home in their serene, modern space. I was led back to my treatment room and debriefed on all the new services available beyond my normal routine choices. Dr. Chris is an absolute consummate p
+    source: "Google"
+  - author: "Samantha J."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      I’ve been going to Dr. Christopher Senger for 8 years, and he is truly the best. My Botox and fillers always look natural and flawless, and I trust him completely with my face. His skill and attention to detail are unmatched.  A big thank you to Hannah as well, she’s amazing with my laser treatments and always so gentle, knowledgeable, and kind. My skin has improved so much because of her.  The en
+    source: "Google"
+  - author: "Fabio C."
+    rating: 5
+    date: "2025-12-31"
+    text: >-
+      Dr. Christopher Senger is truly the best. I've visited many places, but he stands out as the one.  I was really impressed with the results. Additionally, Michelle at the front desk is incredibly professional and helpful in every way.  The spa has a wonderful aroma, and you feel fantastic afterward. I can't wait for my next visit.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/xs-medspa-fort-lauderdale.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

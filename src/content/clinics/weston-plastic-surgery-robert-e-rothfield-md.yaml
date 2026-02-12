@@ -1,0 +1,60 @@
+name: "Weston Plastic Surgery: Robert E. Rothfield, MD"
+slug: weston-plastic-surgery-robert-e-rothfield-md
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2300 N Commerce Pkwy #202, Weston, FL 33326"
+zipCode: "33326"
+coordinates:
+  lat: 26.0904708
+  lng: -80.3693345
+phone: "(954) 389-7999"
+website: "https://www.westonplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9354755027334531913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Weston Plastic Surgery: Robert E. Rothfield, MD is a plastic surgery practice located in Weston, FL. With a 4.9-star rating from 442 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 442
+reviews:
+  - author: "Abundant B. R. L."
+    rating: 5
+    date: "2025-11-13"
+    text: >-
+      Loved my results, wonderful staff, and amazing doctor. I look and feel great, results are better than what I imagined. Dr Rothfield took the time to explain procedure thoroughly. I felt comfortable and received a lot of information from staff to assist with decision. He has the best hands and experience to cover any procedure.  I would highly recommend Dr. Rothfield.
+    source: "Google"
+  - author: "ange !."
+    rating: 5
+    date: "2025-12-24"
+    text: >-
+      I got a breast augmentation with Dr. Rothfield and I couldn’t be happier with my experience and results!!  From the very first consultation I felt completely comfortable. He took the time to explain everything thoroughly and answered all of my questions, I had no doubts I wanted to get my procedure done by him and his team and I am so happy I did. I only regret not doing it sooner!
+    source: "Google"
+  - author: "Maritza R."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      Dr. Rothfield and his staff were wonderful! He removed my saline implants after 19 years, and my breasts look amazing. The whole team was professional and made everything go smoothly.
+    source: "Google"
+  - author: "M P."
+    rating: 5
+    date: "2025-08-31"
+    text: >-
+      Recently had a SMAS facelift with Dr. Rothfield & his surgical team at Broward Health. Felt very safe, comfortable from day of consultation up through the surgery and post op visits. Received excellent care throughout with amazing results and no problems. Highly recommend this top notch plastic surgeon if you are considering a facelift. I consulted with 3 other plastic surgeons before going with D
+    source: "Google"
+  - author: "Kris O."
+    rating: 5
+    date: "2025-08-26"
+    text: >-
+      Dr. Rothfield and his staff are absolutely wonderful,  professional, kind, and genuinely attentive. He never keeps you waiting aT appointments, is always accessible, and takes the time to check on your result progress, monthly, which is rare and so reassuring. His work and results are truly amazing, and he’s supportive every step of the way. I’ve never experienced this level of care and dedication
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/weston-plastic-surgery-robert-e-rothfield-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

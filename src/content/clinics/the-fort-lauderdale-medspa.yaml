@@ -1,0 +1,60 @@
+name: "The Fort Lauderdale MedSpa"
+slug: the-fort-lauderdale-medspa
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "North Fort Lauderdale"
+address: "2821 E Commercial Blvd #200, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.190243199999998
+  lng: -80.1082818
+phone: "(954) 560-1380"
+website: "http://thefortlauderdalemedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=912647708897679044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Fort Lauderdale MedSpa is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 146 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 146
+reviews:
+  - author: "Lisa S."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I am so happy Caroline opened her own Med spa! She is truly one of the best!!  Besides her skills and extensive knowledge. Caroline also makes you feel super comfortable and she is very professional! You can tell that she truly cares about her clients! I have gone to her for injectables the last few years and have always had an amazing experience. She is also very knowledgeable in Peptides and hel
+    source: "Google"
+  - author: "Emma B."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      NP Caroline Dondi is an incredible injector. Ramsey and I both love coming to see her! Caroline has done a phenomenal job on my Botox and lip filler for a year now. Can’t recommend a better med spa in Fort Lauderdale.
+    source: "Google"
+  - author: "Savannah S."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      Caroline is absolutely phenomenal. I was very nervous going into my Cool Peel treatment, but she immediately put me at ease and took all of my nerves away. She’s incredibly professional, knowledgeable, and genuinely caring. She explained everything thoroughly, made sure I was comfortable the entire time, and the experience exceeded my expectations. I couldn’t have asked for better care and would h
+    source: "Google"
+  - author: "Allison K."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Caroline is the absolute best!  She is so positive and has the best energy and will make sure to explain everything to you.  After multiple not so great med spa experiences, Caroline has been a true gem to find.  She will make you feel comfortable and is truly so smart and amazing at her job.  She also wants to make sure that she listens to your goals and she will do anything to help you look and 
+    source: "Google"
+  - author: "Barbara"
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      Caroline is truly exceptional. She is incredibly precise and has such an artistic eye. You can tell I had something done, but no one can ever figure out what because everything looks so natural and beautifully balanced. That’s the mark of a truly talented injector.  She is also so sweet, kind, and professional. She never pushes services on you, but instead takes the time to listen and thoughtfully
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-fort-lauderdale-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

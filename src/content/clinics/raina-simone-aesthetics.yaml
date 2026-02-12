@@ -1,0 +1,60 @@
+name: "Raina Simone Aesthetics"
+slug: raina-simone-aesthetics
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Victoria Park"
+address: "1948 E Sunrise Blvd # 5, Fort Lauderdale, FL 33304"
+zipCode: "33304"
+coordinates:
+  lat: 26.136617299999997
+  lng: -80.1197481
+phone: "(305) 467-3385"
+website: "https://rainasimone.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5505476239612124029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Raina Simone Aesthetics is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 25 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 25
+reviews:
+  - author: "Heidi S."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      If anyone is interested in getting Morpheus8 I highly recommend it. I had heard about this treatment, but was hesitant about getting it. I was afraid it would be too painful, was I completely wrong about that, it was so tolerable. I had the first treatment today, and the results were remarkable. I also had Botox and lip filler, which looks awesome.  Raina, is just amazing at her craft.  Highly ski
+    source: "Google"
+  - author: "Nicole J."
+    rating: 5
+    date: "2025-09-30"
+    text: >-
+      Yesterday was first experience with Raina Simone and today I feel like I made a lifelong friend. She is so pleasant and welcoming and made me feel so comfortable getting Botox for the first time. I am very excited to go on this journey of improving my overall wellbeing with her. What a gem!
+    source: "Google"
+  - author: "Laura B."
+    rating: 5
+    date: "2025-01-22"
+    text: >-
+      🌟🌟🌟🌟🌟  Raina Simone is absolutely amazing! I’ve gone to her several times for Botox, and every visit has been flawless. Most recently, I had threads done, and she did a knockout job! Raina is not only incredibly professional but also kind and compassionate. She takes the time to ensure you're comfortable and that you're having the best experience possible. Her attention to detail and expertis
+    source: "Google"
+  - author: "LILIANA V."
+    rating: 5
+    date: "2025-07-16"
+    text: >-
+      From the moment I walked through the doors, I knew I was in for something special. The ambiance at Raina S Aesthetics is pure serenity. peaceful atmosphere that instantly puts you at ease. Raina was extremely sweet. Highly recommended! Thank you Raina
+    source: "Google"
+  - author: "Geraldine L."
+    rating: 5
+    date: "2024-12-06"
+    text: >-
+      I had an amazing experience at Raina Simone Aesthetics! The owner is incredibly sweet and takes the time to explain every procedure thoroughly, ensuring you feel comfortable and informed. She is extremely professional and creates a wonderful, relaxing atmosphere. Her hands are truly magical—absolutely no pain! I highly recommend her services to anyone looking for top-notch care and a delightful ex
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/raina-simone-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Silk Laser + Aesthetics Centre"
+slug: silk-laser-aesthetics-centre
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Fort Lauderdale"
+address: "924 N Federal Hwy, Fort Lauderdale, FL 33304"
+zipCode: "33304"
+coordinates:
+  lat: 26.136454
+  lng: -80.13678999999999
+phone: "(954) 462-7455"
+website: "http://www.thesilklasercentre.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6240949765986400347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Silk Laser + Aesthetics Centre is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.9-star rating from 54 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 54
+reviews:
+  - author: "Judy A."
+    rating: 5
+    date: "2025-10-09"
+    text: >-
+      I had an absolutely amazing experience here. My husband and I needed a little fine tuning so we went to see Dr. Astaphan. We decided on us both doing chemical peels and I would do Dysport in my forehead and a Botox lip flip.  Let’s start at the beginning. The office was easy to find and there was plenty of convenient parking. Upon walking into the office, I was warmly greeted by Nicole the office 
+    source: "Google"
+  - author: "Stephanie"
+    rating: 5
+    date: "2025-12-13"
+    text: >-
+      Dr. Astaphan is amazing! I came in for laser hair removal. Life changing. Nicole at the front desk is wonderful! I will be back for anything I need for the face, ie botox, because I trust him!
+    source: "Google"
+  - author: "Christina C."
+    rating: 5
+    date: "2025-08-27"
+    text: >-
+      Dr. A at Silk Aesthetics is amazing! His filler and Sculptra work is completely pain-free and always looks incredibly natural. I get so many compliments on how great I look—no one can tell I’ve had anything done. I highly recommend him to anyone looking for subtle, beautiful results. I've been seeing Dr. A for about 2 years and have been very impressed every time we try a new treatment and continu
+    source: "Google"
+  - author: "Paul Z."
+    rating: 5
+    date: "2025-11-08"
+    text: >-
+      I highly recommend Dr Astaphan and Silk asthetics center. Well informed, knowledgeable,  listens and cares. He went above and beyond to make me happy!! Forget the rest and go with the best!
+    source: "Google"
+  - author: "Erik D."
+    rating: 5
+    date: "2025-02-17"
+    text: >-
+      Dr.Astphan is pure brilliance with all he does, his knowledge is beyond. I have been a patient for over 15 years and can't imagine going anywhere else. He utilizes gold standard equipment and treatments and you will be so happy with the results. From injectables to laser hair removal I am more then happy with what I have seen. Plus Nicole at reception is always so kind.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/silk-laser-aesthetics-centre.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

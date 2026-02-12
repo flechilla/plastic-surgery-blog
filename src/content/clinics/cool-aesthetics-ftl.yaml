@@ -1,0 +1,30 @@
+name: "Cool Aesthetics FTL"
+slug: cool-aesthetics-ftl
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Fort Lauderdale"
+address: "315 NE 3rd Ave Suite 15, Fort Lauderdale, FL 33301"
+zipCode: "33301"
+coordinates:
+  lat: 26.1258143
+  lng: -80.1410285
+phone: "(386) 295-0613"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=2775090648048238278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Cool Aesthetics FTL is a plastic surgery practice located in Fort Lauderdale, FL.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

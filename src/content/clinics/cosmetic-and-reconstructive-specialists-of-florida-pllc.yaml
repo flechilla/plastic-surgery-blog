@@ -1,0 +1,60 @@
+name: "Cosmetic and Reconstructive Specialists of Florida PLLC"
+slug: cosmetic-and-reconstructive-specialists-of-florida-pllc
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "East Fort Lauderdale"
+address: "910 NE 26th Ave, Fort Lauderdale, FL 33304"
+zipCode: "33304"
+coordinates:
+  lat: 26.135579
+  lng: -80.1106193
+phone: "(954) 533-8029"
+website: "https://www.crsplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8189302351870776028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Cosmetic and Reconstructive Specialists of Florida PLLC is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 92 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 92
+reviews:
+  - author: "Janelle S."
+    rating: 5
+    date: "2025-12-08"
+    text: >-
+      I am beyond happy with my results, even just 2 weeks post-op! Part of my decision to choose CRS was because of their incredible staff, and they truly exceeded my expectations.  Patricia at the front desk is always so lovely to work with. Claudia made the entire decision-making process seamless—she was kind, thorough, and consistently reassured me that my safety was the top priority, which proved t
+    source: "Google"
+  - author: "Michelle F."
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      Dr. Michael Cheung is exceptional.  I have been seeing Dr. Cheung for 10 months due to Breast Cancer with BRCA1+ gene mutation.  First a Lumpectomy, then a double mastectomy with expanders and I just had my expanders to permanent implants finished last week.  From the first day I walked into his office, Dr. Cheung took his time to explain everything clearly to me about all 3 surgeries I will be go
+    source: "Google"
+  - author: "Monique B."
+    rating: 5
+    date: "2025-10-06"
+    text: >-
+      Dr. Michael Cheung is an artist!!! I had what I refer to as a flat tire. Dr. Cheung was highly recommended by my Gynecologist.  When I met him for the first time, I just knew he was the right doctor for me. He is so down to earth and made me feel so comfortable right from the get go. The entire staff is so friendly and welcoming. They made me feel cared about. Dr. Cheung performed my breast implan
+    source: "Google"
+  - author: "Keb B."
+    rating: 5
+    date: "2025-06-06"
+    text: >-
+      I had an amazing experience with Dr. Cheung and his team. From the initial gynecomastia consultation to the procedure and every post op visit, they’ve gone above and beyond to make me feel comfortable, informed, and genuinely cared for. The staff is warm, professional, and attentive, and Dr. Cheung’s expertise gave me complete confidence throughout the process. I came in feeling lost and unsure, b
+    source: "Google"
+  - author: "Cynthia L."
+    rating: 5
+    date: "2025-06-23"
+    text: >-
+      Dr. Cheung is absolutely amazing, I am so glad I traveled to visit him. Best bedside manner, very knowledgeable, made me feel at ease. His work is what drew me to book with him, and just a week afterwards and I’m already impressed with my results. It was also very easy to setup all my appointments both in person and over the phone. The whole team at office is so sweet! I was worried about doing al
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/cosmetic-and-reconstructive-specialists-of-florida-pllc.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

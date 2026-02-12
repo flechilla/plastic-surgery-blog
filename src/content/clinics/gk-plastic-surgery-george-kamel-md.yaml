@@ -1,0 +1,60 @@
+name: "GK Plastic Surgery: George Kamel, MD"
+slug: gk-plastic-surgery-george-kamel-md
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "North Fort Lauderdale"
+address: "4800 N Federal Hwy #200, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.1865818
+  lng: -80.116306
+phone: "(954) 688-7269"
+website: "https://www.gkplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3989805855827348013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  GK Plastic Surgery: George Kamel, MD is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 139 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 139
+reviews:
+  - author: "Nyssa S."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      We met Dr. Kamel and the Craniofacial team of Hollywood back in May 2025 right after finding out about our son’s diagnosis of cleft lip & palate at our anatomy scan. We were able to consult with him and establish rapport with him as he’d be the surgeon to care for our son once he was here. Dr. Kamel was very friendly, understanding of our worries and concerns and assured us not to be worried about
+    source: "Google"
+  - author: "Stephanie S."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      We are so grateful for our daughter’s occupational therapist, Nicole. From the very beginning, she was incredibly warm, kind, and supportive, making us feel comfortable and confident throughout the entire process. When our daughter needed a cranial helmet for skull reshaping, Nicole guided us with such care, patience, and expertise.  She always took the time to answer our questions, explain everyt
+    source: "Google"
+  - author: "Галина З."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      Dr. Kamel performed surgery to repair a fistula on my daughter's soft palate, after a previous surgery performed by another surgeon in Ukraine. The result is simply excellent. To be honest, I was very afraid to have this surgery done, but I don't regret it at all. All the specialists who are now examining my child's palate say that it looks perfect, as if there had never been any pathology. The re
+    source: "Google"
+  - author: "Alan C."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      From my very first consultation to my final follow-up appointment, my experience with Dr. Kamel was truly exceptional. I cannot recommend them highly enough. The entire team was professional, kind, and incredibly supportive throughout the process. Dr. Kamel listened carefully to my goals and provided thoughtful, clear explanations for every step, ensuring I felt completely comfortable and informed
+    source: "Google"
+  - author: "Taylor D."
+    rating: 5
+    date: "2025-12-27"
+    text: >-
+      Dr. Kamel and his team are amazing! They’re very kind and very thorough on ensuring you’re comfortable and well informed about every step of your procedure. I received a breast reduction mid-November and my recovery has been great! You can tell he and his team truthfully care about the work they’re doing and their patients.  I was really nervous about my procedure and scars, but from the work Dr. 
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/gk-plastic-surgery-george-kamel-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

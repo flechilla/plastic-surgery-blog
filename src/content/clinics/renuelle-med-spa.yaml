@@ -1,0 +1,30 @@
+name: "Renuelle Med Spa"
+slug: renuelle-med-spa
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Fort Lauderdale"
+address: "540 N Andrews Ave Suite 26, Fort Lauderdale, FL 33301"
+zipCode: "33301"
+coordinates:
+  lat: 26.129223399999997
+  lng: -80.1434471
+phone: "(954) 406-1676"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=4829655119474283846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Renuelle Med Spa is a plastic surgery practice located in Fort Lauderdale, FL.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

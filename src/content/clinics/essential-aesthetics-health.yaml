@@ -1,0 +1,60 @@
+name: "Essential Aesthetics & Health"
+slug: essential-aesthetics-health
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Fort Lauderdale"
+address: "1975 E Sunrise Blvd #615, Fort Lauderdale, FL 33304"
+zipCode: "33304"
+coordinates:
+  lat: 26.138083599999998
+  lng: -80.1191533
+phone: "(754) 778-7375"
+website: "https://www.essentialaestheticsfl.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+googleMapsUrl: "https://maps.google.com/?cid=3570980516254749530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Essential Aesthetics & Health is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 111 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 111
+reviews:
+  - author: "Ivy R."
+    rating: 5
+    date: "2025-12-06"
+    text: >-
+      My whole experience from beginning to end was beyond AMAZING! Esha, is the sweetest person. She did such an incredible job on my lips that she and I are basically attached at the hip FOREVER now.  I’m obsessed! She’s very nice, gentle, and talented. She truly has magic hands.  I highly recommend her. Thank you, Esha!
+    source: "Google"
+  - author: "Bella D."
+    rating: 5
+    date: "2026-01-04"
+    text: >-
+      I’ve been to so many aesthetic clinics and this is by far one of the best! Esha is so sweet, thorough, knowledgeable and you can tell she genuinely cares about her clients. I got Aerolase here and am excited to come back for more treatments. Highly recommend!
+    source: "Google"
+  - author: "Axel H."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      Esha was extremely professional and thorough before, during and after my treatment. I did quantum for belly and morpheus8 for the double chin. She took the time in explaining the procedure and also during. 2 days later i had a question about the tightness of the compression you needed to wear after and she even came to me to check if all was ok. Great work Cannot wait to see the results!!!
+    source: "Google"
+  - author: "Talya A."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      She did such a fantastic job on my lips, they look better than ever!!! I will be coming back here time and time again on my lips and other things I may need. She was the SWEETEST soul I think I’ve ever met and it was very PAINLESS. I was so shocked. Thank you so much for
+    source: "Google"
+  - author: "Jessica G."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Esha was amazing. She recommended Aerolase to treat my eczema flare on my hands and wrist. I felt some relief shortly after my first session. 5 more to go. I’m excited and hopeful that I will be eczema free soon.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/essential-aesthetics-health.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

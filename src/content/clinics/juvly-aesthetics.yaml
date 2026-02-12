@@ -1,0 +1,60 @@
+name: "Juvly Aesthetics"
+slug: juvly-aesthetics
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "North Fort Lauderdale"
+address: "4750 N Federal Hwy #302, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.186086
+  lng: -80.1165453
+phone: "(614) 500-7000"
+website: "https://www.juvly.com/?y_source=1_MTAwNDQ1MzgzNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+googleMapsUrl: "https://maps.google.com/?cid=15785155714082755974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Juvly Aesthetics is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.7-star rating from 122 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 122
+reviews:
+  - author: "Rebecca w."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Luisa is the best! She’s the only person I trust with my skin care and has been taking care of me for 4-5 years now. She always educates me on the best plan for me and genuinely cares. It doesn’t hurt that she’s also very fun to talk to as well. ☺️
+    source: "Google"
+  - author: "Taina M."
+    rating: 5
+    date: "2025-11-03"
+    text: >-
+      I’ve been going to Juvly in Fort Lauderdale for about four years now for my wrinkle relaxers and filler. The virtual check in process is smooth and efficient, and the people on the other end of the line are always personable. The space is always spotless. And Luisa and Jada are both so friendly, knowledgeable, and thoughtful about the treatments they offer and what works best for my skin. They rea
+    source: "Google"
+  - author: "Kimmisan A."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      If you have any doubts trusting someone with one of our most valuable assets (our skin) your in great hands with Luisa and team. She has amazing bedside and cares about your satisfaction. I’ve been with Juvly for a couple years after trying many places prior and couldn’t be happier. Effort + quality treatment = results.
+    source: "Google"
+  - author: "sam s."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      My experience with Juvly Aesthetics was superb from beginning to end.  They went above and beyond to ensure understanding of options while offering recommendations to suit my budget.  Lusia is incredible and the absolute BEST!!!
+    source: "Google"
+  - author: "pattyvdp v."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      Juvly is a solid choice If you’re Looking for Aesthetics that last. Luisa Is knowledgeable, professional, and upfront about results. I have never gone and been disappointed. They are my go to!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/juvly-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

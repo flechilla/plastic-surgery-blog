@@ -1,0 +1,60 @@
+name: "The Aesthetic Label"
+slug: the-aesthetic-label
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2800 E Commercial Blvd Suite 208, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.1894021
+  lng: -80.1083494
+phone: "(954) 580-3190"
+website: "http://www.aestheticlabel.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9742529182293301324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Aesthetic Label is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 169 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 169
+reviews:
+  - author: "Melanie C."
+    rating: 5
+    date: "2025-09-03"
+    text: >-
+      Danielle is absolutely amazing! Her professionalism shines through in every step of the process, and she immediately makes you feel comfortable and at ease. She has an incredible skill set and a true eye for detail—she injected filler in my cheeks and chin which restored my facial balance perfectly. She also injected PDGF in my tear troughs and I’m obsessed!I couldn’t be happier with my experience
+    source: "Google"
+  - author: "Amy O."
+    rating: 5
+    date: "2025-05-07"
+    text: >-
+      It's amazing how knowledgeable and professional Danielle is with her work. During the process, she makes sure you understand what you're going to have done and are comfortable with it.  Danielle's work is amazing and exceeded all my expectations! I'm so happy with how everything turned out. Also, she's incredibly kind and welcoming😊
+    source: "Google"
+  - author: "Jill H."
+    rating: 5
+    date: "2025-04-12"
+    text: >-
+      I’ve been seeing Danielle at The Aesthetic Label for 8 years now, and I can confidently say she’s the only person I trust with my face. From my very first consultation, Danielle took the time to understand my concerns and worked with me to create a personalized treatment plan that fit my budget and comfort level. Her deep knowledge of facial anatomy and aging, combined with her gentle approach, im
+    source: "Google"
+  - author: "Keiki"
+    rating: 5
+    date: "2025-01-26"
+    text: >-
+      Amazing, great team and Danielle is very welcoming and informative on her stuff. I got lip filler and they turned out amazing. Danielle was recommended to me by a friend and I will continue to recommend her to all my friends as I already have been doing. I trust her and I will definitely be going back.
+    source: "Google"
+  - author: "Cassandra D."
+    rating: 5
+    date: "2025-04-15"
+    text: >-
+      Danielle is an amazing injector!! She’s so knowledgeable, patient and kind!! She’s the real OG for facial balancing!!! Highly recommend her if you’re thinking of plump lips, facial symmetry, Botox and more! And her assistant Kaitlyn who handles all scheduling is very professional and very kind. She’s a breath of fresh air whether you’re  communicating with her over a call or text!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-aesthetic-label.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

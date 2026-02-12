@@ -1,0 +1,60 @@
+name: "247 Med Spa"
+slug: 247-med-spa
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Tarpon River"
+address: "308 SW 6th St suite 2, Fort Lauderdale, FL 33315"
+zipCode: "33315"
+coordinates:
+  lat: 26.114476
+  lng: -80.1465654
+phone: "(954) 595-2971"
+website: "https://247medspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3913267915911091690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  247 Med Spa is a plastic surgery practice located in Fort Lauderdale, FL. With a 5-star rating from 102 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 102
+reviews:
+  - author: "Sirbu S."
+    rating: 5
+    date: "2026-01-25"
+    text: >-
+      I would love to leave the warmest review for this medspa 🤍 You can truly feel the care for clients in every detail — from the moment you walk in to the follow-up after the procedure.  The manager is very pleasant, kind, and generous with attention. The salon is always clean, cozy, and smells amazing. The front desk staff are friendly and welcoming, which instantly makes you feel comfortable and v
+    source: "Google"
+  - author: "Ashley M. H."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Amazing Experience with Lexi!! I came across the Hydrafacial special on instagram. My experience from the moment I walked in the door was ⭐️10/10 ⭐️ The med spa ambience is so sleek and Luxurious. Top notch customer service….conversation with Lexi (who I just met)…  felt like a casual convo with a friend I’d known for years :). The facial room was so calming with relaxing music and a nice touch wi
+    source: "Google"
+  - author: "J M."
+    rating: 5
+    date: "2025-12-30"
+    text: >-
+      This was my first time getting microneedling and my first time visiting 247 med spa.i came based on a promo that came across my IG feed and I’m glad I tried them out.  My experience was great with Lexi who was very informative and answered all of my questions. I love how she walked me through each step as I received my service. I will be back for sure for more services and I highly recommend l.
+    source: "Google"
+  - author: "Angie G."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Lexi did my facial and it felt so amazing! Her expertise on skin is very knowledgeable. She explain everything step by step what she was doing and why. The spa itself is spotless and the staff is friendly.
+    source: "Google"
+  - author: "S"
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Lexiiiiiiiii she is the best literally. Just finished my microneedling and she was warm and friendly and kept me informed every step of the way! I will definitely be back
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/247-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Florida Bariatric And Plastic Surgery MD"
+slug: florida-bariatric-and-plastic-surgery-md
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Bermuda Riviera"
+address: "4051 N Ocean Blvd suite 2, Fort Lauderdale, FL 33308"
+zipCode: "33308"
+coordinates:
+  lat: 26.1786149
+  lng: -80.0989287
+phone: "(754) 331-6379"
+website: "https://bariatricandplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14499812178659463862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Florida Bariatric And Plastic Surgery MD is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.9-star rating from 28 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 28
+reviews:
+  - author: "Diane L."
+    rating: 5
+    date: "2025-09-08"
+    text: >-
+      Big  thanks  to  everyone  here !  I  felt  completely  at  ease  with the  doctor’s  work  and  my  recovery  went  so  smoothly
+    source: "Google"
+  - author: "Barno S."
+    rating: 5
+    date: "2025-01-03"
+    text: >-
+      I've had my bariatric surgery with Dr. Terushkin and he is the best! I was well taken care of by him and his team. Doctor listens patiently and answers all of the questions, without being judgemental. His staff is polite and friendly as himself. Doctor's office has a wonderfully calming and welcoming atmosphere. For more than 2 years of my  experience never had to wait for more than 10 minutes, al
+    source: "Google"
+  - author: "Michael S."
+    rating: 5
+    date: "2024-07-21"
+    text: >-
+      Dr. Sergey is great at his field in Medicine. He's kind and listens to his patients.  6 years ago he gave me a new start in life. And I will always be thankful and Grateful for what he has done for me. And his office Staff is top notch.  They are helpful and go out of there way to make you feel comfortable when visiting the office.
+    source: "Google"
+  - author: "Towanda B."
+    rating: 5
+    date: "2024-07-19"
+    text: >-
+      This has been the best experience of my life  the Doctor’s and staff are so kind  the Establishment is clean and Waiting ttime to see the doctor is a Quick and easy experience I’ve ever had going to any doctors office I will recommend if you ever want to slash a weight loss journey. This is the place to go. You won’t regret it.
+    source: "Google"
+  - author: "Jaleesa J."
+    rating: 2
+    date: "2024-07-19"
+    text: >-
+      I just wish he would actually do call check up after ; a year or so to find out if everything is working well and going good . I’m gaining a few pounds now and not sure of what direction to go still following the same diet plans but I guess my stomach is stretching not saying it’s his fault it always good to keep up with patients and do follow up appt
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/florida-bariatric-and-plastic-surgery-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -226,7 +226,7 @@ function fixEmptyReviews(): void {
 async function scrapeCity(city: CityEntry): Promise<{ clinics: number }> {
   console.log(`\n🔍 Scraping: ${city.city}, ${city.state}\n`);
   
-  const cmd = `npx tsx scripts/rediscover-clinics.ts --city "${city.city}" --state ${city.state}`;
+  const cmd = `node_modules/.bin/tsx scripts/rediscover-clinics.ts --city "${city.city}" --state ${city.state}`;
   
   const output = execSync(cmd, {
     cwd: PROJECT_ROOT,

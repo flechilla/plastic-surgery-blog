@@ -1,0 +1,60 @@
+name: "Vanguard Aesthetic Plastic Surgery"
+slug: vanguard-aesthetic-plastic-surgery
+city: fort-lauderdale
+cityDisplay: "Fort Lauderdale"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "East Fort Lauderdale"
+address: "2320 NE 9th St #300, Fort Lauderdale, FL 33304"
+zipCode: "33304"
+coordinates:
+  lat: 26.1357051
+  lng: -80.1167387
+phone: "(954) 563-4500"
+website: "https://www.vapsfl.com/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing-VAPSCFL&y_source=1_MTA3OTg3NTkyOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+googleMapsUrl: "https://maps.google.com/?cid=13930305891830158365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Vanguard Aesthetic Plastic Surgery is a plastic surgery practice located in Fort Lauderdale, FL. With a 4.7-star rating from 114 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 114
+reviews:
+  - author: "Emilia M."
+    rating: 5
+    date: "2025-11-25"
+    text: >-
+      Being diagnosed with breast cancer was hard, but the professionalism and encouragement received from Dr. Weiss and his staff was encouraging and gave me peace of mind that I was in good hands through this process. The end result from my surgeries has been more than excellent. Highly recommended Dr. Weiss and the whole office staff.
+    source: "Google"
+  - author: "Anthony C."
+    rating: 5
+    date: "2025-10-15"
+    text: >-
+      Dr Fletcher and staff, I am writing to express my sincere gratitude for the exceptional care I received during my recent hand procedure. Thank you and the staff for your professionalism, kindness, and dedication. Your collective efforts made a significant impact on my recovery, and I am incredibly grateful for your support. Anthony Cantatore
+    source: "Google"
+  - author: "Kara C."
+    rating: 5
+    date: "2025-08-24"
+    text: >-
+      Dr. Dreszer is truly the best, and I’m beyond grateful I chose him for my tummy tuck and breast augmentation. I had other consultations lined up, but after my very first visit with him, I knew I didn’t need to see anyone else. He made me feel completely comfortable, really listened to what I wanted, and explained everything without trying to upsell or pressure me in any way. I was referred to him,
+    source: "Google"
+  - author: "Helen S."
+    rating: 5
+    date: "2025-09-02"
+    text: >-
+      I'm so happy with Dr. Weiss's wonderful work. As difficult as the cancer treatment was, I'm so grateful to Dr. Weiss and his team for their dedication to reconstructing my breasts. He turned a difficult time in my life into a dream come true. My surgery went wonderfully, and I'm a new woman. Thank you all. God bless you all! Helen Santos
+    source: "Google"
+  - author: "Anecka C."
+    rating: 5
+    date: "2025-08-08"
+    text: >-
+      I cannot speak highly enough about Dr Dreszer, he’s truly one of the most compassionate, knowledgeable, and dedicated doctors I’ve encountered. From the first appointment, he made me feel heard and genuinely cared for. He explained everything clearly and made sure I felt comfortable every step of the way. His staff and team were exemplary and knowledgeable about all areas.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/vanguard-aesthetic-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
