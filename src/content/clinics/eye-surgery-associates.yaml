@@ -1,0 +1,60 @@
+name: "Eye Surgery Associates"
+slug: eye-surgery-associates
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1200 SW 145th Ave Suite 250, Pembroke Pines, FL 33028"
+zipCode: "33028"
+coordinates:
+  lat: 25.9971236
+  lng: -80.3386433
+phone: "(954) 925-2740"
+website: "https://www.eyesurgeryassociatesflorida.com/locations/hollywood/?y_source=1_MjAzOTM3MDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+googleMapsUrl: "https://maps.google.com/?cid=4577895538700243407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Eye Surgery Associates is a plastic surgery practice located in Pembroke Pines, FL. With a 4.6-star rating from 4875 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.6
+reviewCount: 4875
+reviews:
+  - author: "Evelyn M."
+    rating: 3
+    date: "2026-01-26"
+    text: >-
+      Facility is very clean and organized. Self check in Kiosks were nice and we were able to scan our insurance card right there. Everyone one was welcoming and nice, except Dr. Alvarez.  Dr. Alvarez was very knowledgeable but she seemed cold and didn’t even introduce herself to us when we walked in. We felt like a number not valued clients. Also, didn’t go into depth about the questions we asked. I f
+    source: "Google"
+  - author: "Rogina B."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I am so grateful to Dr Apara for the way he cares and communicates. He has performed three surgeries on my eyes. I have total confidence in him and his abilities. He cares for his patients with sincerity and kindness. I have a friend who is also a patient of his and she feels the same way. He is a blessing. I highly recommend him.
+    source: "Google"
+  - author: "Roselia H."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I had an incredible experience at Eye Surgery Associates. I called early in the morning and explained my situation. The receptionist said she would call me back after discussing my issue with the MD. They call me back in reasonable time. They schedule me the same day in the afternoon. The staff was very accommodating. In no time they checked my vision with state of the art equipment. I saw the MD 
+    source: "Google"
+  - author: "Rachel S."
+    rating: 3
+    date: "2025-11-28"
+    text: >-
+      Hello there, I experienced an eye infection after my visit with you on Wednesday in which took all my joy and attention during the Thanksgiving holiday. It is completely uncomfortable and painful. Not to mention that the lady who took my medical history wasn’t kind to say the least and been quite rude to learn that I am not taking any medications beside vitamins and one prescription. Thank you for
+    source: "Google"
+  - author: "Scott M."
+    rating: 5
+    date: "2025-12-08"
+    text: >-
+      I had to see Dr. Glassman in the Hollywood office for possible biopsy or injection in my eyelid, and the doctor and staff really could not have been better. They saw me quickly and everyone was very friendly, which helped because I was a little nervous. All the medical staff including Dr. Glassman explained everything in easy to understand terms, and patiently answered all my questions. No long de
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/eye-surgery-associates.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

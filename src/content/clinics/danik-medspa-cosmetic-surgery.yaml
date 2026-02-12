@@ -1,0 +1,60 @@
+name: "Danik MedSpa & Cosmetic Surgery"
+slug: danik-medspa-cosmetic-surgery
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "11278 Pines Blvd, Pembroke Pines, FL 33026"
+zipCode: "33026"
+coordinates:
+  lat: 26.0065563
+  lng: -80.2978445
+phone: "(954) 432-4343"
+website: "https://danikmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9008148062708397750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Danik MedSpa & Cosmetic Surgery is a plastic surgery practice located in Pembroke Pines, FL. With a 4.7-star rating from 272 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 272
+reviews:
+  - author: "Janell W."
+    rating: 5
+    date: "2025-10-16"
+    text: >-
+      This place has been amazing ! I’ve seen great results and staff has been very caring and attentive to my specific goals !
+    source: "Google"
+  - author: "Unique B."
+    rating: 1
+    date: "2024-05-18"
+    text: >-
+      Please don’t waste your time going to that place. They are very unprofessional. I went for a keloid injection the lady was talking about me in another language with her co-worker. Thank god I speak Spanish I understood what she said and take my business somewhere else. Do your self a favor go to a dermatologist.
+    source: "Google"
+  - author: "Kecia Y."
+    rating: 5
+    date: "2024-11-12"
+    text: >-
+      Wendy was personable and professional!!  I felt very comfortable and satisfied with the care she provided.  The space was clean and well kept😁 I tend to be very observant of cleanliness especially since I’m in healthcare myself.  She used good aseptic techniques and I felt comfortable with her touching my face. (I hate when professionals put gloves on while they’re in cabinets touching everything
+    source: "Google"
+  - author: "Alicia M."
+    rating: 5
+    date: "2024-03-12"
+    text: >-
+      The atmosphere: Peaceful and simply beautiful All of the employees: Nice Very knowledgeable. Can't wait for my next appointment. Ana is very professional and she took enough time explaining to me the little details about the procedure.  My skin feels and looks fantastic.
+    source: "Google"
+  - author: "Venessa B."
+    rating: 5
+    date: "2024-04-12"
+    text: >-
+      Absolutely GREAT experience every time I visit. Great results with the laser hair removal. Sandra is amazing, very welcoming and well informed. Definitely a great place for some "me" time.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/danik-medspa-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

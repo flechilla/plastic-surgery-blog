@@ -1,0 +1,60 @@
+name: "Memorial Same Day Surgery Center"
+slug: memorial-same-day-surgery-center
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "501 N Flamingo Rd, Pembroke Pines, FL 33026"
+zipCode: "33026"
+coordinates:
+  lat: 26.011321799999997
+  lng: -80.3112566
+phone: "(954) 430-1700"
+website: "https://memorialsameday.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14750621323915812697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Memorial Same Day Surgery Center is a plastic surgery practice located in Pembroke Pines, FL. With a 4.8-star rating from 1169 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 1169
+reviews:
+  - author: "Janet C."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      From start to finish was incredible. I have to start off with the fact that I went to the wrong building they literally called what I call a golf cart service to pick me and my husband up to take us to the correct building, we could have easily walked it was not too far away. Check in went smoothly, the lady that helped me was sweet and what sense of humor. The staff in the operating were great an
+    source: "Google"
+  - author: "Ada V."
+    rating: 5
+    date: "2025-12-13"
+    text: >-
+      Excellent service. The surgery was performed exactly as scheduled, on time, and with professional care from all members of the surgical team, as well as wonderful nurses and anesthesiologists. Special recognition for the outstanding work of the surgeon and the wonderful nurse Nadia. Very satisfied with the service and care overall.
+    source: "Google"
+  - author: "Pyroz P."
+    rating: 5
+    date: "2025-11-27"
+    text: >-
+      Memorial Same Day Surgery Center has the best, most professional, kind, sweet, and caring personnel I've ever had the pleasure of dealing with. I've taken my mom there twice for her eye surgeries, and both times she was so completely happy with how nice and calming they all were with her. Incredible people, incredible service, incredible experience. Thank you from the bottom of our hearts for doin
+    source: "Google"
+  - author: "Ai G."
+    rating: 5
+    date: "2025-09-01"
+    text: >-
+      The outpatient surgery center was a breeze of a process from step 1. South Florida is not known for high quality customer service, particularly in the healthcare industry. This facility and site staff blew me away. I was attended to immediately, those on the phone providing courtesy reminders were excellent, the place was incredibly clean and organized. I had to reschedule a surgery and it was inc
+    source: "Google"
+  - author: "Laila V."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      Excellent service. The staff is very friendly and helpful. Which helps lower the anxiety level before surgery. The timing was perfect. Didn’t have to wait for long periods before getting surgery.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/memorial-same-day-surgery-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

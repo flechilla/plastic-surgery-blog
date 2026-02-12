@@ -1,0 +1,60 @@
+name: "Bloomhaus Medspa & Wellness - Miramar"
+slug: bloomhaus-medspa-wellness-miramar
+city: miramar
+cityDisplay: "Miramar"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2201 Palm Ave suite 201, Miramar, FL 33025"
+zipCode: "33025"
+coordinates:
+  lat: 25.988816
+  lng: -80.278518
+phone: "(305) 432-8757"
+website: "http://bloomhausmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2088202146780420772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Bloomhaus Medspa & Wellness - Miramar is a plastic surgery practice located in Miramar, FL. With a 5-star rating from 51 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 51
+reviews:
+  - author: "Nancy M."
+    rating: 5
+    date: "2025-11-07"
+    text: >-
+      ⭐️ ⭐️⭐️⭐️⭐️ I absolutely love this med spa! The team is professional, caring, and truly listens to what you want. My facials have been amazing — my skin has never looked better! Their Botox and lip treatments are done so naturally that I still look like myself, just refreshed and more confident. They really take the time to understand your goals and deliver beautiful, subtle results. Moira is amaz
+    source: "Google"
+  - author: "Ana L."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      I got laser sessions on my underarms and chin at Body Láser Medical and I was really happy with the results. I also did dermaplaning and loved how my skin turned out. The place is super cute, clean, and very organized. The attention from the owners was amazing, they’re so sweet and made me feel really comfortable. Totally recommend!
+    source: "Google"
+  - author: "Andrea V."
+    rating: 5
+    date: "2025-08-28"
+    text: >-
+      I had such a great experience at this med spa! Moira did my lip fillers, and I couldn't be happier with the results—she was professional, gentle, and really listened to what I wanted. My lips look natural but perfectly enhanced. Moira and Gabby were also amazing! They were so helpful and informative about the different procedures available and made me feel completely at ease from the moment I walk
+    source: "Google"
+  - author: "Mel V."
+    rating: 5
+    date: "2025-08-28"
+    text: >-
+      I had Botox done at Body and Laser with Moira and couldn’t be happier! The staff was professional, welcoming, and explained everything clearly. The treatment was quick and virtually painless, and I love the natural results—fresh and rejuvenated without looking “overdone.” I’ll definitely be coming back!
+    source: "Google"
+  - author: "PAOLA M."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      Gabby and Moira are so kind and helpful throughout my journey at their spa. Guiding me through the work I want done, and always aiming for the most natural look I desire! I appreciate them so so much!!!  Simply, the best !!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/bloomhaus-medspa-wellness-miramar.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

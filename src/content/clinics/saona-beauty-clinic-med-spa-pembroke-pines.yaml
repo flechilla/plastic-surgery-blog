@@ -1,0 +1,60 @@
+name: "Saona Beauty Clinic & Med Spa Pembroke Pines"
+slug: saona-beauty-clinic-med-spa-pembroke-pines
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "12516 Pines Blvd suite L2, Pembroke Pines, FL 33027"
+zipCode: "33027"
+coordinates:
+  lat: 26.0063337
+  lng: -80.3153506
+phone: "(786) 586-2803"
+website: "https://www.saonabeautyclinic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18177777717936017463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Saona Beauty Clinic & Med Spa Pembroke Pines is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 6 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 6
+reviews:
+  - author: "Mariana L."
+    rating: 5
+    date: "2025-10-03"
+    text: >-
+      Larissa is the best! I had my same facial lady down in Miami for years and was so nervous to find a new one closer to home when I moved to Davie a couple months ago. I came across Larissa and she  made me feel welcomed and assured from the moment I met her. I got my first facial with her yesterday and wow! She was amazing. So caring, attentive, and really individualized my facial as she learned my
+    source: "Google"
+  - author: "Karen A."
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      I got my facial done on Friday it’s currently Monday and my face still feels amazing. Definitely recommend getting your facials done with Elizabeth ! And yes I will be coming back.
+    source: "Google"
+  - author: "Arais P."
+    rating: 5
+    date: "2025-12-31"
+    text: >-
+      Amazing facial! My skin feels refreshed and hydrated. Highly recommend.
+    source: "Google"
+  - author: "Leandra T."
+    rating: 5
+    date: "2025-10-11"
+    text: >-
+      Excellent customer service I felt very comfortable !
+    source: "Google"
+  - author: "Daniella P."
+    rating: 5
+    date: "2025-09-15"
+    text: >-
+      Today I treated myself to a facial, and the experience was incredible. From the moment I arrived, everything was very welcoming and professional. The specialist explained every step and told me exactly what she was doing and why. It was definitely a moment of relaxation and self-care that was totally worth it.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/saona-beauty-clinic-med-spa-pembroke-pines.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

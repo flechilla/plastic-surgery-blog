@@ -1,0 +1,60 @@
+name: "The Aesthetic Sho"
+slug: the-aesthetic-sho
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "3162 NW 84th Terrace, Pembroke Pines, FL 33024"
+zipCode: "33024"
+coordinates:
+  lat: 26.035177299999997
+  lng: -80.258106
+phone: "(954) 892-9551"
+website: "http://theaestheticsho.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11283974367334446102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Aesthetic Sho is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 166 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 166
+reviews:
+  - author: "Danielle V."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      Shoham is truly one of a kind. From the moment you walk into her med spa, you feel welcomed, cared for, and completely at ease. She is incredibly accommodating and friendly, and it’s so clear how deeply she cares about every single one of her patients. Shoham is full of amazing advice and takes the time to explain everything, which makes you feel confident and informed every step of the way.  Her 
+    source: "Google"
+  - author: "Rivka M."
+    rating: 5
+    date: "2026-02-01"
+    text: >-
+      There is no one I trust more with my face than Shoham. As an injector myself, I know how much care, precision, and ongoing training are required to achieve beautiful, natural results—and Shoham excels in all of it. Her attention to detail, thoughtful approach, and consistently stunning work set her apart. I couldn’t recommend her more!
+    source: "Google"
+  - author: "Jourdan B."
+    rating: 5
+    date: "2026-01-13"
+    text: >-
+      Shoham is magic. She is constantly educating herself about the newest and best medicine. She takes the time to study you and your face, understanding what you need and not just what is trendy. She is patient. She is careful. Her injection work skills are only outmatched by her kindness and I would recommend her to anyone and everyone. In fact, I fly from out of state to receive Botox and filler fr
+    source: "Google"
+  - author: "Cristina C."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      I have been too many places in South Florida…I have found my place!!  Shoham is so friendly and easy to talk to. She always takes the time to understand my goals & I always leave feeling happy, confident, and well taken care of! The location is beautiful, and the whole vibe is calm and welcoming. Can’t recommend her enough!
+    source: "Google"
+  - author: "Randi G."
+    rating: 5
+    date: "2025-10-05"
+    text: >-
+      I have been working with Dr. Shoham for a year.  My results are fabulous.  Having been a pioneer patient with cosmetic procedures and working with several of the most well respected providers, i feel comfortable recommending Dr Shoham.  She is well educated, talented, honest, kind, accessible and priced fairly. I highly recommend her to my family and friends and receive nothing but the best feedba
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-aesthetic-sho.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

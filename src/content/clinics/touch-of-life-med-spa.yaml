@@ -1,0 +1,60 @@
+name: "Touch Of Life Med Spa"
+slug: touch-of-life-med-spa
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "SilverLakes"
+address: "17874 NW 2nd St, Pembroke Pines, FL 33029"
+zipCode: "33029"
+coordinates:
+  lat: 26.0082703
+  lng: -80.38602449999999
+phone: "(786) 691-4510"
+website: "https://www.touchoflifemedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=748349993338723441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Touch Of Life Med Spa is a plastic surgery practice located in Pembroke Pines, FL. With a 4.9-star rating from 102 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 102
+reviews:
+  - author: "Carmen J."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I had my first laser experience with Carolina. She was patient, kind, and made me feel so comfortable. Definitely recommend this place.
+    source: "Google"
+  - author: "Martika R."
+    rating: 5
+    date: "2025-03-15"
+    text: >-
+      I found this incredible video lace because I won a giveaway… and oh my, it has been one of the best spa facilities I’ve ever visited! What a superb and friendly atmosphere! The care, the attention and feeling of comfort/safety has been amazing! When I first arrived, Yoly made me feel welcome and has always been very kind and accommodating when providing my appointments! Indira… there aren’t words 
+    source: "Google"
+  - author: "Kyaris M."
+    rating: 5
+    date: "2025-07-19"
+    text: >-
+      Absolutely exceeded my expectations! The quality was top-notch, and the attention to detail really stood out. Everything was handled professionally, and the experience from start to finish was smooth. I would definitely recommend this to anyone looking for something reliable and well-done. Will be coming back!
+    source: "Google"
+  - author: "Annabell C. T."
+    rating: 5
+    date: "2025-08-26"
+    text: >-
+      It was wonderful and I will definitely be back! The staff is very professional and concerned about the customer's well-being. Everything went smoothly and on time.  I absolutely recommend this place!
+    source: "Google"
+  - author: "J H."
+    rating: 5
+    date: "2025-04-04"
+    text: >-
+      I've only had 2 sessions of laser hair removal, but so far it has worked amazingly on my face. Carolina is very friendly and tender. Yoly greets you at the front desk with such a warm smile and is very pleasant. I met Dr. Magaly for the consultation and she was also very pleasant to deal with and informative. They also brought to my attention a special and it has saved me on the price. I highly re
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/touch-of-life-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

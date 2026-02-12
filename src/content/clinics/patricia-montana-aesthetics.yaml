@@ -1,0 +1,60 @@
+name: "Patricia Montana Aesthetics"
+slug: patricia-montana-aesthetics
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "176 S Flamingo Rd suite # 36, Pembroke Pines, FL 33027"
+zipCode: "33027"
+coordinates:
+  lat: 26.0054455
+  lng: -80.314123
+phone: "(786) 286-2778"
+website: "http://www.patriciamontana.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8435645804516578939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Patricia Montana Aesthetics is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 65 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 65
+reviews:
+  - author: "Madelin G."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      “I had my first hydra-facial done last year, and now I must book my next appointment. Patricia was very knowledgeable and professional in the treatment she provided. The entire experience was exhilarating. Amazing,I could literally fall asleep. My skin felt so hydrated and calm when I was done. I left looking better than when I arrived.” I live in the Palm Beach area, and I don’t have any problems
+    source: "Google"
+  - author: "Nicole M."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      I had the most wonderful experience getting a Carbon Dioxide facial with Patricia! My skin felt instantly tighter, smoother, and had such a beautiful glow afterward. She was incredibly gentle, professional, and took the time to explain everything throughout the process, which made the experience even better. I left feeling refreshed and confident — highly recommend her to anyone looking to truly p
+    source: "Google"
+  - author: "ssr"
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      I had such a lovely experience at Patricia Montana Aesthetics. This experience was an anniversary gift and turned out to be a pleasant surprise that left me extremely impressed! I did a dermaplaning + peel treatment, along with a detox facial. Patricia made the entire appointment very comfortable and informative. She was incredibly patient and took the time to explain each step of the process, whi
+    source: "Google"
+  - author: "Simply D."
+    rating: 5
+    date: "2025-10-13"
+    text: >-
+      Patricia was very knowledgeable and went through step by step what was needed and the process to improve my skin . Her customer service, thorough care and attentiveness were top notch. I look forward and I am excited to see what my skin will look like after the treatment plan suggested is complete.
+    source: "Google"
+  - author: "Lena A."
+    rating: 5
+    date: "2025-06-21"
+    text: >-
+      She is simply the best! I reconnected with her after a 2 year hiatus. My skin is so different when Patricia works her magic. She is very professional and loves her craft so much! She is an amazing and sweet person too. I would not dare to go anyone else! Thanks, Patricia!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/patricia-montana-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

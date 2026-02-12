@@ -1,0 +1,60 @@
+name: "Charme Wellness Med Spa"
+slug: charme-wellness-med-spa
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "10139 Pines Blvd Suite 129, Pembroke Pines, FL 33025"
+zipCode: "33025"
+coordinates:
+  lat: 26.0094338
+  lng: -80.2813078
+phone: "(754) 900-5772"
+website: "http://www.charmemedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18126919378378843159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Charme Wellness Med Spa is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 11 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 11
+reviews:
+  - author: "Adrianne D."
+    rating: 5
+    date: "2025-12-01"
+    text: >-
+      I had a great experience at Charme Med Spa! I went in for a chemical peel, and Michelle was so kind, professional, and informative every step of the way. The treatment was easy and comfortable, and I’m already thrilled with my skin results. My complexion looks brighter and smoother than ever. I plan on coming back for more peels due to how positive my experience was. Highly recommend!
+    source: "Google"
+  - author: "Tara J."
+    rating: 5
+    date: "2025-11-07"
+    text: >-
+      Charme Med Spa is hands down the best med spa in Pembroke Pines! Michelle made me feel so comfortable from start to finish. She took her time explaining everything and my results came out flawless. The spa feels luxurious and relaxing! And I always leave feeling refreshed and confident. Highly recommend!
+    source: "Google"
+  - author: "Jennifer P."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      I had an amazing time at Charme Med Spa Michelle as a provider. Came in for Botox and mole removal, and she made my entire process comfortable  and professional.     The mole temoval was quick and healed  beautifully, and the botox results was perfect , smooth an natural.   Michelle is incredibly skilled , kind and gentle .  The spa itself is gorgeous and relaxing , will definitely be returning fo
+    source: "Google"
+  - author: "Carlos P."
+    rating: 5
+    date: "2025-07-04"
+    text: >-
+      Michelle is an amazing person! She took her time on my face, and created a skin care regimen for me to help get my skin back in check. I would recommend her to anyone in need of facial services. Definitely check out Charme Wellness Med Spa! Friendly staff, clean space, and passion behind her work. Will be coming back!
+    source: "Google"
+  - author: "Solomon H."
+    rating: 5
+    date: "2025-06-17"
+    text: >-
+      I had such a wonderful experience at Charme Wellness Med Spa! Michelle made me feel so comfortable during my laser treatments and explained everything thoroughly. The spa is beautiful, clean, and relaxing. Highly recommend for anyone looking for high-quality care and results!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/charme-wellness-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

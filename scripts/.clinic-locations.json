@@ -55,12 +55,14 @@
         {
           "city": "coral-springs",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 57,
+          "date": "2026-02-12"
         },
         {
           "city": "pembroke-pines",
           "state": "FL",
-          "status": "queued"
+          "status": "running"
         },
         {
           "city": "hialeah",

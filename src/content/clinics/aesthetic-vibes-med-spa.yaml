@@ -1,0 +1,60 @@
+name: "Aesthetic Vibes Med Spa"
+slug: aesthetic-vibes-med-spa
+city: miramar
+cityDisplay: "Miramar"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "12110 Miramar Pkwy, Miramar, FL 33025"
+zipCode: "33025"
+coordinates:
+  lat: 25.977786
+  lng: -80.3078171
+phone: "(786) 600-7453"
+website: "http://www.avmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7437403918627978236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aesthetic Vibes Med Spa is a plastic surgery practice located in Miramar, FL. With a 5-star rating from 126 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 126
+reviews:
+  - author: "brianna m."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      I love this place!! I have been here for about 8 months now and it has been amazing!! My laser appointments have been so good! Minnie is amazing, so great and explains everything. My hair is basically gone (I never thought this was possible!) The staff is amazing!! Also my facial with Maddie was so relaxing! She is so sweet and is constantly checking up on you and making sure that you feel good! I
+    source: "Google"
+  - author: "Oriana S."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      3 time at aesthetic vibes med spa and as always it is a delight. This is my second seasonal facial, the first one being the alpine facial and the second the sweethearts facials. Maddy as always treats my skin with delicacy and precision. The spa and the staff is incredible and I always feel so welcomed. I highly recommend for anyone looking for a new med spa 🤍
+    source: "Google"
+  - author: "Melissa M."
+    rating: 5
+    date: "2026-01-16"
+    text: >-
+      Amazing experience! I had a facial with Maddie and she was amazing, very knowledgeable and gentle. My skin looked refreshed and glowing after my facial. The owner is wonderful and truly cares about her clients. Beautiful space and great service. Definitely coming back!
+    source: "Google"
+  - author: "Smoraya N."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      Highly recommend!  I’ve been going to this holistic-based med spa for the past few months, and I can’t say enough good things about my experience. I first came in with concerns about stubborn hyperpigmentation, and after a consultation they created a customized bi-weekly facial routine for me. Just a month in, I’m already seeing real results! They’ve also been helping me with small facial hair thr
+    source: "Google"
+  - author: "Rebecca G."
+    rating: 5
+    date: "2025-07-24"
+    text: >-
+      I highly recommend Aesthetic Vibes Med Spa! I have had an excellent experience thus far with my laser treatment. From the moment I arrived, the staff was incredibly professional, welcoming, and knowledgeable. The environment was clean, calm, and friendly, which immediately put me at ease.  The service exceeded my expectations — everything was clearly explained, and the procedure was performed with
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aesthetic-vibes-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

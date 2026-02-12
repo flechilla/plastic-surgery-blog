@@ -1,0 +1,60 @@
+name: "AG Wellness & Aesthetics"
+slug: ag-wellness-aesthetics
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "601 N Flamingo Rd #309, Pembroke Pines, FL 33028"
+zipCode: "33028"
+coordinates:
+  lat: 26.012545199999998
+  lng: -80.3106458
+phone: "(954) 802-3399"
+website: "https://agmd.info/"
+googleMapsUrl: "https://maps.google.com/?cid=16705118726303438495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  AG Wellness & Aesthetics is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 6 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 6
+reviews:
+  - author: "Ruben J."
+    rating: 5
+    date: "2024-06-04"
+    text: >-
+      This is one of the very few reviews I have ever felt compelled to write. My experience at AG Wellness & Aesthetics was nothing short of incredible. From the moment you walk through the doors, every detail is meticulously taken care of. The ambiance is serene and calming, with everyone smiling and welcoming. My Daphene, was exceptionally knowledgeable. Although I've been using their IPL Hair Remova
+    source: "Google"
+  - author: "Joab F."
+    rating: 5
+    date: "2024-07-08"
+    text: >-
+      I’m glad I found AG wellness. They are truly the best medical spa in Pembroke Pines and all over south Florida. I did the facial skin treatment and best believe I’m going back again because I’m addicted. They have the friendliest staff and the best equipment. I definitely recommend if you’re looking for a fresh smooth skin 10/10
+    source: "Google"
+  - author: "Diana L."
+    rating: 5
+    date: "2024-06-03"
+    text: >-
+      I had excellent results. Lost 25 lbs and keeping it off. Daphne is excellent, caring and non-judgmental. It’s was extremely nice to have a supportive team on my journey to weight loss and healthy lifestyle.
+    source: "Google"
+  - author: "Jewel M."
+    rating: 5
+    date: "2024-05-06"
+    text: >-
+      I Loved the experience and my results! I did the botox and will be coming back everytime. Staff is very kind, knowledgable  and comforting.
+    source: "Google"
+  - author: "tonite8 G."
+    rating: 5
+    date: "2025-05-21"
+    text: >-
+      
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/ag-wellness-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

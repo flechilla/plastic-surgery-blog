@@ -1,0 +1,60 @@
+name: "Beauty Derm Med Spa"
+slug: beauty-derm-med-spa
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "300 SW 145th Terrace #125, Pembroke Pines, FL 33027"
+zipCode: "33027"
+coordinates:
+  lat: 26.0058573
+  lng: -80.3370497
+phone: "(305) 319-0792"
+website: "https://beautydermmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10231460926646845756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Beauty Derm Med Spa is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 7 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 7
+reviews:
+  - author: "Olga A."
+    rating: 5
+    date: "2022-06-08"
+    text: >-
+      I went to Jessica a couple of weeks ago, I feel so happy with my results, and so almost 3 weeks later I feel it was time to leave a review... As a newbie to Botox I got really nervous and concerned about getting injected too much and looking over done. Jessica made me feel really comfortable and explained everything in detail about what she'd be doing and what to expect. She worked on my forehead 
+    source: "Google"
+  - author: "jennifer d."
+    rating: 5
+    date: "2022-01-01"
+    text: >-
+      Jessie made me feel super comfortable doing Botox for the first time! I loved my results and can’t wait for my next session. She’s very professional, friendly and her spot is very welcoming and beautiful. Highly recommend Beauty Derm Med Spa!
+    source: "Google"
+  - author: "Raquel T."
+    rating: 5
+    date: "2022-01-26"
+    text: >-
+      I highly recommend Jessica at Beauty Derm Med Spa. She is so professional and friendly. She took the time to explain the injectables I was getting and why she used one brand over another. I did Botox and B12 treatment with her. The Botox came out super natural and I love the energy from the B12.
+    source: "Google"
+  - author: "Vivianh H."
+    rating: 5
+    date: "2022-12-03"
+    text: >-
+      Beauty Derm is the absolute best! Everything from their customer service to their office space is exceptional.  It was my first time coming in today and I had the pleasure of getting my PRP treatment done by Reza. Not only did he make me feel at ease from start to finish, but he also educated me throughout the process in great detail.  You can tell he truly cares about his client’s comfortability,
+    source: "Google"
+  - author: "Alyssa P."
+    rating: 5
+    date: "2022-01-19"
+    text: >-
+      Jessica is by far the most amazing person i've ever met. I was very anxious before my procedure and she was very comforting and patient with me. She has a light steady hand and her work is amazing. 10/10 RECOMMEND ❤️
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

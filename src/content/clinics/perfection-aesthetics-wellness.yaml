@@ -1,0 +1,60 @@
+name: "Perfection Aesthetics & Wellness"
+slug: perfection-aesthetics-wellness
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "18501 Pines Blvd #207, Pembroke Pines, FL 33029"
+zipCode: "33029"
+coordinates:
+  lat: 26.0100482
+  lng: -80.3960227
+phone: "(754) 285-5822"
+website: "https://perfectionaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8496037702616783940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Perfection Aesthetics & Wellness is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 27 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 27
+reviews:
+  - author: "Sarah R."
+    rating: 5
+    date: "2025-12-22"
+    text: >-
+      I had such an amazing experience at this medspa! From the moment I walked in, the staff made me feel so welcome, comfortable, and well cared for. Everyone was incredibly professional, knowledgeable, and took the time to answer all of my questions without ever making me feel rushed. I highly recommend this medspa to anyone looking for high-quality treatments and exceptional care. I will definitely 
+    source: "Google"
+  - author: "Niubis R."
+    rating: 5
+    date: "2025-12-03"
+    text: >-
+      Absolutely love this spa! The aesthetics of this please is another level. The people who work there make you feel like family. They offer a variant of treatments with competitive prices compared to other spas in the area. I would recommend anyone looking for beauty treatments to pay them a visit and they will fall in love with no doubts
+    source: "Google"
+  - author: "Jennifer R."
+    rating: 5
+    date: "2025-10-18"
+    text: >-
+      Absolutely obsessed with Perfection Aesthetics in West Pembroke Pines! 🌟 From the moment you walk in, you’re greeted with a serene, high-end atmosphere that feels more like a luxury retreat than a typical med spa. The space is immaculate-clean, modern, and thoughtfully designed to make you feel pampered and at ease.  Their Hydrofacial with Sandra is next-level. Leaves you feeling deeply hydrated,
+    source: "Google"
+  - author: "Alondra C."
+    rating: 5
+    date: "2025-12-20"
+    text: >-
+      Cannot express enough gratitude of my experience every time I come to the spa. All the ladies very joyful and welcoming. Honestly aside from the amazing service, they have amazing specials and promos. Definitely this is somewhere i enjoy to be!!
+    source: "Google"
+  - author: "Alejandro L."
+    rating: 5
+    date: "2025-08-07"
+    text: >-
+      I recently visited Perfection Aesthetics & Wellness and had an incredible experience from start to finish. From the moment I walked in, the atmosphere was calm, clean, and beautifully designed.  I tried both the laser hair removal and the IV nutrition therapy, and I couldn’t be happier with the results.  The laser hair removal treatment was not only fast and effective, but also surprisingly comfor
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/perfection-aesthetics-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

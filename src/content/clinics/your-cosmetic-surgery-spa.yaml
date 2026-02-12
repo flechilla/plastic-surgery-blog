@@ -1,0 +1,60 @@
+name: "Your Cosmetic Surgery & Spa"
+slug: your-cosmetic-surgery-spa
+city: hialeah
+cityDisplay: "Hialeah"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "1255 W 46th St suite #6 and 7a, Hialeah, FL 33012"
+zipCode: "33012"
+coordinates:
+  lat: 25.864211899999997
+  lng: -80.3082048
+phone: "(305) 218-3513"
+website: "https://xcosmeticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9451828039424114738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Your Cosmetic Surgery & Spa is a plastic surgery practice located in Hialeah, FL. With a 4.6-star rating from 216 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.6
+reviewCount: 216
+reviews:
+  - author: "J C."
+    rating: 5
+    date: "2025-11-25"
+    text: >-
+      When I start to look for a cosmetic surgery I red and review many different site. The vastity of information available are as much informative as  confusing. It took me a good three years to establish what I was really looking for, and how I wanted done in my over 50ths body. Beside the financial aspect, surgery can actually go wrong. So, from reading information and reviews, I started to look for
+    source: "Google"
+  - author: "Jamnelis F."
+    rating: 5
+    date: "2025-09-10"
+    text: >-
+      Perfect attention great customer service. The surgeon was very attentive and very informational. They’re very professional and I love my results. I got a mommy makeover and I’m just in love. They went ahead and snatched my waist and my breast are amazing. I would recommend them over and over again
+    source: "Google"
+  - author: "Julio C."
+    rating: 5
+    date: "2025-10-25"
+    text: >-
+      This place is the best , wonderful staff doctors very nice and professionals they really love what they doing ❤️❤️❤️❤️❤️❤️ Yasmina   , Jessica , Yanet thank you very much for your service and care.
+    source: "Google"
+  - author: "Diana M."
+    rating: 5
+    date: "2025-10-25"
+    text: >-
+      This is the best place , Yasmina, Janet , Jessica thank you , the Doctors are wonderful very professionals and supportive thank you Guys ❤️❤️❤️
+    source: "Google"
+  - author: "Ketty H."
+    rating: 5
+    date: "2023-12-14"
+    text: >-
+      I'm very happy with my results. Healing process is going  well and I'm very  happy and I'm only 2 weeks post op. the comfort and safety I felt by choosing  this facility they make me feel super  comfortable. Jasmine and her team was phenomenal and I will recommend my family and friends to go over there. It’s a 10 out of 10 best in care. They made me feel at home when I was there.  Everyone that wo
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/your-cosmetic-surgery-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

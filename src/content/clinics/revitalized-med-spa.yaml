@@ -1,0 +1,60 @@
+name: "Revitalized Med Spa"
+slug: revitalized-med-spa
+city: miramar
+cityDisplay: "Miramar"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "11611 City Hall Promenade, Miramar, FL 33025"
+zipCode: "33025"
+coordinates:
+  lat: 25.985989
+  lng: -80.29898109999999
+phone: "(954) 266-0434"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=9247227194276446524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Revitalized Med Spa is a plastic surgery practice located in Miramar, FL. With a 5-star rating from 44 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 44
+reviews:
+  - author: "Dormenique K."
+    rating: 5
+    date: "2024-11-29"
+    text: >-
+      These ladies deserve 10 stars for their services, professionalism and wealth of knowledge when it comes to their filers and weight loss services. I have been coming here for about a year now and I’m never disappointed! They have helped me achieve desired results and I look forward to continuing services here! -TK
+    source: "Google"
+  - author: "bridgette g."
+    rating: 5
+    date: "2024-08-17"
+    text: >-
+      If you are looking for a weight loss program that really works,  please check out Revitalized Med Spa.  Fernide has been great to work with.  She was always available when I had questions or concerns and was always very supportive.  I will definitely recommend them to my family and friends.
+    source: "Google"
+  - author: "Scotia P."
+    rating: 5
+    date: "2024-11-27"
+    text: >-
+      Where do I begin? I started my journey, with these beautiful ladies, after a recommendation from a dear friend. When I walked in, I felt calm and free. The smell of the office was also inviting. Jasha was the first, of the magnificent duo, that I met. She gave me their service  information and answered all of my questions. Then I met Fernide, which sealed the deal on my journey. Their interpersona
+    source: "Google"
+  - author: "deborah r."
+    rating: 5
+    date: "2024-08-18"
+    text: >-
+      I was so impressed with the service I received at Revitalize Med Spa.  Fernide and Jasha were both so friendly and helpful and they went above and beyond to make sure I was satisfied. I highly recommend Revitalize Med Spa to anyone looking for help with their weight loss journey.
+    source: "Google"
+  - author: "Florinda O."
+    rating: 5
+    date: "2024-03-13"
+    text: >-
+      Revitalized is the best place for your weight loss journey. They have always made me feel very comfortable and they are top notch very friendly. They have been with me every step of the way in my weight loss journey.
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

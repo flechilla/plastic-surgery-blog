@@ -1,58 +1,58 @@
 name: "Advanced Dermatology and Cosmetic Surgery"
 slug: advanced-dermatology-and-cosmetic-surgery
-city: boca-raton
-cityDisplay: "Boca Raton"
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
 state: FL
 stateFullName: Florida
-county: "Palm Beach County"
+county: "Broward County"
 neighborhood: ""
-address: "1905 Clint Moore Rd #103, Boca Raton, FL 33496"
-zipCode: "33496"
+address: "3 SW 129th Ave STE 100, Pembroke Pines, FL 33027"
+zipCode: "33027"
 coordinates:
-  lat: 26.4087467
-  lng: -80.1261444
-phone: "(561) 241-4474"
-website: "https://www.advancedderm.com/locations/florida/boca-raton/1905-clint-moore-rd-ste-103"
-googleMapsUrl: "https://maps.google.com/?cid=4243436539648472777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  lat: 26.0057145
+  lng: -80.31965679999999
+phone: "(954) 447-3200"
+website: "https://www.advancedderm.com/locations/florida/pembroke-pines/3-sw-129th-ave-ste-100"
+googleMapsUrl: "https://maps.google.com/?cid=613608042141745781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Advanced Dermatology and Cosmetic Surgery is a plastic surgery practice located in Boca Raton, FL. With a 4.7-star rating from 778 reviews, they offer cosmetic and reconstructive surgery services.
+  Advanced Dermatology and Cosmetic Surgery is a plastic surgery practice located in Pembroke Pines, FL. With a 4.6-star rating from 926 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-rating: 4.7
-reviewCount: 778
+rating: 4.6
+reviewCount: 926
 reviews:
-  - author: "Siobhan F."
+  - author: "Francis G. A."
     rating: 5
-    date: "2026-01-22"
+    date: "2026-01-28"
     text: >-
-      My appointment was at 1pm and I was seen at 1pm. Love an office that stays on top of their schedule. Did a full body exam of my moles, doctor was sweet and thorough, checked each one and took photos to refer to for follow up appointments. Easy check in and check out.
+      Dr. Nicky Gazy is an excellent dermatologist. He is very knowledgeable, professional, and takes the time to truly listen to your concerns. He explains everything clearly and makes you feel comfortable and confident in your treatment plan. The office staff is friendly and efficient, and the appointment was well organized with minimal wait time. I never felt rushed, and Dr. Gazy  was very thorough d
     source: "Google"
-  - author: "Erica E."
+  - author: "Anna B."
     rating: 5
-    date: "2026-01-16"
+    date: "2026-01-31"
     text: >-
-      Dr. Montoya was extremely helpful and reassuring. She took her time, explained everything clearly, and was very thorough. Her medical assistant was also very kind and helpful. I had a great experience overall.
+      I had the most awesome experience at Advanced Dermatology. The staff was very polite and helpful. Dr. Gottlieb is a fantastic professional who made me feel confident and relaxed during my minor surgery. I am pleased with the procedure and results. Thank you.
     source: "Google"
-  - author: "Ornella M."
+  - author: "Crime V. S."
     rating: 5
-    date: "2026-01-08"
+    date: "2025-12-12"
     text: >-
-      Dr. Klem demonstrates outstanding clinical knowledge and takes the time to listen carefully, explain diagnoses clearly, and ensure that patients feel informed and supported in their care. Their approach is both thorough and thoughtful, and I have always felt that my health and well-being were treated as a genuine priority. Front desk very friendly. I strongly recommend
+      Has a great experience at my appointment.  Front desk was very nice and courteous and I was seen promptly. Amy the PA is excellent and very knowledgeable.  She took her time to explain everything to me regarding my condition.  This entire office is great and me and my family will always come here for any dermatology related issues.
     source: "Google"
-  - author: "Marissa M."
+  - author: "Caryn R."
     rating: 5
-    date: "2026-01-30"
+    date: "2026-01-28"
     text: >-
-      The staff at Advanced Dermatology is very friendly and helpful, and the office is run very well. Dr. Montoya is an excellent doctor. She listened to us and is giving good thought to my daughter’s treatment plan.
+      Dr. Gottlieb is an excellent dermatologist. He is a caring doctor who takes the time to listen. He is professional, extremely knowledgeable, and thorough. I moved 50 miles away from Pembroke Pines three years ago, but I still make the trip to Dr. Gottlieb's office when I need dermatological care.
     source: "Google"
-  - author: "Deborah T."
-    rating: 5
-    date: "2026-01-22"
+  - author: "Tracy T."
+    rating: 1
+    date: "2026-01-28"
     text: >-
-      The staff was extremely professional, the office was clean warm and inviting. The Doctor was warm, engaging and took the time to explain my condition and my options. He was very professional.
+      I was seen by Physician Assistant Laura Cohen because I was unable to obtain a timely appointment with the physician. I presented with seborrheic dermatitis of the scalp and a rash on the posterior body. Best clinical practice would have been to place me in a gown to allow for a proper and thorough examination of the affected area. Instead, I was asked to pull up my shorts, and the area was only b
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/advanced-dermatology-and-cosmetic-surgery.jpg"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/advanced-dermatology-and-cosmetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

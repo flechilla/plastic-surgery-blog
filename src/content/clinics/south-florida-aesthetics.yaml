@@ -1,0 +1,60 @@
+name: "South Florida Aesthetics"
+slug: south-florida-aesthetics
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "10051 Pines Blvd B, Pembroke Pines, FL 33024"
+zipCode: "33024"
+coordinates:
+  lat: 26.009506800000004
+  lng: -80.2789043
+phone: "(954) 850-8530"
+website: "http://southfloridaaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15613692660417363559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  South Florida Aesthetics is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 31 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 31
+reviews:
+  - author: "Anahi M."
+    rating: 5
+    date: "2025-11-15"
+    text: >-
+      Victoria is the best injector I’ve ever met. Her technique is flawless, her eye for symmetry is unmatched, and my results are always natural and beautiful. I trust her completely with all my aesthetic treatments. 10/10 recommend!
+    source: "Google"
+  - author: "Barbara F."
+    rating: 5
+    date: "2025-10-03"
+    text: >-
+      I have been going to South Florida Aesthetics for years now and I am so happy with the results!  I highly recommend South Florida Aesthetics to anyone considering aesthetic treatments. Whether you’re a first-timer or looking for a new office, this is truly the best place to go. Dr. Victoria Verga is awesome and her staff is so welcoming and professional!
+    source: "Google"
+  - author: "Christina W."
+    rating: 5
+    date: "2025-08-02"
+    text: >-
+      Dr. Victoria is seriously amazing! I got my lip filler done by her and I’m so obsessed with how they turned out. She made the whole process super easy and comfortable—talked me through everything and made sure I felt totally at ease.  My lips look SO good… full, natural, and exactly what I was hoping for. She really has an eye for detail and knows how to give you that perfect, balanced look withou
+    source: "Google"
+  - author: "Mercedes R."
+    rating: 5
+    date: "2025-06-21"
+    text: >-
+      ⸻  I’ve been going to Victoria for over 10 years for peels and laser hair removal, and I can confidently say her work is nothing short of amazing. Her skill, professionalism, and genuine care for her patients are truly unmatched. Every visit is seamless, and she always makes me feel comfortable and cared for. The results speak for themselves—flawless skin, long-lasting smoothness, and a boost of c
+    source: "Google"
+  - author: "Angelina P."
+    rating: 5
+    date: "2025-08-02"
+    text: >-
+      I cannot say enough amazing things about my experience with Dr. Victoria—she is truly an artist! From the moment I walked in, I felt completely at ease. She took the time to listen to exactly what I wanted, explained everything thoroughly, and made sure I was comfortable every step of the way.  My Botox results are flawless—natural, smooth, and exactly what I envisioned. And my lips? I’m OBSESSED.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/south-florida-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

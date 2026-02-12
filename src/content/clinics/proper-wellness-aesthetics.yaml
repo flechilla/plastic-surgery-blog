@@ -1,0 +1,60 @@
+name: "Proper Wellness & Aesthetics"
+slug: proper-wellness-aesthetics
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1 SW 129th Ave STE 105, Pembroke Pines, FL 33027"
+zipCode: "33027"
+coordinates:
+  lat: 26.006864999999998
+  lng: -80.3195746
+phone: "(754) 888-9088"
+website: "https://propermedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=16217082575604018289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Proper Wellness & Aesthetics is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 52 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 52
+reviews:
+  - author: "Maikol R."
+    rating: 5
+    date: "2025-10-11"
+    text: >-
+      My experience at Proper Health and Wellness was absolutely amazing. I had an NAD IV therapy, and the results were beyond expectations. I feel more energized, focused, and my skin is glowing like never before. The place is spotless, the vibe is relaxing, and the staff is truly professional. A mind and body upgrade.
+    source: "Google"
+  - author: "Kerly L."
+    rating: 5
+    date: "2025-12-09"
+    text: >-
+      I had an amazing facial experience with Stephanie! The staff was professional, attentive, and made me feel completely relaxed. The treatment left my skin glowing and refreshed, and the ambiance was soothing. I highly recommend this place for anyone looking for a skincare service that will accommodate what your areas of concerns are. I purchased gift cards as holiday gifts for my family and found t
+    source: "Google"
+  - author: "Indira S."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      Yesterday I had an absolutely wonderful experience here! The facial was incredibly gentle, and I am so happy with the results. My skin feels amazing. I highly recommend this clinic and will definitely be coming back!"
+    source: "Google"
+  - author: "yuliska R."
+    rating: 5
+    date: "2025-06-24"
+    text: >-
+      From the moment I arrived at the clinic, I knew I was in excellent hands. The customer service was outstanding—warm, welcoming, and highly professional. One of the things that impressed me the most was the cleanliness of the space. For me, hygiene is a top priority, and this clinic exceeded all my expectations in that regard. Every area is spotless and thoughtfully maintained, which immediately ga
+    source: "Google"
+  - author: "Bohochic"
+    rating: 5
+    date: "2025-09-14"
+    text: >-
+      I love, Love, Love coming to my appointments with Dr. Santiago. Apart from being my PCP doctor. Im able to get aesthetic treatment and procedures at the office. Im currently on my 2nd session for laser hair removal on my shin and neck, and from my very 1st session I saw immediate results. The difference is night and day. Additionally, I'm on a weight loss journey im also excited about as im seing 
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/proper-wellness-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

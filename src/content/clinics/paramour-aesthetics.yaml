@@ -1,0 +1,60 @@
+name: "Paramour Aesthetics"
+slug: paramour-aesthetics
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "10139 Pines Blvd suite 115, Pembroke Pines, FL 33025"
+zipCode: "33025"
+coordinates:
+  lat: 26.0094338
+  lng: -80.2813078
+phone: "(954) 601-3554"
+website: "https://www.paramouraesthetics.org/"
+googleMapsUrl: "https://maps.google.com/?cid=9335499817848397317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Paramour Aesthetics is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 10 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 10
+reviews:
+  - author: "andrea c."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      I absolutely love her ! Dinah is so welcoming , and the service is top-notch. You can tell they really care about their customers. I’ll definitely be coming back and recommending them to friends.”
+    source: "Google"
+  - author: "Fabienne G."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      It’s always a great experience when coming to Paramour Aesthetics. Dinah is professional and friendly. She caters to each customer’s needs, and takes the time to explain everything in detail, ensuring you get your desired results. Highly recommend!
+    source: "Google"
+  - author: "Emma S."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      I’ve had nothing but great experiences with Ms. Dinah. The office is always clean and warm. Ms. Dinah is highly knowledge and takes her time to explains everything. I would recommend her services to everyone!
+    source: "Google"
+  - author: "Elle L."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      I had a wonderful experience. The atmosphere was very welcoming, and the services provided exceeded my expectations. I greatly appreciated the professionalism and the high quality of the work. You will not be disappointed!
+    source: "Google"
+  - author: "G"
+    rating: 5
+    date: "2025-11-16"
+    text: >-
+      Dinah is very professional and you can tell She loves what she does. She’s very interactive and always checks in, would highly recommend!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/paramour-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

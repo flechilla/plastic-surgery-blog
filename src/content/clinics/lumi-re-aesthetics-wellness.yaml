@@ -1,0 +1,60 @@
+name: "Lumière Aesthetics & Wellness"
+slug: lumi-re-aesthetics-wellness
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "SilverLakes"
+address: "17901 NW 5th St #106a, Pembroke Pines, FL 33029"
+zipCode: "33029"
+coordinates:
+  lat: 26.0097863
+  lng: -80.3860241
+phone: "(954) 246-4315"
+website: "https://lumiereaesthetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12719345673623342231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Lumière Aesthetics & Wellness is a plastic surgery practice located in Pembroke Pines, FL. With a 5-star rating from 93 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 93
+reviews:
+  - author: "Arnette B."
+    rating: 5
+    date: "2025-12-20"
+    text: >-
+      I had the most incredible experience at Lumière Aesthetics & Wellness in Pembroke Pines. I went in for PRF hair restoration and Botox, and I can genuinely say this clinic exceeded every expectation.  After just one PRF session, I noticed real results — faster growth, new baby hairs, and overall fuller, healthier-looking hair. PRF is such a powerful treatment, and Michelle explained every step clea
+    source: "Google"
+  - author: "Jessica Z."
+    rating: 5
+    date: "2026-01-25"
+    text: >-
+      Just one day post PRF EZ Gel injections and already so happy with my results. Michelle was professional, patient, and incredibly knowledgeable. I felt well-informed and comfortable from start to finish. Highly recommend if you’re considering PRF or Botox.
+    source: "Google"
+  - author: "Rebeka E."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      I tried Michelle after years with another injector and I’m so glad I did. She did my lips and Botox and I’m extremely happy with the results. She even made time for me before my vacation despite her busy schedule. Highly impressed and highly recommend!
+    source: "Google"
+  - author: "Johanna"
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      I recently visited Lumière as it came highly recommended by a friend. Nevermind the great customer service, the hydrafacial was hands down the BEST. My skin was glowing for days. As much as I want to gatekeep this gem, the girls deserve to know about this place. Michelle has created a customer for life. Ladies, do not leave without getting the hydrafacial, it’s worth every minute of your time. Tha
+    source: "Google"
+  - author: "Sarah G."
+    rating: 5
+    date: "2025-12-13"
+    text: >-
+      I love Lumiere, it’s a beautiful place that feels luxurious and cozy. Michelle is phenomenal and makes me feel so comfortable during the injection process. She walks me through each step and provides great recommendations based on my concerns. I 10/10 recommend ❤️
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/lumi-re-aesthetics-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

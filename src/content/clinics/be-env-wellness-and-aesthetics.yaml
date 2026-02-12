@@ -1,0 +1,60 @@
+name: "Be Env Wellness and Aesthetics"
+slug: be-env-wellness-and-aesthetics
+city: southwest-ranches
+cityDisplay: "Southwest Ranches"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "16652 Sheridan St, Southwest Ranches, FL 33331"
+zipCode: "33331"
+coordinates:
+  lat: 26.0288668
+  lng: -80.3709291
+phone: "(954) 887-3368"
+website: "http://beenvwellness.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3765327738112549607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Be Env Wellness and Aesthetics is a plastic surgery practice located in Southwest Ranches, FL. With a 5-star rating from 19 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 19
+reviews:
+  - author: "Jayda"
+    rating: 5
+    date: "2025-09-30"
+    text: >-
+      I had such a great experience at Be Env Wellness and Aesthetics! The staff was warm and welcoming, and the atmosphere immediately put me at ease. I received a HydraFacial, and my face looks and feels absolutely fabulous afterwards glowing, refreshed, and smooth. The whole treatment was relaxing and professional from start to finish.  I’ll definitely be coming back and highly recommend them to anyo
+    source: "Google"
+  - author: "Becky M."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      I absolutely LOVE the facials. It’s always such a relaxing experience yet thorough. I always leave with my skin glowing.
+    source: "Google"
+  - author: "Zoe E."
+    rating: 5
+    date: "2025-03-16"
+    text: >-
+      I could not recommend Be Env more!!! The staff is incredibly friendly and welcoming. Novia is so kind, caring, knowledgeable and accommodating. The spa itself is immaculately clean. Be Env has been such an integral part in my life for the past year or so and I am so thankful for finding them. The progress I’ve made thanks to Be Env is something I could only dream of - and they made my dreams a rea
+    source: "Google"
+  - author: "yvette g."
+    rating: 5
+    date: "2025-06-22"
+    text: >-
+      If you want a facial that will have your face feeling extremely clean and pampered, this is the Spa for you.   In my 30+ years of getting facials, these are the best by far!  Also, very professional and prompt service.
+    source: "Google"
+  - author: "Raymund M."
+    rating: 5
+    date: "2024-10-18"
+    text: >-
+      I had an amazing experience at BNV for my teeth whitening! The entire process was simple and incredibly relaxing. The staff was both courteous and welcoming, making me feel at ease from the moment I walked in. I also received IV therapy, and the process was seamless getting the IV in place was completely painless. I had no issues at all. Overall, it was a great experience, and I highly recommend B
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/be-env-wellness-and-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
