@@ -1,0 +1,60 @@
+name: "Dr. Michael Stefan, MD: Nip Tuck Aesthetics"
+slug: dr-michael-stefan-md-nip-tuck-aesthetics
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "West End"
+address: "8501 SW 124th Ave. Suite # 317, Miami, FL 33183"
+zipCode: "33183"
+coordinates:
+  lat: 25.688929599999998
+  lng: -80.3910034
+phone: "(305) 600-1738"
+website: "https://niptuckaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9324634619954029674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Michael Stefan, MD: Nip Tuck Aesthetics is a plastic surgery practice located in Miami, FL. With a 4.5-star rating from 70 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.5
+reviewCount: 70
+reviews:
+  - author: "Gabriel B."
+    rating: 5
+    date: "2025-04-22"
+    text: >-
+      My girlfriend had her surgery at Niptuck with Dr. Estefan, and we honestly couldn’t be happier with the results. From the very first consultation, he was professional, attentive, and took the time to really listen to what she wanted. He gave her exactly the body she was looking for, and she’s beyond happy with how everything turned out. The entire staff at Niptuck was amazing too, always caring an
+    source: "Google"
+  - author: "Cecilia P."
+    rating: 5
+    date: "2025-03-28"
+    text: >-
+      I’m pleased with the work of Dr.Michael Stefan! He is a very professional man as well caring. He listen to all my needs for my 2 surgeries. He gave me his honest opinion for the things I wanted done, I don’t regret a thing. If I had to do it again I would! He has more than 27 years of experience on the field and is a double certified surgeon I definitely recommend Dr.Stefan. 🫶
+    source: "Google"
+  - author: "Deborah N."
+    rating: 5
+    date: "2025-04-24"
+    text: >-
+      Went to Dr. Stefan for rhinoplasty and I came out looking like a Barbie! I’m so happy with the end results, so happy I came to him at Nip Tuck for the surgery of my dreams! He is so comprehensive, really takes his time to listen to you and advise you, very professional. I felt safe with him and confident that he would give me the perfect little thin nose I ever wanted and he did! Thank you Dr. Ste
+    source: "Google"
+  - author: "Catalina G."
+    rating: 5
+    date: "2025-05-13"
+    text: >-
+      Dr. Stefan is amazing! He knew exactly what I wanted and made me feel super comfortable throughout the whole process! I’m beyond happy with my results, I look so natural and it’s exactly what I pictured. Highly recommend!
+    source: "Google"
+  - author: "Elba G."
+    rating: 5
+    date: "2025-04-25"
+    text: >-
+      Dr . Stefan and his team did an amazing job. I did a full face lift and its been 3 weeks and I feel amazing. Very minimal scars, quick recovery time. I look so natural and his work truly exceded my expectations. Thank you once again!!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dr-michael-stefan-md-nip-tuck-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

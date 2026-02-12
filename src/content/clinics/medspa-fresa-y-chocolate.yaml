@@ -1,0 +1,60 @@
+name: "Medspa Fresa y Chocolate"
+slug: medspa-fresa-y-chocolate
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "West End"
+address: "13255 SW 137th Ave #114, Miami, FL 33186"
+zipCode: "33186"
+coordinates:
+  lat: 25.6442414
+  lng: -80.4138948
+phone: "(305) 798-9642"
+website: "https://www.instagram.com/medspafresaychocolate?igsh=aWV0YW15aXluNDc4"
+googleMapsUrl: "https://maps.google.com/?cid=6003796348011356101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Medspa Fresa y Chocolate is a plastic surgery practice located in Miami, FL. With a 5-star rating from 216 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 216
+reviews:
+  - author: "Jennyfer B."
+    rating: 5
+    date: "2024-10-24"
+    text: >-
+      I do my nails in Fresa and chocolate in west kendall with Adriana. She has been doing my Services for more than six months she's always above and beyond with everything that I request to have done, plus always she's on time and come up with ideas and designs for my nails. I really recommend to everyone her service you won't be disappointed. She have Great customer service and skills.
+    source: "Google"
+  - author: "Katina B."
+    rating: 5
+    date: "2025-05-16"
+    text: >-
+      Karla is super nice, takes her time and always does a great job. And always makes sure I’m content with what she does. Love her attitude and service ♡
+    source: "Google"
+  - author: "Evelyn A."
+    rating: 5
+    date: "2025-11-22"
+    text: >-
+      Sheyla is amazing! I have lost 20 lbs in one month. I have so much energy. I feel great! Thank you so much 😊
+    source: "Google"
+  - author: "ricardo l."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      Sheyla did an amazing job. Been going to her for a couple of months and lost 20 pounds! she’s the best!
+    source: "Google"
+  - author: "ROBERTO R."
+    rating: 5
+    date: "2025-07-04"
+    text: >-
+      Had an amazing experience. Went in there not knowing what to expect and was pleasantly surprised how comfortable they made me feel and attended to my needs. Went there originally for some “Brotox” and walked out also with their weight loss program. Sheyla is very knowledgeable and experienced, really loved how she integrates the art of feeling and looking good. I would highly recommend.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/medspa-fresa-y-chocolate.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

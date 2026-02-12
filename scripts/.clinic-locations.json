@@ -69,12 +69,14 @@
         {
           "city": "hialeah",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 93,
+          "date": "2026-02-12"
         },
         {
           "city": "homestead",
           "state": "FL",
-          "status": "queued"
+          "status": "running"
         },
         {
           "city": "aventura",
