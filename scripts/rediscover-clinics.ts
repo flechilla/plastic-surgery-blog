@@ -31,8 +31,26 @@ const SEARCH_QUERIES = [
   'plastic surgery',
   'cosmetic surgery', 
   'plastic surgeon',
-  'medspa',
 ];
+
+// Map Google primaryType to display labels
+const CATEGORY_MAP: Record<string, string> = {
+  'plastic_surgeon': 'Plastic Surgeon',
+  'cosmetic_surgeon': 'Cosmetic Surgeon',
+  'medical_spa': 'Medical Spa',
+  'dermatologist': 'Dermatologist',
+  'beauty_salon': 'Beauty Salon',
+  'skin_care_clinic': 'Skin Care Clinic',
+  'hair_removal_service': 'Hair Removal Service',
+  'doctor': 'Medical Practice',
+  'hospital': 'Hospital',
+  'health': 'Health & Wellness',
+};
+
+function categoryLabel(primaryType?: string): string {
+  if (!primaryType) return 'Cosmetic Practice';
+  return CATEGORY_MAP[primaryType] || primaryType.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+}
 
 // City coordinates for location bias
 const CITY_COORDS: Record<string, { lat: number; lng: number }> = {
@@ -131,6 +149,9 @@ interface PlaceResult {
     publishTime?: string;
     text?: { text: string };
   }>;
+  primaryType?: string;
+  types?: string[];
+  primaryTypeDisplayName?: { text: string };
 }
 
 interface ParsedAddress {
@@ -215,6 +236,9 @@ async function searchPlaces(query: string, center: { lat: number; lng: number })
     'places.googleMapsUri',
     'places.photos',
     'places.reviews',
+    'places.primaryType',
+    'places.types',
+    'places.primaryTypeDisplayName',
   ].join(',');
   
   const allPlaces: PlaceResult[] = [];
@@ -349,11 +373,12 @@ coordinates:
 phone: "${place.nationalPhoneNumber || ''}"
 website: ${place.websiteUri ? `"${place.websiteUri}"` : 'null'}
 googleMapsUrl: "${place.googleMapsUri || ''}"
+googleCategory: "${place.primaryType || ''}"
+googleCategoryDisplay: "${categoryLabel(place.primaryType)}"
 description: >-
-  ${name} is a plastic surgery practice located in ${addr.city}, ${addr.state}.${place.rating ? ` With a ${place.rating}-star rating from ${place.userRatingCount || 0} reviews, they offer cosmetic and reconstructive surgery services.` : ''}
+  ${name} is a ${categoryLabel(place.primaryType).toLowerCase()} located in ${addr.city}, ${addr.state}.${place.rating ? ` With a ${place.rating}-star rating from ${place.userRatingCount || 0} reviews.` : ''}
 specialties:
-  - "Plastic Surgery"
-  - "Cosmetic Surgery"
+  - "${categoryLabel(place.primaryType)}"
 rating: ${place.rating || 0}
 reviewCount: ${place.userRatingCount || 0}
 reviews:

@@ -44,6 +44,8 @@ const clinics = defineCollection({
     website: z.string().url().nullable().optional(),
     email: z.string().email().optional(),
     googleMapsUrl: z.string().url().optional(),
+    googleCategory: z.string().optional(),
+    googleCategoryDisplay: z.string().optional(),
     description: z.string(),
     specialties: z.array(z.string()),
     surgeons: z.array(z.object({

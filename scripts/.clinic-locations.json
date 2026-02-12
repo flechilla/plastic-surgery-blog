@@ -104,7 +104,9 @@
         {
           "city": "plantation",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 66,
+          "date": "2026-02-12"
         }
       ]
     },
