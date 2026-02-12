@@ -1,0 +1,60 @@
+name: "Eleve' Med Spa"
+slug: eleve-med-spa
+city: davie
+cityDisplay: "Davie"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "11340 w state rd, 11290 W State Rd 84 Unit 11340, Davie, FL 33325"
+zipCode: "33325"
+coordinates:
+  lat: 26.1092668
+  lng: -80.3009338
+phone: "(786) 540-0298"
+website: "https://elevemedspadavie.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1672013091736273383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Eleve' Med Spa is a plastic surgery practice located in Davie, FL. With a 4.7-star rating from 109 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 109
+reviews:
+  - author: "Camin C."
+    rating: 5
+    date: "2025-02-18"
+    text: >-
+      Wow!! Found this place through an ad so glad I did ! The facial was excellent. The aesthetician was really professional and really knowledgeable. I told her what was my concerns. She listened and cared a lot. The place is super clean and nice atmosphere which is really important to me I will definitely be back to get more treatments!!!  Highly recommend
+    source: "Google"
+  - author: "עדי ש."
+    rating: 5
+    date: "2025-12-27"
+    text: >-
+      I had such a lovely experience at Elevé Med Spa. The facial was exactly what my skin needed, and I felt relaxed and cared for the entire time. After the treatment, they even pampered me with an infrared bed, which was such a thoughtful and calming touch. I left feeling refreshed and glowing. I truly recommend this place and will definitely be coming back.
+    source: "Google"
+  - author: "MaryMagdalene C."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I started my weight loss journey and wanted to make my sagging thighs more firm. During my visit, they added a red light therapy treatment that I wasn’t originally going to get, and it was extremely close to my body to help tighten not just my thighs but other areas as well. They use different techniques to make my thighs more firm and reduce cellulite.
+    source: "Google"
+  - author: "yafit a."
+    rating: 5
+    date: "2025-10-20"
+    text: >-
+      This was honestly one of the best spa experiences I’ve ever had. From the moment I walked in, I felt welcomed and cared for. The treatment was exceptional, and the results were immediate. You can tell they truly care about their clients. Five stars all the way
+    source: "Google"
+  - author: "Felicia B."
+    rating: 3
+    date: "2025-10-27"
+    text: >-
+      So for $69 it was a generally satisfactory experience overall. It was a cleansing facial (no extractions) with the LED light procedure and a robust  neck/arm/hand massage. The session lasted less than a hour  although the Instagram special  said it was 75 min.  I wasn't pressured into buying any plans thankfully and my skin does  feel soft. Just a bit let down with the shortened service time even 
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/eleve-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

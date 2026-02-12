@@ -1,0 +1,60 @@
+name: "Elevate Med and Aesthetics"
+slug: elevate-med-and-aesthetics
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "9781 W Broward Blvd, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.1214667
+  lng: -80.278235
+phone: "(954) 716-6220"
+website: "https://www.elevatemedandaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18216486880203117084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Elevate Med and Aesthetics is a plastic surgery practice located in Plantation, FL. With a 5-star rating from 99 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 99
+reviews:
+  - author: "Patricia D."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Amy and the knowledgeable staff at Elevate never fail to go above and beyond the job at hand, always exceeding my expectations. My experience is comfortable, professional and positive and I learn more about health and skincare every time I visit! Their follow-up and diligence is tremendous too. If you’re not happy with something, they will make it right. And they won’t let you pay until they’ve se
+    source: "Google"
+  - author: "Naresh S."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      I can’t say enough good things about my experience with Elevate Med & Aesthetics and Dr. Amy. From the very first visit, she took the time to listen, understand my goals, and create a plan that has helped me get my health back on track.  Her approach is thoughtful, professional, and focused on long-term results rather than quick fixes. You can tell she truly cares about her patients and their over
+    source: "Google"
+  - author: "Carlos L. L."
+    rating: 5
+    date: "2025-12-21"
+    text: >-
+      ✨ Glow goals unlocked! ✨ Elevate Med & Aesthetics in Plantation, FL is next-level amazing. From the second you walk through the door, you’re greeted with warm smiles and five-star care. The Owner Amy and Simone are super friendly, knowledgeable, and they truly make you feel like their top priority. 💖The space? Spotless, modern, and totally luxe. The services? Top-tier and designed to make you loo
+    source: "Google"
+  - author: "Claudia M."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      Great experience at Elevate! I went in for an IV to hydrate because I’m postpartum and breastfeeding, and the team was extremely knowledgeable and knew exactly how to tailor the IV to my needs. They are clean, professional, and I felt very confident in their care. Highly recommend, they are incredible! 10/10.
+    source: "Google"
+  - author: "Sophia P."
+    rating: 5
+    date: "2025-12-30"
+    text: >-
+      I can’t say enough good things about my experience here. Amy is absolutely amazing—knowledgeable, attentive, and genuinely cares about your health and goals. She’s been guiding me through HRT and microdosing tirzepatide, and I feel better than I have in years. Everything is explained clearly, nothing feels rushed, and the care is truly personalized. Highly recommend this med spa to anyone looking 
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/elevate-med-and-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

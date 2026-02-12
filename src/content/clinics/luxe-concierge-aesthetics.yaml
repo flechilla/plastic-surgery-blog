@@ -1,0 +1,60 @@
+name: "LuXe Concierge Aesthetics"
+slug: luxe-concierge-aesthetics
+city: davie
+cityDisplay: "Davie"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "11336 W State Rd 84 Suite #7, Davie, FL 33325"
+zipCode: "33325"
+coordinates:
+  lat: 26.109169299999998
+  lng: -80.3008095
+phone: "(754) 715-5667"
+website: "https://luxeconciergeaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5041661071424015952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  LuXe Concierge Aesthetics is a plastic surgery practice located in Davie, FL. With a 5-star rating from 82 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 82
+reviews:
+  - author: "Annette P."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      I cannot say enough amazing things about Deborah at Luxe Concierge Aesthetics. Her skill level and attention to detail are truly unmatched. From the very first appointment, I felt completely safe and confident in her hands—her strong medical background makes a huge difference and has made every procedure feel thoughtful, precise, and incredibly well-executed.  I absolutely love my results from eve
+    source: "Google"
+  - author: "Mara L."
+    rating: 5
+    date: "2025-11-24"
+    text: >-
+      Deborah is AMAZING. I just got laser hair removal with her, and she is seriously so talented. She works quickly but is super precise, and she makes the whole experience easy and comfortable. She’s so sweet, so professional, and genuinely cares about making sure everything looks perfect. I absolutely love her and can’t recommend her enough!
+    source: "Google"
+  - author: "Joshua T."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      From the moment you arrive at LuXe Concierge Aesthetics, it’s clear that this isn’t just another skincare clinic — it’s a full-service aesthetic experience tailored to you. Founded and led by highly trained aesthetic professionals who bring both deep medical expertise and genuine care to every consultation, the practice offers a comprehensive range of advanced treatments, from wrinkle relaxers and
+    source: "Google"
+  - author: "Kara B."
+    rating: 5
+    date: "2025-10-05"
+    text: >-
+      Deb is phenomenal! As a first-timer for a chemical peel, I truly appreciated how well she explained the process and was so responsive to all my questions. She is truly skilled at refining aging skin. I had a beautiful, noticeable glow, and the results have been incredible. My friends and family keep giving me compliments on my skin! If you're looking for subtle, stunning results, Deb is your girl!
+    source: "Google"
+  - author: "Amanda L."
+    rating: 5
+    date: "2025-10-16"
+    text: >-
+      I can’t say enough amazing things about Deborah! I recently saw her for several treatments including a CO₂ laser on my hands, Botox, a VI chemical peel on my face, a BioRePeel on my chest, and laser hair removal on my underarms. Every single treatment went better than I could have imagined.  Deborah is very skilled and caring. She took the time to explain each procedure, set expectations on what t
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/luxe-concierge-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

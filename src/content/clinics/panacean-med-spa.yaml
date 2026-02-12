@@ -1,0 +1,60 @@
+name: "Panacean Med Spa"
+slug: panacean-med-spa
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "167 Weston Rd, Weston, FL 33326"
+zipCode: "33326"
+coordinates:
+  lat: 26.120760399999998
+  lng: -80.36300829999999
+phone: "(954) 937-6193"
+website: "http://www.panaceanmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2722633269396733123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Panacean Med Spa is a plastic surgery practice located in Weston, FL. With a 4.9-star rating from 94 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 94
+reviews:
+  - author: "Dr. S."
+    rating: 5
+    date: "2026-01-02"
+    text: >-
+      Amazing. Mariangela did my facial and I couldn't have asked for anyone better. She explained every step and my skin came out beautiful. Definitely returning.
+    source: "Google"
+  - author: "Adrian T."
+    rating: 5
+    date: "2024-05-06"
+    text: >-
+      Incredible experience! Very well maintained, and the knowledge that you are getting is the best. You are being walked through the whole entire process and completely understand what it means to truly be in a med spa. I highly recommend this location to anyone, Mariangela is amazing!
+    source: "Google"
+  - author: "Gabriela B."
+    rating: 5
+    date: "2025-01-21"
+    text: >-
+      Love the attention and kindness Mariangela gives to her clients. I have been treating my skin with her for over 10 years and I am very happy with the results. I recommend her skin treatments 100%.
+    source: "Google"
+  - author: "Sara B."
+    rating: 5
+    date: "2023-12-15"
+    text: >-
+      I had the most amazing hydra facial here. The staff was so friendly and welcoming. Made me feel so comfortable since this was my first facial. Not only did they make me feel so comfortable.. they explained everything to me during the whole process and explained in detail all the products that they were using. I had such a good experience and will 100% recommend this to anyone who is needing a faci
+    source: "Google"
+  - author: "Pleasant A."
+    rating: 5
+    date: "2025-01-25"
+    text: >-
+      I always have a great experience at Panacean Med Spa. My facial lady, Mariangela, is always so kind and welcoming and really takes her time with each facial. My skin is better than ever thanks to her!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/panacean-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

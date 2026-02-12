@@ -1,0 +1,60 @@
+name: "Just Me Med Spa"
+slug: just-me-med-spa
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "Town Center, 1730 Main St SUITE #210, Weston, FL 33326"
+zipCode: "33326"
+coordinates:
+  lat: 26.0974364
+  lng: -80.380943
+phone: "(754) 755-6575"
+website: "http://www.justmemedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14948786356367112528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Just Me Med Spa is a plastic surgery practice located in Weston, FL. With a 5-star rating from 11 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 11
+reviews:
+  - author: "Michele P."
+    rating: 5
+    date: "2025-06-21"
+    text: >-
+      Fast results, excellent patient care, and beautiful office! So happy to have found an affordable non-invasive option to tighten skin, tackle stubborn belly fat, and lift the butt. After 3 sessions I've seen notable changes in my body and feel more confident as a result. Arleta has a great deal of expertise and is honest about the services you need and the results you should expect. Wonderful exper
+    source: "Google"
+  - author: "Mariah M."
+    rating: 5
+    date: "2025-08-24"
+    text: >-
+      Just Me Med Spa @justmemedspa 📍Weston, FL @westontowncenter Follow @eatzwithsweetz on ig and fb for more! I tried a non-invasive body sculpting treatment. It uses electrical currents to tone and tighten muscles. You can see and feel your muscles contracting, but it doesn't hurt at all. It's like a workout without working out. I lost an inch in just one session! Would you give this a try?  #JustMe
+    source: "Google"
+  - author: "Susi B."
+    rating: 5
+    date: "2024-11-18"
+    text: >-
+      I can’t say enough great things about Arleta and her amazing team! From the moment you walk in, you're greeted with warmth and professionalism. They are incredibly knowledgeable and attentive, making you feel comfortable every step of the way. Arleta is truly a master of her craft—she listens to your needs, explains every detail of the process, and delivers results that far exceed expectations. Th
+    source: "Google"
+  - author: "Razmig B."
+    rating: 5
+    date: "2025-03-13"
+    text: >-
+      I recently visited Just Me Med Spa and had an amazing experience! From the moment I walked in, the staff was welcoming and professional. The atmosphere was clean, relaxing, and well-designed, making me feel comfortable right away.  I tried the Slimwave treatment and red light therapy, and I couldn’t be happier with the results. The Slimwave session was incredible—it helped tone my muscles, improve
+    source: "Google"
+  - author: "Florence P."
+    rating: 5
+    date: "2025-02-19"
+    text: >-
+      Thank you, Arleta and Vida, for an amazing experience.  The Electro Lymphatic Drainage session was very relaxing, and I'm sure I will enjoy all the related health benefits.  Your space is beautiful, peaceful, and inviting.  I'll be back soon!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/just-me-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Aurora Medspa"
+slug: aurora-medspa
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "294 S University Dr Suite 294, Plantation, FL 33324"
+zipCode: "33324"
+coordinates:
+  lat: 26.1173675
+  lng: -80.2508458
+phone: "(954) 859-1502"
+website: "https://theauroramedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14466031836178934185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aurora Medspa is a plastic surgery practice located in Plantation, FL. With a 5-star rating from 40 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 40
+reviews:
+  - author: "One G. S."
+    rating: 5
+    date: "2024-02-02"
+    text: >-
+      TA Perfect Partnership for a Aurora Madspa Experience I had the pleasure of visiting Aurora MedSpa recently, and I was absolutely blown away by the exceptional experience it offered. From the moment I stepped inside, I was greeted by an atmosphere of tranquility and elegance.  Working closely with Sadia Ali, the owner of Aurora MedSpa, One Green Solution has truly taken this spa to another level. 
+    source: "Google"
+  - author: "Sarah B."
+    rating: 5
+    date: "2024-02-17"
+    text: >-
+      Highly recommend!!!!!!! Excellent service!!!! I absolutely love Dr. Ali, not forgetting her incredible staff Angela and Esther!!!! I have no regrets meeting you ladies. Dr. Ali and her team made me felt very comfortable the moment I walked in to the office, she assured me that she was going to take good care of me, and she sure did. Angela is such a sweetheart, she knows the true meaning of Custom
+    source: "Google"
+  - author: "Erin Y."
+    rating: 5
+    date: "2024-02-17"
+    text: >-
+      I did a lip filler with Nicole at Aurora med spa & couldn't be happier with the results! Nicole listened to me & respected my desire to have a natural looking enhancement to address fine lines & loss of volume that is age related- my biggest request was to look natural & not over done! She achieved that & I had very little swelling! Picture is the day after! The entire Aorora team was welcoming,ki
+    source: "Google"
+  - author: "Rocky R."
+    rating: 5
+    date: "2023-12-17"
+    text: >-
+      I had an exceptional experience at Aurora Medspa! Angela at the front desk was incredibly helpful, ensuring a smooth check-in process. Esther, my go-to esthetician, delivered impeccable service with a skillful touch. The doctor's professionalism and expertise were truly impressive. Overall, a top-notch team providing excellent care.
+    source: "Google"
+  - author: "Farida L."
+    rating: 5
+    date: "2022-11-23"
+    text: >-
+      The best experience! Dr. Ali has the best bedside manners. Her and her staff are professional, kind, patient, and so much fun to visit. I never thought going to see a doctor would be “fun” but it was such a great experience with great results. The environment is like a safe place, a no judgement zone, and they really make you feel comfortable. I get a little lightheaded with needles, and they made
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aurora-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

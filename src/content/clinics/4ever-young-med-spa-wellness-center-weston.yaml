@@ -1,0 +1,60 @@
+name: "4Ever Young Med Spa & Wellness Center - Weston"
+slug: 4ever-young-med-spa-wellness-center-weston
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "4551 Weston Rd, Weston, FL 33331"
+zipCode: "33331"
+coordinates:
+  lat: 26.0641476
+  lng: -80.3643499
+phone: "(954) 314-2000"
+website: "https://4everyoungantiaging.com/weston/?utm_source=google&utm_medium=organic&utm_campaign=gbp-weston"
+googleMapsUrl: "https://maps.google.com/?cid=3630578993951331990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  4Ever Young Med Spa & Wellness Center - Weston is a plastic surgery practice located in Weston, FL. With a 4.8-star rating from 174 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 174
+reviews:
+  - author: "Debby M."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      I cannot speak more highly of this place! When I arrived there, I was in a super low place; my hormones were way way, way offkilter, I felt crappy, and I was just almost into despair. After having an hour plus long closed door conversation with Tyler, and beginning his plan for me, the turnaround within a month has been nothing short of amazing.  I realize it hasn’t been a whole lot of time as of 
+    source: "Google"
+  - author: "Sameer K."
+    rating: 1
+    date: "2025-12-17"
+    text: >-
+      I will never go to this place again. The doctor was great, but the business policy required me to pay extra for touch-ups. If the product did not work properly, I should not have to pay again for a touch-up. The doctor was only allowed to use five units. I would rather go to a reputable place that stands behind their work, especially since they are charging the same prices as highly reputable doct
+    source: "Google"
+  - author: "Sharla M."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      Fauzia is so knowledgeable about all the products and lasers.  She’s also a wonderful person I simply enjoy visiting with.  I also appreciate that appointments are always running on time and the clinic is extremely clean.
+    source: "Google"
+  - author: "Rhonni J."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Fauzia is awesome. Takes her time explaining procedures plus very gentle & precise. Hilda, at the front desk, is always a pleasure plus today I met one of the partners of the company, Tyler… great guy and so knowledgeable. Highly recommend 4ever young! 😃
+    source: "Google"
+  - author: "Scott H."
+    rating: 5
+    date: "2025-07-29"
+    text: >-
+      Hands down the best service I’ve ever received. Natalia at 4Ever Young is a total professional—knowledgeable, attentive, and genuinely cares about her clients. She made the entire experience seamless and made sure I felt comfortable and informed every step of the way. If you’re looking for top-tier service, ask for Natalia. She’s the best in the game.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/4ever-young-med-spa-wellness-center-weston.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

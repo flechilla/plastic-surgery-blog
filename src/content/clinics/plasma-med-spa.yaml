@@ -1,0 +1,60 @@
+name: "Plasma Med Spa"
+slug: plasma-med-spa
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1310 SW 160th Ave, Weston, FL 33326"
+zipCode: "33326"
+coordinates:
+  lat: 26.1051334
+  lng: -80.36085159999999
+phone: "(954) 719-5634"
+website: "https://plasmamedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1398339695836058713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Plasma Med Spa is a plastic surgery practice located in Weston, FL. With a 5-star rating from 116 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 116
+reviews:
+  - author: "Karisa"
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      Tal is seriously the best!! As a physician, I am very picky about where I go for treatments, and Tal is the best of the best. She pays so much attention to detail and you can tell she really has taken the time to educate her self and that her training is top notch. My results always look amazing. She has a great eye for facial balancing, and best of all she actually cares about her clients. I love
+    source: "Google"
+  - author: "Rachel F."
+    rating: 5
+    date: "2025-12-08"
+    text: >-
+      Such an amazing MedSpa! As soon as you enter the lobby, you can tell that it’s going to be a high-quality, luxurious experience. Dr.Tal explained that the procedure very well and kept checking in with me to make sure I was tolerating the laser treatment well. Truly such a great experience and can’t wait to be back! I’d recommend anyone!
+    source: "Google"
+  - author: "Alicia C."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      Loved coming here! Tal was extremely caring, professional, and she took the time to make sure I felt comfortable throughout the entire process. She was very thorough and did an excellent job!  The results were exactly what I was hoping for. Her follow-up was outstanding and really showed how much she cares about her patients. The office was also very clean and welcoming. I highly recommend her!!
+    source: "Google"
+  - author: "Shamna N."
+    rating: 5
+    date: "2025-12-02"
+    text: >-
+      I had been struggling with high pigmentation for almost a year when I first consulted Plasma Med Spa. During my first visit, she made me feel completely comfortable and gave me a detailed explanation about the causes of my pigmentation. She even provided some samples for me to try. I told her I would return after doing a bit of research, and as promised, I went back and began my pigmentation treat
+    source: "Google"
+  - author: "rachel d. w."
+    rating: 5
+    date: "2025-10-15"
+    text: >-
+      If you want to look and feel your absolute best, Tal at Plasma Med Spa is the one to trust. She has a true gift for enhancing natural beauty and making every client feel confident, radiant, and cared for. From Botox and fillers to specialized skin treatments, Tal’s technique is flawless—her hands are nothing short of magical.  What sets her apart is not just the incredible results, but the way she
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/plasma-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

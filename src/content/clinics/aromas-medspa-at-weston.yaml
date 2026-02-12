@@ -1,0 +1,60 @@
+name: "Aromas Medspa at Weston"
+slug: aromas-medspa-at-weston
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2402 Weston Rd, Weston, FL 33326"
+zipCode: "33326"
+coordinates:
+  lat: 26.089690599999997
+  lng: -80.3707396
+phone: "(954) 349-3001"
+website: "https://aromaslaser.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+googleMapsUrl: "https://maps.google.com/?cid=12759104091401784217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aromas Medspa at Weston is a plastic surgery practice located in Weston, FL. With a 4.8-star rating from 142 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 142
+reviews:
+  - author: "Sabrina L."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Dr. Luciana is absolutely exceptional! She is incredibly professional, knowledgeable, and truly takes the time to make sure her patients feel comfortable and informed. Her patience and attention to detail are unmatched, and she always listens carefully to my goals and concerns. Every experience with her has been nothing short of amazing, and I’ve been thrilled with my results each and every time. 
+    source: "Google"
+  - author: "Martina G."
+    rating: 5
+    date: "2025-11-11"
+    text: >-
+      I’m so happy with my results! Dr. Luciana was  amazing, she made me feel completely comfortable throughout the whole process. She really took the time to listen to what I wanted and achieved exactly that. My lips look beautiful, natural, and perfectly shaped. The entire experience was smooth and met my expectations. I couldn’t recommend her more💕
+    source: "Google"
+  - author: "Tiffany B."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      Luciana did an amazing job with my Botox! The results came out so natural and exactly what I wanted. She truly cares about her clients and takes her time to make sure everything is perfect. Highly recommend her!
+    source: "Google"
+  - author: "Joni E."
+    rating: 5
+    date: "2025-09-26"
+    text: >-
+      Luciana is wonderful. She is very knowledgeable and took her time answering all my questions. She was extremely through and did a great job with Botox/dysport injections. I am very happy with the results!
+    source: "Google"
+  - author: "Maria d. l. a. v. v."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      Is been a few years since I do my Botox with Luciana she is the best, always with a smile and that great actitud the best 100% recommend if you go to Aromas Medspa Weston ask for her!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aromas-medspa-at-weston.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

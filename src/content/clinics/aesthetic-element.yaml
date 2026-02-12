@@ -1,0 +1,60 @@
+name: "Aesthetic Element"
+slug: aesthetic-element
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2893 Executive Park Dr STE 304, Weston, FL 33331"
+zipCode: "33331"
+coordinates:
+  lat: 26.0828271
+  lng: -80.3720373
+phone: "(954) 303-9700"
+website: "https://aestheticelement.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5583497289895068635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aesthetic Element is a plastic surgery practice located in Weston, FL. With a 4.9-star rating from 638 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 638
+reviews:
+  - author: "Laura V."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      Truly wish they had more stars to give. Ryan really pays attention to detail and makes sure that you walk out the door LOVING the results. I cannot recommend this place enough. Front desk girls are also all very sweet and welcoming. Wish I had found this place sooner!
+    source: "Google"
+  - author: "Melissa M."
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      I’ve been coming to Aesthetic Element for about a year now and the staff has always been very welcoming, helpful, and patient. I’ve worked with Dani since my first visit, and she is amazing! Dani has always made me feel extremely comfortable, as she is very professional, knowledgeable, caring, and an absolute sweetheart! She always goes above and beyond to make sure that she provides you with the 
+    source: "Google"
+  - author: "Juan L."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      I want to give a big thank you to my daughter Sophia for referring me to Aesthetic Element! From my very first visit, I’ve had such a wonderful experience. The treatments I’ve received have met—and even exceeded—my expectations. The staff here are friendly, professional, and make you feel completely comfortable from start to finish. It’s clear that everyone truly cares about their clients’ experie
+    source: "Google"
+  - author: "Marissa Y."
+    rating: 5
+    date: "2025-10-22"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ I had such an amazing experience at Aesthetic Element! From the moment I walked in, the entire staff made me feel welcome and comfortable. The space is super clean and inviting — you can tell they really care about the client experience.  A huge shoutout to Sophia, who referred me and provided absolutely top-tier treatment. She was professional, attentive, and made sure I felt taken car
+    source: "Google"
+  - author: "Darcey H."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      I want to share what an exceptional practitioner Ryan at AE is! I had a neurotoxin appointment with him, and after  explaining what I would like and discussing my concerns, he explained what to expect and why he was treating me in a particular manner. I am loving my results at this point. Finding an established and honest business that has experienced and  knowledgeable providers who  are truly in
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/aesthetic-element.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Dermatology and Cosmetic Center"
+slug: dermatology-and-cosmetic-center
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "17170 Royal Palm Blvd, Weston, FL 33326"
+zipCode: "33326"
+coordinates:
+  lat: 26.088763999999998
+  lng: -80.3783527
+phone: "(954) 349-3376"
+website: "https://scacce.com/locations/weston/"
+googleMapsUrl: "https://maps.google.com/?cid=6903778751946946510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dermatology and Cosmetic Center is a plastic surgery practice located in Weston, FL. With a 3.5-star rating from 19 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 3.5
+reviewCount: 19
+reviews:
+  - author: "Top F. P."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      Best dermatologist is Weston! For sure. Always friendly and attentive. Arrived for my appointment time and within 5 minutes was already being take care of by the Dr. The office also underwent a full renovation and looks great. Super recommended.
+    source: "Google"
+  - author: "Cary L."
+    rating: 1
+    date: "2025-09-14"
+    text: >-
+      DOCTOR EDUARDO WEISS OF HOLLYWOOD DERMATOLOGY RUINED MY LIFE AS I KNEW IT!  WHAT HE SAID DURING CONSULTATION AND WHAT HE SURGICALLY DID TO ME IS GROSS NEGLIGENCE & WILLFUL DISREGARD FOR MY WELL BEING!  I TRUSTED DR. WEISS TO DO WHAT HE SAID WAS A SIMPLE MOHS SURGERY ON MY NOSE.  HE LEFT ME WITH A COLLAPSED LEFT NASAL VALVE/LATERAL WALL & INTERNAL PERMANENT DAMAGE IN BOTH NOSTRILS!  BREATHING THROU
+    source: "Google"
+  - author: "Miguel S."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      Great Doctor! All very attentive, fast and professional. A great find. Recommended.
+    source: "Google"
+  - author: "Lisandro Z."
+    rating: 1
+    date: "2024-08-15"
+    text: >-
+      Extremely Poor Experience with Skin Scan and Biopsy Service  I went in for a skin scan on May 30th, and they took a sample for a biopsy. Since then, I’ve made over 10 calls, leaving messages to the person is supposedly responsible for delivering biopsy results. I was able to reach her once, and she informed me that they had lost my file but would contact me the following week to discuss the treatm
+    source: "Google"
+  - author: "Emily"
+    rating: 2
+    date: "2023-09-20"
+    text: >-
+      I hate to pile onto the already low reviews for this place but unfortunately I think it is well deserved. I’ve been here on 3 separate occasions. Once for a mole removal, which was great- zero problems. Last two visits however hardly qualify as healthcare.  Simply put, this feels like an establishment where your wellbeing is not a priority or concern. The staff, from the reception to the primary d
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dermatology-and-cosmetic-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

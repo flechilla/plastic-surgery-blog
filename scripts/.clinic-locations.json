@@ -83,12 +83,14 @@
         {
           "city": "aventura",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 59,
+          "date": "2026-02-12"
         },
         {
           "city": "weston",
           "state": "FL",
-          "status": "queued"
+          "status": "running"
         },
         {
           "city": "davie",

@@ -1,0 +1,60 @@
+name: "Beautouch Med Spa"
+slug: beautouch-med-spa
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "90 Indian Trace, Weston, FL 33326"
+zipCode: "33326"
+coordinates:
+  lat: 26.133152499999998
+  lng: -80.40056609999999
+phone: "(754) 200-0325"
+website: "https://www.beautouchmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13991075583468476871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Beautouch Med Spa is a plastic surgery practice located in Weston, FL. With a 5-star rating from 171 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 171
+reviews:
+  - author: "Maria G."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      I had an absolutely amazing massage with Lily. Not only did I feel incredible during and after the session, but I noticed real therapeutic results—especially in my right shoulder, which has been an ongoing issue from being an athlete for many years. Lily took the time to ask thoughtful questions and truly understand my needs so the massage could be customized to target problem areas. Her knowledge
+    source: "Google"
+  - author: "Tara C."
+    rating: 5
+    date: "2026-01-12"
+    text: >-
+      I absolutely love this place and would never go anywhere else ! Dr Sara , Lilly , and the whole team are absolutely amazing !!! They truly care about you and go above and beyond to make sure you are happy. And most importantly in my opinion they are honest which goes a very long way with me ❤️
+    source: "Google"
+  - author: "Maria G."
+    rating: 5
+    date: "2025-07-17"
+    text: >-
+      I can’t say enough good things about Dr. Sara and the entire team at Beautouch Med Spa. From the moment you walk in, you’re welcomed into a clean, calm, and beautifully designed space that immediately puts you at ease. The environment is truly inviting, and the staff couldn’t be more warm, friendly, and attentive.  Whether you’re there for a facial, esthetic services, or a therapeutic massage, you
+    source: "Google"
+  - author: "ed f."
+    rating: 5
+    date: "2024-11-11"
+    text: >-
+      My whole family has been going for treatment and therapy for many years. We come all the way from Miami for there is no better place in South Florida. Personal service and Profesional Staff! My experience with deep tissue massages here from a qualified sports therapist is the best in town!
+    source: "Google"
+  - author: "Sandra G."
+    rating: 5
+    date: "2025-05-27"
+    text: >-
+      From the moment I arrived at the spa, the service was impeccable. The atmosphere is warm, harmonious, and full of thoughtful details that invite relaxation right away. The staff is extremely professional, kind, and it’s clear that they truly love what they do — especially Miss Lili, whose work is absolutely outstanding. Highly recommended!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/beautouch-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

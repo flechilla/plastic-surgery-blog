@@ -1,58 +1,58 @@
 name: "The Nathan Clinic: Plastic Surgery and Aesthetics"
 slug: the-nathan-clinic-plastic-surgery-and-aesthetics
-city: miami
-cityDisplay: "Miami"
+city: miramar
+cityDisplay: "Miramar"
 state: FL
 stateFullName: Florida
-county: "Miami-Dade County"
+county: "Broward County"
 neighborhood: ""
-address: "4770 Biscayne Blvd STE 830, Miami, FL 33137"
-zipCode: "33137"
+address: "12600 Pembroke Rd Ste 312, Miramar, FL 33027"
+zipCode: "33027"
 coordinates:
-  lat: 25.8186522
-  lng: -80.1882368
+  lat: 25.992720700000003
+  lng: -80.3137971
 phone: "(786) 396-9276"
-website: "https://drnathan.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=miami"
-googleMapsUrl: "https://maps.google.com/?cid=4433079512792276698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+website: "https://drnathan.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=miramar"
+googleMapsUrl: "https://maps.google.com/?cid=5497072402667075594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  The Nathan Clinic: Plastic Surgery and Aesthetics is a plastic surgery practice located in Miami, FL. With a 5-star rating from 406 reviews, they offer cosmetic and reconstructive surgery services.
+  The Nathan Clinic: Plastic Surgery and Aesthetics is a plastic surgery practice located in Miramar, FL. With a 4.9-star rating from 61 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-rating: 5
-reviewCount: 406
+rating: 4.9
+reviewCount: 61
 reviews:
-  - author: "Drexanna S."
+  - author: "Catherine W."
     rating: 5
-    date: "2026-01-28"
+    date: "2025-12-29"
     text: >-
-      I had a breast reduction with Dr. Nathan in Miami, my experience exceeded every expectation. Traveling from the Caribbean, it was important to choose a surgeon I could fully trust, and from the very beginning, Dr. Nathan & his team made that decision easy.  What stood out most to me was his honesty and transparency. He took the time to explain everything clearly, set realistic expectations, and an
+      Dr. Nathan is simply the best. He removed my badly ruptured implants and all the silicone that had leaked throughout my chest, and then managed to lift and sculpt beautiful new little breasts for me  out of basically nothing. My results are simply amazing. I can't thank him enough.  In addition to being at the top tier of his profession, Dr. Nathan is a warm and compassionate human being. He is th
     source: "Google"
-  - author: "Michael B."
+  - author: "Erika R."
     rating: 5
-    date: "2026-01-05"
+    date: "2025-02-25"
     text: >-
-      I have nothing but good words for the entire experience that I have had with Dr. Nathan’s expertise, demeanor and care.  All his office staff are  courteous and provide second to none services with each and every visit. Everyone is professional, prompt, and efficient.  Dr. Nathan’s skills, finesse and most of all a friendly communicative style in interactions makes these procedures and follow ups 
+      I cannot express enough gratitude for the incredible work Dr. Nathan and his team have done for me. From the moment I walked into the office, I felt completely at ease. The staff was warm, professional, and attentive.  Dr. Nathan is not only a master in his field. He took the time to listen to my concerns and he thoroughly explain my options, and set realistic expectations. I can not emphasize his
     source: "Google"
-  - author: "Brenda S."
+  - author: "May"
     rating: 5
-    date: "2025-12-22"
+    date: "2023-02-14"
     text: >-
-      My experience from beginning to end has been superb! Dr. Nathan is an amazing surgeon, professional and a master at his craft. All his staff were very patient and caring since I faint easily … I have to give a big thank you to Barbara, Alex, Sophia and Jenny ! I am currently 10 weeks post surgery and feeling confident and healthy thanks to the decision I made to go with the best Surgeon and Team i
+      Dr Nathan did my breast reduction on 02/10/23, and am very happy with my results. I can't wait for all the swelling to go down. I first meet Dr Nathan virtual, and after talking to him i knew I wanted him to be my doctor. Am so happy i went with my gut, one of the best decision I've made.  His honesty and bedside manners is out of this world.  Dr Nathan is not the only great one, his staff is awes
     source: "Google"
-  - author: "M"
+  - author: "Maria C."
     rating: 5
-    date: "2026-01-12"
+    date: "2023-08-08"
     text: >-
-      I can’t say enough good things. Dr. Nathan was my first and only consult and from the start everyone has been so kind and they truly care about your experience which made it easy to book with them the same day.  Dr. Nathan is available at any time by text to answer any questions, which shows how much he values his patients and their experiences. Dr. Nathan healed the younger me who always dreamed 
+      Dr Nathan was absolutely amazing ! Him and his team took a great deal of care with many pre and post operating appointments, check ins and phone calls. They ensured that they provided the highest grade of service and answered all questions in a timely and informative fashion. I am so pleased with my results. Dr Nathan and his team were absolutely fantastic to work with from start to finish. Thank 
     source: "Google"
-  - author: "Jorge L. G."
+  - author: "skylar s."
     rating: 5
-    date: "2026-01-28"
+    date: "2024-06-15"
     text: >-
-      I would like to sincerely thank Dr. Nathan as well as his staff members Alexandra and especially Jenifer for her warm and sincere service. Dr. Nathan was very professional and amiable during my appointment with him. Despite his well regarded reputation he is also a very humble person.  Thank you!
+      He is a terrific surgeon with a great personality that makes you feel comfortable. Just got my breast augmentation yesterday. They look great even though I haven’t taken the post op bra off. I can still tell I’m going to love my results. They feel amazing and I can tell he took his time in surgery while minimizing how much manipulation he had to do because the pain is not there whatsoever. There i
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-nathan-clinic-plastic-surgery-and-aesthetics.jpg"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-nathan-clinic-plastic-surgery-and-aesthetics.jpg"
 yearEstablished: null
 certifications: []
 verified: false

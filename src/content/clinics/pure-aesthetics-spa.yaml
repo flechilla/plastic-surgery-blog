@@ -1,0 +1,60 @@
+name: "Pure Aesthetics Spa"
+slug: pure-aesthetics-spa
+city: weston
+cityDisplay: "Weston"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1730 Main Street Suite 208 (second floor) Weston towncenter, Weston, FL 33326"
+zipCode: "33326"
+coordinates:
+  lat: 26.0971899
+  lng: -80.3810791
+phone: "(954) 860-8200"
+website: "http://pureweston.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1725871537706881873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Pure Aesthetics Spa is a plastic surgery practice located in Weston, FL. With a 4.9-star rating from 191 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 191
+reviews:
+  - author: "Helen P."
+    rating: 5
+    date: "2025-10-29"
+    text: >-
+      Ashley is amazing! She’s honestly one of the nicest and most professional people I’ve ever met. Every time I go in for my laser hair removal, she makes me feel so calm and comfortable — my stress just melts away. She’s super sweet, peaceful, and really knows what she’s doing. The service is always great, and I’ll definitely keep coming back!
+    source: "Google"
+  - author: "fran m."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      Alex did an amazing job.The oxygen infusion  facial was thorough, relaxing, and made a noticeable difference right away. Professional, attentive, and clearly skilled. Id definitely come back and recommend her to anyone looking for solid skin care
+    source: "Google"
+  - author: "Anna"
+    rating: 5
+    date: "2025-08-24"
+    text: >-
+      Wow, what a great place! The atmosphere is beautiful, the staff is friendly, and the service is excellent! I got an IPL facial with Alex, and she explained everything and answered all my questions. She's so nice and really knows her stuff, and she's passionate about helping people feel and look their best! My skin is so soft and glowing after the treatment! I totally recommend this spa to all the 
+    source: "Google"
+  - author: "JamRock311"
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      An absolutely delightful experience to have been pampered by Ashleigh! I instantly was in zen mode when I walked in and was greeted by her. She took spectacular care of me for my facial & microdermabrasion treatment. I cannot wait to go back . Thank you, Ashleigh. 💕
+    source: "Google"
+  - author: "Michelle a. I."
+    rating: 5
+    date: "2025-06-25"
+    text: >-
+      Had a wonderful facial with Alex last week. She took her time getting to know me and my skin needs, it’s clear she genuinely cares about her clients and their results. So happy I found her spa, it’s the best kept skincare secret in Weston. Don’t sleep on this place, great treatments and skincare tech, client happiness focused, and value all in one! 10/10!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/pure-aesthetics-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
