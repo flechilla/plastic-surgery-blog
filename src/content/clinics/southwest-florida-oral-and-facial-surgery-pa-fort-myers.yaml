@@ -1,9 +1,16 @@
 name: "Southwest Florida Oral and Facial Surgery, PA - Fort Myers"
 slug: southwest-florida-oral-and-facial-surgery-pa-fort-myers
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "8267 College Pkwy, Fort Myers, FL 33919"
 zipCode: "33919"
+coordinates:
+  lat: 26.556395
+  lng: -81.893016
 phone: "(239) 936-8151"
 website: "https://www.swfofs.com/"
 googleMapsUrl: "https://maps.google.com/?cid=15582988997292170800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 1416
 reviews:

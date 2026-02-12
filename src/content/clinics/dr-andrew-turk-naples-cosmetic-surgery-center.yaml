@@ -1,18 +1,24 @@
 name: "Dr. Andrew Turk: Naples Cosmetic Surgery Center"
 slug: dr-andrew-turk-naples-cosmetic-surgery-center
-city: fort-myers
+city: naples
+cityDisplay: "Naples"
 state: FL
+stateFullName: Florida
+county: "Collier County"
+neighborhood: "Urban Estates"
 address: "6376 Pine Ridge Rd Suite 175, Naples, FL 34119"
 zipCode: "34119"
+coordinates:
+  lat: 26.210830899999998
+  lng: -81.7319496
 phone: "(239) 316-1689"
 website: "https://www.naples-csc.com/"
 googleMapsUrl: "https://maps.google.com/?cid=3909302892908308425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Dr. Andrew Turk: Naples Cosmetic Surgery Center is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 123 reviews, they offer cosmetic and reconstructive surgery services.
+  Dr. Andrew Turk: Naples Cosmetic Surgery Center is a plastic surgery practice located in Naples, FL. With a 4.9-star rating from 123 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 123
 reviews:

@@ -1,9 +1,16 @@
 name: "Premiere Aesthetics"
 slug: premiere-aesthetics
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "12697 New Brittany Blvd Building 5, Fort Myers, FL 33907"
-zipCode: "12697"
+zipCode: "33907"
+coordinates:
+  lat: 26.5583872
+  lng: -81.87999909999999
 phone: "(239) 910-7763"
 website: "https://premiereaesthetics.com/?utm_source=gbp&utm_medium=organic"
 googleMapsUrl: "https://maps.google.com/?cid=2116910753655581172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 313
 reviews:

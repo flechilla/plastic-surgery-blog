@@ -1,9 +1,16 @@
 name: "Face It Botox Bar Aesthetics & Wellness - 6 Mile Cypress"
 slug: face-it-botox-bar-aesthetics-wellness-6-mile-cypress
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: "Omni"
 address: "9347 6 Mile Cypress Pkwy, Fort Myers, FL 33966"
 zipCode: "33966"
+coordinates:
+  lat: 26.6074439
+  lng: -81.80920189999999
 phone: "(239) 372-6829"
 website: "https://faceitbotoxbar.com/"
 googleMapsUrl: "https://maps.google.com/?cid=17082869728816019227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.8
 reviewCount: 23
 reviews:

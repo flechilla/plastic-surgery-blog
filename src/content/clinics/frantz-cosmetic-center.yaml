@@ -1,50 +1,56 @@
 name: "Frantz Cosmetic Center"
 slug: frantz-cosmetic-center
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
-address: "2500 Goodlette-Frank Rd, Naples, FL 34103"
-zipCode: "34103"
-phone: "(239) 430-3939"
-website: "https://www.frantzcosmeticcenter.com/locations/naples/?y_source=1_MTA3ODU0NDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
-googleMapsUrl: "https://maps.google.com/?cid=13999917379574870795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
+address: "9617 Gulf Research Ln, Fort Myers, FL 33912"
+zipCode: "33912"
+coordinates:
+  lat: 26.502018000000003
+  lng: -81.7963669
+phone: "(239) 418-0999"
+website: "https://www.frantzcosmeticcenter.com/locations/fort-myers/?y_source=1_MTA3ODUzMTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+googleMapsUrl: "https://maps.google.com/?cid=9664403888530124268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Frantz Cosmetic Center is a plastic surgery practice located in Fort Myers, FL. With a 4.7-star rating from 34 reviews, they offer cosmetic and reconstructive surgery services.
+  Frantz Cosmetic Center is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 61 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
-rating: 4.7
-reviewCount: 34
+rating: 5
+reviewCount: 61
 reviews:
-  - author: "Peter T."
+  - author: "Lynne W."
     rating: 5
-    date: "2025-10-18"
+    date: "2025-04-21"
     text: >-
-      Franz Eye Care provides outstanding, professional service with a personal touch. The entire team is knowledgeable, attentive, and truly cares about patient comfort and results. I highly recommend them for exceptional eye care and thorough follow-up.
+      Tracy Lewis is awesome! I have been seeing her for HydraFacials for 4 months now. She is friendly, professional and a wealth of knowledge related to skincare. Each appointment I’ve had has been both relaxing and effective. I look forward to seeing her again soon!
     source: "Google"
-  - author: "Rosie D."
+  - author: "Cindy S."
     rating: 5
-    date: "2025-10-12"
+    date: "2021-12-30"
     text: >-
-      I had the most pleasant experience with Dr. Maxwell Burch, his manners are beyond great, I was comfortable all throughout my visit to the clinic; I was explained everything with no rush, I was able to express my concerns and ask questions as well.
+      I have had the hydro facial and the fire and ice! I loved the results from both, Laurie is absolutely amazing!  she is so knowledgeable and makes you feel so relaxed! She always takes the time to answer any questions I have. The front staff is super friendly,  the entire experience is wonderful! I am definitely looking forward to my next facial.
     source: "Google"
-  - author: "steven s."
+  - author: "Rebeca D."
     rating: 5
-    date: "2025-02-17"
+    date: "2023-08-05"
     text: >-
-      The most professional medical experience I have had since I moved to Florida 16 years ago. Dr Goel's professionalism and understanding of the patients' needs and concerns is outstanding. And may I add, this is complemented by a very helpful and caring office staff.
+      I had the most incredible experience getting a custom facial by the talented esthetician, Rachel. From the moment I stepped in, the ambiance was soothing, and the staff greeted me with warm smiles. Rachel was attentive, knowledgeable, and truly passionate about skincare.The products she used were top-notch, leaving my skin feeling radiant. I'll definitely be back for more self-care sessions!
     source: "Google"
-  - author: "Irishctest S."
+  - author: "Melinda H."
     rating: 5
-    date: "2024-07-11"
+    date: "2022-06-22"
     text: >-
-      Great experience from beginning to end. Staff was very attentive and professional. Tabitha took care of everything and made me feel at ease during the exam. Dr Paez provided a thorough exam and explained everything in great detail. This was a wonderful experience and highly recommend this team In Naples
+      Dr. Bokman just did my eyelid surgery and I have to say she did a remarkable job. One of the easiest procedures I've had done. Her assistant Courtney was amazing this morning when she helped with the stitches. Great Job all all. Surgery center staff was Awesome as well. Thank you to all. Love my results.
     source: "Google"
-  - author: "Mary N."
+  - author: "Patricia H."
     rating: 5
-    date: "2025-02-19"
+    date: "2022-07-08"
     text: >-
-      I appreciate that I was able to get to see Doctor Vaziri so quickly and he was able to diagnose my problem. Having a place that offers all needed eye services under one roof that provides quality and professional care is so helpful!
+      I just received the best HydraFacial ever by Blanca! She was amazing! Not only did I feel all of my skins impurities disappear but I felt a sense of internal calmness as well. My skin is glowing and healthy. Blanca was able to determine based on my skin type which skin care products would be best. I have a wonderful sense of direction on how to keep my skin looking healthy and young. I look forwar
     source: "Google"
 logo: "/images/clinics/logos/frantz-cosmetic-center.jpg"
 yearEstablished: null

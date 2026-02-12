@@ -1,18 +1,24 @@
 name: "Azul Cosmetic Surgery and Medical Spa | Bonita Springs"
 slug: azul-cosmetic-surgery-and-medical-spa-bonita-springs
-city: fort-myers
+city: bonita-springs
+cityDisplay: "Bonita Springs"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "23451 Walden Center Dr #400, Bonita Springs, FL 34134"
-zipCode: "23451"
+zipCode: "34134"
+coordinates:
+  lat: 26.396137
+  lng: -81.8110286
 phone: "(239) 212-1975"
 website: "https://www.azulbeauty.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2461997536201139135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Azul Cosmetic Surgery and Medical Spa | Bonita Springs is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 337 reviews, they offer cosmetic and reconstructive surgery services.
+  Azul Cosmetic Surgery and Medical Spa | Bonita Springs is a plastic surgery practice located in Bonita Springs, FL. With a 4.9-star rating from 337 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 337
 reviews:

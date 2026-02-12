@@ -1,9 +1,16 @@
 name: "Solace Wellness Aesthetics | Fort Myers Spa & Facials"
 slug: solace-wellness-aesthetics-fort-myers-spa-facials
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "12545 New Brittany Blvd Building 26, Fort Myers, FL 33907"
-zipCode: "12545"
+zipCode: "33907"
+coordinates:
+  lat: 26.5604677
+  lng: -81.8799897
 phone: "(239) 323-9549"
 website: "https://solacewellnesspa.com/"
 googleMapsUrl: "https://maps.google.com/?cid=5016391613594585076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 10
 reviews:

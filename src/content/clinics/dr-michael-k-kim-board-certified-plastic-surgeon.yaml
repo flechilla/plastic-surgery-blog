@@ -1,18 +1,24 @@
 name: "Dr. Michael K. Kim, Board-Certified Plastic Surgeon"
 slug: dr-michael-k-kim-board-certified-plastic-surgeon
-city: fort-myers
+city: cape-coral
+cityDisplay: "Cape Coral"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: "Hancock"
 address: "14 Del Prado Blvd N # 302, Cape Coral, FL 33909"
 zipCode: "33909"
+coordinates:
+  lat: 26.6528557
+  lng: -81.9416148
 phone: "(239) 772-1930"
 website: "https://michaelkimmd.com/"
 googleMapsUrl: "https://maps.google.com/?cid=11591497326256803630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Dr. Michael K. Kim, Board-Certified Plastic Surgeon is a plastic surgery practice located in Fort Myers, FL. With a 4.5-star rating from 24 reviews, they offer cosmetic and reconstructive surgery services.
+  Dr. Michael K. Kim, Board-Certified Plastic Surgeon is a plastic surgery practice located in Cape Coral, FL. With a 4.5-star rating from 24 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.5
 reviewCount: 24
 reviews:

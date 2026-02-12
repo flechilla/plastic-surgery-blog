@@ -1,18 +1,24 @@
 name: "Kent V. Hasen, MD: Aesthetic Plastic Surgery & Med Spa of Naples"
 slug: kent-v-hasen-md-aesthetic-plastic-surgery-med-spa-of-naples
-city: fort-myers
+city: naples
+cityDisplay: "Naples"
 state: FL
+stateFullName: Florida
+county: "Collier County"
+neighborhood: "Central Naples"
 address: "3699 Airport-Pulling Rd N, Naples, FL 34105"
 zipCode: "34105"
+coordinates:
+  lat: 26.1920817
+  lng: -81.7684629
 phone: "(239) 262-5662"
 website: "https://www.drhasen.com/?utm_source=google&utm_medium=local&utm_campaign=naples-practice-website"
 googleMapsUrl: "https://maps.google.com/?cid=2174508688990236926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Kent V. Hasen, MD: Aesthetic Plastic Surgery & Med Spa of Naples is a plastic surgery practice located in Fort Myers, FL. With a 4.7-star rating from 223 reviews, they offer cosmetic and reconstructive surgery services.
+  Kent V. Hasen, MD: Aesthetic Plastic Surgery & Med Spa of Naples is a plastic surgery practice located in Naples, FL. With a 4.7-star rating from 223 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.7
 reviewCount: 223
 reviews:

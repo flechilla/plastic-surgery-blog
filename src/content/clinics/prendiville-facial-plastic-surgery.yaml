@@ -1,9 +1,16 @@
 name: "Prendiville Facial Plastic Surgery"
 slug: prendiville-facial-plastic-surgery
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "9407 Cypress Lake Dr A, Fort Myers, FL 33919"
 zipCode: "33919"
+coordinates:
+  lat: 26.544534199999998
+  lng: -81.9107243
 phone: "(239) 437-3900"
 website: "https://drprendiville.com/"
 googleMapsUrl: "https://maps.google.com/?cid=7597802515083040131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 134
 reviews:

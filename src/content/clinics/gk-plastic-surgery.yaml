@@ -1,9 +1,16 @@
 name: "GK Plastic Surgery"
 slug: gk-plastic-surgery
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "7841 Cambridge Manor Pl Suite C, Fort Myers, FL 33907"
 zipCode: "33907"
+coordinates:
+  lat: 26.559896
+  lng: -81.88313459999999
 phone: "(954) 688-7269"
 website: "https://www.gkplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=13163626609271458747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 5
 reviews:

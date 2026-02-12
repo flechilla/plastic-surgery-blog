@@ -1,18 +1,24 @@
 name: "Azul Cosmetic Surgery and Medical Spa | Cape Coral"
 slug: azul-cosmetic-surgery-and-medical-spa-cape-coral
-city: fort-myers
+city: cape-coral
+cityDisplay: "Cape Coral"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: "Pelican"
 address: "1708 Cape Coral Pkwy W Suite 13, Cape Coral, FL 33914"
 zipCode: "33914"
+coordinates:
+  lat: 26.5612073
+  lng: -82.0091594
 phone: "(239) 374-1173"
 website: "https://www.azulbeauty.com/"
 googleMapsUrl: "https://maps.google.com/?cid=11413954337594201734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Azul Cosmetic Surgery and Medical Spa | Cape Coral is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 162 reviews, they offer cosmetic and reconstructive surgery services.
+  Azul Cosmetic Surgery and Medical Spa | Cape Coral is a plastic surgery practice located in Cape Coral, FL. With a 5-star rating from 162 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 162
 reviews:

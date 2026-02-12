@@ -1,9 +1,16 @@
 name: "Melt Aesthetics and Liposuction Florida"
 slug: melt-aesthetics-and-liposuction-florida
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: "Heritage Palms"
 address: "4961 Royal Gulf Cir, Fort Myers, FL 33966"
 zipCode: "33966"
+coordinates:
+  lat: 26.594608599999997
+  lng: -81.8152324
 phone: "(239) 475-5565"
 website: "https://www.meltlipofl.com/"
 googleMapsUrl: "https://maps.google.com/?cid=13071784329246160611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 3
 reviews:

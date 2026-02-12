@@ -1,9 +1,16 @@
 name: "Face It Botox Bar Aesthetics & Wellness - Fort Myers"
 slug: face-it-botox-bar-aesthetics-wellness-fort-myers
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "12424 Brantley Commons Ct, Fort Myers, FL 33907"
-zipCode: "12424"
+zipCode: "33907"
+coordinates:
+  lat: 26.5614919
+  lng: -81.88179459999999
 phone: "(239) 322-3815"
 website: "https://www.faceitbotoxbar.com/"
 googleMapsUrl: "https://maps.google.com/?cid=5194162835391228980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 885
 reviews:

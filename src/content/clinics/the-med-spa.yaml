@@ -1,9 +1,16 @@
 name: "The Med Spa"
 slug: the-med-spa
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "9924 Gulf Coast Main St A120, Fort Myers, FL 33913"
 zipCode: "33913"
+coordinates:
+  lat: 26.4864276
+  lng: -81.78617799999999
 phone: "(239) 295-8767"
 website: "https://www.theblondeinjector.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2969351804002088035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 10
 reviews:

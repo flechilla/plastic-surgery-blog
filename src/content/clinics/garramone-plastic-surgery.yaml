@@ -1,9 +1,16 @@
 name: "Garramone Plastic Surgery"
 slug: garramone-plastic-surgery
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "12998 S Cleveland Ave, Fort Myers, FL 33907"
-zipCode: "12998"
+zipCode: "33907"
+coordinates:
+  lat: 26.5522605
+  lng: -81.87258349999999
 phone: "(239) 523-0533"
 website: "https://www.garramone.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing"
 googleMapsUrl: "https://maps.google.com/?cid=12707726543826570938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.7
 reviewCount: 661
 reviews:

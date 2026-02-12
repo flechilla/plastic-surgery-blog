@@ -1,9 +1,16 @@
 name: "Studio Sevyn Aesthetics"
 slug: studio-sevyn-aesthetics
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: "Omni"
 address: "9345 6 Mile Cypress Pkwy #130, Fort Myers, FL 33966"
 zipCode: "33966"
+coordinates:
+  lat: 26.6071851
+  lng: -81.8096995
 phone: "(239) 677-0568"
 website: "http://www.studiosevynaesthetics.glossgenius.com/"
 googleMapsUrl: "https://maps.google.com/?cid=4163493313718313105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 37
 reviews:

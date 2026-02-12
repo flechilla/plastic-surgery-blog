@@ -1,50 +1,56 @@
 name: "Casey Cosmetic Surgery"
 slug: casey-cosmetic-surgery
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
-address: "3388 Woods Edge Cir, Bonita Springs, FL 34134"
-zipCode: "34134"
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
+address: "1537 Brantley Rd Suite A1, Fort Myers, FL 33907"
+zipCode: "33907"
+coordinates:
+  lat: 26.5612693
+  lng: -81.8833196
 phone: "(239) 947-3223"
 website: "https://www.caseycosmeticsurgery.com/"
-googleMapsUrl: "https://maps.google.com/?cid=8649309055355139769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleMapsUrl: "https://maps.google.com/?cid=13316044935502075277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Casey Cosmetic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 51 reviews, they offer cosmetic and reconstructive surgery services.
+  Casey Cosmetic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.6-star rating from 27 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
-rating: 4.9
-reviewCount: 51
+rating: 4.6
+reviewCount: 27
 reviews:
-  - author: "Michelle U."
+  - author: "hariana b."
     rating: 5
-    date: "2025-10-24"
+    date: "2025-12-03"
     text: >-
-      I have to say Dr. Casey is amazing, and his staff is helpful and welcoming. At 78 I never thought I would ever look young again, but I do. Thank you Dr. Casey. You did your magic and I couldn’t be happier
+      Dr. Casey is truly the best. He took the time to explain every detail of my upcoming surgery. Without a doubt, he is the best in SWF.
     source: "Google"
-  - author: "Kelly T."
+  - author: "UTIN S."
     rating: 5
-    date: "2024-06-12"
+    date: "2025-01-11"
     text: >-
-      Dr. Casey and his staff are a class act. He stands behind his work and performs excellent procedures  and after care. I highly recommend them for any work. ❤️much love to him and his staff. All excellent! I can now wear a Two piece swimsuit after 24 years and after three kids. Love them and my new tummy and rocking the new belly button.... adore my kids as well ... but they do damage and thankful 
+      I had my upper and lower eyelids done and laser resurfacing of my face and neck with Dr. Casey, and the results are incredible! His team made me feel comfortable throughout the entire process, and the recovery was smooth. I highly recommend him!
     source: "Google"
-  - author: "tara c."
+  - author: "Rizki A."
     rating: 5
-    date: "2024-07-18"
+    date: "2025-01-26"
     text: >-
-      The staff and Dr. Casey was great! My daughter was nervous, scared, in tears about her teeth getting pulled. They were so patient, kind, and the reassurance of her bein in good hands was just what she needed!  Much appreciated!
+      Dr. Casey is fantastic! I had rhinoplasty done, and the results are perfect. The recovery was quick, and I couldn’t be happier with my new look. Highly recommend his practice!
     source: "Google"
-  - author: "slsaulsbury"
+  - author: "Uswatun K."
     rating: 5
-    date: "2024-02-29"
+    date: "2025-01-23"
     text: >-
-      Office staff, and clinical staff are very friendly and helpful. Dr. Casey has really taken good care of me. He has went the extra mile to give all efforts for my success with my tooth implant options.
+      Dr. Casey is a true professional! I had a tummy tuck, and the results were amazing. The procedure was quick, and the recovery was smooth. His team is supportive and caring.
     source: "Google"
-  - author: "D A."
+  - author: "ulfatu s."
     rating: 5
-    date: "2024-01-27"
+    date: "2025-01-13"
     text: >-
-      This was the third office that we contacted for my daughter’s oral procedure and we are so glad that we didn’t settle! The third time was definitely a charm. Dr. Casey and his entire team were wonderful! We were very pleased each step of the way. If you’re looking for a caring team with great customer service, this is it!!!
+      Dr. Casey and his team are amazing! I had a tummy tuck, and the results were exactly what I wanted. The office is welcoming, and the staff took great care of me during my recovery.
     source: "Google"
 logo: "/images/clinics/logos/casey-cosmetic-surgery.jpg"
 yearEstablished: null

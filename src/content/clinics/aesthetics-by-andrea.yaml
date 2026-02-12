@@ -1,9 +1,16 @@
 name: "Aesthetics by Andrea"
 slug: aesthetics-by-andrea
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "1510 Royal Palm Square Blvd Suite 105, Fort Myers, FL 33919"
 zipCode: "33919"
+coordinates:
+  lat: 26.5939242
+  lng: -81.8851969
 phone: "(239) 245-8899"
 website: "https://abamedicalspa.com/"
 googleMapsUrl: "https://maps.google.com/?cid=14281738112186639761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 107
 reviews:

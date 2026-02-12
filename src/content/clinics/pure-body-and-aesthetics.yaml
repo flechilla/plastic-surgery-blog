@@ -1,9 +1,16 @@
 name: "Pure Body and Aesthetics"
 slug: pure-body-and-aesthetics
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: "Winkler"
 address: "3949 Evans Ave #103, Fort Myers, FL 33901"
 zipCode: "33901"
+coordinates:
+  lat: 26.605025899999998
+  lng: -81.8592872
 phone: "(941) 841-9909"
 website: "https://www.purebodyandaesthetics.com/"
 googleMapsUrl: "https://maps.google.com/?cid=17426340484341612930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 5
 reviewCount: 72
 reviews:

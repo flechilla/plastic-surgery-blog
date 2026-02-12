@@ -1,50 +1,56 @@
 name: "Advanced Dermatology and Cosmetic Surgery"
 slug: advanced-dermatology-and-cosmetic-surgery
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
-address: "632 Del Prado Blvd N Ste 201, Cape Coral, FL 33909"
-zipCode: "33909"
-phone: "(239) 829-7102"
-website: "https://www.advancedderm.com/locations/florida/cape-coral/632-del-prado-blvd-n-ste-201"
-googleMapsUrl: "https://maps.google.com/?cid=11449343720638856075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
+address: "7310 College Pkwy, Fort Myers, FL 33907"
+zipCode: "33907"
+coordinates:
+  lat: 26.5569883
+  lng: -81.8772711
+phone: "(239) 768-6100"
+website: "https://www.advancedderm.com/locations/florida/fort-myers/7310-college-pkwy"
+googleMapsUrl: "https://maps.google.com/?cid=976283414472949276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Advanced Dermatology and Cosmetic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.6-star rating from 1707 reviews, they offer cosmetic and reconstructive surgery services.
+  Advanced Dermatology and Cosmetic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.6-star rating from 598 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.6
-reviewCount: 1707
+reviewCount: 598
 reviews:
-  - author: "Jacqueline E."
-    rating: 1
-    date: "2025-07-22"
-    text: >-
-      I scheduled my appointment with Advance Dermatology over a week in advance and even confirmed everything beforehand. Despite this, no one from their office verified my insurance ahead of time. I drove 1.5 hours to the appointment, only to receive a text message—not even a phone call—while I was already seated  inside the office, informing me that my appointment was canceled because they do not acc
-    source: "Google"
-  - author: "Carrie G."
+  - author: "LBB007 Q."
     rating: 5
-    date: "2026-01-22"
+    date: "2025-09-30"
     text: >-
-      Had my first appointment with Dr. Sotomayor this morning!  He and his assistant are so incredibly nice and make you feel comfortable! I was really nervous about some skin things, but they quickly eased my mind. As an added bonus, I saw the Nydia, the Esthetician!  She is also wonderful! I'm finally doing something I should have started a long time ago!  I now have a Skin care plan!  To all of the 
+      I recently had a VI Precision Plus peel with Veronika H, and I can’t say enough good things about the experience. She was professional, attentive, and explained every step of the process so I felt comfortable the whole time. My skin already looks brighter and smoother!  The entire practice is immaculate—very clean and well-kept—which immediately gave me confidence in the level of care they provide
     source: "Google"
-  - author: "Heino P."
+  - author: "Jennifer R."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      Adam is great!!! I always have a good experience when dealing with him. I feel very comfortable talking about my concerns. I think he does a very thorough job. And I appreciate his recommendations for other issues I have with my skin.
+    source: "Google"
+  - author: "Anita P."
     rating: 5
     date: "2025-12-31"
     text: >-
-      Thorough, Professional, Friendly I chose this place per recommendations from others in our community and I’m glad I did. It was very easy to use their website to book an appointment, fill out forms electronically and submit insurance information. I will say that the number of emails and text messages reminding me about my appointment is a bit excessive – almost annoying, but as there are so many s
+      I brought my 4 year old there to have better management of her Eczema. Bailey Alai, PA was very friendly and able to address all of our concerns. We are extremely satisfied with the care provided and treatment plan. Definitely recommend going to her.
     source: "Google"
-  - author: "Kimberly C."
+  - author: "Deb K."
     rating: 5
-    date: "2026-01-23"
+    date: "2025-12-31"
     text: >-
-      Henry Sotomayor PA is the BEST. I will follow him anywhere. Knowledgeable, professional, efficient, and great bedside manner. If it weren’t for Henry’s keen eye, and impressive assessment skills, my skin cancers would be thriving right now. I highly recommend Henry.
+      Isabel Warrick, PA-C,  is AMAZING. Gentle in touch and procedures. Detailed and kind. Veronica Hurley, Aesthetician, gave me a wonderful facial and recommends products that really work amazingly well on my skin. I plan to book many sessions with Veronica, regarding peels, facials, and mature skin procedures and assessments.
     source: "Google"
-  - author: "Maryjane L."
+  - author: "Will"
     rating: 5
-    date: "2026-01-20"
+    date: "2025-09-10"
     text: >-
-      Dr. Jane Phillips is awesome. She takes time to listen to my concerns and explains what can help. The staff is also professional  .I would not want to go anywhere else. TOP NOTCH!
+      I am a new patient at this office and had a wonderful experience. Bailey, PA, was very knowledgeable, professional, and took the time to explain everything in detail. She gave me clear post-treatment instructions and made me feel very comfortable throughout the visit.  The check-in process was quick and easy, and both the front desk staff and Christy, MA, were extremely helpful. The office itself 
     source: "Google"
 logo: "/images/clinics/logos/advanced-dermatology-and-cosmetic-surgery.jpg"
 yearEstablished: null

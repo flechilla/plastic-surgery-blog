@@ -1,9 +1,16 @@
 name: "VIO Med Spa"
 slug: vio-med-spa
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "6921 Daniels Pkwy Ste 195, Fort Myers, FL 33912"
 zipCode: "33912"
+coordinates:
+  lat: 26.5475981
+  lng: -81.840043
 phone: "(239) 922-1177"
 website: "https://www.viomedspa.com/locations/fort-myers"
 googleMapsUrl: "https://maps.google.com/?cid=11141702520875274275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 91
 reviews:

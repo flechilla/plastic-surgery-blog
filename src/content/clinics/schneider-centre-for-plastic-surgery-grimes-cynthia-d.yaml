@@ -1,9 +1,16 @@
 name: "Schneider Centre for Plastic Surgery : Grimes Cynthia D"
 slug: schneider-centre-for-plastic-surgery-grimes-cynthia-d
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "12751 S Cleveland Ave #102, Fort Myers, FL 33907"
-zipCode: "12751"
+zipCode: "33907"
+coordinates:
+  lat: 26.5561546
+  lng: -81.8711916
 phone: "(239) 277-9999"
 website: "http://schneidercentre.com/"
 googleMapsUrl: "https://maps.google.com/?cid=17922936331784898074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 3.3
 reviewCount: 7
 reviews:

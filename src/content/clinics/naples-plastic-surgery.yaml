@@ -1,18 +1,24 @@
 name: "Naples Plastic Surgery"
 slug: naples-plastic-surgery
-city: fort-myers
+city: naples
+cityDisplay: "Naples"
 state: FL
+stateFullName: Florida
+county: "Collier County"
+neighborhood: "Central Naples"
 address: "1250 Pine Ridge Rd Suite 101C, Naples, FL 34108"
 zipCode: "34108"
+coordinates:
+  lat: 26.211036099999998
+  lng: -81.79468519999999
 phone: "(239) 566-2611"
 website: "http://www.naplesps.com/"
 googleMapsUrl: "https://maps.google.com/?cid=2399754429166698203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Naples Plastic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 687 reviews, they offer cosmetic and reconstructive surgery services.
+  Naples Plastic Surgery is a plastic surgery practice located in Naples, FL. With a 4.9-star rating from 687 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 687
 reviews:

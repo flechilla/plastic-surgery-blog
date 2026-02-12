@@ -1,9 +1,16 @@
 name: "Mazza Plastic Surgery - Joseph F. Mazza, JR. MD"
 slug: mazza-plastic-surgery-joseph-f-mazza-jr-md
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "12640 Creekside Ln, Fort Myers, FL 33919"
-zipCode: "12640"
+zipCode: "33919"
+coordinates:
+  lat: 26.557989
+  lng: -81.8955241
 phone: "(239) 482-7676"
 website: "http://www.mazzaplasticsurgery.com/"
 googleMapsUrl: "https://maps.google.com/?cid=14042650384449847036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.7
 reviewCount: 87
 reviews:

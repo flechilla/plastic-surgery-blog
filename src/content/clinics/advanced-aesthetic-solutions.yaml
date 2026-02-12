@@ -1,9 +1,16 @@
 name: "Advanced Aesthetic Solutions"
 slug: advanced-aesthetic-solutions
 city: fort-myers
+cityDisplay: "Fort Myers"
 state: FL
+stateFullName: Florida
+county: "Lee County"
+neighborhood: ""
 address: "12734 Kenwood Ln #75, Fort Myers, FL 33907"
-zipCode: "12734"
+zipCode: "33907"
+coordinates:
+  lat: 26.554906
+  lng: -81.8758
 phone: "(239) 936-3333"
 website: "https://advancedaestheticsolutions.com/"
 googleMapsUrl: "https://maps.google.com/?cid=17831638944851365226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -12,7 +19,6 @@ description: >-
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-  - "Reconstructive Surgery"
 rating: 4.9
 reviewCount: 64
 reviews:
