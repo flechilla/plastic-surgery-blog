@@ -1,0 +1,60 @@
+name: "New Blossom Medical Aesthetics"
+slug: new-blossom-medical-aesthetics
+city: hialeah-gardens
+cityDisplay: "Hialeah Gardens"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "3408 W 84th St Suite 114 Hialeah, office park, Hialeah Gardens, FL 33018"
+zipCode: "33018"
+coordinates:
+  lat: 25.8971263
+  lng: -80.3527812
+phone: "(786) 920-5146"
+website: "https://newblossommedicalaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2144689976193026487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  New Blossom Medical Aesthetics is a plastic surgery practice located in Hialeah Gardens, FL. With a 5-star rating from 53 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 53
+reviews:
+  - author: "Teresa G."
+    rating: 5
+    date: "2025-12-29"
+    text: >-
+      Marisol took such great care of me on my first appointment and I really enjoyed meeting her and trusting her with my face. She listened attentively to my needs, explained thoroughly her approach regarding neurotoxins and made me feel so comfortable! She took her time with my appointment giving me a 5 star experience. I highly recommend her to all my family and friends and look forward to seeing he
+    source: "Google"
+  - author: "Eli L."
+    rating: 5
+    date: "2025-12-18"
+    text: >-
+      I went in for a consultation and had such a wonderful experience. Marisol was incredibly kind, very knowledgeable, and made me feel completely comfortable from start to finish. She even followed up to check on me, which I truly appreciated. I feel refreshed and revitalized. I will definitely be back. Highly recommend!
+    source: "Google"
+  - author: "Christina B."
+    rating: 5
+    date: "2025-12-03"
+    text: >-
+      Marisol is Amazing! She’s touched me up and I look refreshed and rejuvenated!!! Love her! Thank you so much New Blossom, forever dear to my heart.
+    source: "Google"
+  - author: "Christie A. G."
+    rating: 5
+    date: "2025-09-08"
+    text: >-
+      I attempted laser in the past but it didn’t work. With just 1 session with Marisol and the Candela machine, I’m already seeing results. Just left my second session and I was even more comfortable than the first time. I was nervous at first about laser on my whole body but Marisol makes me so comfortable and that’s what’s made this experience even better than I imagined. Thank you !
+    source: "Google"
+  - author: "Alisia G."
+    rating: 5
+    date: "2025-03-07"
+    text: >-
+      I’ve been going to New Blossom Medical Aesthetics for a while now, and I can’t recommend them enough! Yesterday was my first time getting lip fillers, and the results came out amazing even after just the first session! I absolutely love the way they do their work. The team at New Blossom provides top-notch services, excellent care, and delivers beautiful results. I’m already looking forward to com
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/new-blossom-medical-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

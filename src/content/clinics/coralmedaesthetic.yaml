@@ -1,0 +1,60 @@
+name: "CoralMedAesthetic"
+slug: coralmedaesthetic
+city: hialeah
+cityDisplay: "Hialeah"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "4178 W 12th Ave, Hialeah, FL 33012"
+zipCode: "33012"
+coordinates:
+  lat: 25.8596894
+  lng: -80.30772569999999
+phone: "(305) 921-9230"
+website: "http://coralmedaesthetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15029568115459826087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  CoralMedAesthetic is a plastic surgery practice located in Hialeah, FL. With a 4.6-star rating from 156 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.6
+reviewCount: 156
+reviews:
+  - author: "Rick D."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      My experience was wonderful. I love how everything went swiftly; I was able to be seen right away. Staff were very happy and gave great recommendations. I end up getting a hydro facial that really improved my skin. I would definitely be back. Thank you again!
+    source: "Google"
+  - author: "EMY E."
+    rating: 5
+    date: "2025-08-19"
+    text: >-
+      I can’t say enough amazing things about this aesthetics office! From the moment you walk in, the atmosphere is calming, professional, and beautifully maintained. I’ve had multiple treatments here facials, PRP facials, lip filler, and body treatments like Venus Freeze/Legacy and every single service has exceeded my expectations. If you're looking for an aesthetics team that blends cutting-edge trea
+    source: "Google"
+  - author: "Jenny R."
+    rating: 5
+    date: "2025-09-11"
+    text: >-
+      I love CoralMed; it's one of my favorite places where dreams come true. They offer everything you need at really good prices compared to the market. The staff is friendly, attentive, and always willing to accommodate your schedule for treatments.
+    source: "Google"
+  - author: "Daliany A."
+    rating: 5
+    date: "2025-07-12"
+    text: >-
+      I absolutely love coming to this aesthetic spa! The team is incredibly professional and always so attentive to your individual needs. They really take the time to understand what you're looking for and offer thoughtful, personalized recommendations that make you feel even more beautiful and confident.  The spa itself is always spotless, which I really appreciate; it shows how much care they put in
+    source: "Google"
+  - author: "Nunu"
+    rating: 5
+    date: "2021-08-10"
+    text: >-
+      Great experience every time I receive treatment here. They offer all treatments you could think of from laser hair removal to Botox to weight loss. Staff is friendly, professional, and prompt. Would highly recommend them.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/coralmedaesthetic.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Drip Health & MedSpa | Aesthetics • Wellness • Men’s Health | Miami Lakes"
+slug: drip-health-medspa-aesthetics-wellness-men-s-health-miami-la
+city: miami-lakes
+cityDisplay: "Miami Lakes"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "14575 NW 77th Ave Suite 304, Miami Lakes, FL 33014"
+zipCode: "33014"
+coordinates:
+  lat: 25.9058621
+  lng: -80.3240983
+phone: "(786) 474-4447"
+website: "https://driphealthandmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12707609571346177835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Drip Health & MedSpa | Aesthetics • Wellness • Men’s Health | Miami Lakes is a plastic surgery practice located in Miami Lakes, FL. With a 5-star rating from 455 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 455
+reviews:
+  - author: "Dario G."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      I had an amazing experience at Drip Health and Med Spa. The facility is truly state-of-the-art—clean, modern, and very welcoming. Jessica is extremely knowledgeable and took the time to answer all of my questions thoroughly, which made me feel comfortable and confident throughout the entire process. I left feeling incredible, super happy with the results, and already noticing how amazing I feel. H
+    source: "Google"
+  - author: "Lara A."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      My very first time microneedling turned out amazing. Thank you Amber for your exceptional work! Also making me feel comfortable and safe throughout the experience. I’m so happy with my results so far and look forward to coming here again. Many blessings!!
+    source: "Google"
+  - author: "candice f."
+    rating: 5
+    date: "2025-12-13"
+    text: >-
+      My experience at Drip was honestly amazing, and a huge part of that was because of Jessica and Damian. From the moment I walked in, I felt welcomed and completely at ease. Jessica was the one who did my IV, and I couldn’t have asked for a better experience. I was a little nervous going in, but she took her time explaining everything, listened to my concerns, and made sure I felt comfortable every 
+    source: "Google"
+  - author: "Jasmine J."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      This is the best med spa in all of miami! I trust Jessica with my life. She is so beautiful inside and out and such an amazing provider. I recommend drip to all of my friends. I’ve done one xerf and ultra treatment and I’ve already seen UNBELIEVABLE results. So worth every penny.
+    source: "Google"
+  - author: "Argelio S."
+    rating: 5
+    date: "2025-12-09"
+    text: >-
+      I’ve had an amazing experience at Drip Health & MedSpa. I’ve been getting NAD injections and IV vitamin drips here, and the results have been outstanding. The place is super clean, professional, and relaxing.  A very special thank you to Jessica — she’s exceptional. She explains everything clearly, makes the entire process comfortable, and truly cares about her patients. Her attention to detail an
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/drip-health-medspa-aesthetics-wellness-men-s-health-miami-la.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

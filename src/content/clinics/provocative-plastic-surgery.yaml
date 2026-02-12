@@ -1,0 +1,60 @@
+name: "Provocative Plastic Surgery"
+slug: provocative-plastic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Flagami"
+address: "860 NW 42nd Ave suite 300, Miami, FL 33126"
+zipCode: "33126"
+coordinates:
+  lat: 25.780213699999997
+  lng: -80.2647849
+phone: "(305) 402-9111"
+website: "http://www.provocativeplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10363497813945282688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Provocative Plastic Surgery is a plastic surgery practice located in Miami, FL. With a 4.7-star rating from 52 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 52
+reviews:
+  - author: "Juliana D."
+    rating: 1
+    date: "2025-10-17"
+    text: >-
+      I had a bad experience with this clinic. I went to do my pre-operative exam. I had all the exams. The clinic nurse asked me for another blood test and an x-ray. As I was running out of time, I went to where the CLINIC indicated to do the exams. I paid 200 dollars on my card. I paid at the clinic. I have the receipt. I went to do the blood test where they indicated. I went to a building far away in
+    source: "Google"
+  - author: "Maricelda R."
+    rating: 1
+    date: "2025-10-01"
+    text: >-
+      I regret ever trusting this clinic with my surgery. My experience was an absolute nightmare from start to finish. I went in for a breast augmentation and made it very clear what size I wanted — but once I was in the operating room, the doctor did whatever he wanted and added way more CCs than I asked for. I woke up with results I never agreed to and that I am deeply unhappy with.  To make things w
+    source: "Google"
+  - author: "Agatta C."
+    rating: 1
+    date: "2025-07-22"
+    text: >-
+      Extremely disappointed. I referred someone I trust deeply to this clinic, and they went through a horrible experience. Right before their scheduled surgery, the clinic demanded an exam out of nowhere , something that was never mentioned before.  They paid for the exam, showed up… and the machine was broken. No service, no warning, nothing.  What’s worse? They never got a refund. The clinic kept pl
+    source: "Google"
+  - author: "Brenda A."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      Everyone at provocative it’s amazing.  Juliet is the best. Anything you need she is there for you 100 percent. If you are hesitant don’t be. It’s worth the pain specially if they treat you as good as they do.
+    source: "Google"
+  - author: "Lisa"
+    rating: 5
+    date: "2025-03-14"
+    text: >-
+      I’m not sure where to begin when it comes to thanking this incredible Provocative team. My journey started with a consultation with Mariana (La Adoro), and though there was a lot of back and forth, Yesenia’s patience and care when she took over for Mariana were truly exceptional. When I arrived at the clinic, I was warmly greeted by my coordinator, Juliet, who was so sweet and answered all my ques
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/provocative-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

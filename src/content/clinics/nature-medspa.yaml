@@ -1,0 +1,60 @@
+name: "Nature MedSpa"
+slug: nature-medspa
+city: hialeah
+cityDisplay: "Hialeah"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "17680 NW 78th Ave Suite 104, Hialeah, FL 33015"
+zipCode: "33015"
+coordinates:
+  lat: 25.934208899999998
+  lng: -80.3278873
+phone: "(305) 306-8626"
+website: "https://naturemedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15222559891091190192&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Nature MedSpa is a plastic surgery practice located in Hialeah, FL. With a 5-star rating from 103 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 103
+reviews:
+  - author: "Henry P."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      Nature Medical Spa truly sets the gold standard in the industry. From the first interaction to the final results, the level of professionalism and care is unmatched. Their service excellence is evident in every detail clear explanations, personalized treatments, and genuine attention to client needs. You don’t feel rushed, you don’t feel like just another appointment you feel valued. The team is k
+    source: "Google"
+  - author: "Rita E. L."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      One of the best places you may go to feel like been in heaven! The atmosphere is great; the cleanness, the smelling, with everything in the right place as in you were e joking Nature! The Doctor is awesome, very professional and with excellent people skills without the intention to sale you any procedure.   On the other side, the lady that takes care of the front desk is extremely nice and makes t
+    source: "Google"
+  - author: "Silvia P."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      I had an amazing experience in Nature MedSpa. The office is very clean. The environment is very quiet and professional. The nurse explained to me and my husband every aspect of my appointment. We really enjoy the service of the IV therapy.
+    source: "Google"
+  - author: "Yomaira B."
+    rating: 5
+    date: "2025-11-08"
+    text: >-
+      Amazing experience! The place is clean and relaxing. Yunet and Paty are super kind and make you feel really welcome. They offer the best service.  I left feeling refreshed and completely satisfied.
+    source: "Google"
+  - author: "Darienis P."
+    rating: 5
+    date: "2025-12-20"
+    text: >-
+      Outstanding service and amazing results! Clean space, great energy, and top-tier professionalism. I always leave feeling confident and taken care of.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/nature-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

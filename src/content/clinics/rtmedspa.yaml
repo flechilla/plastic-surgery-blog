@@ -1,0 +1,60 @@
+name: "RTMedSpa"
+slug: rtmedspa
+city: hialeah-gardens
+cityDisplay: "Hialeah Gardens"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "8040 NW 95th St #109, Hialeah Gardens, FL 33016"
+zipCode: "33016"
+coordinates:
+  lat: 25.8592436
+  lng: -80.3277428
+phone: "(786) 414-0990"
+website: "http://retromodernomedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4023175810509207261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  RTMedSpa is a plastic surgery practice located in Hialeah Gardens, FL. With a 5-star rating from 183 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 183
+reviews:
+  - author: "Roxe G."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      Yuliet is amazing. I absolutely love her! I have been seeing her since 2018 and I wouldn’t trade her for the world! Best service, products, and quality❤️
+    source: "Google"
+  - author: "Daniela P."
+    rating: 5
+    date: "2024-09-10"
+    text: >-
+      Yuliet has truly transformed my life! Dealing with facial hair as a girl can be tough, but after just two laser sessions with her, I saw a massive difference. Now, only five sessions in, I'm practically hair-free. Yuliet’s exceptional customer service and dedication to her clients make her one of the best in the business. Plus, the prices at this med spa are unbeatable!
+    source: "Google"
+  - author: "Jessica C."
+    rating: 5
+    date: "2018-10-31"
+    text: >-
+      Great medical spa! They offer fair prices and the service is great. They’re very organized with their appointments and don’t overbook. Kaly is doing my laser hair removal, she’s great. They have the latest technology making the hair removal process painless. Looking forward to not having to shave!! Definitely would recommend.
+    source: "Google"
+  - author: "Sibel P."
+    rating: 5
+    date: "2021-08-20"
+    text: >-
+      I been coming to this spa since January 2021. I started with getting PRP’s on a regular basis and added laser and facial services to my beauty regimen since. The results are always great which motivates me even more to try new things. What I also like is they are honest with their consultations and not trying to just sell me a bunch of services. The prices are reasonable and they work with my sche
+    source: "Google"
+  - author: "Yami H."
+    rating: 5
+    date: "2019-03-30"
+    text: >-
+      Excellence in professional services.  Kaly takes time to make sure one understands the procedure and gets a lot of information on your history.  She told me to go back in two weeks for a follow up and a revision if needed at no cost.  She really takes pride in the work she does.  True professionals.  Prices are excellent and they offer so many different services you wouldn't need to go anywhere el
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/rtmedspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

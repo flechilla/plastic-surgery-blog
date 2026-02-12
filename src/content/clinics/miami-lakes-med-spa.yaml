@@ -1,0 +1,60 @@
+name: "Miami Lakes Med Spa"
+slug: miami-lakes-med-spa
+city: miami-lakes
+cityDisplay: "Miami Lakes"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "7980 NW 155th St STE A, Miami Lakes, FL 33016"
+zipCode: "33016"
+coordinates:
+  lat: 25.914392499999998
+  lng: -80.3304323
+phone: "(305) 418-0392"
+website: "http://miamilakesmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=16458504518562449629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Lakes Med Spa is a plastic surgery practice located in Miami Lakes, FL. With a 4.9-star rating from 185 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 185
+reviews:
+  - author: "Amy D. A."
+    rating: 5
+    date: "2025-11-11"
+    text: >-
+      I had a wonderful experience at Miami Lakes Med Spa. From the moment I arrived, the receptionist was exceptionally kind, responsive, and thorough in explaining the available products and services.  Dr. Sabrina Gonzalez is truly outstanding. She took the time to explain every detail of the procedure, including the expected results, and made sure I was comfortable throughout the entire process. Her 
+    source: "Google"
+  - author: "Glenda D."
+    rating: 5
+    date: "2025-11-30"
+    text: >-
+      From the Dr to the staff. Very professional and caring. Dr Sabrina is very knowledgeable and takes the time to explain. I have to drive far from home but it is worth it. I highly recommend her to anyone that wants to  have a fresh look or to look younger.
+    source: "Google"
+  - author: "Alexis M."
+    rating: 1
+    date: "2025-11-30"
+    text: >-
+      Absolutely disgusting behavior from this so-called “medical spa.” If you value respect, professionalism, or basic human decency, RUN the other way. I have never in my life witnessed a staff talk to patients the way they do here.  The way they treat people is beyond unacceptable—snarky remarks, rude tones, eye-rolling, and straight-up unprofessional comments that no licensed medical provider should
+    source: "Google"
+  - author: "Thaely C."
+    rating: 1
+    date: "2025-12-08"
+    text: >-
+      I had an appointment today at 3:45 p.m. for a free consultation with the Doctor. I confirmed the appointment days prior. They even said to get there 10 minutes early. I arrived around 3:30 p.m. - 3:35 p.m. I waited until 4:30 p.m. and the doctor never saw me. Another girl was gonna see me then because the doctor was backed up with another patient. But after having to wait like an hour, I decided t
+    source: "Google"
+  - author: "Monalina P."
+    rating: 5
+    date: "2025-09-25"
+    text: >-
+      I Am very happy and comfortable at Miami Lakes med spa. I have done several services like morpheus 8, Botox & fillers, all of my appointments have been with amazing care and service. Dr Sabrina is always very informative with explaining the treatments and she has the Hands of an angel!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/miami-lakes-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

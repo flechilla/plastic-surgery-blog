@@ -1,0 +1,36 @@
+name: "Qway MedSpa"
+slug: qway-medspa
+city: hialeah
+cityDisplay: "Hialeah"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "1035 E 4th Ave, Hialeah, FL 33010"
+zipCode: "33010"
+coordinates:
+  lat: 25.831446300000003
+  lng: -80.27346539999999
+phone: "(305) 884-0134"
+website: "https://qwaymedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5426284290831188195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Qway MedSpa is a plastic surgery practice located in Hialeah, FL. With a 5-star rating from 1 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 1
+reviews:
+  - author: "Claudia C."
+    rating: 5
+    date: "2025-09-17"
+    text: >-
+      I had such an amazing experience at this med spa! From the moment I walked in, the girls were so welcoming and kind it really makes all the difference to feel comfortable and cared for. I went in for the Morpheus8 procedure, and while it felt a little uncomfortable at first, it was honestly very manageable and over before I knew it.  The team is professional, knowledgeable, and you can tell they t
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/qway-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

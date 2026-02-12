@@ -1,0 +1,60 @@
+name: "The Aesthetics MD & Wellness | Coral Gables & South Miami | Dermal Filler, Weight Loss, Laser, Cosmetic Med Spa"
+slug: the-aesthetics-md-wellness-coral-gables-south-miami-dermal-f
+city: coral-gables
+cityDisplay: "Coral Gables"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "West Flagler"
+address: "747 Ponce de Leon Blvd STE 501, Coral Gables, FL 33134"
+zipCode: "33134"
+coordinates:
+  lat: 25.765290200000003
+  lng: -80.25813889999999
+phone: "(305) 586-3242"
+website: "https://theaestheticsmd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13490415210612121164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Aesthetics MD & Wellness | Coral Gables & South Miami | Dermal Filler, Weight Loss, Laser, Cosmetic Med Spa is a plastic surgery practice located in Coral Gables, FL. With a 4.9-star rating from 75 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 75
+reviews:
+  - author: "Amanda G."
+    rating: 5
+    date: "2025-08-05"
+    text: >-
+      I had my Botox done at this clinic and I absolutely loved the results! Dr. Rene and Renata are very welcoming, attentive and explained me the whole procedure, and made me feel completely comfortable. Highly recommend it to anyone looking for a trusted and professional clinic! I’ll definitely come back
+    source: "Google"
+  - author: "Alma L. P."
+    rating: 5
+    date: "2025-05-03"
+    text: >-
+      Starting my bridal beauty journey with Dr. Rene Garcia and Renata has been an incredible experience! They are not only experts at what they do but also truly kind, attentive, and professional. From the moment I walked into The Aesthetics MD & Wellness in Coral Gables, I felt completely taken care of. The attention to detail, personalized care, and genuine passion they bring to every appointment is
+    source: "Google"
+  - author: "Mariaregina M."
+    rating: 5
+    date: "2025-05-04"
+    text: >-
+      I can’t say enough great things about Aesthetics MD. The staff is always so attentive and genuinely focused on your needs from the moment you walk in. Every visit feels personalized and welcoming. I’ve had Botox done here multiple times, and it’s consistently been a fantastic experience the results always look exactly how I want. What really stands out is how quickly it takes effect. By the next d
+    source: "Google"
+  - author: "natalia r."
+    rating: 5
+    date: "2025-05-30"
+    text: >-
+      The aesthetic MD is a wonderful experience. Dr. Rene is amazing, He is knowledgeable in advance medical science and offers the best treatments on the market for all beauty concerns. Highly recommended and Renata is so gentle with care & overall experience.
+    source: "Google"
+  - author: "Natalie"
+    rating: 5
+    date: "2024-03-13"
+    text: >-
+      Renata performed a hydrafacial on me and it was wonderful!  It was relaxing and left my face feeling amazing!  She helped me customize the facial to ensure that we focused on my problem areas.  The location was easy to find and the office is clean and calming.  Dr. Garcia was also very nice and accommodating!   I love out of state and will  definitely be back for more treatments.  I’m so happy wit
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-aesthetics-md-wellness-coral-gables-south-miami-dermal-f.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

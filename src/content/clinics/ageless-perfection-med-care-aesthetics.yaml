@@ -1,0 +1,60 @@
+name: "Ageless Perfection Med Care & Aesthetics"
+slug: ageless-perfection-med-care-aesthetics
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "5805 Waterford District Dr # 150, Miami, FL 33126"
+zipCode: "33126"
+coordinates:
+  lat: 25.7836125
+  lng: -80.2924944
+phone: "(305) 305-2202"
+website: "https://www.agelessperfectionmed.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8005901368618426195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Ageless Perfection Med Care & Aesthetics is a plastic surgery practice located in Miami, FL. With a 5-star rating from 80 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 80
+reviews:
+  - author: "Diana P."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      This place is great in all aspects. They’re all great professionals that recommend and do the treatments that you need, not what will bring them more money. They’re also very friendly and always follow up with you. I can’t recommend them enough.
+    source: "Google"
+  - author: "Diana P."
+    rating: 5
+    date: "2025-10-08"
+    text: >-
+      Best place in Miami to get botox, lip fillers, laser and anything aesthetic you are looking for. I’ve been visiting them for 6 years and would not change them. They are professional, people friendly and great place to come and relax. If you haven’t decided where to go choose Ageless Perfection Med Care & Aesthetics you will not regret it.
+    source: "Google"
+  - author: "Josue C."
+    rating: 5
+    date: "2025-04-22"
+    text: >-
+      It's a nice place, where the staff people are very kind and gentle. Good service. Very well explained procedure. Esthetician María José treats you with great professionalism and kindness. Highly recommended for cosmetic and anti-aging procedures.
+    source: "Google"
+  - author: "audrey w."
+    rating: 5
+    date: "2024-07-03"
+    text: >-
+      Maria is the best in the business. Her precise, attention to detail is what sets her apart. She truly cares for the well being of her clients and patients. Not only were my results perfect,  but I also see her testimonials on social media that have encouraged me to try new treatments. She will listen to all the concerns and cater the best package for ultimate results.
+    source: "Google"
+  - author: "DIANNAROXONN G."
+    rating: 5
+    date: "2024-10-20"
+    text: >-
+      I have had only great service at Ageless Perfection. Their entire staff makes you feel at home. Their profesional and friendly service makes me keep coming back. Most importantly I see the results in every treatment I have purchased for me and my family!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/ageless-perfection-med-care-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

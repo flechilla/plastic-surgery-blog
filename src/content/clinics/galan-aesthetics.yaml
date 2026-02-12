@@ -1,0 +1,60 @@
+name: "Galan Aesthetics"
+slug: galan-aesthetics
+city: hialeah
+cityDisplay: "Hialeah"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "6450 W 21st Ct #201, Hialeah, FL 33016"
+zipCode: "33016"
+coordinates:
+  lat: 25.881311800000002
+  lng: -80.3268372
+phone: "(305) 497-5146"
+website: "http://galanaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15998014344200846248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Galan Aesthetics is a plastic surgery practice located in Hialeah, FL. With a 5-star rating from 368 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 368
+reviews:
+  - author: "Erica G."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      This was the best experience I could have asked for for my first time in the world of injectables. Dr. Galán was incredibly attentive, highly professional, and made me feel comfortable from the very beginning. I honestly didn’t feel anything at all, and the results exceeded my expectations.  He is a truly professional provider, and the entire clinic was spotless and impeccably clean, which gave me
+    source: "Google"
+  - author: "Cyd m. S."
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      An incredible experience at Galan Aesthetic Med Spa! I’ve been coming to Galan Aesthetic Med Spa for a variety of treatments — lip filler, IV therapy, B12 injections, and Botox — and every single visit has exceeded my expectations.  Dr. Galán is truly exceptional. He takes the time to explain every step, listens carefully to your goals, and makes sure you feel completely comfortable throughout the
+    source: "Google"
+  - author: "Trusiana P."
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      A Truly Exceptional Experience at Galan Aesthetics!  From the moment I stepped into Galan Aesthetics, I knew I was in great hands. The space is modern, calming, and absolutely pristine—creating the perfect atmosphere to unwind and rejuvenate. Dr. Galan and the entire team are incredibly professional, knowledgeable, and genuinely caring.  I’ve had so many treatments and the results are always amazi
+    source: "Google"
+  - author: "Martin t."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      Dr. Galan makes me feel secure and confident that I’m in good hands. He has helped me with his expert aesthetic advice. His staff are very professional and knowledgeable about the latest treatments. I love the way they treat every client — like a friend.
+    source: "Google"
+  - author: "Erika R."
+    rating: 5
+    date: "2025-09-11"
+    text: >-
+      Dr. Galán is an excellent doctor and a wonderful person. He is always very professional, attentive, and takes the time to explain everything clearly. His care is compassionate and reassuring, which makes you feel comfortable and well taken care of. I 100% recommend him for his great professionalism and kindness ❤️
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/galan-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

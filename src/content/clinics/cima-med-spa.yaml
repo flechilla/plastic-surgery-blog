@@ -1,0 +1,60 @@
+name: "CIMA Med Spa"
+slug: cima-med-spa
+city: miami-springs
+cityDisplay: "Miami Springs"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "175 Westward Dr, Miami Springs, FL 33166"
+zipCode: "33166"
+coordinates:
+  lat: 25.8213626
+  lng: -80.28402609999999
+phone: "(305) 871-9636"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=3857004751536358444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  CIMA Med Spa is a plastic surgery practice located in Miami Springs, FL. With a 5-star rating from 55 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 55
+reviews:
+  - author: "Briannie J."
+    rating: 5
+    date: "2022-02-23"
+    text: >-
+      My non-surgical nose job experience was exceptional at CIMA med spa! The staff was so kind and made me feel very comfortable as soon as I walked into the building. Marcella, the PA, prepped me thoroughly and made sure that I got exactly what I wanted with my nose. She took very good care of me & took her time with the procedure. She made sure to walk me through the entire process, which made me fe
+    source: "Google"
+  - author: "Vivian S."
+    rating: 5
+    date: "2022-06-10"
+    text: >-
+      Great customer service! The place is very clean and cozy. Great team, Britney is helpful and share accurate information. Marcella, is very knowledgeable and made me felt that I am in the best hands. She took the time to listen my concerns and explained me the process and aware of preventions. I am very pleased I found this gem in Miami Springs. I would definitely recommend it
+    source: "Google"
+  - author: "Chanel G."
+    rating: 5
+    date: "2022-09-01"
+    text: >-
+      The girls at CIMA Med Spa are amazing! They made me feel comfortable and welcome from day one and through out the entire process. I went in to get smile line filler and with this being my first time ever getting any type of injectable type procedure done I was so anxious but they made sure I was comfortable and taken care of the entire time. I wouldn't go anywhere else and will definitely be recom
+    source: "Google"
+  - author: "Janellis C."
+    rating: 5
+    date: "2023-02-07"
+    text: >-
+      I was feeling fatigued, and in need of a pick me up when my friend had commented to me about IV therapy and recommended the IV Lab. I was a bit on the fence, but after this week of being sick and drained and with a three-year-old running around I really needed a pick me up. I brought my husband with me, who also needed a pick me up. We came in to a relaxed environment and some wonderful people who
+    source: "Google"
+  - author: "Victoria A."
+    rating: 5
+    date: "2022-05-23"
+    text: >-
+      Love this spa! The staff is so friendly and makes you feel comfortable about your procedures. I also love how honest they are. Marcella is very open and honest if she doesn’t think you need a certain procedure or will recommend something that’s better for the outcome you’re looking for!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/cima-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
