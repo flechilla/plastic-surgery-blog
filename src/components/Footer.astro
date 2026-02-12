@@ -8,6 +8,11 @@ const footerLinks = {
     { label: 'Breast Surgery', href: '/procedures#breast' },
     { label: 'Non-Surgical', href: '/procedures#non-surgical' },
   ],
+  clinics: [
+    { label: 'Find a Clinic', href: '/clinics' },
+    { label: 'Miami Clinics', href: '/clinics/miami' },
+    { label: 'Fort Myers Clinics', href: '/clinics/fort-myers' },
+  ],
   resources: [
     { label: 'Blog', href: '/' },
     { label: 'Recovery Guides', href: '/blog' },
@@ -60,7 +65,7 @@ const footerLinks = {
 
   <!-- Links Grid -->
   <div class="mx-auto max-w-7xl px-6 py-12 lg:px-10 lg:py-16">
-    <div class="grid grid-cols-2 gap-8 md:grid-cols-4">
+    <div class="grid grid-cols-2 gap-8 md:grid-cols-3 lg:grid-cols-5">
       <!-- Brand Column -->
       <div class="col-span-2 md:col-span-1">
         <a href="/" class="flex items-center gap-3">
@@ -97,6 +102,27 @@ const footerLinks = {
         <ul class="space-y-2.5">
           {
             footerLinks.procedures.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  class="text-sm text-charcoal/60 transition-colors duration-200 hover:text-charcoal"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      <!-- Clinics -->
+      <div>
+        <h4 class="mb-4 text-xs font-medium uppercase tracking-[0.15em] text-charcoal/40">
+          Find a Clinic
+        </h4>
+        <ul class="space-y-2.5">
+          {
+            footerLinks.clinics.map((link) => (
               <li>
                 <a
                   href={link.href}
