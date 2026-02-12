@@ -1,0 +1,37 @@
+name: "Levine Plastic Surgery"
+slug: levine-plastic-surgery
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hillcrest"
+address: "3702 Washington St STE 305, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.0022184
+  lng: -80.1809241
+phone: "(754) 663-5521"
+website: "https://www.levineplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1995820005880911343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Levine Plastic Surgery is a plastic surgery located in Hollywood, FL. With a 5-star rating from 1 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 5
+reviewCount: 1
+reviews:
+  - author: "Julian P. O."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      I'm so grateful for Doctor Levine, he has made a good job and he's a great professional.
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

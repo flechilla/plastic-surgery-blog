@@ -1,0 +1,37 @@
+name: "Conception Cosmetics"
+slug: conception-cosmetics
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hollywood Beach"
+address: "3501 N Ocean Dr Cu-1, Hollywood, FL 33019"
+zipCode: "33019"
+coordinates:
+  lat: 26.0328588
+  lng: -80.115116
+phone: "(954) 758-4526"
+website: "https://www.conceptioncosmetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11604566566756665864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Cosmetic Practice"
+description: >-
+  Conception Cosmetics is a cosmetic practice located in Hollywood, FL. With a 5-star rating from 1 reviews.
+specialties:
+  - "Cosmetic Practice"
+rating: 5
+reviewCount: 1
+reviews:
+  - author: "Karen P."
+    rating: 5
+    date: "2024-08-07"
+    text: >-
+      I FOUND Dr. Burton! He was my surgeon in Maryland and has since moved to Hollywood FL. Looking into “another” procedure and Dr. Burton is the one that I trust! He is certainly worth the flight! Bedside manner/professionalism/staff next to none! If those attributes are important to you, Dr. Burton is your man!
+    source: "Google"
+logo: "/images/clinics/logos/conception-cosmetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

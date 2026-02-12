@@ -1,0 +1,61 @@
+name: "Hollywood Laser Med Spa"
+slug: hollywood-laser-med-spa
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hollywood Hills"
+address: "3325 Hollywood Blvd #300, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.0113932
+  lng: -80.1761435
+phone: "(954) 589-5892"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=13520132880180163443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Medical Spa"
+description: >-
+  Hollywood Laser Med Spa is a medical spa located in Hollywood, FL. With a 5-star rating from 165 reviews.
+specialties:
+  - "Medical Spa"
+rating: 5
+reviewCount: 165
+reviews:
+  - author: "Vilailak K."
+    rating: 5
+    date: "2025-11-06"
+    text: >-
+      If you are looking for a place to do laser I really recommend Hollywood Laser. Not only is their machine the best but Gilda has so much knowledge and experience she truly cares about every single client and customizes the sessions to each person. I love that every time I get it done by one person, I would hate to go somewhere that I get a different technician every time. 100% recommend Hollywood L
+    source: "Google"
+  - author: "Sam S."
+    rating: 5
+    date: "2025-10-11"
+    text: >-
+      Laser hair removal process is very seamless and pain free! Pretty competitive pricing as well Great office facility and staff! Highly recommend.
+    source: "Google"
+  - author: "Helen"
+    rating: 5
+    date: "2025-12-22"
+    text: >-
+      I absolutely love this laser hair removal place! Juliana at the front desk is the sweetest — always so welcoming, kind, and incredibly helpful. From the moment you walk in, you feel taken care of. The laser technician is just as amazing — she’s so sweet and always makes sure you’re comfortable, constantly checking in to make sure you’re not in pain. On top of the great experience, the results have
+    source: "Google"
+  - author: "MeteDuzur_ M."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      My experience at Hollywood Laser Med Spa was exquisite. I had my back, neck, and shoulders done.  Boy am I glad I did! I went from looking like a hairy pig to looking like Zac Efron from the 2000s! Gilda and Giuliana are very friendly and knowledgeable. They know what they’re doing and have an answer to all your questions. I would recommend Hollywood Laser Med Spa if you are looking for laser hair
+    source: "Google"
+  - author: "Priscilla D. P."
+    rating: 5
+    date: "2025-01-25"
+    text: >-
+      I had the best experience at Hollywood Laser. I get laser treatments for my underarms and full face, and the results have been amazing. The staff is professional, knowledgeable, and made me feel completely comfortable throughout the process. The facility was clean and relaxing, and they explained everything clearly before starting. I’m so happy with the results and highly recommend this Hollywood 
+    source: "Google"
+logo: "/images/clinics/logos/hollywood-laser-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

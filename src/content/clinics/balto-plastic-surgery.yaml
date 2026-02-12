@@ -1,0 +1,61 @@
+name: "Balto Plastic Surgery"
+slug: balto-plastic-surgery
+city: pembroke-pines
+cityDisplay: "Pembroke Pines"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "SilverLakes"
+address: "17900 NW 5th St SUITE 104, Pembroke Pines, FL 33029"
+zipCode: "33029"
+coordinates:
+  lat: 26.0091812
+  lng: -80.3857415
+phone: "(786) 228-1510"
+website: "https://baltoplasticsurgery.com/?utm_source=gbp&utm_medium=organic"
+googleMapsUrl: "https://maps.google.com/?cid=15546984227578677848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  Balto Plastic Surgery is a plastic surgery located in Pembroke Pines, FL. With a 4.6-star rating from 288 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.6
+reviewCount: 288
+reviews:
+  - author: "Rosane M. L."
+    rating: 1
+    date: "2025-11-15"
+    text: >-
+      My experience was extremely disappointing. On the day of the procedure, I waited over 7 hours it was scheduled for 11am and I wasn’t seen until 6pm. When the doctor finally saw me, he made an uncomfortable comment implying I had only paid for one procedure when, in fact, it was supposed to include two.  One side didn’t turn out well, and during my follow-up visit, the doctor assured me that if the
+    source: "Google"
+  - author: "Alejandra S."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      Excellent plastic surgeon. From the very first consultation I felt completely comfortable. The team was attentive, and the results exceeded my expectations. Professional, meticulous, and truly outstanding work. Highly recommend.
+    source: "Google"
+  - author: "Luanna M."
+    rating: 1
+    date: "2025-10-31"
+    text: >-
+      If only I could give 0 stars! The customer service in this place is awful! My daughter had breast augmentation back in September and they did her pre-op the same day as surgery. Ok.  It’s not an issue. However, she was not provided any written post-op instructions or prescription for medication. As I was getting ready to leave with her I had to go back in and ask for the meds. They told me they ga
+    source: "Google"
+  - author: "Miriam S."
+    rating: 1
+    date: "2025-08-26"
+    text: >-
+      From the very first contact, it was a disappointment: the receptionist was extremely rude and disrespectful, even treating the nurse very harshly in front of us, causing embarrassment for everyone present. My friend had saved every penny with great effort to fulfill her dream of getting liposuction, and unfortunately, she had one of the worst experiences possible. She paid for a compression garmen
+    source: "Google"
+  - author: "Camila A."
+    rating: 5
+    date: "2025-07-29"
+    text: >-
+      Dr. Balto was amazing. He made me feel super calm throughout the whole process and gave honest, no-pressure recommendations. Everything went quickly and smoothly, couldn’t have asked for a better experience.
+    source: "Google"
+logo: "/images/clinics/logos/balto-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,31 @@
+name: "South Florida Plastic Surgery"
+slug: south-florida-plastic-surgery
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Hillcrest"
+address: "3700 Washington St # 500A, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.0026874
+  lng: -80.18109849999999
+phone: "(305) 906-5206"
+website: "https://www.southflplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2333255444314672562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  South Florida Plastic Surgery is a plastic surgery located in Hollywood, FL.
+specialties:
+  - "Plastic Surgery"
+rating: 0
+reviewCount: 0
+reviews: []
+logo: "/images/clinics/logos/south-florida-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,61 @@
+name: "ARTIS Institute for Plastic Surgery"
+slug: artis-institute-for-plastic-surgery
+city: aventura
+cityDisplay: "Aventura"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "21110 Biscayne Blvd #103, Aventura, FL 33180"
+zipCode: "33180"
+coordinates:
+  lat: 25.9702949
+  lng: -80.14456009999999
+phone: "(305) 932-3200"
+website: "https://sarragaplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=255219771956637061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "doctor"
+googleCategoryDisplay: "Plastic Surgery"
+description: >-
+  ARTIS Institute for Plastic Surgery is a plastic surgery located in Aventura, FL. With a 4.8-star rating from 151 reviews.
+specialties:
+  - "Plastic Surgery"
+rating: 4.8
+reviewCount: 151
+reviews:
+  - author: "Ya b."
+    rating: 5
+    date: "2025-09-30"
+    text: >-
+      Dr. Sarraga did an incredible job on my mother's eye and face treatment. She healed very quickly following the pre and post op instructions to the T, the staff were exceptional both friendly and helpful with all her questions. Thank you Dr. Sarraga and to your wonderful team!
+    source: "Google"
+  - author: "Arina K."
+    rating: 5
+    date: "2025-08-07"
+    text: >-
+      I had my Ultra Clear Laser Treatment here yesterday, and the whole experience was absolutely wonderful! ✨ The staff is outstanding — they did everything to make me feel completely comfortable and relaxed from start to finish. My specialist, Mabel, truly has golden hands — she is incredibly skilled and attentive.  The clinic has excellent customer service, state-of-the-art new equipment, and a very
+    source: "Google"
+  - author: "Carmen R."
+    rating: 5
+    date: "2025-07-25"
+    text: >-
+      Simply the best! Doctor Negron is the best Rhumatology around! She takes good care of you and do the best for you to get well, healthy and going. Dr Andres Sarraga is doing an amazing job making people look beautiful and returning self confidence to those who needs it. Excellent office staff! Treating you and welcoming to the office like family!  Can’t wait for my next vitamin and NAD treatment. G
+    source: "Google"
+  - author: "Shira K."
+    rating: 5
+    date: "2025-07-25"
+    text: >-
+      Dr sarraga and his staff are A+ ! 1) office is beautiful and welcoming 2) all staff are friendly and accommodating 3) nurse Tammy was really great with my surgery and all the follow ups I had her on call immediately after to answer any questions and she was super responsive and comforting 4) Dr sarraga listened to my needs for being very natural and subtle - he did a great job, and also has fantas
+    source: "Google"
+  - author: "Mayra L."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      I have nothing but good things to say about the treatment and results of my surgery. I felt very at ease every time  I went to the office. Everyone is very kind and friendly and always made me feel very special.
+    source: "Google"
+logo: "/images/clinics/logos/artis-institute-for-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

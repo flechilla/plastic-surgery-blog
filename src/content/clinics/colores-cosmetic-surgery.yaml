@@ -1,0 +1,61 @@
+name: "Colores Cosmetic Surgery"
+slug: colores-cosmetic-surgery
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Central Business District"
+address: "117 S 17th Ave, Hollywood, FL 33020"
+zipCode: "33020"
+coordinates:
+  lat: 26.0108684
+  lng: -80.1402931
+phone: "(954) 589-1508"
+website: "http://www.colorescosmeticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15103171887411918198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: ""
+googleCategoryDisplay: "Cosmetic Surgery"
+description: >-
+  Colores Cosmetic Surgery is a cosmetic surgery located in Hollywood, FL. With a 4.9-star rating from 143 reviews.
+specialties:
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 143
+reviews:
+  - author: "Kamila S."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      My experience with Dr. Layons_and the entire team was absolutely exceptional. From the very first appointment to the post-operative care, I was treated with patience, kindness, and professionalism. They answered all my questions, made me feel safe, and supported me through every step of the process.  The staff is attentive, dedicated, and truly cares about their patients’ well-being. Dr. Layions  
+    source: "Google"
+  - author: "Nellie C."
+    rating: 5
+    date: "2025-12-08"
+    text: >-
+      I came across COLORES COSMETIC SURGERY by simple trying to book a massage, little did I know they d end up making one my biggest wish come true to perfection. So I begin my massages with Viviana R. she is courteous, professional, kind, and an expert of her craft! While checking out that day I noticed that they did Breast Augmentation/ Reduction, so I spoke to Vanessa she answered all my questions,
+    source: "Google"
+  - author: "Petith l."
+    rating: 5
+    date: "2025-12-06"
+    text: >-
+      Thanks to my friend Nely, I found the right place. Vanessa is exceptional, providing personalized evaluations based on each patient's individual needs and expectations. After eight years of suffering from breast cancer, I decided to have breast reconstruction without implants, along with other cosmetic procedures. I'm very happy with the results and the ongoing care I receive. I highly recommend i
+    source: "Google"
+  - author: "Rachel O."
+    rating: 5
+    date: "2025-08-07"
+    text: >-
+      Best Clinic in FL , the doctor and staff are amazing . My mommy make over came out beautiful and my scars are gorgeous. So thankful to god to have found the perfect clinic to change my body.
+    source: "Google"
+  - author: "Maria F. D. S."
+    rating: 5
+    date: "2025-04-17"
+    text: >-
+      I had a wonderful experience at Colores Spa with a lymphatic drainage massage that lasted an hour. The place is very clean, pleasant, and welcoming. I was treated by Karen, who was very clear in explaining the entire process from the start. She’s excellent at what she does—professional, knowledgeable, and kind. She also gave me great recommendations for post-massage care. I highly recommend them a
+    source: "Google"
+logo: "/images/clinics/logos/colores-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

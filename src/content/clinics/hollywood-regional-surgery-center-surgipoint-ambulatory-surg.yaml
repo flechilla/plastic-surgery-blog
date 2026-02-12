@@ -1,0 +1,61 @@
+name: "Hollywood Regional Surgery Center- SurgiPoint Ambulatory Surgery Centers affiliated"
+slug: hollywood-regional-surgery-center-surgipoint-ambulatory-surg
+city: hollywood
+cityDisplay: "Hollywood"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Emerald Hills"
+address: "3475 Sheridan St #104, Hollywood, FL 33021"
+zipCode: "33021"
+coordinates:
+  lat: 26.033536899999998
+  lng: -80.1790785
+phone: "(954) 391-9995"
+website: "https://hollywoodrsc.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1628240272370712113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "health"
+googleCategoryDisplay: "Health & Wellness"
+description: >-
+  Hollywood Regional Surgery Center- SurgiPoint Ambulatory Surgery Centers affiliated is a health & wellness located in Hollywood, FL. With a 4.3-star rating from 36 reviews.
+specialties:
+  - "Health & Wellness"
+rating: 4.3
+reviewCount: 36
+reviews:
+  - author: "Jacky T."
+    rating: 5
+    date: "2025-06-17"
+    text: >-
+      I had a surgery on 6/4/25. I was very nervous about it. The entire staff was amazing, very courteous, kind and very patient with me. The nurses went above and beyond to make me feel comfortable and safe. The location was very clean very modern.Doctor Hussamy, thank you for taking good care of me and helping me.Thank you to Mario Serralta for recommending me the number one team in Florida
+    source: "Google"
+  - author: "Corrine S."
+    rating: 1
+    date: "2025-02-06"
+    text: >-
+      I had surgery here on January 28, 2025 and I really wish I hadn’t. 10 out of 10 would not recommend anyone doing any procedure in this facility.  I’ll begin with the positive. The intake nurse Jennifer was nice. She calmed my nerves down a bit. Everything seemed normal. I had Surgery on my cervical spine, but waking up from anesthesia was the most horrendous awful experience I have ever endured in
+    source: "Google"
+  - author: "Odalys A."
+    rating: 5
+    date: "2024-12-03"
+    text: >-
+      This center was special, from the front desk staff to the pain nurses and the anesthesia staff, all super friendly. Dr. Grau was not to mention professional. He was sincere, gave clear explanations, Tim was nice and special, thank you for the surgery. It was a total knee replacement, knee joint revision/replacement, knee repair, revision and/or reconstruction, elbow injection, PRP injection in the
+    source: "Google"
+  - author: "Sandy D."
+    rating: 5
+    date: "2020-11-17"
+    text: >-
+      I had my sleeve here 09/25. and the staff was amazing. I was so anxious and scared of having surgery but everyone was so nice and welcoming all the fear went away. I felt at home.  my nurse who take care of me after surgery was amazing, the people who put in my iv were amazing. I can honestly say in todays climate being African American I didn't feel like I was being tolerated like previous experi
+    source: "Google"
+  - author: "Patrick R."
+    rating: 1
+    date: "2024-06-21"
+    text: >-
+      First of all it’s not even called miVIP any more, it’s called Surgipoint, they still go by Hollywood Regional. This place has horrendous management. Took my family friend for a procedure there and the procedure was delayed several hours…is there anyone in charge? Where’s the manager or administrators? When I picked up my friend, they mentioned that another surgeon caused the delay for my friend’s 
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

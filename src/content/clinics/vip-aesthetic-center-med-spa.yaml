@@ -1,0 +1,61 @@
+name: "VIP Aesthetic Center Med Spa"
+slug: vip-aesthetic-center-med-spa
+city: hallandale-beach
+cityDisplay: "Hallandale Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2500 E Hallandale Beach Blvd Suite 209, Hallandale Beach, FL 33009"
+zipCode: "33009"
+coordinates:
+  lat: 25.985533099999998
+  lng: -80.1252188
+phone: "(786) 667-3800"
+website: "https://www.vipaestheticcenter.com/"
+googleMapsUrl: "https://maps.google.com/?cid=168328586460109556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+googleCategory: "spa"
+googleCategoryDisplay: "Medical Spa"
+description: >-
+  VIP Aesthetic Center Med Spa is a medical spa located in Hallandale Beach, FL. With a 4.8-star rating from 639 reviews.
+specialties:
+  - "Medical Spa"
+rating: 4.8
+reviewCount: 639
+reviews:
+  - author: "Josuhar E."
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      I had an amazing experience at this aesthetic dermatology clinic. From the moment I walked in, Trinity (the office manager) made me feel completely comfortable and cared for. Yami (the clinician) took the time to really listen, explain my options, and answer all my questions. The treatments were professionally done, and the results over time exceeded my expectations. The office is spotless, modern
+    source: "Google"
+  - author: "Jenny O."
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      I can’t say enough good things about VIP! I came in for Botox and laser hair removal, and the entire experience exceeded my expectations. The team is incredibly knowledgeable, warm, and genuinely invested in helping you feel your best.  My Botox results are perfect—smooth, subtle, and super natural. The injector took the time to listen to what I wanted and delivered exactly that. I feel refreshed 
+    source: "Google"
+  - author: "Sophia J."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      I had such a great experience at VIP Aesthetic Center Med Spa! I came in unsure of what I wanted, and the front desk helped guide me through everything without making me feel rushed or confused. Trinity took such good care of me!! She’s super sweet, knowledgeable, and made the whole process feel so easy.  I left feeling refreshed and honestly so much more confident. If you need a little pick-me-up
+    source: "Google"
+  - author: "Marisa C."
+    rating: 1
+    date: "2026-01-23"
+    text: >-
+      Very disappointed with their customer service. I was misled by a confusing Groupon offer. When I called ahead, the front desk employee acknowledged the error and assured me they would honor the lower price. However, once I arrived, I was told they would NOT honor it and was required to pay the price difference. This felt like a classic bait-and-switch situation, so of course I decided to leave and
+    source: "Google"
+  - author: "Florencia B."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      I got Revanesse Versa and I couldn’t be happier with my results. The injector was extremely knowledgeable, gentle, and took the time to explain everything step by step, which made me feel very comfortable. My lips look natural, hydrated, and perfectly balanced exactly what I wanted.  There was minimal swelling, the process was smooth, and the space was clean and professional. I truly appreciate th
+    source: "Google"
+logo: "/images/clinics/logos/vip-aesthetic-center-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
