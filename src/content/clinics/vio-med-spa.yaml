@@ -1,0 +1,54 @@
+name: "VIO Med Spa"
+slug: vio-med-spa
+city: fort-myers
+state: FL
+address: "6921 Daniels Pkwy Ste 195, Fort Myers, FL 33912"
+zipCode: "33912"
+phone: "(239) 922-1177"
+website: "https://www.viomedspa.com/locations/fort-myers"
+googleMapsUrl: "https://maps.google.com/?cid=11141702520875274275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  VIO Med Spa is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 91 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 91
+reviews:
+  - author: "Silvia B."
+    rating: 5
+    date: "2026-01-08"
+    text: >-
+      I had an amazing experience getting a facial cleaning at V/O with Amaya. From the moment I walked in, Rachel at the lobby made me feel so welcomed with her kindness and professionalism. Amaya, the specialist, was absolutely wonderful—very knowledgeable, gentle, and attentive. I loved the results and the entire experience. Excellent customer service from start to finish. Highly recommend!
+    source: "Google"
+  - author: "Carley O."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      I love this spa! Every experience I’ve had has been great. The staff knows me by name after just a few visits. I always see Claudia and she is the absolute best! She’s made great suggestions for my skin as I get ready for my wedding. We’ve done hydrofacials and microneedling and I love the results! She’s super sweet and knowledgeable!
+    source: "Google"
+  - author: "Layla P."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      My first time visiting a med spa, and I am very happy I went to this one! The staff is very friendly and informative which is great. As a newly post partum mom it was really nice that their medical staff took the time to thoroughly explain what is best for my situation. They also have many options when it comes to payment, so if you’re looking for a med spa to try out don’t let price be a barrier,
+    source: "Google"
+  - author: "Abbey D."
+    rating: 5
+    date: "2025-12-24"
+    text: >-
+      This was my first visit to VIO, and I couldn’t be happier with my experience with Injector Sarah. She was incredibly thorough, took time to understand my goals, and made me feel completely at ease. Her skill and bedside manner are top-notch. I’ll absolutely be returning!
+    source: "Google"
+  - author: "Suzanne F."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      A Transformational Experience with Claudia!  From the moment I walked into Vio Med Spa, I knew I was in expert hands. Her warmth, professionalism, and deep knowledge of skincare instantly put me at ease. Claudia doesn’t just offer treatments—she delivers a personalized experience that feels like a blend of science, luxury, and genuine care.  The skincare treatment itself was nothing short of magic
+    source: "Google"
+logo: "/images/clinics/logos/vio-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

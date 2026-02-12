@@ -1,0 +1,54 @@
+name: "St. John’s Surgery Center"
+slug: st-john-s-surgery-center
+city: fort-myers
+state: FL
+address: "8901 Conference Dr, Fort Myers, FL 33919"
+zipCode: "33919"
+phone: "(239) 481-8833"
+website: "https://stjohnssurgery.com/?utm_source=GBP&utm_medium=Organic&utm_campaign=Location-Listing-STJOHNFM&y_source=1_NzAwNzczOTEtNzE1LWxvY2F0aW9uLndlYnNpdGU="
+googleMapsUrl: "https://maps.google.com/?cid=11038752767019457988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  St. John’s Surgery Center is a plastic surgery practice located in Fort Myers, FL. With a 4.8-star rating from 66 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 66
+reviews:
+  - author: "dawn c."
+    rating: 5
+    date: "2025-08-08"
+    text: >-
+      I have lived in Florida for about 8 years. I have been in and out of different appointments and different procedures. I have never been treated with such respect and care in that hole eight years that I have at St John's surgery when I had my surgery. Fantastic job you all. Keep up the great work.
+    source: "Google"
+  - author: "Linda B."
+    rating: 5
+    date: "2025-03-15"
+    text: >-
+      I cant express enough of all the good treatment I received getting eyelid surgery. The whole stuff was so informative and kind ,they answered all my questions with a warm voice .from the beginning I was made comfortable. The anesthesiologist came in was very nice explained everything she was going to do then Dr Lewis came in he talked to me very nice explained everything he was going to do everybo
+    source: "Google"
+  - author: "Idorkis Q."
+    rating: 4
+    date: "2025-08-13"
+    text: >-
+      I WAS VERY PLEASED WITH THE STAFF, ONLY NEGATIVE THING I HAVE TO SAY IS THE VERY STRONG SMELL OF MOLD IN THE RECEPTION AREA, IT WAS VERY DIFFICULT TO BREATH THAT I HAVE TO STEP OUT WHILE I WAS WAITING FOR MY DAD, I GOT SICK OF MY THROATH I COULDNT SWALLOW, MY EYES GOT IRRITATED. I HOPE THEY RESOLVE THIS ISSUE SPECIALLY WHEN THIS IS A SURGERY CENTER, AND MOLD IS A VERY SERIOUS MATTER.
+    source: "Google"
+  - author: "Jonathan K."
+    rating: 5
+    date: "2024-11-11"
+    text: >-
+      A wonderful place to go. The Staff are amazing from the front desk lady Biscelgia to all the Medical Staff. They take such good care of you. My Mother and I went to vote and the lady next to her we believed accidently took her Cataract glasses. We went down to the Surgery Center, and they were closed. Still two young employees where getting into their cars across the parking lot to leave. Instead 
+    source: "Google"
+  - author: "barbara r."
+    rating: 5
+    date: "2025-03-21"
+    text: >-
+      The Day after cataract surgery I’m having fun playing cards with friends. Great doctor, great facility. I really appreciate having this surgery done by him.
+    source: "Google"
+logo: "/images/clinics/logos/st-john-s-surgery-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

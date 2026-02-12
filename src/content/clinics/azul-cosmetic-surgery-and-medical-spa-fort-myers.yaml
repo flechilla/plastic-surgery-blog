@@ -1,0 +1,54 @@
+name: "Azul Cosmetic Surgery and Medical Spa | Fort Myers"
+slug: azul-cosmetic-surgery-and-medical-spa-fort-myers
+city: fort-myers
+state: FL
+address: "13470 Parker Commons Blvd E #101, Fort Myers, FL 33912"
+zipCode: "13470"
+phone: "(239) 212-1974"
+website: "https://www.azulbeauty.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1019523014487756873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Azul Cosmetic Surgery and Medical Spa | Fort Myers is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 436 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 436
+reviews:
+  - author: "John B."
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      I recently had upper and lower blepharoplasty surgery, done by Dr. Flaherty two weeks ago.  I can't explain how happy I am that I finally had this procedure done.  My initial consult was for upper blepharoplasty only and Dr. Flaherty convinced me that by doing lower bleph at the same time would provide fantastic results.  He did not disappoint and I would highly (highly) recommend Dr. Flaherty if 
+    source: "Google"
+  - author: "Angela B. L."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Debbie is kind and caring which is just what you’d love to have as a great friend or aesthetic provider.  She listens to your needs and gently helps you make good decisions that you won’t regret. She’s cared for me many years at Azul and is the reason I keep coming back to keep my skin looking healthy.
+    source: "Google"
+  - author: "Annie S."
+    rating: 1
+    date: "2025-10-23"
+    text: >-
+      *I wouldn’t trust their office to manage my silverware drawer. *The manager Mia called 10/17/25 at 2:32pm to say that the doctor didn’t take our insurance. Although unhappy, understandable. She was going to see if another doctor in the office did accept our insurance and would get back to us. Mia allegedly cancelled the appointment. *10/20/25 at 10:05am a text comes in to say to set up an account.
+    source: "Google"
+  - author: "S. K. S."
+    rating: 5
+    date: "2025-11-12"
+    text: >-
+      Joni is such a gifted professional and truly a gem. I wasn’t sure which laser treatment was right for me, and she was so patient and thorough in her explanation of different options. She recommended the Moxi (which I already love!) and walked me through exactly what I should expect at each stage of the treatment. She made the whole process so comfortable. Highly, highly recommend Joni and Azul!
+    source: "Google"
+  - author: "Anthony T."
+    rating: 5
+    date: "2025-12-31"
+    text: >-
+      Had a Gentleman’s Hydrafacial with Becky and she was amazing. She explained everything well and created a relaxing and refreshing experience. The staff were excellent. I will definitely be booking with Becky again. Highly recommended.
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,54 @@
+name: "Institute for Medical Aesthetics and Laser - IMAGE"
+slug: institute-for-medical-aesthetics-and-laser-image
+city: fort-myers
+state: FL
+address: "15201 N Cleveland Ave Unit 450, North Fort Myers, FL 33903"
+zipCode: "15201"
+phone: "(239) 402-6678"
+website: "https://instituteimage.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17307040571416505180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Institute for Medical Aesthetics and Laser - IMAGE is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 279 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 279
+reviews:
+  - author: "charlene m."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      I’m in my second week at IMAGE for Facial Specialty, and I’ve already had hands-on experience starting on day two. The hybrid format is perfect for anyone balancing a busy life. My instructor, Liz, is incredible—supportive, knowledgeable, and genuinely invested in her students.  I was a little uneasy about starting esthetician school at 45, but from day one everyone at IMAGE has made me feel compl
+    source: "Google"
+  - author: "laynee w."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      Image Institute has been sooo welcoming and supportive, it’s only my second week and i’m already feeling confident in the future! My teacher Liz has been AMAZING. We have already started hands on training and learned our product knowledge. They have supplied us with everything we need to get started and grow in success!! SO excited for the next 7 weeks!!
+    source: "Google"
+  - author: "Jenny W."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I am enrolled in the Laser & Electrolysis program.  After touring and interviewing another school I decided on IMAGE for a few reasons.  I like the flexibility with their online program and hands on hours.  I am very particular when it comes to cleanliness, ethics, professional standards, quality products and knowledge in any industry. IMAGE has definitely checked all the boxes! The staff have mad
+    source: "Google"
+  - author: "Alexis J."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      I absolutely love my experience at this school! The facial specialist program is hands-on, and uses the latest tools and technology. The environment is welcoming and motivating. My instructor Liz is incredible- she’s knowledgeable, supportive, and genuinely cares about our success. I feel confident and excited about my future thanks to this program. Highly recommend!
+    source: "Google"
+  - author: "K. R."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      I had a great experience completing the Nail Technician program at Image Institute. My instructors  Jennifer was really  knowledgeable, supportive, and truly cared about helping students succeed. She took the time to explain techniques clearly and was always willing to answer questions or give one-on-one guidance.  The hands-on training was one of the best parts of the program. We had plenty of op
+    source: "Google"
+logo: "/images/clinics/logos/institute-for-medical-aesthetics-and-laser-image.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,54 @@
+name: "Azul Cosmetic Surgery and Medical Spa | Bonita Springs"
+slug: azul-cosmetic-surgery-and-medical-spa-bonita-springs
+city: fort-myers
+state: FL
+address: "23451 Walden Center Dr #400, Bonita Springs, FL 34134"
+zipCode: "23451"
+phone: "(239) 212-1975"
+website: "https://www.azulbeauty.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2461997536201139135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Azul Cosmetic Surgery and Medical Spa | Bonita Springs is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 337 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 337
+reviews:
+  - author: "Lisa R."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      The most fun you can have while being jabbed with needles.   Devon is really good at her job.  She is moderate in her recommendations.  This is the best place I’ve ever gone for injections and I’ve been to a lot of med spas in many different states.  I highly recommend Devon.
+    source: "Google"
+  - author: "Donald G."
+    rating: 5
+    date: "2026-01-13"
+    text: >-
+      I had a consultation with Devon at Azul recently and was fantastic!  She introduced to different options for several areas of concern I wanted to improve. She was professional, informed and highly qualified. I actually a small procedure complete the day of my consultation and I love the result! Highly highly recommend Devon!!
+    source: "Google"
+  - author: "Karmic G."
+    rating: 5
+    date: "2025-11-26"
+    text: >-
+      Devon was AMAZING!!! I came in for BBL and she immediately noticed that I should be getting a different treatment due to some melasma that I have. Apparently BBL was not the correct treatment for that and could actually make it even worse. She has extensive experience working at a dermatologist office so she is above and beyond your average aesthetician for sure! She patiently explained every step
+    source: "Google"
+  - author: "Sharon K."
+    rating: 5
+    date: "2025-10-30"
+    text: >-
+      Devon was amazing!  Very knowledgeable. She was pleasant & full of energy.  I liked that she was the only one I saw.  There was no assistant who saw me first to take my pictures, etc before treatment. The gentleman at the front desk was pleasant & helpful.
+    source: "Google"
+  - author: "Rose H."
+    rating: 5
+    date: "2025-09-17"
+    text: >-
+      I recently had my first appointment with Dr Flaherty and the experience was excellent. From the moment I walked in, I felt welcomed and cared for by Joanne.  The doctor took the time to listen to my concerns, explained everything thoroughly, and made sure I was comfortable with the treatment plan. Their professionalism, kindness, and attention to detail left me very impressed. I feel confident kno
+    source: "Google"
+logo: "/images/clinics/logos/azul-cosmetic-surgery-and-medical-spa-bonita-springs.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

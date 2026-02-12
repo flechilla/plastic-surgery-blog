@@ -1,0 +1,54 @@
+name: "CG Aesthetics"
+slug: cg-aesthetics
+city: fort-myers
+state: FL
+address: "1260 NE 8th St Building #106 Suite #7, Cape Coral, FL 33909"
+zipCode: "33909"
+phone: "(239) 822-2000"
+website: "http://www.cgaesthetics.net/"
+googleMapsUrl: "https://maps.google.com/?cid=5720616229828932770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  CG Aesthetics is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 23 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 23
+reviews:
+  - author: "Arleen A."
+    rating: 5
+    date: "2025-10-14"
+    text: >-
+      I had such a wonderful experience! The place is clean, relaxing, and beautifully set up. Claudia is professional, kind, and truly cares about her clients. You can tell she loves what she does. I highly recommend this business to anyone looking for personalized, high-quality esthetic and weight loss care! Five stars isn’t enough! Thank you Claudia 💕
+    source: "Google"
+  - author: "Alondra V."
+    rating: 5
+    date: "2025-01-17"
+    text: >-
+      Claudia is extremely knowledgeable, and dedicated to make your experience the very best. Since day one, Claudia has held my hand and guided me towards meeting my ultimate goals. So far, I’ve seen tremendous improvement in my weight loss journey and self productivity.  LOVE HER!
+    source: "Google"
+  - author: "Kennia P."
+    rating: 5
+    date: "2024-05-05"
+    text: >-
+      Claudia is the sweetest most genuine person I’ve ever met. Since the beginning I felt very comfortable, I came in with no prior work and she helped guide me in the direction of the look I wanted but keeping it natural and doing it slowly. I can’t thank her enough on how gentle she was. She is very realistic and knowledgeable. She is very dedicated to her work and it shows. I will continue coming a
+    source: "Google"
+  - author: "Jessica P."
+    rating: 5
+    date: "2025-01-16"
+    text: >-
+      Claudia is always very welcoming and very knowledgeable with all the services that she offers. She has great technique and she has had a huge impact in maintaining my health. I’ve recommended her to all my friends and family
+    source: "Google"
+  - author: "Adriana F."
+    rating: 5
+    date: "2024-05-18"
+    text: >-
+      From the moment I walked in to CG Aesthetics, I knew I made the right decision. Claudia is very knowledgeable and welcoming. I asked a ton of questions because I was a bit nervous as a newbie, but she was very patient and put my nerves at ease. Her suite is very clean and beautiful and her work ethic is incredible! I am hooked and look forward to my next appointments. She is amazing!!
+    source: "Google"
+logo: "/images/clinics/logos/cg-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

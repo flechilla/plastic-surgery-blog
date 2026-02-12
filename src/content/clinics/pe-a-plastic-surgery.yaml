@@ -1,0 +1,54 @@
+name: "Peña Plastic Surgery"
+slug: pe-a-plastic-surgery
+city: fort-myers
+state: FL
+address: "6370 Pine Ridge Rd #101, Naples, FL 34119"
+zipCode: "34119"
+phone: "(239) 348-7362"
+website: "https://www.penaplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2139761298328247640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Peña Plastic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 115 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 115
+reviews:
+  - author: "Sarah P."
+    rating: 5
+    date: "2025-10-06"
+    text: >-
+      Dr. Pena and his staff are wonderful.  I had contemplated surgery for many years and would not trust anyone but Dr. Pena.  He takes the time to listen to your concerns and questions,  and thoroughly explains the procedure and products.  I'm very happy with my results.  Thank you Dr. Pena and staff!
+    source: "Google"
+  - author: "Michelle C."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      My experience with Dr Pena and his staff was absolutely wonderful!!!  From the ladies at the reception desk….the nurses….the financial office….right up to Dr Pena himself.   I was a little worried as we all are in these situations.  Dr Pena allowed me to take all the time I needed to help answer my questions and ease my mind.  Once your surgery is over, Dr Pena still treats you with care and compa
+    source: "Google"
+  - author: "Anastasia G."
+    rating: 5
+    date: "2025-10-11"
+    text: >-
+      ⸻  ⭐️⭐️⭐️⭐️⭐️ I’ve been going to Dr. Peña’s office for over 18 years, and every visit has been a great experience! I just had my mini facelift and liposuction on my back, and I couldn’t be happier with how everything turned out. About 10 months ago, I also had a breast augmentation and lift, and those results are amazing too. Dr. Peña is truly one of the best in Naples — so talented, caring, and p
+    source: "Google"
+  - author: "Michelle W."
+    rating: 5
+    date: "2025-04-11"
+    text: >-
+      Top notch plastic surgeon! I can't say enough about Dr. Pena and his great office staff! Dr. Pena and his entire staff are nothing short of exceptional! Dr. Pena is an amazing surgeon, very professional and very personable, great bedside manner and makes you feel at ease. I had a breast lift and the outcome exceeded my expectations! I love my results! Thank you Dr. Pena and your great team! You ar
+    source: "Google"
+  - author: "TJP"
+    rating: 5
+    date: "2025-05-08"
+    text: >-
+      WOW! From my initial consultation to most recent follow up appointment, every interaction with Dr. Pena and his staff has been fantastic. Such a knowledgeable, talented and honest surgeon with a kind and compassionate team. By far the smoothest surgical process I’ve ever experienced. Highly Recommend
+    source: "Google"
+logo: "/images/clinics/logos/pe-a-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

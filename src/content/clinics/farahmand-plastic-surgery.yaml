@@ -1,0 +1,54 @@
+name: "Farahmand Plastic Surgery"
+slug: farahmand-plastic-surgery
+city: fort-myers
+state: FL
+address: "12411 Brantley Commons Ct, Fort Myers, FL 33907"
+zipCode: "12411"
+phone: "(239) 332-2388"
+website: "https://www.farahmandplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3412706240523542235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Farahmand Plastic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.3-star rating from 92 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.3
+reviewCount: 92
+reviews:
+  - author: "Diane"
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      I do not know where to begin with my review with Dr Faramand however I can definitely recommend this artist that has transformed my face. Being in the medical field and doing the research that I did before choosing my surgeon this surgeon is an artist. From the very first pre-op appointment online all the way to the end of my surgery journey she has been phenomenal! Her staff from Jessica to Margi
+    source: "Google"
+  - author: "Deborah G."
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      We are friends with a couple who play pickleball in Punta Gorda.  My husband commented on the age difference between this couple.  I thought the lady had botox but in conversation she proceeded to tell us she had a full facelift and eyes completed by Dr. Farahmand.  Our friend showed us the before and after photos and it was totally amazing and fantastic.  I told my friend that I was shopping for 
+    source: "Google"
+  - author: "Karen S."
+    rating: 5
+    date: "2025-12-02"
+    text: >-
+      The procedure I had was breast implant replacement surgery after 25 years with my original implants . I had no previous issues, but I was being proactive regarding my quarter-century old implants. Dr. Farahmand and her staff were always professional, courteous, caring, friendly and insightful. I am very, very happy with my updated results, one month post-op! I would recommend Dr. Farahmand  to fri
+    source: "Google"
+  - author: "Britney B."
+    rating: 5
+    date: "2025-10-25"
+    text: >-
+      I highly recommend Dr. Faramond. She was honest up front on pricing, process, and recovery. She was very competitive on pricing for the market and I felt safer staying close to home. Her entire staff is amazing from the moment you want in the door. Everyone greats you with a smile and very warm inviting personalities. The doctor and staff never got sick of my questions. I followed the doctors rest
+    source: "Google"
+  - author: "Tim B."
+    rating: 5
+    date: "2025-09-17"
+    text: >-
+      Dr Farahmand and staff were excellent. They answered every question and truly made you feel comfortable when you entered the front door. The results were beyond my expectations from the actual surgery through recovery. I couldn’t have asked for more. Any time during recovery or before surgery I could  email a question to Dr or staff and usually had answer within an hour or two. The attention to de
+    source: "Google"
+logo: "/images/clinics/logos/farahmand-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

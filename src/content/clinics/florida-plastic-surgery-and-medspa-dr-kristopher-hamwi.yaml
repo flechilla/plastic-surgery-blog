@@ -1,0 +1,54 @@
+name: "Florida Plastic Surgery and MedSpa - Dr. Kristopher Hamwi"
+slug: florida-plastic-surgery-and-medspa-dr-kristopher-hamwi
+city: fort-myers
+state: FL
+address: "5566 Broadcast Ct, Sarasota, FL 34240"
+zipCode: "34240"
+phone: "(941) 800-2000"
+website: "https://www.floridaplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8484836232608825098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Florida Plastic Surgery and MedSpa - Dr. Kristopher Hamwi is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 526 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 526
+reviews:
+  - author: "Kristi B."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      I had my arm lift with Dr. Hamwi in early November, so I’m about three months post‑op. I’m thrilled with the results!  Besides the many personal recommendations I received for Dr. Hamwi, I also liked that he offers an awake brachioplasty. His staff, including Danaisa, Scarlett, and everyone else, were fabulous. They’re friendly, attentive, and somehow managed to make me feel pampered… which is imp
+    source: "Google"
+  - author: "Jordan N."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      Dr. Hamwi, Jena, and Danaisa were all amazing! I can’t speak highly enough about the staff and my experience here. They were super accommodating, listened to every question and concern I had, and made me feel comfortable during my consult, at my procedure, and at every follow-up appointment. Dr. Hamwi is truly so good at what he does and has greatly improved my confidence in my appearance. The fac
+    source: "Google"
+  - author: "charlotte h."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      I have nothing but great things to say about my experiences at Florida Plastic Surgery and MedSpa. I always search for providers that know the “why” behind what they do. When I met Sia, she exuded confidence in what she does. She can explain how treatments work and why they’d be best suited for me personally. I have trust in her, and honestly excitement every time I have an appointment because I k
+    source: "Google"
+  - author: "Kimberly H."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      My experiences at Florida Plastic Surgery and Med Spa is nothing short of exceptional. The front desk staff Ariana, Blerta and Juliana always greet me with warmth, professionalism, and genuine care, immediately setting the tone for a seamless and elevated visit. Every interaction always feels thoughtful, attentive, and effortlessly polished. They are just the sweetest group of ladies!  The clinica
+    source: "Google"
+  - author: "Sandra S."
+    rating: 5
+    date: "2025-12-29"
+    text: >-
+      I had a wonderful experience at Florida Plastic Surgery and cannot recommend them enough. My injector, Sia, is incredibly kind, gentle, and attentive. She made me feel comfortable throughout the entire process and truly takes the time to ensure the best results. I also want to highlight Rachel, the esthetician, who is extremely professional, well-mannered, and genuinely caring. She is excellent at
+    source: "Google"
+logo: "/images/clinics/logos/florida-plastic-surgery-and-medspa-dr-kristopher-hamwi.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

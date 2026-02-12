@@ -1,0 +1,54 @@
+name: "Glam-R-Us"
+slug: glam-r-us
+city: fort-myers
+state: FL
+address: "6300 Corporate Ct # 104, Fort Myers, FL 33919"
+zipCode: "33919"
+phone: "(239) 202-1100"
+website: "http://www.glamrusllc.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10747318051673164482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Glam-R-Us is a plastic surgery practice located in Fort Myers, FL. With a 4.4-star rating from 34 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.4
+reviewCount: 34
+reviews:
+  - author: "Jennifer S."
+    rating: 5
+    date: "2023-05-01"
+    text: >-
+      I did 20 Tooth Glam and I am so happy. I had crooked yellow teeth and was ashamed to smile. Glam R Us gave me my confidence back! After my service I could not stop smiling at everyone. The feeling is amazing! If you are considering Tooth Glam do it, I promise it’s the best decision I ever made.. thanks again!!! I attached my before & after for you to compared
+    source: "Google"
+  - author: "Ramon M."
+    rating: 5
+    date: "2023-05-01"
+    text: >-
+      I always wanted a perfect smile but After having braces twice and my teeth kept shifting back into place because i didn’t like to wear my retainers all the time i decided to try Tooth Glam. i did 10 upper 10 lower total 20 teeth and i love them! it took a few days ( like 2 ) to get use to them but now they feel great. thank you glam r us for your great customer service and 5 star quality work!
+    source: "Google"
+  - author: "Kasha D."
+    rating: 1
+    date: "2025-03-27"
+    text: >-
+      I DO NOT recommend GLAM R US to ANYBODY. Very unprofessional. This place did work on my teeth that was supposed to last 5-7 yrs. It DID NOT last a YEAR. When her work was removed off my teeth by a "professional dentist"...  there was more issues uncovered caused by her malpractice. After she does the SO GLAM procedure... there is no way to floss, or properly care for ur gums/teeth under that are n
+    source: "Google"
+  - author: "Nicole J."
+    rating: 5
+    date: "2024-04-16"
+    text: >-
+      Best experience ever. Fanessa explained everything in detail very sweet and knowledgeable. I had brought my bf with me bc I was nervous but Fanessa made me feel so comfortable and and relaxed. Seen results on the first session def coming back again and going to look into more of her services. I highly recommend her.
+    source: "Google"
+  - author: "Manuel M."
+    rating: 5
+    date: "2023-05-01"
+    text: >-
+      I had the tooth glam service and I like them very much. I did 16 teeth. I get compliments at least 3 times a day on my new smile. I left 5 star review because I am completely satisfied.
+    source: "Google"
+logo: "/images/clinics/logos/glam-r-us.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

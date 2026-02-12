@@ -1,0 +1,54 @@
+name: "Studio Sevyn Aesthetics"
+slug: studio-sevyn-aesthetics
+city: fort-myers
+state: FL
+address: "9345 6 Mile Cypress Pkwy #130, Fort Myers, FL 33966"
+zipCode: "33966"
+phone: "(239) 677-0568"
+website: "http://www.studiosevynaesthetics.glossgenius.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4163493313718313105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Studio Sevyn Aesthetics is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 37 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 37
+reviews:
+  - author: "Lori B."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      I just recently moved to Fort Myers from Illinois . I was recommended to Shaina at Studio Sevyn.I was very nervous coming to a new town and finding someone to do Filler and Botox. My appointment was yesterday and I am so happy with my results. Shaina was so professional and knowledgeable. She made me feel at ease and really took her time with me.Studio Sevyn is definitely my new place. I HIGHLY RE
+    source: "Google"
+  - author: "Bryan C."
+    rating: 5
+    date: "2025-11-10"
+    text: >-
+      I recently had a microneedling session with Shaina, and I couldn’t be happier with the experience and results! From the moment I arrived, she made me feel completely comfortable and confident in the process. Shaina took the time to explain every step, what to expect, and how to care for my skin afterward. Her professionalism and attention to detail were outstanding.  The treatment itself was gentl
+    source: "Google"
+  - author: "olivia B."
+    rating: 5
+    date: "2025-11-12"
+    text: >-
+      I absolutely love Studio Sevyn! I’ve been coming here for my lip and filler treatments and every single time the results are perfect. Shaina is truly a master at what she does—she’s gentle, professional, and has an amazing eye for detail. I always leave feeling confident and so happy with my results. Plus, she’s constantly offering great specials, which makes it even better! Highly recommend Studi
+    source: "Google"
+  - author: "Niki S."
+    rating: 5
+    date: "2025-11-11"
+    text: >-
+      Shaina was great!  She was very knowlegable about botox.  It was the quickest and most pain free botox I've ever had.  I cannot wait to see the results! Not only did she show me other areas to treat, she explained why I should treat those areas and what it would do.  Pricing was reasonable as well. We also talked about other services she offers and what they could do for me.  It was a great conver
+    source: "Google"
+  - author: "Michelle N."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      After following Shaina for years, I finally went to see her for liquid lipo. I felt so comfortable with her and absolutely trust what she says. She knows her stuff. She gave me her opinion of what she thought would be ideal for what I wanted, and of course I’m going to trust her after seeing her work. I’m so excited for my results and can’t wait to see her again for more enhancements! It’s hard to
+    source: "Google"
+logo: "/images/clinics/logos/studio-sevyn-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

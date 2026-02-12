@@ -1,0 +1,54 @@
+name: "Pure Body and Aesthetics"
+slug: pure-body-and-aesthetics
+city: fort-myers
+state: FL
+address: "3949 Evans Ave #103, Fort Myers, FL 33901"
+zipCode: "33901"
+phone: "(941) 841-9909"
+website: "https://www.purebodyandaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17426340484341612930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Pure Body and Aesthetics is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 72 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 72
+reviews:
+  - author: "Colleen L."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      I exercise regularly and eat a healthy diet, but because I’m middle-aged and in menopause, belly fat is an issue. I purchased the Fat Dissolving Injections Package, which includes fat dissolving injections and Slim Me Down Lipo. The price is affordable. I’m very happy with the results, and it helps me stay on top of abdominal fat. Pure Body & Aesthetics is a clean, professional business run by a f
+    source: "Google"
+  - author: "Cheyenne I."
+    rating: 5
+    date: "2025-10-02"
+    text: >-
+      “10/10! Truly the best service I’ve ever received. The owner  was professional, welcoming, and attentive, which made the entire process smooth and stress-free. My lip filler experience exceeded my expectations—I felt comfortable from start to finish, and I’m thrilled with my results. Highly recommend!”
+    source: "Google"
+  - author: "Julie T."
+    rating: 5
+    date: "2025-09-25"
+    text: >-
+      What makes this place special isn’t just the services,  it’s the owner. She has a gift for making you feel comfortable and cared for the second you sit down with her. She explains everything thoroughly in plain language, never rushing, and you can tell she takes real pride in her work. Not only are the results fantastic, but the whole experience feels personal and welcoming. I wouldn’t trust anyon
+    source: "Google"
+  - author: "Yolanda"
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      I recently got contouring done at Pure Body & Aesthetics, and I couldn't be happier with the results. The staff took the time to understand exactly what I wanted, and everything  was comfortable and professional. I highly recommend them!
+    source: "Google"
+  - author: "Kelly N."
+    rating: 5
+    date: "2023-03-23"
+    text: >-
+      It's truly a great experience and a judgement free zone. Had the lipo shots and body contouring done by LaShae and seeing the results! The office is so cute and with LaShae being an RN it makes me feel at ease the treatments are by a professional.
+    source: "Google"
+logo: "/images/clinics/logos/pure-body-and-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

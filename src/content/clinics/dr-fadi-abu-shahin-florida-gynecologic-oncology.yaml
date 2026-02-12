@@ -1,0 +1,54 @@
+name: "Dr. Fadi Abu Shahin - Florida Gynecologic Oncology"
+slug: dr-fadi-abu-shahin-florida-gynecologic-oncology
+city: fort-myers
+state: FL
+address: "8931 Colonial Center Dr #400, Fort Myers, FL 33905"
+zipCode: "33905"
+phone: "(239) 319-3714"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=17846040103735331955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Fadi Abu Shahin - Florida Gynecologic Oncology is a plastic surgery practice located in Fort Myers, FL. With a 4.8-star rating from 119 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 119
+reviews:
+  - author: "Rocio O."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Dr. Abu Shahin is an excellent professional. I had surgery two months ago and from our first visit I felt safe, informed and well taken care of. The whole process was successful and everything went smoothly. He is amazing. Highly recommend.
+    source: "Google"
+  - author: "Jonathan H."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      Dr. Abu Shahin is an excellent doctor.  He is patient, compassionate, caring and encouraging.  His staff is super as well mirroring his assets.  I would highly recommend him.
+    source: "Google"
+  - author: "Page F."
+    rating: 5
+    date: "2025-08-06"
+    text: >-
+      I found Dr Fadi Abu Shahin to be a very caring, capable and professional doctor. He explained all my options snd I chose one I felt worked best for me. My outcome was ideal. I also want to say his entire staff is so pleasant. I had en excellent experience and would highly recommend him. He asked if I was his first choice. I said yes. There was no second choice.
+    source: "Google"
+  - author: "Heidi M."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      Dr Abu Shahin and every member of his staff are aboslute pros.  To go thru the uncharted waters of cancer treatment and have this teams knowledge and expertise on your side is literally life saving.  Always available to discuss treatment, expectations, listen and answer questions - I cannot praise the care provided here enough.  Thank you so much!
+    source: "Google"
+  - author: "Jane M."
+    rating: 5
+    date: "2025-03-31"
+    text: >-
+      Dr. Abu Shahin is an extremely caring physician/surgeon. He made me comfortable the minute I met him and he made sure any questions I had were answered. I was frightened about my surgery and he put me at ease. His staff is well trained and also have his professional manner. Everything involved with my care and surgery went smoothly.
+    source: "Google"
+logo: "/images/clinics/logos/dr-fadi-abu-shahin-florida-gynecologic-oncology.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

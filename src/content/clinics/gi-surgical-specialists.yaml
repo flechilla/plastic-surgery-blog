@@ -1,0 +1,54 @@
+name: "GI Surgical Specialists"
+slug: gi-surgical-specialists
+city: fort-myers
+state: FL
+address: "14131 Metropolis Ave # 101, Fort Myers, FL 33912"
+zipCode: "14131"
+phone: "(239) 313-7522"
+website: "http://www.gisurgical.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10592306582533952969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  GI Surgical Specialists is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 284 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 284
+reviews:
+  - author: "Cat s."
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      I really felt listened to, and for someone with chronic illness that means more to me than most people could understand. Dr.Denk took the time to explain to me what the possible problems were and why. Usually I have severe anxiety with doctors and for once I felt unashamed of my problems and relaxed. If you have a problem and you need it fixed go here! Although it took some time to get seen it was
+    source: "Google"
+  - author: "David Z."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      I met with Dr. Denk today.  He gave me a VERY comprehensive review of hernia surgery I am considering. He spent a lot of time reviewing the surgery does, its possible complications, surgical day details, and recovery time. Thankful he spent so much time explaining everything so comprehensively.
+    source: "Google"
+  - author: "Laurie C."
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      This clinic took me on after surgery in a different state. They have been wonderful in following up my care. Dr. Denk and the medical team listen and are very knowledgeable and I am so glad to have them.
+    source: "Google"
+  - author: "Pam P."
+    rating: 5
+    date: "2025-09-30"
+    text: >-
+      I have had three interactions with Dr Denk and have found him to be informative, caring, and very easy to talk with as well as understand his explanations of findings from procedures.  He has offered options, given pros, cons, risks, benefits of each in language easily understood by the patient so I can make the best decision for myself.  I have a complicated case and am thrilled I found Dr Denk!
+    source: "Google"
+  - author: "michelle p."
+    rating: 5
+    date: "2025-08-17"
+    text: >-
+      I had a great experience at GI Surgical Specialists. The staff was friendly and welcoming from the moment I walked in. Dr. Denk was professional, took the time to explain everything clearly, and made me feel comfortable throughout the entire appointment. I felt well cared for and confident in the treatment plan. Highly recommend!
+    source: "Google"
+logo: "/images/clinics/logos/gi-surgical-specialists.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

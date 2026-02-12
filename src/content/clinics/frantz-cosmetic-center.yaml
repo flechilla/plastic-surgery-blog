@@ -1,0 +1,54 @@
+name: "Frantz Cosmetic Center"
+slug: frantz-cosmetic-center
+city: fort-myers
+state: FL
+address: "2500 Goodlette-Frank Rd, Naples, FL 34103"
+zipCode: "34103"
+phone: "(239) 430-3939"
+website: "https://www.frantzcosmeticcenter.com/locations/naples/?y_source=1_MTA3ODU0NDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+googleMapsUrl: "https://maps.google.com/?cid=13999917379574870795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Frantz Cosmetic Center is a plastic surgery practice located in Fort Myers, FL. With a 4.7-star rating from 34 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 34
+reviews:
+  - author: "Peter T."
+    rating: 5
+    date: "2025-10-18"
+    text: >-
+      Franz Eye Care provides outstanding, professional service with a personal touch. The entire team is knowledgeable, attentive, and truly cares about patient comfort and results. I highly recommend them for exceptional eye care and thorough follow-up.
+    source: "Google"
+  - author: "Rosie D."
+    rating: 5
+    date: "2025-10-12"
+    text: >-
+      I had the most pleasant experience with Dr. Maxwell Burch, his manners are beyond great, I was comfortable all throughout my visit to the clinic; I was explained everything with no rush, I was able to express my concerns and ask questions as well.
+    source: "Google"
+  - author: "steven s."
+    rating: 5
+    date: "2025-02-17"
+    text: >-
+      The most professional medical experience I have had since I moved to Florida 16 years ago. Dr Goel's professionalism and understanding of the patients' needs and concerns is outstanding. And may I add, this is complemented by a very helpful and caring office staff.
+    source: "Google"
+  - author: "Irishctest S."
+    rating: 5
+    date: "2024-07-11"
+    text: >-
+      Great experience from beginning to end. Staff was very attentive and professional. Tabitha took care of everything and made me feel at ease during the exam. Dr Paez provided a thorough exam and explained everything in great detail. This was a wonderful experience and highly recommend this team In Naples
+    source: "Google"
+  - author: "Mary N."
+    rating: 5
+    date: "2025-02-19"
+    text: >-
+      I appreciate that I was able to get to see Doctor Vaziri so quickly and he was able to diagnose my problem. Having a place that offers all needed eye services under one roof that provides quality and professional care is so helpful!
+    source: "Google"
+logo: "/images/clinics/logos/frantz-cosmetic-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

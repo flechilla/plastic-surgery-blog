@@ -1,0 +1,54 @@
+name: "Dr. Andrew Turk: Naples Cosmetic Surgery Center"
+slug: dr-andrew-turk-naples-cosmetic-surgery-center
+city: fort-myers
+state: FL
+address: "6376 Pine Ridge Rd Suite 175, Naples, FL 34119"
+zipCode: "34119"
+phone: "(239) 316-1689"
+website: "https://www.naples-csc.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3909302892908308425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Andrew Turk: Naples Cosmetic Surgery Center is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 123 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 123
+reviews:
+  - author: "Julie G."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      My experience with Dr. Turk and his staff has been exceptional. Cindy is always so welcoming that it's like visiting family instead of a doctor's office. Kristen's passion for her patients could not be more evident in all of our interactions. I trust her advice completely. Dr. Turk has been loving, but firm which I need from my doctor. I've been so impressed that I am going to have another procedu
+    source: "Google"
+  - author: "Anita A."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      Dr. Turk's calm demeanor inspired in me confidence that I was in the right hands! The whole experience was flawless, from start to finish. He listened to my concerns and my wishes and delivered. I am absolutely thrilled with the results. The genuine caring attitude of Dr. Turk and his very efficient & friendly staff made all the difference. I would highly recommend Naples Cosmetic Surgery Center. 
+    source: "Google"
+  - author: "Mitch E."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      I had a necklift and I cannot tell you how happy and excited I am with the results. Dr. Andrew Turk is an artist! He took the time to really listen and made sure I would get exactly the results I was hoping for. The ENTIRE staff at Naples Cosmetic Surgery Center are nothing short of amazing.  Kristen was with me every step of the way… she made me feel like I was the most important patient in the b
+    source: "Google"
+  - author: "Phyllis F. G."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I had my neck done in January. Now 6 months down the road, people I haven't seen in a few months have exclaimed "You look terrific!" And I agree with them.  Dr. Turk did a great job! The entire staff is welcoming and professional, and quickly responded to any questions I had. There was some (expected) discomfort the first few days after surgery -- as is typical with any surgery -- but that quickly
+    source: "Google"
+  - author: "Kimberly M."
+    rating: 5
+    date: "2025-08-28"
+    text: >-
+      8 weeks post surgery and already seeing excellent results. I shopped around a bit, and I chose Dr Turk because he was kind and calm and I felt comfortable with his manner. Scheduling was easy too. First I had a Fraxel laser done then 2 months later I had an upper and lower bleph and an extended necklift. I had originally asked about a brow lift and Dr T felt it wasn't necessary, so happy with that
+    source: "Google"
+logo: "/images/clinics/logos/dr-andrew-turk-naples-cosmetic-surgery-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

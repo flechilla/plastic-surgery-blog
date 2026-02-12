@@ -1,0 +1,54 @@
+name: "Cosmetic Skin & Laser Center"
+slug: cosmetic-skin-laser-center
+city: fort-myers
+state: FL
+address: "8855 Immokalee Rd #11, Naples, FL 34120"
+zipCode: "34120"
+phone: "(239) 302-3540"
+website: "https://cslcbeauty.com/north-naples/"
+googleMapsUrl: "https://maps.google.com/?cid=10291617924383486458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Cosmetic Skin & Laser Center is a plastic surgery practice located in Fort Myers, FL. With a 4.8-star rating from 75 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 75
+reviews:
+  - author: "Mairyn C."
+    rating: 1
+    date: "2026-01-06"
+    text: >-
+      I’m genuinely disappointed with my experience at this clinic. I’ve been getting Botox for about five years in Miami, always receiving around 40 units total, including a free touch-up if needed. Here in Naples, I was charged over $600 for 42 units, and they wanted to charge me extra for any retouch. After just four weeks, the Botox completely wore off—I have photos and videos to prove that my face 
+    source: "Google"
+  - author: "Tracy S."
+    rating: 5
+    date: "2025-09-22"
+    text: >-
+      I've been a client for a few years and while there are many options for service in Naples the professionals at CSLC keep me coming back. I often receive compliments on my skin and always credit CSLC!
+    source: "Google"
+  - author: "Jenn S."
+    rating: 5
+    date: "2025-09-17"
+    text: >-
+      WOWZERS ! ————————— I’m Make Up FREE today & giddy after my 1st ever HYDRA FACIAL and  DERMA PLANE sesh @ Cosmetic Skin & Laser Center - North Naples.  Closing in on midlife and who knows - pre-menopausal maybe ?!?  Skin changes are definitely happening whether I like it or not.  I highly recommend ! Ahhhhhh- Feels amazing!  ✨✨✨  #selfcare
+    source: "Google"
+  - author: "JOANNE O."
+    rating: 5
+    date: "2025-09-11"
+    text: >-
+      Love this company!  Wonderful customer service and so many services to choose from.  Keya and Kristin are great as well as Dr, Lo.
+    source: "Google"
+  - author: "Nancy S."
+    rating: 5
+    date: "2025-10-13"
+    text: >-
+      This was the best treatment I have received. Hanna is very professional & super friendly & very informative.  Looking forward to my next treatment.
+    source: "Google"
+logo: "/images/clinics/logos/cosmetic-skin-laser-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

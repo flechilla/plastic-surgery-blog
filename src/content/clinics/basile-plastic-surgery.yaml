@@ -1,0 +1,54 @@
+name: "Basile Plastic Surgery"
+slug: basile-plastic-surgery
+city: fort-myers
+state: FL
+address: "803 Vanderbilt Beach Rd, Naples, FL 34108"
+zipCode: "34108"
+phone: "(239) 514-8777"
+website: "https://basileplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9223378191177565206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Basile Plastic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.6-star rating from 25 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.6
+reviewCount: 25
+reviews:
+  - author: "Michelle B."
+    rating: 5
+    date: "2025-10-28"
+    text: >-
+      I received injections from Dr. Basile and I absolutely love my results! I’ve been to other doctors’ offices before, but Dr. Basile is by far the best practitioner I’ve seen. He and his team are professional, welcoming, and the environment is serene. Dr. Basile has incredible technique and always makes sure I’m completely comfortable throughout the process. I’ve never had a more pleasant or confide
+    source: "Google"
+  - author: "Kayla T."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      I’m so glad a friend referred me to Dr. Basile. I had a breast augmentation with lift three months ago, & my scars are barely visible. The results are outstanding. I also started getting Dysport at his office & I’m so happy with it.  Dr. Basile & his team are professional, compassionate, & attentive. He ensured I was comfortable & informed throughout the entire process, & the staff made every visi
+    source: "Google"
+  - author: "courtney B."
+    rating: 5
+    date: "2025-08-28"
+    text: >-
+      I recently got implants and couldn’t be happier with the results! Dr. Basile is knowledgeable, proactive, and truly cares about his patients. The real stars of the show are also his front office staff—those ladies go above and beyond every single time. I was so impressed with how quick and efficient they are, and I love that they’re just a text away. Highly recommend!
+    source: "Google"
+  - author: "Emma B."
+    rating: 5
+    date: "2025-08-21"
+    text: >-
+      I hav nothing but good things to say about my experience with Dr. Basile and his amazing staff. Kendra and Marisa are both extremely nice and helpful. They were happy to answer any and all questions I had. Dr. Basile is not only extremely talented but also friendly and kind! I was a bit nervous for my first consultation but once I had met the girls and Dr. Basile, all my nerves subsided. I don’t h
+    source: "Google"
+  - author: "Olivia G."
+    rating: 5
+    date: "2025-08-26"
+    text: >-
+      Incredible experience with Dr. Basile and his staff. Scheduling my consultation was flexible and quick, and then the pre op/surgery scheduling was perfect for my schedule. Marisa and Kendra up front are so sweet and helpful. Dr. Basile took so much time to walk me through expectations, the process and the recovery. All post op appointments are super quick and easy and I am so so happy with my resu
+    source: "Google"
+logo: "/images/clinics/logos/basile-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

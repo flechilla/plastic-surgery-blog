@@ -1,0 +1,54 @@
+name: "Sarasota Surgical Arts"
+slug: sarasota-surgical-arts
+city: fort-myers
+state: FL
+address: "4143 Clark Rd, Sarasota, FL 34233"
+zipCode: "34233"
+phone: "(941) 923-1736"
+website: "https://www.sarasotasurgicalarts.com/?utm_source=google_maps&utm_medium=organic&utm_id=gbp_ssa"
+googleMapsUrl: "https://maps.google.com/?cid=4701927502646785954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Sarasota Surgical Arts is a plastic surgery practice located in Fort Myers, FL. With a 4.7-star rating from 561 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 561
+reviews:
+  - author: "Kiley P."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      Dr. Sessa? More like Dr. Successa!  I genuinely could not have asked for a better result. I’m one month post-op from my breast augmentation, and wow—they look absolutely amazing. From my very first consultation to today, the entire experience has been nothing short of fantastic.  Gina was incredibly helpful and patient, answering all of my many questions, as was Dr. Sessa himself. He truly takes t
+    source: "Google"
+  - author: "lynn a."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      If I had to rate Dr. Sessa, his staff and the complete experience on a scale of 1 to 10, I would give them a solid 12! I had a deep plane facelift, brow lift, eye lift, lip flip, dermabrasion, and laser along with my neck. The whole experience was fabulous and virtually pain-free. I would highly recommend Dr. Sesa and his staff. The photos are before, 6 weeks out and 9 weeks out.
+    source: "Google"
+  - author: "Jennifer K."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      Everyone at Sarasota Surgical is so welcoming, nice and professional from the front desk to the Doctors. 5 years ago I saw Dr. Sessa for a procedure and absolutely loved the results. I visited Dr. Lee today for a Botox treatment. She was wonderful, extremely knowledgeable, thorough and just nice! Thank you Sarasota Surgical Arts!
+    source: "Google"
+  - author: "Samantha S."
+    rating: 5
+    date: "2025-12-18"
+    text: >-
+      I had an incredible experience with Dr. Sessa and the team. Everyone is super responsive and helpful. As for the procedure I had a flour de le with the 360 lower body lift and a breast reduction and was back on my feet and on the road to recovery in week 1, ran a 5k at normal pace by week 4 of recovery! My scarring is healing great (5 weeks post opp now) and I have never felt better. I saw 5 docto
+    source: "Google"
+  - author: "Dustin P."
+    rating: 5
+    date: "2025-10-10"
+    text: >-
+      This will be a bit long-winded but important and relevant to my review.  My wife chose Sarasota Surgical Arts to do some face work, body work, blah blah blah ( I wish I was better informed on proper terminology).  I’ve also had friends I’ve recommended to Dr. Sessa after her procedures, and I’ve been impressed with their results.  I’ve been so impressed I decided to do some neck, Face, and eye wor
+    source: "Google"
+logo: "/images/clinics/logos/sarasota-surgical-arts.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

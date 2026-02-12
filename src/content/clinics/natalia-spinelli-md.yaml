@@ -1,0 +1,54 @@
+name: "Natalia Spinelli, MD"
+slug: natalia-spinelli-md
+city: fort-myers
+state: FL
+address: "13813 Metro Pkwy, Fort Myers, FL 33912"
+zipCode: "13813"
+phone: "(239) 215-4101"
+website: "https://phspecialists.com/natalia-spinelli/"
+googleMapsUrl: "https://maps.google.com/?cid=11076792817045934062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Natalia Spinelli, MD is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 409 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 409
+reviews:
+  - author: "selena p."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      I had an excellent experience during my first visit with Dr. Natalia Espinelli. The entire staff was very welcoming and professional. Dr. Spinelli was kind, attentive, and made me feel comfortable and confident throughout the appointment. She took the time to listen carefully to my concerns and answered all my questions thoroughly. I truly wish all doctors were like her.  She also speaks Spanish, 
+    source: "Google"
+  - author: "Vanessa H."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      If I could give Dr. Spinelli ten stars, I absolutely would! This was my first surgery, and I could not have asked for a better surgeon or experience. I used to believe that the best surgeons often lacked good bedside manner, but Dr. Spinelli is truly the total package. She is not only highly skilled and knowledgeable, but also incredibly kind, compassionate, and attentive. From start to finish, sh
+    source: "Google"
+  - author: "Kathy D."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      Dr Spinelli was great. She listened to my concerns and assured me my issues would be addressed. I want to thank her so much for putting me at ease. A great doctor
+    source: "Google"
+  - author: "Cheryl B."
+    rating: 5
+    date: "2026-01-13"
+    text: >-
+      Dr. Natalia Spinelli is an awesome breast doctor. She makes you feel comfortable in scary times. Her office personnel are great too. Waiting time was short. I highly recommend Dr. Spinelli for any breast concerns.
+    source: "Google"
+  - author: "William M."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      Dr. Spinelli is the kindest, happiest surgeon I’ve ever had.  She was a joy.  ALMOST worth getting breast cancer again.  Loved her but not that much.  She got all the cancer and I don’t have to have chemo or radiation.  I only have to take a hormone pill for the next 5 years and see the Oncologist every 6 months.  Thank you, Dr. Spinelli!!!
+    source: "Google"
+logo: "/images/clinics/logos/natalia-spinelli-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

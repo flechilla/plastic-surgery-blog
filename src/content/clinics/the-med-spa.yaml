@@ -1,0 +1,54 @@
+name: "The Med Spa"
+slug: the-med-spa
+city: fort-myers
+state: FL
+address: "9924 Gulf Coast Main St A120, Fort Myers, FL 33913"
+zipCode: "33913"
+phone: "(239) 295-8767"
+website: "https://www.theblondeinjector.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2969351804002088035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Med Spa is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 10 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 10
+reviews:
+  - author: "Esther H."
+    rating: 5
+    date: "2025-11-11"
+    text: >-
+      Dr. Kamii is the BEST! She is so sweet, knowledgeable, and helpful. If you’re wondering whether you should go see her, just do it! You will not regret it. Every single one of my visits has been amazing.
+    source: "Google"
+  - author: "Yvonne S."
+    rating: 5
+    date: "2024-05-17"
+    text: >-
+      When I moved  to Florida 4 years ago .. I had already researched injectors and seen Kamii's artistry and excellence as an injector through  her pictures . This lady is not only so warm and kind .. she has such knowledge and expertise , I feel such trust in her and there is  truly no one else like her . She has helped me preserve and highlight aspects of my face  in such a natural way yet never ove
+    source: "Google"
+  - author: "Christina P. N. R. A. &. O."
+    rating: 5
+    date: "2024-02-17"
+    text: >-
+      Hands down the best injector in FL! I would never trust anyone else with my face! Kami is always so knowledgeable and honest and I trust any recommendations she has. The new location is absolutely stunning and the staff is so welcoming and friendly. I would give them 10 stars if I could! Hands down THE BEST !
+    source: "Google"
+  - author: "Nicole T."
+    rating: 5
+    date: "2024-02-01"
+    text: >-
+      My experience here was amazing, I'm so happy! I spent a loooong time debating injections and Dr. Kamii was recommended by so many people. Everyone I met here was very nice and friendly. It was my first time having injections and I felt totally calm and comfortable. I'm so happy I chose the Medspa, I'll never go anywhere else!
+    source: "Google"
+  - author: "Yessi C."
+    rating: 5
+    date: "2022-07-29"
+    text: >-
+      Kami is the sweetest person ever. I did my lip fillers with her for my birthday; I was extremely nervous since I had a virgin face and she made sure I was comfortable and clarified all of my doubts. I wouldn’t trust no one else but her. Hands down!
+    source: "Google"
+logo: "/images/clinics/logos/the-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

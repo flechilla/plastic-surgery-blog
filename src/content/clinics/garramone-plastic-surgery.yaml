@@ -1,0 +1,54 @@
+name: "Garramone Plastic Surgery"
+slug: garramone-plastic-surgery
+city: fort-myers
+state: FL
+address: "12998 S Cleveland Ave, Fort Myers, FL 33907"
+zipCode: "12998"
+phone: "(239) 523-0533"
+website: "https://www.garramone.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing"
+googleMapsUrl: "https://maps.google.com/?cid=12707726543826570938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Garramone Plastic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.7-star rating from 661 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 661
+reviews:
+  - author: "Claudia H."
+    rating: 5
+    date: "2025-12-29"
+    text: >-
+      I had a facelift 6 months ago—the results are top-notch and everything I desired. I wanted a refreshed, natural looking appearance and Dr. Garramone achieved exactly that! My healing was swift and scarring is minimal The Follow-up care is also phenomenal. The staff, especially Jennifer and Sydney have been so professional yet personable. All of the staff had been gracious and helpful and I’ve alwa
+    source: "Google"
+  - author: "DeeRN L."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      I had my breast augmentation done here ..Im super happy with my results.  Very caring doctor.  Their clinic is very clean and sophisticated. I had my lip injection done here also. I wish I went here for my tummy tuck. I had awful experience from another doctor here in Fort myers. Highly recommend this place if u want cosmetic surgery.  You'll be happy as u can read the reviews.
+    source: "Google"
+  - author: "Michelle R."
+    rating: 5
+    date: "2025-10-09"
+    text: >-
+      I had such an amazing experience at Garramone Plastic Surgery in their aesthetics spa! From check-in to finish, everyone was professional, kind, and attentive. Katelyn, the licensed aesthetician who performed my Moxie/BBL laser treatment on my face, neck, and chest, was absolutely wonderful. She explained everything clearly, eased my nerves, and made the entire process so comfortable. I was surpri
+    source: "Google"
+  - author: "Jen C."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      Hi this is Agatha and I wanted to say how pleased I am with the service I got today from Val (Master Injector).  This is only the second time (ever) that I had my lips done and was able to go out the same evening!  No bruising and the perfect amount of filler.  Thanks
+    source: "Google"
+  - author: "Norma &. J. C."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Dr. Garramone is an excellent plastic surgeon.  His skill professionalism, and attention to detail truly stand out. The staff are incredibly friendly and welcoming, and they take the time to answer every question thoroughly. Overall, it's a very positive and reassuring experience from start to finish.
+    source: "Google"
+logo: "/images/clinics/logos/garramone-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

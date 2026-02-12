@@ -1,0 +1,54 @@
+name: "Schneider Centre for Plastic Surgery : Grimes Cynthia D"
+slug: schneider-centre-for-plastic-surgery-grimes-cynthia-d
+city: fort-myers
+state: FL
+address: "12751 S Cleveland Ave #102, Fort Myers, FL 33907"
+zipCode: "12751"
+phone: "(239) 277-9999"
+website: "http://schneidercentre.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17922936331784898074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Schneider Centre for Plastic Surgery : Grimes Cynthia D is a plastic surgery practice located in Fort Myers, FL. With a 3.3-star rating from 7 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 3.3
+reviewCount: 7
+reviews:
+  - author: "Amanda B."
+    rating: 5
+    date: "2019-07-13"
+    text: >-
+      I had a breast reduction by Dr Schneider 7 months ago. I have been completely healed for months now and am so satisfied with the results. I had several consultations with other doctors in the area but was immediately comfortable with Dr Schneider and his staff. Everyone was friendly and helpful. Dr S uses a different technique that seems to me after research to produce better and long lasting resu
+    source: "Google"
+  - author: "Heather S."
+    rating: 5
+    date: "2022-05-20"
+    text: >-
+      Staff is wonderful! Doctor Schneider listens and is encouraging. I'm very satisfied with my results. Minimal pain. Could not have had a better experience.
+    source: "Google"
+  - author: "Mel E."
+    rating: 1
+    date: "2020-08-26"
+    text: >-
+      If I could give 10 stars I would just the compassion and and just simple listening to my concerns very nice staffI wish after my first surgery I would of came here first amazing doc amazing staff they explain everything very comfortable if you need a doctor highly recommend this place!!!!!!
+    source: "Google"
+  - author: "Amber V."
+    rating: 5
+    date: "2020-09-11"
+    text: >-
+      Great Dr, had breast aug and I LOVE THEM! THANK YOU Dr. Schneider and your awesome staff!
+    source: "Google"
+  - author: "lkaire 3."
+    rating: 1
+    date: "2023-01-31"
+    text: >-
+      
+    source: "Google"
+logo: "/images/clinics/logos/schneider-centre-for-plastic-surgery-grimes-cynthia-d.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

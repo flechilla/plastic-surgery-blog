@@ -1,0 +1,54 @@
+name: "Douglas Stevens, MD"
+slug: douglas-stevens-md
+city: fort-myers
+state: FL
+address: "15721 New Hampshire Ct, Fort Myers, FL 33908"
+zipCode: "15721"
+phone: "(239) 946-5066"
+website: "https://www.douglasstevensmd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5297821438352747450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Douglas Stevens, MD is a plastic surgery practice located in Fort Myers, FL. With a 4.7-star rating from 137 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 137
+reviews:
+  - author: "Michaela A."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I had a torn earlobe from earring use and got it repaired here. I had a really good experience so far. The staff was super nice and made everything easy and comfortable. Natasha’s very helpful and her response time is very quick. Dr. Stevens did a great job and was friendly. I will come back and post photos after my ear heals. Definitely recommend this office!
+    source: "Google"
+  - author: "Patricia D."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Dr Steven's and Natasha have everything that I would want in a plastic surgeon. I had gotten to the point of not wanting to look in the mirror. I am thrilled with my results of my face-lift,  eye-lift and co2 laser!
+    source: "Google"
+  - author: "Michael W."
+    rating: 5
+    date: "2025-10-14"
+    text: >-
+      Dr.  Stevens and staff are amazing. As a physician I have a deep understanding of the ins and outs of patient care. Dr. Stevens is at the highest level of technical skills, compassion, and support. Natasha one of his assistance is absolutely amazing. They are the dynamic duo. If you’re considering facial plastic surgery go no further than Dr. Stevens. I assure you, you will be the happiest person 
+    source: "Google"
+  - author: "Elizabeth N."
+    rating: 1
+    date: "2025-09-29"
+    text: >-
+      DO NOT PUT YOUR NECK AND YOURSELF IN THE HANDS OF THIS DOCTOR!!!! I had a neck surgery (corset). After 3 months my neck muscles were as before the surgery. He said it was not his fault. He asked me to give him another $500 and he would do another surgery, same purpose and supposedly now, sutures would not be absorbed as the first time, because this time he would use stronger sutures the type your 
+    source: "Google"
+  - author: "Jeannette E."
+    rating: 5
+    date: "2025-04-17"
+    text: >-
+      I recently had a "dermaplane facial" with Natasha at Dr. Stevens office. It felt amazing and my face feels so soft & smooth. Makeup looks flawless after the dermaplane too. She explained everything & offered some suggestions going forward, which was very helpful! Dr. Stevens also does all my fillers, etc and he is the best! Friendly & takes time to really make you look the best you can and you nev
+    source: "Google"
+logo: "/images/clinics/logos/douglas-stevens-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

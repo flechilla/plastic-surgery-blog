@@ -1,0 +1,54 @@
+name: "Preston Gardner, DO, FACOS"
+slug: preston-gardner-do-facos
+city: fort-myers
+state: FL
+address: "2235 Venetian Ct, Naples, FL 34109"
+zipCode: "34109"
+phone: "(239) 596-9337"
+website: "https://www.thewoodruffinstitute.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14193086345113353047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Preston Gardner, DO, FACOS is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 116 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 116
+reviews:
+  - author: "Pamela C."
+    rating: 5
+    date: "2025-08-25"
+    text: >-
+      I had a reconstruction done on my breast. Dr Gardner was excellent surgeon. Along with his great personality he was Precise n Attentive with me.  He made me feel very comfortable n assured every thing was going to come out perfect. His Staff was also excellent in caring for me n making sure I was comfortable .  I will be using his services again I’m sure for any future surgeries I might need. I’m 
+    source: "Google"
+  - author: "j C."
+    rating: 5
+    date: "2025-10-31"
+    text: >-
+      Dr Gardner and Nurse Helen are the most caring Medical Pros ever. My visit and surgery was very pleasant and their great beside manner made it that much better. Highly recommend! Thank you!!
+    source: "Google"
+  - author: "Allaire T."
+    rating: 5
+    date: "2025-06-18"
+    text: >-
+      I had a consult with Dr. Gardner and he was absolutely incredible! He took so much time with me and explained everything very thoroughly. He answered all of my questions and made me feel completely comfortable and confident moving forward. You can tell he genuinely cares about his patients. Highly recommend Dr. Gardner if you’re considering any kind of procedure, you’re in great hands!
+    source: "Google"
+  - author: "April G."
+    rating: 5
+    date: "2025-06-05"
+    text: >-
+      Dr. Garner did such an Amazing job on my breast augmentation. I had them done 19 years ago and one side ruptured so he redid them. They look better now than they did before. He took his time to make them exactly the way I wanted. I will recommend him to anyone!!! And the two nurses that helped me before and during surgery were so amazing. I felt loved and cared for which gave me so much peace.
+    source: "Google"
+  - author: "norieta s."
+    rating: 5
+    date: "2025-05-16"
+    text: >-
+      Dr Gardner is spectacular, honest, funny and great at what he does.  When I am ready and if so, he will be the "one" I trust.  Immaculate practice and staff who are friendly and answer all questions.  Cannot recommend them more highly!
+    source: "Google"
+logo: "/images/clinics/logos/preston-gardner-do-facos.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

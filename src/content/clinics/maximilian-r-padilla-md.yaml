@@ -1,0 +1,54 @@
+name: "Maximilian R. Padilla, MD"
+slug: maximilian-r-padilla-md
+city: fort-myers
+state: FL
+address: "11571 Verandah Blvd, Fort Myers, FL 33905"
+zipCode: "11571"
+phone: "(239) 699-0733"
+website: "https://soleilmd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14157709800549340528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Maximilian R. Padilla, MD is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 19 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 19
+reviews:
+  - author: "Teofilo T. B."
+    rating: 5
+    date: "2025-10-06"
+    text: >-
+      I recently had the opportunity to consult with Dr. Padilla regarding eyelid surgery. I previously underwent a similar procedure in 2012 in Albuquerque, New Mexico. Dr. Padilla was very professional, informative, and attentive in discussing my options and addressing my concerns about my drooping eyelids. His kind demeanor and excellent bedside manner reassured me that I was in capable hands. I appr
+    source: "Google"
+  - author: "Anastasia F."
+    rating: 5
+    date: "2025-10-28"
+    text: >-
+      I had the pleasure of enlisting Dr. Padilla's care to remove a skin tag under my eye.  Dr. Padilla and his staff were gentle and reassuring during the procedure.  Furthermore, Dr. Padilla's bedside manner was genuine and caring.  He was very personable as well.  I strongly recommend his practice.
+    source: "Google"
+  - author: "Christa M."
+    rating: 5
+    date: "2025-07-25"
+    text: >-
+      I absolutely love Dr Padilla and his mom. From the beginning to the end was the best experience. They are so sweet and accommodating and Dr Padilla did a phenomenal job! I couldn’t be happier! I will tell everyone I know to come to him! I will only use him in the future! I absolutely loved the job he did with my eyes!
+    source: "Google"
+  - author: "C M."
+    rating: 5
+    date: "2025-11-09"
+    text: >-
+      Dr Padilla was amazing. Immediately puts you at ease and is so friendly that you forget you are having a procedure. Highly recommend!!
+    source: "Google"
+  - author: "Nancy C."
+    rating: 5
+    date: "2025-04-29"
+    text: >-
+      Dr Padilla is a genius.  This Dr is A+++ in his field  his kindness, understanding of his patients and all over manner and skill is remarkable. I was blessed to find this Dr.  plus his mom, his nurse, is a sweetheart.   Thank you to Dr Padilla & his assistant (mom).
+    source: "Google"
+logo: "/images/clinics/logos/maximilian-r-padilla-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

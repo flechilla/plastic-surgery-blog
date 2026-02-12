@@ -1,0 +1,42 @@
+name: "Golosow Lorraine M MD"
+slug: golosow-lorraine-m-md
+city: fort-myers
+state: FL
+address: "# 1800, 4897, 1530 Lee Blvd, Lehigh Acres, FL 33936"
+zipCode: "33936"
+phone: "(239) 939-5233"
+website: "https://www.lorrainegolosowmd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1196105809063144617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Golosow Lorraine M MD is a plastic surgery practice located in Fort Myers, FL. With a 3.7-star rating from 3 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 3.7
+reviewCount: 3
+reviews:
+  - author: "barberian1968"
+    rating: 5
+    date: "2025-01-22"
+    text: >-
+      I have seen Dr Golosow several times. She is very professional and caring. She takes the time to explain things in detail. She does great work and makes procedures quick and painless. Dr. Golosow and her staff are very kind and helpful. I would highly recommend her.
+    source: "Google"
+  - author: "Lesley S."
+    rating: 5
+    date: "2025-01-21"
+    text: >-
+      I have seen Dr. Golosow for over 6 years for my cosmetic fillers and botox.  She is very knowledgeable, and down to earth, she listens to my wants and needs making me feel 100% comfortable.  She is top notch and I highly recommend her.
+    source: "Google"
+  - author: "Jennifer R."
+    rating: 1
+    date: "2025-01-13"
+    text: >-
+      Seriously they want a 100$ consultation first before they will give a quote for surgery.  Who would do that ?!?
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

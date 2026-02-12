@@ -1,0 +1,54 @@
+name: "Casey Cosmetic Surgery"
+slug: casey-cosmetic-surgery
+city: fort-myers
+state: FL
+address: "3388 Woods Edge Cir, Bonita Springs, FL 34134"
+zipCode: "34134"
+phone: "(239) 947-3223"
+website: "https://www.caseycosmeticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8649309055355139769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Casey Cosmetic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 51 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 51
+reviews:
+  - author: "Michelle U."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      I have to say Dr. Casey is amazing, and his staff is helpful and welcoming. At 78 I never thought I would ever look young again, but I do. Thank you Dr. Casey. You did your magic and I couldn’t be happier
+    source: "Google"
+  - author: "Kelly T."
+    rating: 5
+    date: "2024-06-12"
+    text: >-
+      Dr. Casey and his staff are a class act. He stands behind his work and performs excellent procedures  and after care. I highly recommend them for any work. ❤️much love to him and his staff. All excellent! I can now wear a Two piece swimsuit after 24 years and after three kids. Love them and my new tummy and rocking the new belly button.... adore my kids as well ... but they do damage and thankful 
+    source: "Google"
+  - author: "tara c."
+    rating: 5
+    date: "2024-07-18"
+    text: >-
+      The staff and Dr. Casey was great! My daughter was nervous, scared, in tears about her teeth getting pulled. They were so patient, kind, and the reassurance of her bein in good hands was just what she needed!  Much appreciated!
+    source: "Google"
+  - author: "slsaulsbury"
+    rating: 5
+    date: "2024-02-29"
+    text: >-
+      Office staff, and clinical staff are very friendly and helpful. Dr. Casey has really taken good care of me. He has went the extra mile to give all efforts for my success with my tooth implant options.
+    source: "Google"
+  - author: "D A."
+    rating: 5
+    date: "2024-01-27"
+    text: >-
+      This was the third office that we contacted for my daughter’s oral procedure and we are so glad that we didn’t settle! The third time was definitely a charm. Dr. Casey and his entire team were wonderful! We were very pleased each step of the way. If you’re looking for a caring team with great customer service, this is it!!!
+    source: "Google"
+logo: "/images/clinics/logos/casey-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

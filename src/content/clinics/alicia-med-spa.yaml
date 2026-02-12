@@ -1,6 +1,6 @@
 name: "Alicia Med Spa"
 slug: alicia-med-spa
-city: miami
+city: fort-myers
 state: FL
 address: "1100 Biscayne Blvd, Miami, FL 33132"
 zipCode: "33132"
@@ -8,7 +8,7 @@ phone: "(917) 854-9121"
 website: "https://www.aliciamedspa.com/"
 googleMapsUrl: "https://maps.google.com/?cid=3081954477606854325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Alicia Med Spa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 126 reviews, they offer cosmetic and reconstructive surgery services.
+  Alicia Med Spa is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 126 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"

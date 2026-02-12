@@ -1,0 +1,54 @@
+name: "Dr. Allison Yee"
+slug: dr-allison-yee
+city: fort-myers
+state: FL
+address: "13470 Parker Commons Blvd E #101, Fort Myers, FL 33912"
+zipCode: "13470"
+phone: ""
+website: "https://www.azulbeauty.com/about/dr-allison-yee-md-facs/"
+googleMapsUrl: "https://maps.google.com/?cid=4533086022040908226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Allison Yee is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 116 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 116
+reviews:
+  - author: "Brandy S."
+    rating: 5
+    date: "2026-01-13"
+    text: >-
+      From the visit to Azul Courtney Holley and Dr Yee have given stellar customer service all of my questions and concerns were addressed and the overall experience was exemplary. The entire staff are top of the line at every location. Dr Yee is very hands on and available at all times, and her bedside manner is the best ive experienced at any Dr’s office. I would trust her for any future procedure.
+    source: "Google"
+  - author: "Norine M."
+    rating: 5
+    date: "2026-01-17"
+    text: >-
+      Doctor Yee Took the time to explain my procedure in detail. I felt she heard me completely and validated exactly what I wanted done. I am Confident and look forward to working with Dr. Yee to Improve my skins health and appearance!
+    source: "Google"
+  - author: "jaylyn2414"
+    rating: 5
+    date: "2025-09-05"
+    text: >-
+      Dr. Yee has been amazing! She is very skilled, knowledgeable and truthful. She doesn't try to sell me expensive procedures if she knows of free things I can do or if she doesn't think they will help. I feel she truly has my best interest at heart.
+    source: "Google"
+  - author: "Mary E."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      Went to Dr Yee today to get my bandage off and stitches removed from my recent surgery. Dr Yee is so patient and answers all my questions. She just finished redoing both of my eyes (from another doctor who really messed up both eyes). I wish I would’ve gone to Dr Yee first. Definitely the best!
+    source: "Google"
+  - author: "Charleen V."
+    rating: 5
+    date: "2026-01-10"
+    text: >-
+      I had surgery with Dr Yee. Love my results! I highly recommend her. Her team is very knowledgeable, kind and compassionate.
+    source: "Google"
+logo: "/images/clinics/logos/dr-allison-yee.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

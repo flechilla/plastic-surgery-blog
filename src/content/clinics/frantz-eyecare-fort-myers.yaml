@@ -1,0 +1,54 @@
+name: "Frantz EyeCare Fort Myers"
+slug: frantz-eyecare-fort-myers
+city: fort-myers
+state: FL
+address: "9617 Gulf Research Ln, Fort Myers, FL 33912"
+zipCode: "33912"
+phone: "(239) 418-0999"
+website: "https://www.bettervision.net/locations/fort-myers/?y_source=1_MTA3MjI5MzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+googleMapsUrl: "https://maps.google.com/?cid=1660790594711331086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Frantz EyeCare Fort Myers is a plastic surgery practice located in Fort Myers, FL. With a 4.8-star rating from 1951 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 1951
+reviews:
+  - author: "Kimberly H."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Dr Burkley and the entire staff are awesome. Very comprehensive and compassionate care.  The only place that me and my family trust for our eyes.
+    source: "Google"
+  - author: "Real E. J. L. G."
+    rating: 1
+    date: "2025-12-01"
+    text: >-
+      ⭐ 1 STAR — If I could give zero, I would.  Fran’s Eyecare is the definition of an eye-factory with zero personal touch and absolutely no real solutions. My husband went in simply needing one lens for one eye. Instead of offering actual care, they slapped a contact in, sent him home for the weekend with no extras, no backup, no guidance — nothing.  Surprise, surprise… it got stuck in his eye.  He s
+    source: "Google"
+  - author: "Susan S."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Monica was such a delight! Very knowledgeable, interested in my case, painless, enjoyable testing. Dr. Warrior was very personable & her examination was thorough & she advised me well. One of the testers, was very lax in getting me for my first retinal scan test, letting me wait an extra 40 minutes in the waiting room, with no apology. Very out of character & surprising for this office. I highly r
+    source: "Google"
+  - author: "Giovanni S."
+    rating: 1
+    date: "2026-01-28"
+    text: >-
+      This place is what we used to call back up north a meat market. It’s a one stop shop where they have all the doctors and they run you through like cattle.  Not only do you have to sit there for an hour to wait for your appointment but then after you see the first doctor, you have to wait another 45 minutes for another doctor and then they tell you you need cataract surgery and then on top of that,
+    source: "Google"
+  - author: "Jimmy S."
+    rating: 5
+    date: "2025-09-08"
+    text: >-
+      I had a wonderful experience with Dr Frantz's team. From the front staff to the back office, everyone is very kind. I was seen by Dr Hogan, and she and Lessie were wonderful and very thorough. I am a disabled veteran and I have to use a Cain and it was very easy to get around. Thank all of you at Dr. Frantz for making my visit such a pleasant experience.
+    source: "Google"
+logo: "/images/clinics/logos/frantz-eyecare-fort-myers.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

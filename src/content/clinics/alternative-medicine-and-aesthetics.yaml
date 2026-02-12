@@ -1,0 +1,54 @@
+name: "Alternative Medicine and Aesthetics"
+slug: alternative-medicine-and-aesthetics
+city: fort-myers
+state: FL
+address: "8140 College Pkwy, Fort Myers, FL 33919"
+zipCode: "33919"
+phone: "(239) 645-6400"
+website: "https://alternativemedicineandaesthetics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=552828338903581455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Alternative Medicine and Aesthetics is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 23 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 23
+reviews:
+  - author: "Advantages4All"
+    rating: 5
+    date: "2025-11-21"
+    text: >-
+      I have been going here for almost 3 years. Fawn and Del are experts in the industry. I have used many peptides from them and I have also had facials (PRP and Hydration) in addition to fillers and botox. I love all of the services they provide. To order injectibles is so easy and Del makes the transaction so seamless with excellent delivery times. I can't imagine going anywhere else to try to stay 
+    source: "Google"
+  - author: "Jeffrey S."
+    rating: 5
+    date: "2025-04-23"
+    text: >-
+      5 Stars - Highly Recommend Alternative Medicine and Aesthetics!  I’ve been seeing Del and Fawn Poling at Alternative Medicine and Aesthetics for about 7 years now, and I can’t say enough great things about them.  Fawn has been incredible in helping both my wife and me with Botox and fillers. She’s not only highly skilled, but also so caring and attentive — always making sure we feel comfortable an
+    source: "Google"
+  - author: "Krista L."
+    rating: 5
+    date: "2025-11-13"
+    text: >-
+      I have had years of great experiences with Fawn and Del!! They have been a huge Blessing to my husband and myself!  Very knowledgeable and they really care!  Fawn takes time to listen to your needs and wants. I would definitely recommend!!
+    source: "Google"
+  - author: "Jessica P."
+    rating: 5
+    date: "2025-11-28"
+    text: >-
+      My husband and I were referred to Fawn and Del from friends. I was in desperate need of HRT. I was completely deficient in all my hormones. They got me back to a therapeutic level which helps me emotionally, mentally, and physically.  They also manage our weight loss which has been easy to do with Del. I would definitely recommend.
+    source: "Google"
+  - author: "Eli M."
+    rating: 5
+    date: "2025-11-13"
+    text: >-
+      I've been seeing Del and Fawn for about 5 years, they've been amazing on my testosterone treatment and overall general health!  I've recommended several friends and coworkers to them as well. They've been a blessing to my family and I.
+    source: "Google"
+logo: "/images/clinics/logos/alternative-medicine-and-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

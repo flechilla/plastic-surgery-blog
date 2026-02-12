@@ -1,0 +1,54 @@
+name: "The Aesthetic Center at The Eye Associates"
+slug: the-aesthetic-center-at-the-eye-associates
+city: fort-myers
+state: FL
+address: "4101 Evans Ave, Fort Myers, FL 33901"
+zipCode: "33901"
+phone: "(239) 939-3456"
+website: "https://www.ecof.com/locations/fort-myers-eye-doctor/?y_source=1_MTAxNzAyOTgzNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+googleMapsUrl: "https://maps.google.com/?cid=7758646810257631578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Aesthetic Center at The Eye Associates is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 11 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 11
+reviews:
+  - author: "Karissa"
+    rating: 5
+    date: "2024-11-14"
+    text: >-
+      Amy is amazing, very knowledgeable and super sweet. She addresses all concerns, Takes her time, and very detailed. The included massage is by far my favorite.
+    source: "Google"
+  - author: "Linda B."
+    rating: 5
+    date: "2019-05-26"
+    text: >-
+      The aesthetic center is A+. Dr. Yee performed my blepharoplasty which helped me tremendously.  I have ocular rosacea and coupled with excessively drooping eyes I had trouble seeing and my eyes itched constantly. Now I can see clearly and the itchy eyes hardly ever occur after Dr. Yee's top notch surgery.
+    source: "Google"
+  - author: "Elizabeth H."
+    rating: 5
+    date: "2019-12-21"
+    text: >-
+      Dr Yee is excellent! She performed my eye surgery and 2 of my friends. Improved my vision and looks!! Thanks Dr Yee!!
+    source: "Google"
+  - author: "kristin H."
+    rating: 5
+    date: "2019-08-13"
+    text: >-
+      Thank you so much Dr Eiselman for giving me back my vision and for making me see the world in a different light!! After years of headaches I  can finally read and enjoy life again!!! You are my hero and a life saver!!!  Thank you so much!!
+    source: "Google"
+  - author: "kevin k."
+    rating: 4
+    date: "2021-03-12"
+    text: >-
+      I'm a bit disappointed that there is zero follow up from anyone following surgery and then the laser corrective surgery.    Makes ECOF seem like a chop shop
+    source: "Google"
+logo: "/images/clinics/logos/the-aesthetic-center-at-the-eye-associates.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

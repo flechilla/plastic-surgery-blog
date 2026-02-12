@@ -1,0 +1,54 @@
+name: "Dr. Leo Baccaro"
+slug: dr-leo-baccaro
+city: fort-myers
+state: FL
+address: "1250 Pine Ridge Rd Suite 101C, Naples, FL 34108"
+zipCode: "34108"
+phone: "(239) 566-2611"
+website: "https://www.gardnerplasticsurgery.com/?utm_source=Local&utm_medium=organic&utm_campaign=GMB"
+googleMapsUrl: "https://maps.google.com/?cid=17881564933578331698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Leo Baccaro is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 13 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 13
+reviews:
+  - author: "Melissa M."
+    rating: 5
+    date: "2024-06-14"
+    text: >-
+      Around four months ago Dr. Baccaro did a breast implant removal as there were issues with my originally surgery (done out of the state) and these problems included health side effects that were significantly affecting my quality of life. It has been a wonderful experience from the moment I made my appointment request online to today. The whole staff (front desk, Brittany the office manager, and nu
+    source: "Google"
+  - author: "IrynaMcCraw"
+    rating: 5
+    date: "2021-09-30"
+    text: >-
+      I have been recommended to go see Dr. Baccaro by a good friend of mine who had amazing result with him. Very knowledgeable doctor. After consultation with Dr. Baccaro I had no doubt in my mind I have to go ahead with him for my surgery’s. Amazing result for my breast reconstruction and upper eyelid lift. Here I am seven month later just confirm my Lipo surgery I dream of for a long time and its no
+    source: "Google"
+  - author: "Barbara J."
+    rating: 5
+    date: "2022-03-20"
+    text: >-
+      Dr. Bacarro is an exceptional surgeon with wonderful bedside manners and superb personality.  To say he has surpassed my expectations would be an understatement.  From day one since my consult and the day of my surgery I felt completely secure in knowing I would be in good hands.  Thank you Amy, Lisa and Brittany for also being so caring and helpful throughout the process.
+    source: "Google"
+  - author: "Melina H."
+    rating: 5
+    date: "2021-03-09"
+    text: >-
+      Dr. Baccaro is the best! So talented and caring, with a great eye for details. He made me Feel super calm during the surgery. 100% recommended!
+    source: "Google"
+  - author: "Dayana R."
+    rating: 5
+    date: "2021-10-29"
+    text: >-
+      I love Dr Baccaro he did such a amazing job on my mini bbl I look so natural, it was exactly what I ask for and the treatment was amazing.
+    source: "Google"
+logo: "/images/clinics/logos/dr-leo-baccaro.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

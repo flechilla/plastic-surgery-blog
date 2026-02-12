@@ -1,0 +1,54 @@
+name: "Dr. Marc Schneider"
+slug: dr-marc-schneider
+city: fort-myers
+state: FL
+address: "12751 S Cleveland Ave #102, Fort Myers, FL 33907"
+zipCode: "12751"
+phone: "(239) 277-9999"
+website: "https://schneidercentre.com/"
+googleMapsUrl: "https://maps.google.com/?cid=10098087186970909724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Marc Schneider is a plastic surgery practice located in Fort Myers, FL. With a 4.1-star rating from 13 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.1
+reviewCount: 13
+reviews:
+  - author: "Meylin L."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      Couldn't ask for more. Excellent treatment from beginning to end. Dr. Schneider is very easy going and makes you comfortable with his expertise. His staff is also very nice and they also make you feel comfortable. My procedure was explained to me very straight forward and everything went exactly how they said it would. I saw Dr. Schneider for a lipoma on my forehead. He removed it and made perfect
+    source: "Google"
+  - author: "Katherine L."
+    rating: 5
+    date: "2025-08-28"
+    text: >-
+      Tummy Tuck Review – Dr. Schneider, 5 Weeks Post-Op  It’s been 5 weeks since my tummy tuck with Dr. Schneider, and I can confidently say, I feel AMAZING! From the very beginning, this experience has exceeded my expectations in every way. The most common question I get is: "Would you do it again?" My answer is… A THOUSAND TIMES YES, but only with Dr. Schneider!  To my surprise, I never really had an
+    source: "Google"
+  - author: "Veronika H."
+    rating: 5
+    date: "2025-11-08"
+    text: >-
+      Dr.Schneider provides exceptional results and maintains complete honesty throughout the consultation process. He truly delivers on his promises!
+    source: "Google"
+  - author: "Witchblade 2."
+    rating: 5
+    date: "2024-12-10"
+    text: >-
+      Went to him after a friend of mine had him do her mommy makeover with fantastic results. I needed eye bags gone! I'm so happy with my results and don't think I look 51 anymore! Will be going to him for my tummy tuck next year!
+    source: "Google"
+  - author: "Amber D."
+    rating: 5
+    date: "2023-11-15"
+    text: >-
+      I had a breast augmentation a few months back with Dr Schneider and staff. It was a great experience and a great purchase! I am very happy with how the staff worked and how caring and friendly they are. Definitely made me feel comfortable with any questions or concerns I had. I am happy with how my breasts healed and definitely will recommend them!
+    source: "Google"
+logo: "/images/clinics/logos/dr-marc-schneider.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

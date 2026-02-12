@@ -1,0 +1,30 @@
+name: "Dr. Richard W. Maloney, MD"
+slug: dr-richard-w-maloney-md
+city: fort-myers
+state: FL
+address: "1175 Creekside Pkwy Suite 100, Naples, FL 34108"
+zipCode: "34108"
+phone: "(239) 594-9100"
+website: "https://www.aestheticsurgerycenter.com/about-us/maloney?utm_source=GMB&utm_medium=organic&utm_campaign=GMB-maloney"
+googleMapsUrl: "https://maps.google.com/?cid=9866303272448149578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Richard W. Maloney, MD is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 1 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 1
+reviews:
+  - author: "M R."
+    rating: 5
+    date: "2016-05-02"
+    text: >-
+      If you want the best,...Dr. Maloney is it..from the skin care line.. to have lasers work or a mid lift, Dr. Maloney offers all of the very best in facial/skin care.
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

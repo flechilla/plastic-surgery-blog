@@ -1,0 +1,54 @@
+name: "Aesthetic Surgery Center"
+slug: aesthetic-surgery-center
+city: fort-myers
+state: FL
+address: "1175 Creekside Pkwy #100, Naples, FL 34108"
+zipCode: "34108"
+phone: "(239) 594-9100"
+website: "https://www.aestheticsurgerycenter.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB"
+googleMapsUrl: "https://maps.google.com/?cid=2720663389644228006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aesthetic Surgery Center is a plastic surgery practice located in Fort Myers, FL. With a 4.8-star rating from 58 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.8
+reviewCount: 58
+reviews:
+  - author: "Virginia L."
+    rating: 5
+    date: "2025-11-09"
+    text: >-
+      I have been going to Dr. Agarwal and his team  for the last 20 years. They simply  are the best!! I constantly get compliments about my skin, the fact is now that I am 77 , I naturally appear many years younger . This is a true testament to their extraordinary expertise
+    source: "Google"
+  - author: "Natalie D."
+    rating: 2
+    date: "2025-07-31"
+    text: >-
+      Endoscopic brow lift and modified lip lift.  Brow lift left me with a higher forehead and frontal bossing.  I already had a prominent forehead and most likely was not an ideal candidate for this technique.  I will now have to have a forehead reduction because I look terrible with such an enhanced prominent forehead.  My lip lift has scaring, which I was told I would have although under my nose is 
+    source: "Google"
+  - author: "Jenn L."
+    rating: 5
+    date: "2024-07-23"
+    text: >-
+      I recently had an exceptional experience with Dr. Agarwal and his wonderful concierge staff. From the initial consultation to the final follow-up, every aspect of my care was handled with the utmost professionalism and attention to detail. Dr. Agarwal's expertise and skill are evident in the amazing results I received. My procedure was thoroughly explained, and all of my questions were answered wi
+    source: "Google"
+  - author: "Ana M. L. d. C."
+    rating: 5
+    date: "2024-11-13"
+    text: >-
+      I recently had surgery with Dr. Casey Holmes and I am very satisfied with the results. Dr. Holmes is an excellent doctor and I highly recommend his services. Dr. Holmes not only speaks English but also Spanish which made my communication with him easier. He a wonderful and easy to talk human being. 10 points to Dr. Holmes, his staff and facilities.
+    source: "Google"
+  - author: "Arlete L. C."
+    rating: 5
+    date: "2022-10-10"
+    text: >-
+      Outstanding!  I would highly recommend Dr. Casey Holmes and his staff at the Aesthetic Surgery Center of Naples to all my family and friends.  Dr. Casey Holmes is an outstanding plastic surgeon, exceptionally knowledgeable and skilled. His attentive, supportive and caring personality made the whole process less stressful. My breast implant revision was a success and I am very happy with the result
+    source: "Google"
+logo: "/images/clinics/logos/aesthetic-surgery-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

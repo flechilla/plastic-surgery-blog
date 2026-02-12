@@ -1,0 +1,36 @@
+name: "Dr. W. G. Eshbaugh, Jr. MD"
+slug: dr-w-g-eshbaugh-jr-md
+city: fort-myers
+state: FL
+address: "7331 Gladiolus Dr, Fort Myers, FL 33908"
+zipCode: "33908"
+phone: "(239) 313-2553"
+website: "http://www.riverchasedermatology.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9022580282386625468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. W. G. Eshbaugh, Jr. MD is a plastic surgery practice located in Fort Myers, FL. With a 5-star rating from 2 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 5
+reviewCount: 2
+reviews:
+  - author: "Emily F."
+    rating: 5
+    date: "2015-08-31"
+    text: >-
+      There aren’t enough positive words to describe Dr. Eshbaugh and his work.  I came to Dr. Eshbaugh from Tennessee after undergoing a mommy makeover back in December 2014. I was very unhappy with the outcome of my previous surgery- my breasts were uneven and saggy and far larger than I had wanted, my hips were uneven and had a large dog ear, my belly button was off center, and all of my incisions de
+    source: "Google"
+  - author: "Jaimie D."
+    rating: 5
+    date: "2015-06-05"
+    text: >-
+      Dr. Eshbaugh is an excellent surgeon! My results were natural and my surgical experience was very pleasant. I highly recommend him to anyone looking for a plastic surgeon!
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

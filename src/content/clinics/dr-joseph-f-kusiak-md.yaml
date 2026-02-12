@@ -1,0 +1,25 @@
+name: "Dr. Joseph F. Kusiak, MD"
+slug: dr-joseph-f-kusiak-md
+city: fort-myers
+state: FL
+address: "3320 Shady Bend, Fort Myers, FL 33905"
+zipCode: "33905"
+phone: "(239) 693-1655"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=7062266787027445563&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+description: >-
+  Dr. Joseph F. Kusiak, MD is a plastic surgery practice located in Fort Myers, FL. They offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 0
+reviewCount: 0
+reviews:
+  []
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

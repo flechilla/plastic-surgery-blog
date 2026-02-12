@@ -1,0 +1,54 @@
+name: "Mazza Plastic Surgery - Joseph F. Mazza, JR. MD"
+slug: mazza-plastic-surgery-joseph-f-mazza-jr-md
+city: fort-myers
+state: FL
+address: "12640 Creekside Ln, Fort Myers, FL 33919"
+zipCode: "12640"
+phone: "(239) 482-7676"
+website: "http://www.mazzaplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14042650384449847036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Mazza Plastic Surgery - Joseph F. Mazza, JR. MD is a plastic surgery practice located in Fort Myers, FL. With a 4.7-star rating from 87 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.7
+reviewCount: 87
+reviews:
+  - author: "Elizabeth S."
+    rating: 5
+    date: "2025-10-20"
+    text: >-
+      After consulting with several surgeons, Dr. Sharma was the clear choice for my breast augmentation. He exceeded my expectations with his extensive knowledge and patience, and worked with me to achieve the exact results I wanted. The entire staff was professional and friendly, providing exceptional support from my first appointment through recovery. My results are life-changing and have given me 10
+    source: "Google"
+  - author: "Alyssa D."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      I had an amazing experience getting Botox with Dr. Sharma. From start to finish, he made me feel comfortable and confident in the process. He is extremely knowledgeable and took the time to explain everything in detail, answering all of my questions with patience and professionalism. He has incredible attention to detail, making sure placement was perfect and tailored to me.  I couldn’t be happier
+    source: "Google"
+  - author: "marie w."
+    rating: 5
+    date: "2025-12-30"
+    text: >-
+      I will always be grateful for Dr Sharma’s professional expertise and kindness. Everyone in the office has been especially helpful. They made sure I knew what to expect at each step of the way for my facelift. The results are life changing. Thank you, Dr. Sharma
+    source: "Google"
+  - author: "Nicola R."
+    rating: 5
+    date: "2025-11-04"
+    text: >-
+      Dr. Sharma is EXCELLENT! I am so very happy. He literally gave me back my life. I had breast reduction and the results were fantastic.  Dr. Sharma genuinely cares and strives to eliminate any concerns or worries you may have. He makes himself available to you 24/7. I have no regrets. Thank you Dr. Sharma!
+    source: "Google"
+  - author: "Gloria"
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      Dr Sharma is AMAZING!!! He performed a breast reduction for my daughter and the results exceeded all expectations! His bedside manner, genuine care and workmanship are second to none!
+    source: "Google"
+logo: "/images/clinics/logos/mazza-plastic-surgery-joseph-f-mazza-jr-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

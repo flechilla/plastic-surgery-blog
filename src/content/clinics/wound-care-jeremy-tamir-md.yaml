@@ -1,0 +1,54 @@
+name: "Wound Care | Jeremy Tamir, MD"
+slug: wound-care-jeremy-tamir-md
+city: fort-myers
+state: FL
+address: "13778 Plantation Rd, Fort Myers, FL 33912"
+zipCode: "13778"
+phone: "(239) 343-0454"
+website: "http://www.leehealth.org/lee-physician-group/physicians/tamir-jeremy.asp"
+googleMapsUrl: "https://maps.google.com/?cid=5188334252894172480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Wound Care | Jeremy Tamir, MD is a plastic surgery practice located in Fort Myers, FL. With a 4.5-star rating from 16 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.5
+reviewCount: 16
+reviews:
+  - author: "Kaitlyn B."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      I almost died after having a botched panniculectomy that turned necrotic early this year. I was hospitalized and required multiple debridements and was left without skin on my abdomen for several days, needing to be fully covered with a very large wound vac.  Dr. Tamir and his team quite literally saved my life. They worked with infectious disease to handle my infection. Most importantly, Dr. Tami
+    source: "Google"
+  - author: "Debra B. W."
+    rating: 5
+    date: "2025-09-09"
+    text: >-
+      This is the best Dr. and staff for wound care in SW Florida in Fort myers Fla. Dr. Tamir has been really great taking care my wound care for the last 2 1/2 years (I've had extended wounds). Check them out if you need wound care. Ty
+    source: "Google"
+  - author: "Judy S."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      Amazing skill as a wound surgeon on both my legs! Saved my left leg and probably my life after discovering a huge abscess previously undetected!
+    source: "Google"
+  - author: "Martin “. S."
+    rating: 5
+    date: "2025-07-16"
+    text: >-
+      Dr Tamir is the BEST period—He & staff are amazing-He actually listens then tell U what to do— I’ve met him a few times when I had an issue-so glad I did-U R the BEST
+    source: "Google"
+  - author: "Emily P."
+    rating: 5
+    date: "2025-04-01"
+    text: >-
+      Dr. Tamir and his team consistently demonstrate professionalism and a commitment to patient care.  They are responsive to inquiries and maintain an efficient scheduling system.
+    source: "Google"
+logo: "/images/clinics/logos/wound-care-jeremy-tamir-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

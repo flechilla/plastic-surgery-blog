@@ -1,0 +1,54 @@
+name: "Dr. Kelly Elleson"
+slug: dr-kelly-elleson
+city: fort-myers
+state: FL
+address: "4571 Colonial Blvd #210, Fort Myers, FL 33966"
+zipCode: "33966"
+phone: "(239) 539-8815"
+website: "https://www.genesiscareus.com/en/our-doctors/dr-kelly-elleson?utm_source=google&utm_medium=organic&utm_campaign=gmb_listings&utm_term=button&utm_content=visit_website"
+googleMapsUrl: "https://maps.google.com/?cid=14969748948811749072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. Kelly Elleson is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 19 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 19
+reviews:
+  - author: "Cheryl B."
+    rating: 5
+    date: "2025-07-28"
+    text: >-
+      Dr Elleson and her team got me in fast, provided all the information I needed to know and took great care of me. She personally called me with updates and squeezed me in for an appointment same day,  when needed. I highly recommend her. Thank you!
+    source: "Google"
+  - author: "Patty P."
+    rating: 5
+    date: "2025-08-18"
+    text: >-
+      I am 2 years post-op. Diagnosed with Stage 1 Triple Negative Breast Cancer.  This fantastic team of Emmie, Wendy Featherstone and Dr Elleston, have always been positive and open to questions. My scheduling was done to get me in quickly. Surgery center was fantastic. So far we're clear of cancer. Thank you for making this journey bearable.
+    source: "Google"
+  - author: "Judith L."
+    rating: 5
+    date: "2025-07-31"
+    text: >-
+      Dr. Elleson is a fantastic surgeon. She is caring and males you feel good through a rough time when you need all the love you can get. I recommend her to anyone in need.
+    source: "Google"
+  - author: "Doris N."
+    rating: 5
+    date: "2025-08-10"
+    text: >-
+      From the moment u enter till u exit u r welcomed and feel the  warmth of everyone, EMMIE continues to amaze me with her sincerely kind way of letting u feel relaxed.  Dr Elleson understands  the importance of giving u the time needed.
+    source: "Google"
+  - author: "Bonnie D."
+    rating: 5
+    date: "2025-03-20"
+    text: >-
+      We were very pleased with the nicest of the staff every time we visited the office.  The office is beautiful.   Dr Ellison’s treatment regimen was spot on.   Lena, her MA, is awesome.   What a good personality.  Thank you everyone!  You made a bad situation much easier to handle because you’re all so sweet!!
+    source: "Google"
+logo: "/images/clinics/logos/dr-kelly-elleson.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

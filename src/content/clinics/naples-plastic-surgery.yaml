@@ -1,0 +1,54 @@
+name: "Naples Plastic Surgery"
+slug: naples-plastic-surgery
+city: fort-myers
+state: FL
+address: "1250 Pine Ridge Rd Suite 101C, Naples, FL 34108"
+zipCode: "34108"
+phone: "(239) 566-2611"
+website: "http://www.naplesps.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2399754429166698203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Naples Plastic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.9-star rating from 687 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.9
+reviewCount: 687
+reviews:
+  - author: "K M."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      From the very first visit, everyone in the office made me feel comfortable. Dr. Baccaro listened to exactly what I wanted as far as results with my surgery. Very knowledgeable and professional. I am very happy with my results. The nurses on surgery day were so sweet and made me feel at ease. Every single person in the office is so nice and welcoming! I would recommend them to anyone!
+    source: "Google"
+  - author: "Helen P."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      I cannot say enough positive things about Naples Plastic Surgery. As soon as I met with Dr. Baccaro and his staff, I knew I’d come to the right place, and I chose them over other options. Dr Baccaro’s background combined with his bedside manner, honesty, and obvious care for his individual patients make for the best possible experience. The nurses and staff are also so kind and welcoming. I’m very
+    source: "Google"
+  - author: "Sandy B."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      If you are looking in the SWFL area for  self improvement this is the place to go. I chose Dr. Gardner as my go to for my journey. He is kind explains everything, tells you what he can do and won't do because he wants what's best for the patient. That made me trust him even more. He answered all my questions. And Brittany was great with answering my emails and texts pre-op and post-op as well. Aft
+    source: "Google"
+  - author: "Amy B."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      I cannot say enough wonderful things about Dr. Walsh and the entire team at Naples Plastic Surgery. From my very first consultation through post-op care, I felt genuinely supported, informed, and cared for every step of the way.  I underwent a reduction and lift along with a preventative bilateral mastectomy, and from the beginning, Dr. Walsh approached my care with an incredible level of skill, c
+    source: "Google"
+  - author: "Cheryl A."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      Dr. Walsh and his staff are the best! I am very happy with the results of my surgery. The doctor and his staff were always available to answer any questions I had pre and post op. They never made me  feel like I was bothering them. I highly recommend Dr Walsh and his team.
+    source: "Google"
+logo: "/images/clinics/logos/naples-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

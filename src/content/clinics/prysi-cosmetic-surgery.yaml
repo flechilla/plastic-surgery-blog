@@ -1,0 +1,54 @@
+name: "Prysi Cosmetic Surgery"
+slug: prysi-cosmetic-surgery
+city: fort-myers
+state: FL
+address: "9125 Corsea Del Fontana Way, Naples, FL 34109"
+zipCode: "34109"
+phone: "(239) 643-3223"
+website: "https://prysicosmetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13060429021443071113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Prysi Cosmetic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.6-star rating from 18 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+  - "Reconstructive Surgery"
+rating: 4.6
+reviewCount: 18
+reviews:
+  - author: "Tina O."
+    rating: 1
+    date: "2025-09-30"
+    text: >-
+      This “pricey” doctor did a horrible job! I wanted a breast augmentation and specified over and again that I didn’t want to be larger, just spruced up. Now my left breast has this big droop and is not even with the right. He kept telling me that they are not twins. He then said he could cut a slice off of the bottom of my left breast! Don’t trust this doctor!
+    source: "Google"
+  - author: "Stefanie S."
+    rating: 5
+    date: "2022-04-21"
+    text: >-
+      Dr Prysi and his office staff is awesome. I had a midlift and laser surgery and they all made me feel comfortable and safe. I am 3 months out from my surgery and love the way my face looks and I am still healing. I would recommend Dr Prysi to any one that is wanting to look better. He told me at the consultation I would look younger in 10 years from now then I did before surgery and I truly believ
+    source: "Google"
+  - author: "fitness g."
+    rating: 5
+    date: "2018-05-26"
+    text: >-
+      I am very happy with my results of my liposuction procedure I am almost on week 4 and already love the results. It was kind of an emotional rollercoaster but Dr. Prysi and his team did everything to make me feel comfortable and also reassured me it would take about 6weeks to see the full85% of the procedure and I am already loving it. So I’m very excited to see the end result. I go in soon to take
+    source: "Google"
+  - author: "Pat B."
+    rating: 5
+    date: "2018-05-25"
+    text: >-
+      The best cosmetic/plastic surgeons have an artistic eye. Dr. Prysi has this gift. I was thrilled with my results–no startled deer in the headlight look, no drawn to the side mouth. The outcome more than met my expectations. The office staff is welcoming, professional, and competent, and the surgery was performed without complications. If you are searching for a doctor who will help you achieve you
+    source: "Google"
+  - author: "Connie K."
+    rating: 5
+    date: "2023-03-14"
+    text: >-
+      Over the course of one year, I evaluated several plastic surgeons; my spouse went along with me and we both ‘just knew’ when we met with Dr. Mark Prysi, MD that we had located what we believed to be the BEST qualified physician.   From the first visit into Dr. Prysi’s office, the entire staffing TEAM were very caring and very thorough.  My questions and concerns were addressed by the office staff 
+    source: "Google"
+logo: "/images/clinics/logos/prysi-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
