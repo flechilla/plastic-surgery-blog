@@ -1,0 +1,60 @@
+name: "NutriFlo Medspa and IV Lounge"
+slug: nutriflo-medspa-and-iv-lounge
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Kensington"
+address: "5619 Coral Ridge Dr, Coral Springs, FL 33076"
+zipCode: "33076"
+coordinates:
+  lat: 26.298372800000003
+  lng: -80.27704399999999
+phone: "(954) 800-4167"
+website: "https://www.nutriflomedspa.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=13687993984144238863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  NutriFlo Medspa and IV Lounge is a plastic surgery practice located in Coral Springs, FL. With a 5-star rating from 181 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 181
+reviews:
+  - author: "Timika F."
+    rating: 5
+    date: "2025-12-22"
+    text: >-
+      Friendly & Trust-Building  I can’t say enough good things about this med spa. The staff is kind, patient, and genuinely cares about their clients. I never felt rushed or pressured, and the results exceeded my expectations. I trust them completely and highly recommend to anyone looking for safe, effective treatments.
+    source: "Google"
+  - author: "yverose m."
+    rating: 5
+    date: "2026-01-12"
+    text: >-
+      Excellent service! Carla the nurse practitioner was well informed and professional. She made my experience enjoyable 😊 I got facial balancing and I'm very happy
+    source: "Google"
+  - author: "Ajahlai"
+    rating: 5
+    date: "2025-11-08"
+    text: >-
+      This was my first time ever getting any kind of injections and the moment I walked in i felt so comfortable! Front desk Bria was so helpful and NP Carla was so amazing! If you want an amazing experience come here!
+    source: "Google"
+  - author: "TryAgain !."
+    rating: 5
+    date: "2025-09-03"
+    text: >-
+      Carla is AMAZING!! She listened to my concerns and what my goals were, and she delivered.  The facility is clean and beautiful. Staff is very professional and welcoming. I highly recommend this place.
+    source: "Google"
+  - author: "Jill Y."
+    rating: 5
+    date: "2025-07-15"
+    text: >-
+      I am very happy and relieved to find Carla for my Botox injections. This Medspa is not only beautiful, but also very professional. I looked at my face a few days after my treatment, and noticed just how amazing it looked. My eyes had a much more youthful appearance, and I love my "lip flip". Altogether, a mini face lift has been achieved !! I appreciate Carla's knowledge and gentleness. I will be 
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/nutriflo-medspa-and-iv-lounge.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

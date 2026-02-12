@@ -1,0 +1,60 @@
+name: "Fascino Med Spa"
+slug: fascino-med-spa
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Castlewood"
+address: "11410 W Sample Rd, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.272377400000003
+  lng: -80.27849259999999
+phone: "(954) 644-2132"
+website: "http://www.fascinomedspas.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3755136971861356090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Fascino Med Spa is a plastic surgery practice located in Coral Springs, FL. With a 5-star rating from 48 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 48
+reviews:
+  - author: "Martha L. F."
+    rating: 5
+    date: "2025-12-02"
+    text: >-
+      Fascino Med Spa is my place to relax and enjoy the thermotherapy and the Pressotherapy. I have been visiting the spa for the last 2 years and I can tell you  can enjoy  a calm environment and Natalia  is very nice person, always on time, responsable,  and always explain very carefully  each treatment you can enjoy. Thank you very much Natalia!!! Keep the good work.
+    source: "Google"
+  - author: "Marina G."
+    rating: 5
+    date: "2025-02-24"
+    text: >-
+      Natalia did an amazing job, I got a HIFU treatment and it exceeded my expectations. I definitely recommend this place, not only did Natalia do a great job but she was super informative. I will be coming back for more treatments.
+    source: "Google"
+  - author: "Amy B."
+    rating: 5
+    date: "2024-01-24"
+    text: >-
+      I had a fantastic experience. Purchased a Hifu treatment from Groupon. Natalia thoroughly explained the treatment and I chose to upgrade to a 3 cartridge treatment and I am so glad I did! Dramatic immediate results. Great med spa and I look forward to return to explore other treatments!
+    source: "Google"
+  - author: "Julie K."
+    rating: 5
+    date: "2021-03-10"
+    text: >-
+      I got an incredible experience with Veronica, she did a microblading for me and changed my appearance completely! I am super happy of how I look right now, it is like a different person in a good way. Very nice, I liked a salon, clean and comfortable. Totally recommend!
+    source: "Google"
+  - author: "Olga V."
+    rating: 5
+    date: "2018-12-31"
+    text: >-
+      Great experience! I have received services at several local med spas and I would highly recommend .Fascino Med Spa. Natalia is very professional and welcoming .shs is very nice and knowledgeable. She answered all of my questions and explained the treatment at every step. Zero pressure environment. Will definitely go again!. The packages are excellent. And fhe results are immediately showing. The p
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/fascino-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

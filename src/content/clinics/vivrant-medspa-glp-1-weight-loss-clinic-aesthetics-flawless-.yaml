@@ -1,0 +1,60 @@
+name: "Vivrant MedSpa | GLP-1 Weight Loss Clinic | Aesthetics | Flawless Skin & Laser Studio"
+slug: vivrant-medspa-glp-1-weight-loss-clinic-aesthetics-flawless-
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "The Hills"
+address: "4500 N University Dr Suite 202, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.285816
+  lng: -80.25086329999999
+phone: "(954) 745-9505"
+website: "https://www.vivrantmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9124178892631493458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Vivrant MedSpa | GLP-1 Weight Loss Clinic | Aesthetics | Flawless Skin & Laser Studio is a plastic surgery practice located in Coral Springs, FL. With a 5-star rating from 39 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 39
+reviews:
+  - author: "Gail W."
+    rating: 5
+    date: "2026-01-05"
+    text: >-
+      Such an amazing experience! Dr Wilson made me feel comfortable and supported throughout my entire visit. My iron levels went back up and I'm finally starting to feel like myself again. Vivrant delivers real results, I 100% recommend this place.
+    source: "Google"
+  - author: "Rabeeya A."
+    rating: 5
+    date: "2025-07-05"
+    text: >-
+      I had my IV therapy done by Dr. Arlene at Vivrant Med Spa, and I feel amazing! The entire experience was smooth and relaxing. Dr. Arlene was kind, knowledgeable, and made me feel completely comfortable. After the treatment, I felt refreshed, energized, and ready to take on the day. I highly recommend Vivrant Med Spa and Dr. Arlene for anyone looking to boost their wellness and feel their best!
+    source: "Google"
+  - author: "Joel C."
+    rating: 5
+    date: "2025-03-24"
+    text: >-
+      Vivrant Medical Spa is everything you could want in a medical spa and more! The moment you step through the door, you’re greeted with such warmth and kindness that it feels like you’re among friends. The team is incredibly thoughtful and goes above and beyond to make sure you feel comfortable and well taken care of.  Dr. Arlene is a true expert in her field, passionate, highly educated, and always
+    source: "Google"
+  - author: "LADY M."
+    rating: 5
+    date: "2025-08-10"
+    text: >-
+      I must say that coming here to vivrant Med spa has been an inviting and heartfelt experience! I felt at ease and was greatly informed with all the questions I asked. I was very comfortable and will continue to keep coming back. Look no further and give them a try you will not regret it!
+    source: "Google"
+  - author: "Anita B."
+    rating: 5
+    date: "2025-02-21"
+    text: >-
+      My husband and I had an amazing experience at Vivrant Aesthetics Health and Wellness Medspa in Coral Springs! From the moment we walked in, we were warmly greeted by the owners, who were incredibly kind, professional, and attentive. Their passion for wellness truly shows in the way they care for their clients.  We both experienced IV Therapy and a hydro massage, and the combination was unbelievabl
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/vivrant-medspa-glp-1-weight-loss-clinic-aesthetics-flawless-.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

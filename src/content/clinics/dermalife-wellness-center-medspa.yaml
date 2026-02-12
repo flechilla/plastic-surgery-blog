@@ -1,0 +1,60 @@
+name: "Dermalife Wellness Center & MedSpa"
+slug: dermalife-wellness-center-medspa
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Ridgeview"
+address: "5401 N University Dr #102, Coral Springs, FL 33067"
+zipCode: "33067"
+coordinates:
+  lat: 26.2981937
+  lng: -80.247799
+phone: "(954) 854-0170"
+website: "http://www.dermalifemd.com/"
+googleMapsUrl: "https://maps.google.com/?cid=185760888215360955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dermalife Wellness Center & MedSpa is a plastic surgery practice located in Coral Springs, FL. With a 4.9-star rating from 37 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 37
+reviews:
+  - author: "Ann G."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      Ellie was absolutely wonderful She does the most amazing job on my spider Veins. I have been following her for years and I have recommended her to so many of my friends, who also love her. Don’t even think of going anywhere else.
+    source: "Google"
+  - author: "Gabriela O."
+    rating: 5
+    date: "2025-02-21"
+    text: >-
+      I had an amazing experience at this clinic! The staff is incredibly professional, knowledgeable, and kind. From the moment I walked in, I felt welcomed and well taken care of. They took the time to explain every step of the procedure and made sure I was comfortable throughout the treatment.  The veins treatment was highly effective, and I noticed a significant improvement in my legs’ appearance an
+    source: "Google"
+  - author: "Luis M."
+    rating: 5
+    date: "2025-02-23"
+    text: >-
+      I purchased a Spa Day Gift for my wife's Birthday at Dermalife Esthetics, and I couldn’t be happier with the experience! From the moment she walked in, she was greeted with warmth and professionalism. The atmosphere was calming and luxurious—exactly what she needed for a relaxing day and to enjoying her Special Day.
+    source: "Google"
+  - author: "Genesis O."
+    rating: 5
+    date: "2025-02-13"
+    text: >-
+      I for sure recommend this place 100 times over again. The kindness and expertise along with gentle hands that accomplishes your goals, priceless. Don’t hesite in coming and experiencing for yourself.  Thank you Ely!!!
+    source: "Google"
+  - author: "Larissa C."
+    rating: 5
+    date: "2025-02-14"
+    text: >-
+      Love Ely. Very professional and welcoming. Amazing, honest service every time, priced just right. Highly recommend.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dermalife-wellness-center-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

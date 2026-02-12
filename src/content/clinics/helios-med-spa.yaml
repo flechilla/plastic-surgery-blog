@@ -1,0 +1,60 @@
+name: "Helios Med Spa"
+slug: helios-med-spa
+city: coconut-creek
+cityDisplay: "Coconut Creek"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "4400 W Sample Rd # 120, Coconut Creek, FL 33073"
+zipCode: "33073"
+coordinates:
+  lat: 26.272896199999998
+  lng: -80.18376169999999
+phone: "(786) 599-0202"
+website: "http://heliosmedspas.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1156465814471493802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Helios Med Spa is a plastic surgery practice located in Coconut Creek, FL. With a 5-star rating from 39 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 39
+reviews:
+  - author: "Ana E."
+    rating: 5
+    date: "2025-11-02"
+    text: >-
+      I had a great experience at Helios Med Spa, I had the Morpheus8 treatment and the results exceeded my expectations, you can really see the improvement in my skin. The team was very attentive and professional. I definitely recommend it!
+    source: "Google"
+  - author: "Tamara S."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      I absolutely love Alyson and her spa this women has helped me loose so much weight and build my confidence back up after having two kids my weight was up and down but she has fixed that with all the treatments she offers for loosing weight she is great and knows what she is doing I also did some Botox treatments with her and I have to say I loved it it lasted the longest and I’ve been to other spa
+    source: "Google"
+  - author: "christine s."
+    rating: 5
+    date: "2025-02-28"
+    text: >-
+      I had an amazing spa day at Helios Med Spa and couldn’t be happier with the experience! The sauna was the perfect way to relax, my HydraFacial left my skin feeling refreshed and glowing, and the teeth whitening gave me a noticeably brighter smile. Allyson and Noemi are both awesome—professional, friendly, and truly great at what they do. I highly recommend Helios Med Spa for anyone looking to trea
+    source: "Google"
+  - author: "Byson J."
+    rating: 5
+    date: "2025-03-19"
+    text: >-
+      Allyson at Helios Med Spa did an incredible job with my wife’s vaginal rejuvenation treatments. After having two babies, she was unhappy with the changes in her body, but this treatment has truly restored her confidence. The results have been amazing, and I’ve definitely noticed the difference too! We couldn’t be more pleased with the outcome. Highly recommend!
+    source: "Google"
+  - author: "Nadine R."
+    rating: 5
+    date: "2024-12-04"
+    text: >-
+      I recently visited Helios Med Spa for a Morpheus8 treatment, and I'm thrilled to share my outstanding experience.  From the initial consultation to the procedure itself, the team at Helios Med Spa exceeded my expectations. The staff were warm, welcoming, and highly knowledgeable, putting me at ease throughout the process.  During the consultation, my practitioner took the time to thoroughly explai
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/helios-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

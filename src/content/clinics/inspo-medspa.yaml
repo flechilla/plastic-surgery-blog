@@ -1,0 +1,60 @@
+name: "Inspo. Medspa"
+slug: inspo-medspa
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "3251 N University Dr #2, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.2714242
+  lng: -80.24973539999999
+phone: "(561) 564-9942"
+website: "http://www.inspomedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=8142966837213548392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Inspo. Medspa is a plastic surgery practice located in Coral Springs, FL. With a 5-star rating from 74 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 74
+reviews:
+  - author: "Sandi L."
+    rating: 5
+    date: "2025-10-27"
+    text: >-
+      Hana is extremely knowledgeable, professional and caring. She explains everything to you and the outcome is amazing!!!! I can not recommend her enough!!!
+    source: "Google"
+  - author: "Mouka L."
+    rating: 5
+    date: "2024-06-12"
+    text: >-
+      Hana She is truly amazing! I was a bit nervous at first but Hana made me feel so comfortable with her knowledge and compassion. I love how patient she was with me. She listened to my concerns while educating me and answering all my questions. She also makes herself available for check ins. I loved my experience with Hana and would Highly recommend her!
+    source: "Google"
+  - author: "Jennifer M."
+    rating: 5
+    date: "2024-08-21"
+    text: >-
+      I had the pleasure of visiting the Medspa today and being assisted by Hana. She took her time to explain everything thoroughly, ensuring I understood all aspects of the treatments. Hana made me feel incredibly comfortable and at ease. It’s evident that she genuinely cares about making people feel good, and it’s not just about making money for her. Her dedication and compassion are truly commendabl
+    source: "Google"
+  - author: "Alexandra C."
+    rating: 5
+    date: "2025-07-19"
+    text: >-
+      Hana! Where do I even begin? This beautiful woman with the kindest heart took 3 HOURS out of her day to thoroughly go over every insecurity, fear and the abundance of questions I had for her due to a very traumatic experience I had somewhere else with lip filler. Her kind heart, patience and knowledge put my mind at ease and her attention to detail and accuracy is off the charts. I seriously can’t
+    source: "Google"
+  - author: "Maria G."
+    rating: 5
+    date: "2024-07-27"
+    text: >-
+      Hana is amazing!! She educates you every step of the way and explains everything! I felt at ease with her from our first conversation. I definitely will be going back to Hana for more work. Love that she likes to make you look refreshed and natural and not too fake . The office is very clean and beautiful. I’m so happy my coworker recommended her !!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/inspo-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

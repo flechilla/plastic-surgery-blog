@@ -1,0 +1,60 @@
+name: "Lormin Med Spa"
+slug: lormin-med-spa
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Glenoaks"
+address: "10440 W Atlantic Blvd, Coral Springs, FL 33071"
+zipCode: "33071"
+coordinates:
+  lat: 26.240065899999998
+  lng: -80.2651095
+phone: "(305) 250-8837"
+website: "https://www.lorminmedspa.com/reserve-online"
+googleMapsUrl: "https://maps.google.com/?cid=13498325107537843553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Lormin Med Spa is a plastic surgery practice located in Coral Springs, FL. With a 4.9-star rating from 120 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 120
+reviews:
+  - author: "elizabeth l."
+    rating: 5
+    date: "2025-12-03"
+    text: >-
+      Lorena was absolutely amazing! She is incredibly kind, compassionate, and highly professional. I went in to have my nipples tattooed and she made me feel completely at ease and confident with my decision. Her patience and artistic technique truly impressed me — I am beyond satisfied with the results. I’m very grateful for the care she provided, and I will definitely be returning to her for any fut
+    source: "Google"
+  - author: "Vanny D."
+    rating: 5
+    date: "2025-10-23"
+    text: >-
+      Lormin is truly an eyebrow artist. I had a microblading service ( trazo perfecto) with her and the results areAMAZING… my eyebrows have a natural look, and a shape. Highly recommended!!!
+    source: "Google"
+  - author: "Sharon M."
+    rating: 5
+    date: "2025-09-25"
+    text: >-
+      My mom got her eye brows done & I was obsessed with her results so I decided to make my appointment & got my eyebrows done today. I am so happy 😁 how my eyebrows. Look rn , I can’t imagine how they going to look when they are healed
+    source: "Google"
+  - author: "Nicole R."
+    rating: 5
+    date: "2025-04-18"
+    text: >-
+      Lorena is amazing. She is caring, compassionate and very professional. She recommends the best treatments for your skin. I have been coming to her for a few years, and will continue. She does my mother’s eyebrows, and she gets tons of compliments. I highly recommend Lormin Spa.
+    source: "Google"
+  - author: "Yessica I."
+    rating: 5
+    date: "2025-07-26"
+    text: >-
+      Ive gotten microblading for my eyebrows and IPL laser here and both experiences have been awesome! The staff is super professional and friendly plus the services are even better. Totally recommend it!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/lormin-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Parkland Medspa & Wellness Center"
+slug: parkland-medspa-wellness-center
+city: parkland
+cityDisplay: "Parkland"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "in Riverstone Shoppes, 7383 N State Rd 7, Parkland, FL 33073"
+zipCode: "33073"
+coordinates:
+  lat: 26.3225175
+  lng: -80.20383939999999
+phone: "(877) 272-7552"
+website: "https://www.2parklandmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5830400577752377634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Parkland Medspa & Wellness Center is a plastic surgery practice located in Parkland, FL. With a 4.9-star rating from 97 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 97
+reviews:
+  - author: "Brutally F. H. R."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      Cautiously walked into Parkland Medspa and Wellness in Parkland, Florida because let’s be real, not every place knows when to say “you don’t actually need that.”  Friendly faces, clean, fresh, aesthetically pleasing, and smells so good it immediately gives you good vibes.  Anthony the injector is on fire. Blunt in the best way, direct, and refreshingly honest. No upselling, no pressure, no rapid f
+    source: "Google"
+  - author: "Taylor C."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Wow, my FAVORITE cosmetic med spa! Everyone here is so accommodating and sweet. I got a full syringe of filler in my lips and this was my first time doing it here and it is better than the other ones I’ve been to. Naiya at the front desk always greets you with a smile and will help you out with anything you need. Melanie is also usually up front with her and she’s also amazing as she’s running aro
+    source: "Google"
+  - author: "Donna G."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      I was extremely happy with my service from injector Anthony. He addressed a very stubborn line between my eyebrows that most injectors either won’t touch or don’t know how to treat properly. He also filled my temples and my nasolabial folds by my nostrils. Anthony was very honest about what was actually needed and took a natural, balanced approach that truly enhanced my face without overdoing anyt
+    source: "Google"
+  - author: "Frenchy P."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      I stopped by Parkland Medspa after seeing all the great reviews online, and I’m so glad I did! Injector Shirley was absolutely amazing!! She nailed every area I was concerned about, and somehow made the whole process painless (still impressed two hours after). The spa itself is spotless and very professional. Director Melanie was super friendly and took the time to answer all my questions, which I
+    source: "Google"
+  - author: "Adriana L."
+    rating: 5
+    date: "2025-09-26"
+    text: >-
+      I had the most amazing microneedling experience with Anthony Delgado! From the moment arrived, I felt welcomed and cared for, like family, not just another client. Every detail was tailored to me, from the numbing process to the carefully selected products. Anthony took the time to really understand my skin goals and offered expert recommendations that gave me real, noticeable results. The environ
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/parkland-medspa-wellness-center.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

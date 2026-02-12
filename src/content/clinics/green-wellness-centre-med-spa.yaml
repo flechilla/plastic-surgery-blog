@@ -1,0 +1,60 @@
+name: "Green Wellness Centre & Med Spa"
+slug: green-wellness-centre-med-spa
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Chevy Chase"
+address: "10870 Wiles Rd, Coral Springs, FL 33076, Coral Springs, FL 33065"
+zipCode: "33065"
+coordinates:
+  lat: 26.2869195
+  lng: -80.27146189999999
+phone: "(954) 800-2486"
+website: "https://greenwellnesscentre.com/?utm_source=gbp&utm_medium=website_btn&utm_campaign=gas"
+googleMapsUrl: "https://maps.google.com/?cid=536622457513522900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Green Wellness Centre & Med Spa is a plastic surgery practice located in Coral Springs, FL. With a 5-star rating from 244 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 244
+reviews:
+  - author: "Ami M."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I had an absolutely amazing facial at Green Wellness Center! From the moment I walked in, the space felt calm, clean, and welcoming. The staff was professional, knowledgeable, and took the time to understand my skin concerns before getting started.  My facial was relaxing yet results-driven—my skin was glowing, hydrated, and felt refreshed immediately afterward. I truly appreciated the attention t
+    source: "Google"
+  - author: "Jeffka D."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      I just had a facial at this lovely spa, and it was truly amazing! The staff was incredibly friendly and welcoming right from the moment I walked in. They explained everything clearly, which really helped me relax and enjoy the whole experience. The calming atmosphere was just perfect, and I left feeling refreshed with glowing skin! Highly recommend this team for anyone looking for a fantastic faci
+    source: "Google"
+  - author: "Blessed&favored14"
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      Green Wellness Centre in Coral Springs is a true treasure! I just had the Facial service, and wow, it was the best skincare service ever! The staff was super friendly and welcomed me right from the start, making everything feel so comfortable. Tasha explained everything clearly, answering all of my questions with patience & professionalism. My face looked amazing & I'm definitely going back! Highl
+    source: "Google"
+  - author: "Anzhela R."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      I just had a facial at this lovely spa, and I can't stop smiling about my experience! The staff was incredibly friendly, making me feel right at home from the moment I walked in. They explained everything clearly, which really helped me relax and enjoy the treatment. The calming atmosphere made my visit even better, and I left feeling refreshed with glowing results! I can't wait to share this gem 
+    source: "Google"
+  - author: "Sierra J."
+    rating: 5
+    date: "2025-10-15"
+    text: >-
+      Got an incredible facial today. Omg my skin is glowing from hydration.  The facial massage was priceless my entire body feels relaxed. Thank you Pam, I will be back next month!!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/green-wellness-centre-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

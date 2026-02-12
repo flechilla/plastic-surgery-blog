@@ -1,0 +1,60 @@
+name: "Lady Bella's Med Spa"
+slug: lady-bella-s-med-spa
+city: coral-springs
+cityDisplay: "Coral Springs"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: "Lakeview Square"
+address: "12430 W Atlantic Blvd, Coral Springs, FL 33071"
+zipCode: "33071"
+coordinates:
+  lat: 26.232718
+  lng: -80.29345900000001
+phone: "(954) 346-1130"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=14710618249512241910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Lady Bella's Med Spa is a plastic surgery practice located in Coral Springs, FL. With a 4.8-star rating from 53 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 53
+reviews:
+  - author: "Kiara T. L. T."
+    rating: 5
+    date: "2023-10-25"
+    text: >-
+      I am super happy to have had this service done with Lady Bella's med Spa. Personally, I was very anxious to recover my figure after having had 3 babies. I had the Bella shape done and I looked better than before. Alexandra has magical hands and she really gave me excellent service. The most important thing was she was honest with me and helped me. During all the process.
+    source: "Google"
+  - author: "Alicia J."
+    rating: 5
+    date: "2024-09-04"
+    text: >-
+      The best to do it. I was going to someone else at first, but she wasn’t applying enough pressure on me. so I was referred to Lady Bella’s Medspa, she does a great job of taking care of my post-op and maintenance needs. I love this place and her assistant They go above and beyond to take care of your body essential needs. This place does it all! Thank you for everything Alex,  I love my my results.
+    source: "Google"
+  - author: "Lisette B."
+    rating: 5
+    date: "2024-06-28"
+    text: >-
+      Alex did such an amazing job on helping me achieve a tighter stomach with velashape and also wood therapy. She is very professional, very friendly, knowledgeable, and made me feel so comfortable. Extremely happy with my results! She will not disappoint you. Highly recommend her. I will definitely be back! Thank you so much Alex :) My confidence is back thanks to you!!!
+    source: "Google"
+  - author: "Ashley S."
+    rating: 5
+    date: "2024-07-03"
+    text: >-
+      I must say this was the best experience EVER… the  ladies have the magic touch… cause the way she shaped this body after my 360 Lipo/ bbl, omg baby let me just say I’m loving my results
+    source: "Google"
+  - author: "Michelle G."
+    rating: 5
+    date: "2024-08-05"
+    text: >-
+      My cousin's results after lipo 360 and a vertical abdominal scar revision are incredible. Alex is amazing. She has a knack for knowing what techniques to use (ultrasound, hand massage, wood therapy) and when to use them to achieve superior results. The swelling and tissue hardness from surgery improved with every treatment. Much quicker than the surgeon had told her prior to surgery. During the po
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/lady-bella-s-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

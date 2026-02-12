@@ -1,0 +1,60 @@
+name: "Blue Iris Medical Aesthetics"
+slug: blue-iris-medical-aesthetics
+city: parkland
+cityDisplay: "Parkland"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "7271 FL-7 Suite 702, Parkland, FL 33073"
+zipCode: "33073"
+coordinates:
+  lat: 26.3212078
+  lng: -80.2032366
+phone: "(954) 356-4828"
+website: "https://blueirismedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5566210157814259785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Blue Iris Medical Aesthetics is a plastic surgery practice located in Parkland, FL. With a 5-star rating from 71 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 71
+reviews:
+  - author: "Aida A."
+    rating: 5
+    date: "2025-12-20"
+    text: >-
+      This was my first time visiting Blue Iris Medical Aesthetics and my first time having Dysport injections with Anna. From the moment I walked in, the experience was smooth and professional. Anna is very knowledgeable, attentive, and incredibly friendly. She took the time to explain everything and made me feel comfortable throughout the entire process. I’m extremely happy with my results and will de
+    source: "Google"
+  - author: "Olga A."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      I've been going to Blue Iris Medical Aesthetics in Parkland for their weight loss program with Zepbound, and I'm so happy with my results! I've been consistently losing weight and feel amazing - with no side effects at all. The med spa uses authentic brand-name Zepbound, and the provider is incredibly friendly, knowledgeable, and personable. She truly takes time to explain everything and makes you
+    source: "Google"
+  - author: "Kiersten D."
+    rating: 5
+    date: "2025-10-16"
+    text: >-
+      Anna is so sweet and professional. She is very knowledgeable and made me feel very comfortable. I had RF micro needling with exosomes and some skin tags/moles removed. I am very happy with my results and I would highly recommend her.
+    source: "Google"
+  - author: "Elena S."
+    rating: 5
+    date: "2025-12-24"
+    text: >-
+      I've been going for treatments with Anna at Blue Iris Med Spa for years and am always very happy with the service and results. From Botox for wrinkles, to fillersfor volume, to lasers for sun damage and rejuvenation, to PRF EZ gel and sculptra to stimulate collagen, is what keeps me looking young and natural for my age. Highly recommend!
+    source: "Google"
+  - author: "Dannah B."
+    rating: 5
+    date: "2025-09-30"
+    text: >-
+      I truly couldn’t say more good things about Blue Iris Medical Aesthetics.  From the moment I walked in, I felt completely at ease. The space is beautiful, clean, and inviting—but the real magic is Anna. She is not only the sweetest individual, but she makes you feel so comfortable and genuinely cared for. Her kindness is effortless, her presence is calming, and being around her is just a joy.  She
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/blue-iris-medical-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
