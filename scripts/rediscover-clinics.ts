@@ -31,15 +31,6 @@ const SEARCH_QUERIES = [
   'plastic surgery',
   'cosmetic surgery', 
   'plastic surgeon',
-  'rhinoplasty',
-  'breast augmentation',
-  'liposuction',
-  'tummy tuck',
-  'BBL surgeon',
-  'mommy makeover',
-  'facelift surgeon',
-  'medspa',
-  'body contouring',
 ];
 
 // City coordinates for location bias
