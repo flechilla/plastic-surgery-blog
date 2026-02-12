@@ -44,10 +44,39 @@ const SEARCH_QUERIES = [
 
 // City coordinates for location bias
 const CITY_COORDS: Record<string, { lat: number; lng: number }> = {
+  // Florida
   'miami': { lat: 25.7617, lng: -80.1918 },
   'fort-myers': { lat: 26.6406, lng: -81.8723 },
+  'tampa': { lat: 27.9506, lng: -82.4572 },
+  'orlando': { lat: 28.5383, lng: -81.3792 },
+  'jacksonville': { lat: 30.3322, lng: -81.6557 },
+  'west-palm-beach': { lat: 26.7153, lng: -80.0534 },
+  // California
   'los-angeles': { lat: 34.0522, lng: -118.2437 },
+  'beverly-hills': { lat: 34.0736, lng: -118.4004 },
+  'san-diego': { lat: 32.7157, lng: -117.1611 },
+  'san-francisco': { lat: 37.7749, lng: -122.4194 },
+  'newport-beach': { lat: 33.6189, lng: -117.9298 },
+  // Texas
+  'houston': { lat: 29.7604, lng: -95.3698 },
+  'dallas': { lat: 32.7767, lng: -96.7970 },
+  'austin': { lat: 30.2672, lng: -97.7431 },
+  'san-antonio': { lat: 29.4241, lng: -98.4936 },
+  // Northeast
   'new-york': { lat: 40.7128, lng: -74.0060 },
+  'manhattan': { lat: 40.7831, lng: -73.9712 },
+  'boston': { lat: 42.3601, lng: -71.0589 },
+  'philadelphia': { lat: 39.9526, lng: -75.1652 },
+  // Other major markets
+  'atlanta': { lat: 33.7490, lng: -84.3880 },
+  'chicago': { lat: 41.8781, lng: -87.6298 },
+  'denver': { lat: 39.7392, lng: -104.9903 },
+  'scottsdale': { lat: 33.4942, lng: -111.9261 },
+  'phoenix': { lat: 33.4484, lng: -112.0740 },
+  'seattle': { lat: 47.6062, lng: -122.3321 },
+  'las-vegas': { lat: 36.1699, lng: -115.1398 },
+  'nashville': { lat: 36.1627, lng: -86.7816 },
+  'charlotte': { lat: 35.2271, lng: -80.8431 },
 };
 
 interface AddressComponent {
@@ -160,14 +189,13 @@ async function searchPlaces(query: string, center: { lat: number; lng: number })
     'places.reviews',
   ].join(',');
   
-  const response = await fetch('https://places.googleapis.com/v1/places:searchText', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'X-Goog-Api-Key': GOOGLE_API_KEY!,
-      'X-Goog-FieldMask': fieldMask + ',nextPageToken',
-    },
-    body: JSON.stringify({
+  const allPlaces: PlaceResult[] = [];
+  let pageToken: string | undefined;
+  let pageNum = 1;
+  const maxPages = 3; // Up to 60 results per query
+  
+  do {
+    const body: Record<string, unknown> = {
       textQuery: query,
       locationBias: {
         circle: {
@@ -176,11 +204,40 @@ async function searchPlaces(query: string, center: { lat: number; lng: number })
         },
       },
       maxResultCount: 20,
-    }),
-  });
+    };
+    
+    if (pageToken) {
+      body.pageToken = pageToken;
+    }
+    
+    const response = await fetch('https://places.googleapis.com/v1/places:searchText', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-Goog-Api-Key': GOOGLE_API_KEY!,
+        'X-Goog-FieldMask': fieldMask + ',nextPageToken',
+      },
+      body: JSON.stringify(body),
+    });
+    
+    const data = await response.json();
+    const places = data.places || [];
+    allPlaces.push(...places);
+    
+    if (pageNum > 1) {
+      console.log(`     Page ${pageNum}: +${places.length} results`);
+    }
+    
+    pageToken = data.nextPageToken;
+    pageNum++;
+    
+    // Google requires a short delay between pagination requests
+    if (pageToken) {
+      await new Promise(r => setTimeout(r, 200));
+    }
+  } while (pageToken && pageNum <= maxPages);
   
-  const data = await response.json();
-  return data.places || [];
+  return allPlaces;
 }
 
 async function downloadPhoto(photoName: string, slug: string): Promise<string | null> {
