@@ -1,0 +1,60 @@
+name: "Lavi Med Spa"
+slug: lavi-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "3196 N Federal Hwy Suite B, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.379273299999998
+  lng: -80.0759516
+phone: "(561) 960-0006"
+website: "https://www.lavimedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14677031636751095679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Lavi Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 43 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 43
+reviews:
+  - author: "Jexenia G."
+    rating: 5
+    date: "2024-07-01"
+    text: >-
+      I love the new Lavi Medspa! And their aesthetic Nurse Practitioner Marissa is very professional and detailed. I bought their micro needling package for the face and abdomen. I’ve done 2 out of 3 sessions and am absolutely loving my results. She takes time to make sure the numbing cream is at its full potency so that the procedure is comfortable. I am also coming back for some fillers, which some f
+    source: "Google"
+  - author: "Kate K."
+    rating: 5
+    date: "2025-04-30"
+    text: >-
+      I had an amazing experience with Gina for my Botox treatment! This was my first time doing masseter Botox, and she made the entire process smooth and comfortable. Gina was incredibly thorough, walking me through each step and ensuring I felt confident both before and after the procedure. Her professionalism and warmth truly put me at ease. The follow-up and overall experience have been exceptional
+    source: "Google"
+  - author: "Didi D."
+    rating: 5
+    date: "2025-02-19"
+    text: >-
+      I recently had an amazing experience at Lavi MD for filler injections on my grin lines, and I couldn't be happier with the results! Marissa was my injector, and she was absolutely fantastic. The facility itself is beautiful, clean, and very easy to find. One of the highlights of my visit was the tour of the fantastic amenities the spa offers, including a sauna. Marissa works alongside a second inj
+    source: "Google"
+  - author: "Sivan S."
+    rating: 5
+    date: "2025-06-20"
+    text: >-
+      I would highly recomend Lavi MD! Gina and Marissa are amazing. Gina did such an amazing job on my laser facials, I cannot wait to get another package. She is knowledgeable, kind, and adept at providing treatments. My hyperpgimentation and texture were visibly improved.
+    source: "Google"
+  - author: "Daniza P."
+    rating: 5
+    date: "2025-05-27"
+    text: >-
+      I had a great experience at Lavi MD with PA Gina for my recent Botox treatment. This wasn’t my first time getting Botox, but I can honestly say Gina stood out. She was professional, attentive, and really took the time to listen to what I wanted. Her technique was gentle, and I barely felt a thing during the treatment.  The clinic itself is clean, welcoming, and well-run, which added to the overall
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/lavi-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

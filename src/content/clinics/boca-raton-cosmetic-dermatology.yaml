@@ -1,0 +1,60 @@
+name: "Boca Raton Cosmetic Dermatology"
+slug: boca-raton-cosmetic-dermatology
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "5458 Town Center Rd Suite 104, Boca Raton, FL 33486"
+zipCode: "33486"
+coordinates:
+  lat: 26.362867899999998
+  lng: -80.12846789999999
+phone: "(561) 212-7148"
+website: "https://www.bocacosmeticderm.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13170120773105948446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Boca Raton Cosmetic Dermatology is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 63 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 63
+reviews:
+  - author: "Kelley G."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      Amanda at Boca Raton Cosmetic Dermatology is truly the best! I can't say enough great things about this place. It was my first time getting work done to my skin, and loved that she took the time to explain every step of the process so clearly, and never made me feel rushed. I always feel safe, informed, and confident in her hands! I did both Dysport and Lumecca treatments, and I’m beyond happy wit
+    source: "Google"
+  - author: "Alyssa W."
+    rating: 5
+    date: "2025-06-13"
+    text: >-
+      I absolutely love Amanda! I've been seeing her for injections and lip fillers for the past two years, and I know she is the best in the business. At 49 years old, I have been seeing other injectors for a while. Now that I have found Amanda, I will never see anyone else. People are surprised to learn my age, as most people think I am in my mid-30s! Amanda is exceptional.  Her focus on achieving a n
+    source: "Google"
+  - author: "Jessica M."
+    rating: 5
+    date: "2025-06-25"
+    text: >-
+      Amanda is amazing!!! Her knowledge is unmatched. She is patient focused, attentive, and hands-on. She always makes me feel beyond comfortable and I leave feeling confident. I can't recommend her enough!
+    source: "Google"
+  - author: "Joni J."
+    rating: 5
+    date: "2025-04-17"
+    text: >-
+      Amanda is amazing! She treats my forehead and 11’s with Dysport and what I love most about her is that she’s not afraid to tell me no or if I’m asking for too much. My fear is looking fake and Amanda is very honest about overdoing it or not. Also, she is extremely knowledgeable about any questions I have for her. She has your best interest at heart!
+    source: "Google"
+  - author: "L C."
+    rating: 5
+    date: "2025-05-14"
+    text: >-
+      Amanda is the absolute best! Not only is she beautiful inside & out, but she also makes her patients look & feel beautiful with such ease & grace. I’ve been seeing Amanda for years & am so grateful for the time she spends with me at each appointment. I’ve done different treatments over the years to achieve natural-looking & anti-aging goals, such as Botox/Dysport, filler, IPL, lasers & threads. I’
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/boca-raton-cosmetic-dermatology.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

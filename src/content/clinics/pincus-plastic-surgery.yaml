@@ -1,0 +1,48 @@
+name: "Pincus Plastic Surgery"
+slug: pincus-plastic-surgery
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "875 Meadows Rd #313, Boca Raton, FL 33486"
+zipCode: "33486"
+coordinates:
+  lat: 26.359595199999998
+  lng: -80.1040197
+phone: "(561) 362-9700"
+website: "https://www.pincusplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=1042068268506020692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Pincus Plastic Surgery is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 3 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 3
+reviews:
+  - author: "Rachel W."
+    rating: 5
+    date: "2025-07-08"
+    text: >-
+      I recently had an upper blepharoplasty &  I could not be more grateful for the exceptional care that I received from Dr. Pincus & his entire team. From the very first consultation, I felt seen, heard & cared for. Dr. Pincus took his time to explain the procedure thoroughly, answer my questions with both patience & clarity & made me feel completely at ease about what to expect. This is a procedure 
+    source: "Google"
+  - author: "Tiffany M."
+    rating: 5
+    date: "2024-11-07"
+    text: >-
+      Very thankful I found Dr. Pincus as he was opening the Boca location. Initially, I wasn’t sure what to expect but his team walked me through the process every step of the way. They were always available to discuss any concerns I had and I am beyond thrilled with the results.
+    source: "Google"
+  - author: "Tina S."
+    rating: 5
+    date: "2024-05-18"
+    text: >-
+      Dr Pincus and his team were great! I’m looking forward to my upcoming surgery.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/pincus-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,36 @@
+name: "Plastic Surgery Specialists of Boca Raton"
+slug: plastic-surgery-specialists-of-boca-raton
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "951 NW 13th St STE 4A, Boca Raton, FL 33486"
+zipCode: "33486"
+coordinates:
+  lat: 26.3619055
+  lng: -80.1060846
+phone: "(561) 393-6400"
+website: "https://www.pssbocaraton.com/?utm_source=gmb_auth"
+googleMapsUrl: "https://maps.google.com/?cid=8072835862202242309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Plastic Surgery Specialists of Boca Raton is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 1 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 1
+reviews:
+  - author: "Martha B."
+    rating: 5
+    date: "2021-03-11"
+    text: >-
+      
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/plastic-surgery-specialists-of-boca-raton.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

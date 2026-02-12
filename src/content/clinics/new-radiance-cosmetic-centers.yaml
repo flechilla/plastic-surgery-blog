@@ -1,0 +1,60 @@
+name: "New Radiance Cosmetic Centers"
+slug: new-radiance-cosmetic-centers
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "1865 NW 2nd Ave Suite 102, Boca Raton, FL 33432"
+zipCode: "33432"
+coordinates:
+  lat: 26.366763
+  lng: -80.0907149
+phone: "(561) 576-2245"
+website: "https://newradiancenow.com/locations/boca-raton/"
+googleMapsUrl: "https://maps.google.com/?cid=11359502601649806546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  New Radiance Cosmetic Centers is a plastic surgery practice located in Boca Raton, FL. With a 4.8-star rating from 186 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 186
+reviews:
+  - author: "Cassie C."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      Heather is truly incredible. She doesn’t see you as just another patient or a dollar sign—she genuinely cares about helping you. What stands out most is her deep empathy and her true desire to be of service, supporting you in achieving your goals. She has absolutely done that for me, and I can confidently say she’s someone you should see at New Radiance.
+    source: "Google"
+  - author: "Natalie N."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      Kaitlyn really takes pride in her work and does such an amazing job. She was very considerate of my experience and made me feel so comfortable. I will definitely be back! 
+    source: "Google"
+  - author: "Jmarah W."
+    rating: 5
+    date: "2025-12-14"
+    text: >-
+      I came in today for cheek filler and Kaitlyn was amazing and extremely sweet! She is extremely knowledgeable and takes her time to make sure everything is perfect. I will be back soon! Thank you !  Update- I can back for more filler and botox and Kaitlyn made sure everything was on point! She is always so sweet. I absolutely love my results.The drive was definitely worth it!!
+    source: "Google"
+  - author: "Eney V."
+    rating: 5
+    date: "2025-12-18"
+    text: >-
+      I absolutely Love this place. Jeannine is amazing either way the Botox - she sits with you and listens to what you need.  Sofia the young lady in the front is a sweetheart and Heather is another amazing esthetician that listens to you and tells you what you need. I definitely recommend this place and will give it a 10
+    source: "Google"
+  - author: "Domenica B."
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      I love this place! They have good pricing with a ton of services that meet your every need. Everyone that works there is friendly and knowledgeable. Recommendations are made without feeling pressured and they truly are invested in your progress. Heather is amazing and will guide you with care.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/new-radiance-cosmetic-centers.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

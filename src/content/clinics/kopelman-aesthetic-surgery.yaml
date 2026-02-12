@@ -1,0 +1,60 @@
+name: "Kopelman Aesthetic Surgery"
+slug: kopelman-aesthetic-surgery
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "17410 Vía Capri E, Boca Raton, FL 33496"
+zipCode: "33496"
+coordinates:
+  lat: 26.4172796
+  lng: -80.1237858
+phone: "(561) 803-0160"
+website: "https://drkopelman.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11648917839964413074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Kopelman Aesthetic Surgery is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 10 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 10
+reviews:
+  - author: "rikki j. s."
+    rating: 5
+    date: "2025-08-21"
+    text: >-
+      I had upper eyelid surgery (blepharoplasty) with Dr. Joel Kopelman in Palm Beach, and the experience was outstanding from start to finish. He was warm, honest, and incredibly precise. I wanted a refreshed, natural look—and that’s exactly what I got.  The recovery was smooth, and I’m thrilled with the results. My eyes look more awake, youthful, and totally natural—no one can tell I had surgery, jus
+    source: "Google"
+  - author: "jacqueline d."
+    rating: 5
+    date: "2025-03-24"
+    text: >-
+      I want to start off by saying, I love my results!! I visited Dr. Kopelman in West Palm Beach, Florida and also at his office in NYC for a consultation for a blepharoplasty and facelift and after all my research I knew that Dr. Kopelman was the most competent surgeon. He was very thorough and explained everything to me so that on my day of surgery I felt very comfortable and knew I was in excellent
+    source: "Google"
+  - author: "Jessika S."
+    rating: 5
+    date: "2025-07-11"
+    text: >-
+      Dr. Kopelman is my go-to facial plastic surgeon and will make you feel confident and comfortable from the moment you meet him. He performed a facelift, upper blepharoplasty and lip lift. His surgical skills, bedside manner, and expertise is unmatched. My experience from start to finish was outstanding, I was treated with white glove service from the beginning, staff was incredibly caring and atten
+    source: "Google"
+  - author: "isaiahgilbert M. O. T. U."
+    rating: 5
+    date: "2025-04-22"
+    text: >-
+      Dr. Kopelman performed a facelift and upper eyelid surgery on me and my results are amazing! He is an excellent surgeon, caring doctor and made me feel so comfortable and his follow up care made me feel like I was safe and like family. I feel younger, refreshed and natural. The best decision was having my surgery done by him. If you are considering facial cosmetic surgery- I recommend consulting D
+    source: "Google"
+  - author: "María S. C. D."
+    rating: 5
+    date: "2025-03-21"
+    text: >-
+      Dr. Kopelman is an amazing facial plastic surgeon! For a long time I wanted to have my eyes done and  a facelift. I did a lot of research but as soon as I had my consultation with Dr. Kopelman I knew he was the right surgeon and doctor to do my blepharoplasty and cosmetic surgery. He in excellent surgeon with wonderful bedside manner and I love my results! I would definitely recommend him if you a
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/kopelman-aesthetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

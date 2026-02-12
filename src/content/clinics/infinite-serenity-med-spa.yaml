@@ -1,0 +1,60 @@
+name: "Infinite Serenity Med Spa"
+slug: infinite-serenity-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "2701 NW 2nd Ave # 115, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.3751449
+  lng: -80.0866309
+phone: "(561) 931-7255"
+website: "http://www.infiniteserenitymedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=9112637683047694962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Infinite Serenity Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 23 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 23
+reviews:
+  - author: "Samantha T."
+    rating: 5
+    date: "2025-08-12"
+    text: >-
+      I've been coming here several months now to treat my melasma and for laser treatments on my veins, and the improvement has been significant. She’s always honest and straightforward about what my skin needs, never upsells, and doesn’t recommend unnecessary treatments. She clearly explains what results I can expect and how many sessions I’ll need. Thanks to her expertise, both my melasma and vein is
+    source: "Google"
+  - author: "Michelle"
+    rating: 5
+    date: "2025-07-16"
+    text: >-
+      I struggled with back acne for years, and nothing seemed to help—until I found Infiniti Spa. After coming here, my skin has completely transformed. My back is now completely clear and scar-free, and I couldn’t be happier with the results. It’s honestly life-changing. I’ve regained so much self-confidence, and I finally feel comfortable in my own skin again.  The treatments are top-notch—they use t
+    source: "Google"
+  - author: "Optimistic K."
+    rating: 5
+    date: "2024-03-07"
+    text: >-
+      Yana is caring, professional and knowledgeable. She takes her time and explains everything she's doing, before and during. I've been going to her for a few years now, and I've never been disappointed. I highly recommend her if you're looking for someone trustworthy. She even follows up with you after any special procedures the days following the appointment, and is responsive to any calls/texts. S
+    source: "Google"
+  - author: "Bianca M."
+    rating: 5
+    date: "2022-01-28"
+    text: >-
+      Yana is very knowledgeable about skincare and products. She knew exactly what my skin needed and with one treatment I was back to feeling like myself. She takes her time and answers all your questions professionally and delivers high quality products targeted to each of your needs. I highly recommend her for any of your skin care needs !!
+    source: "Google"
+  - author: "Savannah O."
+    rating: 5
+    date: "2021-06-30"
+    text: >-
+      Yana was absolutely AMAZING! I would highly recommend her! She doesn’t try to oversell you on expensive creams or serums and informed me about what types of products I needed specific to my skin type! She comes to you and your facial is done in the comfort of your own home, you can’t beat that! Not to mention my skin was glowing immediately after and days later! 10/10 I will definitely be using he
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/infinite-serenity-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

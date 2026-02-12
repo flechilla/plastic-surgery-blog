@@ -1,0 +1,60 @@
+name: "Dr. G Med Spa"
+slug: dr-g-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "709 E Palmetto Park Rd, Boca Raton, FL 33432"
+zipCode: "33432"
+coordinates:
+  lat: 26.350961599999998
+  lng: -80.0746161
+phone: "(561) 717-0400"
+website: "https://www.drgmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5772758263550384253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dr. G Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 79 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 79
+reviews:
+  - author: "Michelle B."
+    rating: 5
+    date: "2025-11-27"
+    text: >-
+      Dr. G is truly the BEST. I’ve been to other places for injectables before, but I immediately noticed a difference in both the quality of care and the results. She took her time, gave me honest feedback, and made me feel like she genuinely cared about me and my outcome. I’ll be returning to Dr. G for all future procedures and cannot recommend her enough!!!!
+    source: "Google"
+  - author: "Michelle"
+    rating: 5
+    date: "2025-08-12"
+    text: >-
+      I moved from NYC to Boca a little under three years ago. When I first arrived, one of my top priorities was finding the right injector. For me, that means someone who truly listens to your concerns, never rushes you, and is exceptional at their craft. After trying a few med spas, I finally found Dr. G and she is, without a doubt, the best in every way. Not only is she incredibly skilled, but she a
+    source: "Google"
+  - author: "shari v."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      Dr. G is absolutely an artist in her field ~ Definitely no upsell here , just the facts . It was a wonderful experience with terrific results. Thank you so much Dr Goldring! ShariV.
+    source: "Google"
+  - author: "neensgc"
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Sivan is an angel sent from above. So knowledgeable and has a great technique. Painless and quick. My forever injector :)
+    source: "Google"
+  - author: "Holly E."
+    rating: 5
+    date: "2025-07-16"
+    text: >-
+      Dr. G has helped me regain my confidence!  Using Botox and fillers, she has lessened my deep lines and has softened my wrinkles.  I look naturally younger and more refreshed!  The staff at Dr. G’s is amazing.  They are always so lovely and helpful.   The experience of getting some facial “help” is easy and painless.  I highly recommend Dr.   G’s med spa!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/dr-g-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

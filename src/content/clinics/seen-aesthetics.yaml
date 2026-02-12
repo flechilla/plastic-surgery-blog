@@ -1,0 +1,60 @@
+name: "Seen Aesthetics"
+slug: seen-aesthetics
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "64 S Federal Hwy, Boca Raton, FL 33432"
+zipCode: "33432"
+coordinates:
+  lat: 26.3493048
+  lng: -80.08617009999999
+phone: "(561) 823-4414"
+website: "https://www.vagaro.com/seenspa"
+googleMapsUrl: "https://maps.google.com/?cid=1030693405845307044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Seen Aesthetics is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 59 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 59
+reviews:
+  - author: "Ana M."
+    rating: 5
+    date: "2024-11-22"
+    text: >-
+      Hands down the BEST experience I’ve ever had at any medspa/ cosmetics place ever. Nurse Mariam is the kindest most talented person and injector. She did the most beautiful job on my lips, they look very natural and did exactly what I asked. She has also been able to help me improve the overall appearance of my nose after I was unsatisfied with the results of my most recent nose job with combined t
+    source: "Google"
+  - author: "Alexis S."
+    rating: 5
+    date: "2023-12-01"
+    text: >-
+      What a fantastic experience at Poppy & Co with Nurse Mariam! Mariam provided my lips with the attention they have needed for quite some time. I love how they look, and I love the overall transformation to my profile and face. She knows exactly how much filler is needed to create a plump and youthful pout. Most importantly, Mariam was patient, knowledgeable, and kind while working with me. I can’t 
+    source: "Google"
+  - author: "Alexis B."
+    rating: 5
+    date: "2023-11-02"
+    text: >-
+      I had a fantastic experience getting the “signature lips” done by Nurse Mariam. As a first-time lip filler patient, I was quite apprehensive, but she put me at ease by thoroughly explaining the procedure and the associated risks. Her step-by-step guidance and at-home care tips made the process seamless. Nurse Mariam's gentle touch and comforting demeanor ensured that I felt comfortable throughout.
+    source: "Google"
+  - author: "Arianne P."
+    rating: 5
+    date: "2023-05-29"
+    text: >-
+      Mariam is the absolute best!! Not only is she extremely professional, but Mariam is honest, and does a phenomenal job in explaining each and every procedure you are interested in or about to be receiving. She will listen to any concerns or hesitations you may have prior to a procedure, and she makes you feel comfortable while taking her time with you. She is soooo talented, as she is able to help 
+    source: "Google"
+  - author: "Taylor C."
+    rating: 5
+    date: "2023-10-21"
+    text: >-
+      Mariam is the best injector in South Florida! She always makes me feel so comfortable and is extremely professional and knowledgeable in her field. I plan to expand my procedures with Seen Aesthetics for years to come and trust Miriam and her work wholeheartedly. She is offering a wide range or services and procedures unique to this medical spa and I am excited to see additional offerings from her
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/seen-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

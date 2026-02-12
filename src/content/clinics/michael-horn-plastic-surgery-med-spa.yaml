@@ -1,0 +1,60 @@
+name: "Michael Horn Plastic Surgery & Med Spa"
+slug: michael-horn-plastic-surgery-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "4800 N Federal Hwy Suite B300, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.3936282
+  lng: -80.0759346
+phone: "(561) 288-0708"
+website: "https://www.hornplasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+googleMapsUrl: "https://maps.google.com/?cid=16646637823419394971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Michael Horn Plastic Surgery & Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 5 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 5
+reviews:
+  - author: "Leslie M."
+    rating: 5
+    date: "2026-01-26"
+    text: >-
+      I had a fantatsic experience at Dr. Horn's beautiful facility. The staff was very friendly and helpful. Dr. Horn took the time to explain everything to me in great detail and I felt very comfortable throughout my experience. I am VERY HAPPY with my results. I highly recommend Dr. Horn and the Med Spa for all your anti-aging needs.
+    source: "Google"
+  - author: "Deborah E."
+    rating: 5
+    date: "2025-11-30"
+    text: >-
+      Upon entering the Michael Horne Center for Plastic Surgery, I was greeted by a cozy, welcoming atmosphere with comfortable sofas, pillows, and magazine articles featuring background on Dr. Horn. After a brief wait, Maddie, the office manager, warmly escorted me to a private and equally comfortable consultation room.  Dr. Horn continued this positive impression. After a mirrored examination of my f
+    source: "Google"
+  - author: "Meadow B."
+    rating: 5
+    date: "2025-10-11"
+    text: >-
+      Dr Horn is the absolute best plastic surgeon ever. I went to him for a breast augmentation and had an amazing experience from start to finish. My results are everything I have ever dreamed of. Thank you!!
+    source: "Google"
+  - author: "Denise"
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      I went for a consultation & Dr. Horn was so professional & efficient & all my questions were answered thoroughly & I didn’t feel a bit rushed, 10/10 & can’t wait to go back for my procedures.
+    source: "Google"
+  - author: "Kat L."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      Great surgeon and staff! Shout out to Madelyn for all that you do!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/michael-horn-plastic-surgery-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

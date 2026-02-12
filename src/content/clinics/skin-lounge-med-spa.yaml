@@ -1,0 +1,60 @@
+name: "Skin Lounge Med Spa"
+slug: skin-lounge-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "2061 NW 2nd Ave #205, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.3695621
+  lng: -80.09037119999999
+phone: "(213) 526-7717"
+website: "https://skinloungemedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7483052260372480388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Skin Lounge Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 4.9-star rating from 48 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 48
+reviews:
+  - author: "vincenzo l."
+    rating: 5
+    date: "2026-01-11"
+    text: >-
+      Julia is an amazing esthetician and a true professional. She is very knowledgeable, attentive, and truly cares about her clients. The results were noticeable even after the first visit, and the atmosphere was warm and welcoming. I highly recommend Julia to anyone looking for expert skincare.
+    source: "Google"
+  - author: "Julia L."
+    rating: 5
+    date: "2024-10-11"
+    text: >-
+      Just got a European manicure with Nadia after receiving an Instagram ad and realizing this salon was very close to me. The salon is very comfortable, quiet and clean. Nadia paid great attention to detail and made sure I was happy with the shape and color along the way. They also have a big variety of color options. I would highly recommend.
+    source: "Google"
+  - author: "Alona Z."
+    rating: 5
+    date: "2024-08-27"
+    text: >-
+      Great place for Russian manicure and facials.  I just did French manicure and absolutely love the results. First of all, the look of it - exactly how I imagined it, second of all, they sterilized all instruments in medical autoclave, which usually is used in medical facilities. The atmosphere is great, people are nice, service is wonderful. I definitely will come back again!
+    source: "Google"
+  - author: "Andrew V."
+    rating: 5
+    date: "2024-05-25"
+    text: >-
+      Very pleased by the level of service. First time visit (wife's suggestion), complex treatment of the face. Strongly suggest to book for Valeriia - she has a medical background and really attentive. I've book multiple visits afterwards. P.S. Treatment is private, not visible to others, which is important for man like me
+    source: "Google"
+  - author: "Sofiia S."
+    rating: 5
+    date: "2024-07-18"
+    text: >-
+      I had an absolutely amazing experience at Skin Lounge for a nail extensions appointment. From start to finish, the service was impeccable. The nail master, Nadia, was incredibly attentive to details, ensuring that every aspect of my manicure was perfect. I have sensitive cuticles, and I was particularly impressed by the care and precision the Nadia took around them. She listened attentively to all
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/skin-lounge-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

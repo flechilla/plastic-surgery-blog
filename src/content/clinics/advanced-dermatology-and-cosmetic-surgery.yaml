@@ -1,58 +1,58 @@
 name: "Advanced Dermatology and Cosmetic Surgery"
 slug: advanced-dermatology-and-cosmetic-surgery
-city: fort-myers
-cityDisplay: "Fort Myers"
+city: boca-raton
+cityDisplay: "Boca Raton"
 state: FL
 stateFullName: Florida
-county: "Lee County"
+county: "Palm Beach County"
 neighborhood: ""
-address: "7310 College Pkwy, Fort Myers, FL 33907"
-zipCode: "33907"
+address: "1905 Clint Moore Rd #103, Boca Raton, FL 33496"
+zipCode: "33496"
 coordinates:
-  lat: 26.5569883
-  lng: -81.8772711
-phone: "(239) 768-6100"
-website: "https://www.advancedderm.com/locations/florida/fort-myers/7310-college-pkwy"
-googleMapsUrl: "https://maps.google.com/?cid=976283414472949276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  lat: 26.4087467
+  lng: -80.1261444
+phone: "(561) 241-4474"
+website: "https://www.advancedderm.com/locations/florida/boca-raton/1905-clint-moore-rd-ste-103"
+googleMapsUrl: "https://maps.google.com/?cid=4243436539648472777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 description: >-
-  Advanced Dermatology and Cosmetic Surgery is a plastic surgery practice located in Fort Myers, FL. With a 4.6-star rating from 598 reviews, they offer cosmetic and reconstructive surgery services.
+  Advanced Dermatology and Cosmetic Surgery is a plastic surgery practice located in Boca Raton, FL. With a 4.7-star rating from 778 reviews, they offer cosmetic and reconstructive surgery services.
 specialties:
   - "Plastic Surgery"
   - "Cosmetic Surgery"
-rating: 4.6
-reviewCount: 598
+rating: 4.7
+reviewCount: 778
 reviews:
-  - author: "LBB007 Q."
+  - author: "Siobhan F."
     rating: 5
-    date: "2025-09-30"
+    date: "2026-01-22"
     text: >-
-      I recently had a VI Precision Plus peel with Veronika H, and I can’t say enough good things about the experience. She was professional, attentive, and explained every step of the process so I felt comfortable the whole time. My skin already looks brighter and smoother!  The entire practice is immaculate—very clean and well-kept—which immediately gave me confidence in the level of care they provide
+      My appointment was at 1pm and I was seen at 1pm. Love an office that stays on top of their schedule. Did a full body exam of my moles, doctor was sweet and thorough, checked each one and took photos to refer to for follow up appointments. Easy check in and check out.
     source: "Google"
-  - author: "Jennifer R."
+  - author: "Erica E."
     rating: 5
-    date: "2025-12-16"
+    date: "2026-01-16"
     text: >-
-      Adam is great!!! I always have a good experience when dealing with him. I feel very comfortable talking about my concerns. I think he does a very thorough job. And I appreciate his recommendations for other issues I have with my skin.
+      Dr. Montoya was extremely helpful and reassuring. She took her time, explained everything clearly, and was very thorough. Her medical assistant was also very kind and helpful. I had a great experience overall.
     source: "Google"
-  - author: "Anita P."
+  - author: "Ornella M."
     rating: 5
-    date: "2025-12-31"
+    date: "2026-01-08"
     text: >-
-      I brought my 4 year old there to have better management of her Eczema. Bailey Alai, PA was very friendly and able to address all of our concerns. We are extremely satisfied with the care provided and treatment plan. Definitely recommend going to her.
+      Dr. Klem demonstrates outstanding clinical knowledge and takes the time to listen carefully, explain diagnoses clearly, and ensure that patients feel informed and supported in their care. Their approach is both thorough and thoughtful, and I have always felt that my health and well-being were treated as a genuine priority. Front desk very friendly. I strongly recommend
     source: "Google"
-  - author: "Deb K."
+  - author: "Marissa M."
     rating: 5
-    date: "2025-12-31"
+    date: "2026-01-30"
     text: >-
-      Isabel Warrick, PA-C,  is AMAZING. Gentle in touch and procedures. Detailed and kind. Veronica Hurley, Aesthetician, gave me a wonderful facial and recommends products that really work amazingly well on my skin. I plan to book many sessions with Veronica, regarding peels, facials, and mature skin procedures and assessments.
+      The staff at Advanced Dermatology is very friendly and helpful, and the office is run very well. Dr. Montoya is an excellent doctor. She listened to us and is giving good thought to my daughter’s treatment plan.
     source: "Google"
-  - author: "Will"
+  - author: "Deborah T."
     rating: 5
-    date: "2025-09-10"
+    date: "2026-01-22"
     text: >-
-      I am a new patient at this office and had a wonderful experience. Bailey, PA, was very knowledgeable, professional, and took the time to explain everything in detail. She gave me clear post-treatment instructions and made me feel very comfortable throughout the visit.  The check-in process was quick and easy, and both the front desk staff and Christy, MA, were extremely helpful. The office itself 
+      The staff was extremely professional, the office was clean warm and inviting. The Doctor was warm, engaging and took the time to explain my condition and my options. He was very professional.
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.comhttps://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/advanced-dermatology-and-cosmetic-surgery.jpg"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/advanced-dermatology-and-cosmetic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

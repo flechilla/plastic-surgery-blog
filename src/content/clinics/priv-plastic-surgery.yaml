@@ -1,0 +1,60 @@
+name: "Privé Plastic Surgery"
+slug: priv-plastic-surgery
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "5295 Town Center Rd Suite 402, Boca Raton, FL 33486"
+zipCode: "33486"
+coordinates:
+  lat: 26.363336300000004
+  lng: -80.1254596
+phone: "(561) 717-3181"
+website: "https://priveplastics.com/"
+googleMapsUrl: "https://maps.google.com/?cid=13556535823816032113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Privé Plastic Surgery is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 37 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 37
+reviews:
+  - author: "Debra H."
+    rating: 5
+    date: "2025-10-15"
+    text: >-
+      I cannot say enough about Dr. Liza Wu and her practice. Last year, I went through a lumpectomy, reconstruction, and an additional revision surgery due to IDC breast cancer. Dr. Wu combines exceptional surgical skill with a calm, clear, and caring bedside manner. She explained my options, set realistic expectations, and delivered results that prioritized both my health and confidence.  Her office m
+    source: "Google"
+  - author: "Rachel M."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      Dr. Wu is truly exceptional! She performed both my breast reconstruction and my facial cosmetic surgery, and the results are natural, beautiful and exceeded my expectations. Dr. Wu is compassionate and skilled and truly cares about her patients. Her entire team is warm, professional and supportive. I am so grateful for the confidence and comfort she has helped me regain - highly recommend!
+    source: "Google"
+  - author: "bonnie c."
+    rating: 5
+    date: "2025-10-17"
+    text: >-
+      It has been a pleasure to be Dr Wu’s patient after mastectomy. She had an exquisite eye for detail and beauty. I feel lucky and blessed. All my other doctors and nurses think she is the best of the best! She and her staff are caring, loving, and just fabulous! 🌈🙏❤️
+    source: "Google"
+  - author: "Monica H."
+    rating: 5
+    date: "2025-07-21"
+    text: >-
+      I recently underwent reconstructive surgery with Dr Wu.   I could not be happier with the results. She explained in detail from the beginning ,how my surgery was going to be and made me feel very comfortable.I barely had any post operative pain. She is such a skilled surgeon and I feel so lucky I went to her. Ariella and Gabriella had been so helpful through my whole process as well. Thank you Dr 
+    source: "Google"
+  - author: "Betsy S."
+    rating: 5
+    date: "2025-12-04"
+    text: >-
+      Dr. Wu did my reconstruction after mastectomy. Amazing!!! I’m so happy with her work. She’s for sure my happy doctor.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/priv-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

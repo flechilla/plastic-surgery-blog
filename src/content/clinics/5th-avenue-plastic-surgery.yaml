@@ -1,0 +1,60 @@
+name: "5th Avenue Plastic Surgery"
+slug: 5th-avenue-plastic-surgery
+city: delray-beach
+cityDisplay: "Delray Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "526 SE 5th Ave, Delray Beach, FL 33483"
+zipCode: "33483"
+coordinates:
+  lat: 26.4528422
+  lng: -80.0682485
+phone: "(561) 330-9500"
+website: "https://5thavenueplasticsurgery.com/about-us/"
+googleMapsUrl: "https://maps.google.com/?cid=14337825709092141031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  5th Avenue Plastic Surgery is a plastic surgery practice located in Delray Beach, FL. With a 4.9-star rating from 469 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 469
+reviews:
+  - author: "Silvana E."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      From start to finish the girls were amazing and Dr. Mascaro is just the best. He takes his time to explain everything and really makes you feel very comfortable and secure. So excited to go back!!
+    source: "Google"
+  - author: "Shelly"
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      All of the staff I came into contact with today were very attentive, thorough, and over all made me feel at ease.  This especially applied to the nurse and anesthesiologist who were very kind and compassionate. Dr. Mascaro has an excellent bedside manner and he is truly concerned with understanding your desired results. I would highly recommend this practice. 5+ stars.
+    source: "Google"
+  - author: "Nawel T. D."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      Excellent service and an outstanding physician. Dr. D’Agostino was extremely kind, professional, and attentive. From my very first appointment, I felt comfortable, and she took the time to answer all of my questions.
+    source: "Google"
+  - author: "Carolina K."
+    rating: 5
+    date: "2025-10-24"
+    text: >-
+      I alway enjoy visiting the office. They take such great care of and interest in their patients. Dr. D’Agostino is the best surgeon that I have ever been to and I’m forever grateful for the results. Her Coordinator Melissa always makes me feel so comfortable and happy to be there. Excited to go back to the office soon.
+    source: "Google"
+  - author: "Natalia L."
+    rating: 5
+    date: "2025-10-10"
+    text: >-
+      I absolutely love getting my Pico laser treatments for melasma at 5th Ave Plastic Surgery! Iliana always takes such great care of me. She’s incredibly knowledgeable, gentle, and gives the best skincare advice. I’ve been seeing amazing results, and my skin has never looked better. I also love that I can pick up all my skincare products and my favorite EltaMD sunscreen right there after my appointme
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/5th-avenue-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

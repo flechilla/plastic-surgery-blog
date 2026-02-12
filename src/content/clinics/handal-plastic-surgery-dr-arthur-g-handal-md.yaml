@@ -1,0 +1,60 @@
+name: "Handal Plastic Surgery: Dr Arthur G. Handal, MD"
+slug: handal-plastic-surgery-dr-arthur-g-handal-md
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "5503 N Federal Hwy, Boca Raton, FL 33487"
+zipCode: "33487"
+coordinates:
+  lat: 26.398868399999998
+  lng: -80.0767577
+phone: "(561) 912-9888"
+website: "https://www.handalplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4727462560478412513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Handal Plastic Surgery: Dr Arthur G. Handal, MD is a plastic surgery practice located in Boca Raton, FL. With a 4.9-star rating from 210 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 210
+reviews:
+  - author: "Lexi M."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      I’ve been going to Dr. Handal for Botox and lip filler for a year. I recently used Ericka & she is truly exceptional. I’m uber impressed with both my results and the experience.  From the start, Ericka made me feel comfortable, heard, and confident. She’s educational and intentional, explaining the why, when, and how behind every decision. She walked me through facial anatomy, muscle movement, bal
+    source: "Google"
+  - author: "Lucie G."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      I highly recommend Handal Plastic Surgery for any of their services. The doctors and staff are truly amazing and make you feel comfortable every step of the way. I’ve had multiple treatments and couldn’t be happier with my results. Their professionalism really stands out, and the office is always clean, welcoming, and comfortable.
+    source: "Google"
+  - author: "Sarah C."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      Very rarely do I leave reviews, positive or negative- however this is such an important decision and choosing the best surgeon for your procedure is often misleading due to paid advertising campaigns and magazine editorials set up by PR firms. I would never recommend a plastic surgeon unless I had first hand experience, as it happens I have also seen the work of Dr Handal on a few others also. Han
+    source: "Google"
+  - author: "Gay R."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      From my first phone call requesting an appointment to the final results,I was treated very respectfully and the staff always went above and beyond. They kept me well informed and comfortable. Dr.Handal is an incredible surgeon and person. He exceeded my expectations and I was overwhelmed with the results. I high recommend him and his staff. Thank you.
+    source: "Google"
+  - author: "michel B."
+    rating: 5
+    date: "2025-12-10"
+    text: >-
+      I recently contacted Dr. Handal to request a laser treatment for a facial scar. Since I’m traveling overseas for Christmas, I was hoping to have the procedure done beforehand. He immediately reassured me, saying, “No problem—come in and I’ll fit you in.” I visited the office three days later and was welcomed with genuine warmth. My appointment was around noon, and afterward I was even invited to j
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/handal-plastic-surgery-dr-arthur-g-handal-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

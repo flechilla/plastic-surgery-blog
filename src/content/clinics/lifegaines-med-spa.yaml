@@ -1,0 +1,60 @@
+name: "LifeGaines Med Spa"
+slug: lifegaines-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "3785 N Federal Hwy #150, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.3842043
+  lng: -80.0769854
+phone: "(561) 931-2430"
+website: "https://lifegaines.com/?utm_source=gmb&utm_medium=organic"
+googleMapsUrl: "https://maps.google.com/?cid=15092240925927705969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  LifeGaines Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 4.9-star rating from 59 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 59
+reviews:
+  - author: "Taryn H."
+    rating: 5
+    date: "2025-01-16"
+    text: >-
+      I really can’t say enough positive things about this place. The facility is so beautiful and privacy is their top priority. I’ve been seeing Amy for about 10 years and Iet me tell you, she is second to none! Not only is she skilled, knowledgeable and professional, she is a beautiful soul. She always takes the time to listen and I never feel rushed. Amy always takes her time with her procedures and
+    source: "Google"
+  - author: "Gustavo Z."
+    rating: 5
+    date: "2022-01-21"
+    text: >-
+      My experience at Life Gaines was amazing. The moment I walked in Madison and Amber made me feel comfortable and were very knowledgeable about the treatments and services. Amy did a great job and was very professional. The results speak for itself! After my first appointment I booked another appointment on my way out because I was so content.
+    source: "Google"
+  - author: "Madison Y."
+    rating: 5
+    date: "2025-01-06"
+    text: >-
+      I love LifeGaines! I went to Amy to get an aesthetic consult and she was amazing!! She made me feel comfortable and the results are phenomenal. What a great experience!
+    source: "Google"
+  - author: "Alejandro A."
+    rating: 5
+    date: "2022-01-13"
+    text: >-
+      I am very pleased with my entire experience at LifeGaines. Amber at the front desk was very welcoming and sweet. Madison was prompt to answer all of my questions, and is very knowledgeable on all of the treatments and therapies their office has to offer. All of their providers are professional, and make you feel confident that you will reach your wellness goals. They take the time so make sure you
+    source: "Google"
+  - author: "Stacey R."
+    rating: 5
+    date: "2022-01-12"
+    text: >-
+      I cannot express how happy I am with my entire experience at LifeGaines! I felt comfortable from my first appointment. I saw both Dr. Hugo & Dr. Gaines and they both took their time with me, LISTENED and thoroughly explained everything. I made another appointment for a laser hair removal session with Amy and was shocked how painless the procedure was! She made the entire procedure comfortable. I h
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/lifegaines-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Schuster Plastic Surgery"
+slug: schuster-plastic-surgery
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "1905 Clint Moore Rd #101, Boca Raton, FL 33496"
+zipCode: "33496"
+coordinates:
+  lat: 26.408898699999998
+  lng: -80.1262181
+phone: "(561) 912-9191"
+website: "https://www.schusterplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7077941043468050687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Schuster Plastic Surgery is a plastic surgery practice located in Boca Raton, FL. With a 4.9-star rating from 45 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 45
+reviews:
+  - author: "Brent O."
+    rating: 2
+    date: "2025-12-28"
+    text: >-
+      Two years since this botched procedure at this practice. Claimed Florida has a law increasing incision directions. Citing their requirement on testing for skin cancer. Was referred there by a Dermatologist who already tested my facial skin a week before for cancer before they increased an incision on no grounds. Be weary of this plastic surgeon. They’ll claim little to no scar if you ask about whi
+    source: "Google"
+  - author: "cheryl d."
+    rating: 5
+    date: "2022-06-22"
+    text: >-
+      This is my fourth visit to the office and I can’t say enough about the incredible staff, treatment and care, that is provided each visit!! Dr. Schuster is a master at his craft and takes time to listen to your needs and provides precise attention to detail!! Nicole is the best at keeping you calm and making sure you are comfortable throughout the procedure! I would highly recommend this office to 
+    source: "Google"
+  - author: "Erin L."
+    rating: 5
+    date: "2021-03-08"
+    text: >-
+      Dr. Schuster and his nurses made me feel comfortable through each step of the process for my surgeries. The nursing and anesthetic staff day-of surgery were fantastic as well! It's been such a great experience, I am now a repeat customer.
+    source: "Google"
+  - author: "Georgina S."
+    rating: 5
+    date: "2021-07-23"
+    text: >-
+      The doctor and staff are all very friendly and assuring.  I was given all the information I needed for my surgery and felt confident to proceed with it. I felt very safe with Dr. Schuster and his staff. The results are fantastic and I couldn’t be happier!
+    source: "Google"
+  - author: "Tonette C."
+    rating: 4
+    date: "2020-11-16"
+    text: >-
+      My surgery took place in 12/2019. Shortly afterwards, I noticed a visual concern. I wanted to wait at least 6 months to assure I was fully healed so that Dr. Schuster and I could make the best assessment on how to improve it. After a few back and forth visits to discuss options, I am happy to say that Dr. S took care of the my concern, free of charge and everything turned out looking great! His st
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

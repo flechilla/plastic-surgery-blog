@@ -1,0 +1,60 @@
+name: "Plastic Surgery Specialist of Boca Raton: Rafael C. Cabrera, MD FACS"
+slug: plastic-surgery-specialist-of-boca-raton-rafael-c-cabrera-md
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "951 NW 13th St STE 4A, Boca Raton, FL 33486"
+zipCode: "33486"
+coordinates:
+  lat: 26.361863099999997
+  lng: -80.1054738
+phone: "(561) 393-6400"
+website: "https://www.pssbocaraton.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5334395071038474782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Plastic Surgery Specialist of Boca Raton: Rafael C. Cabrera, MD FACS is a plastic surgery practice located in Boca Raton, FL. With a 4.9-star rating from 412 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 412
+reviews:
+  - author: "Yahya B."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      Great experience overall. Incredible bedside manner from the doctor and first class treatment from the team. Needed to get a skin bump removed close to one of my tattoos and they treated me in the same day after my consultation. Highly recommend them.
+    source: "Google"
+  - author: "Mark R."
+    rating: 5
+    date: "2025-10-22"
+    text: >-
+      I cannot speak highly enough of Dr. Rafael Cabrera and the exceptional care he provides. From my first consultation through every step of the process, he demonstrated not only extraordinary skill as a plastic surgeon but also a genuine commitment to my well-being. He took the time to listen, answer every question, and ensure I felt comfortable and informed throughout. His attention to detail, arti
+    source: "Google"
+  - author: "Ellen G."
+    rating: 5
+    date: "2025-11-18"
+    text: >-
+      My experience with Dr Cabrera and his entire staff is A-#1!  The doctor has a warm comforting manner and approach along with being totally professional.   He explains everything in easy to understand terms, answers every issue and question,  takes time and does not rush.   This office is my absolute "go to" office for any treatment they say they can do.
+    source: "Google"
+  - author: "Dalhia S."
+    rating: 5
+    date: "2026-01-21"
+    text: >-
+      I’ve been seeing Dr. Cabrera for many years, and he’s truly exceptional. His work with injectables, Mohs surgery repair, and cosmetic procedures has always been precise and natural-looking. The office staff are warm, professional, and make every visit smooth and comfortable — I couldn’t recommend them more!
+    source: "Google"
+  - author: "Sherry D."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Dr Cabrera was very informative during my consolation about the procedure I was considering.  He gave me the pros and cons about the procedure.  Without trying to influence me one way or the other, he gave me his personal opinion.  I obtained additional information about the procedure which will help me make my decision.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/plastic-surgery-specialist-of-boca-raton-rafael-c-cabrera-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

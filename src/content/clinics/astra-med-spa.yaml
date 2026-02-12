@@ -1,0 +1,60 @@
+name: "Astra Med Spa"
+slug: astra-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "2499 Glades Rd, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.370072399999998
+  lng: -80.1368415
+phone: "(561) 816-1343"
+website: "https://astra-beauty.com/home"
+googleMapsUrl: "https://maps.google.com/?cid=16471518405878161038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Astra Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 18 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 18
+reviews:
+  - author: "TwoTrends F."
+    rating: 5
+    date: "2025-12-15"
+    text: >-
+      We started full-body laser hair removal with Jane and it’s been such a great experience. She’s knowledgeable, patient, and makes the process feel easy (and way less intimidating). She walks you through what to expect, checks in throughout the session, and is really careful and thorough. The studio is spotless, appointments run on time, and we’re both already noticing smoother skin and less regrowt
+    source: "Google"
+  - author: "elena o."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      I had an amazing experience at Astra Med Spa! I did a facial cleaning with hydrating masks, and everything was absolutely wonderful. The staff was very professional, the space was clean and pleasant, and I felt completely taken care of from start to finish. My skin feels refreshed and hydrated. I’m very satisfied and will definitely be coming back!
+    source: "Google"
+  - author: "Diana K."
+    rating: 5
+    date: "2025-11-03"
+    text: >-
+      I am very satisfied with my visit to Astra Spa  and the work of the cosmetologist Jane The professional approach, attentive attitude, and excellent quality of services left only positive impressions. Jane listened carefully to my wishes, conducted a skin diagnosis, and offered an individual treatment plan. After the procedure, my skin looked noticeably better — fresher and healthier. The clinic's 
+    source: "Google"
+  - author: "Aygul K."
+    rating: 5
+    date: "2025-09-16"
+    text: >-
+      I had a wonderful experience at Astra Med Spa! I came in for a facial cleansing treatment, and I was impressed from the very beginning. The staff was warm and welcoming, and the environment was clean, calm, and relaxing. The facial itself was incredibly thorough and left my skin feeling fresh, smooth, and deeply cleansed. But what truly stood out was the personalized approach — after the treatment
+    source: "Google"
+  - author: "Alina G."
+    rating: 5
+    date: "2025-10-08"
+    text: >-
+      I had a wonderful experience at Astra Beauty Lounge. I had an extraction facial. After this treatment my skin felt so smooth and no more clogged pores, my skin tone and texture evened out!   Jane is an amazing and knowledgeable esthetician! She recommends treatments according to your skin type. And the salon itself is very clean and beautiful. I will definitely be back!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/astra-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

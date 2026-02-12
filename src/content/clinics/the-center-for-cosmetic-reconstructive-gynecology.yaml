@@ -1,0 +1,60 @@
+name: "The Center For Cosmetic & Reconstructive Gynecology"
+slug: the-center-for-cosmetic-reconstructive-gynecology
+city: deerfield-beach
+cityDisplay: "Deerfield Beach"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "2345 W Hillsboro Blvd #106, Deerfield Beach, FL 33442"
+zipCode: "33442"
+coordinates:
+  lat: 26.318434
+  lng: -80.1355792
+phone: "(561) 414-3219"
+website: "https://www.cosmeticlasergynecology.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11167645311074837733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  The Center For Cosmetic & Reconstructive Gynecology is a plastic surgery practice located in Deerfield Beach, FL. With a 4.8-star rating from 17 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 17
+reviews:
+  - author: "Karla M. S."
+    rating: 5
+    date: "2016-06-08"
+    text: >-
+      Dr. Scheinberg is THE BEST gynecologist I have ever met! I had been Doctor-hopping because I was always uncomfortable, until I was referred to him by my midwife. Very well-recognized, incredibly knowledgable, and very open. I feel comfortable talking to him about anything, and he answers my questions thoroughly. Additionally, he is a natural Doctor; he believes in natural remedies/medicine. I woul
+    source: "Google"
+  - author: "Savannah l."
+    rating: 5
+    date: "2021-12-30"
+    text: >-
+      Dr. Scheinberg was my mom's obgyn, and eventually became mine. He delivered me, and then 20 years later delivered MY child! His knowledge as a physician blows others out of the water (and is not just limited to obstetrics and gynecology).He has always taken his time with me, no matter the circumstance--he ensures you're calm, educated and comforted. His wife, and nurse (Nesi) is a doll! She's swee
+    source: "Google"
+  - author: "Maneashia H."
+    rating: 5
+    date: "2016-07-13"
+    text: >-
+      The best!  Dr. Scheinberg really takes his time with the patients and also takes his time to explain everything in a way that's easy to understand. His advise has always been the best advise .....from the diets and nutrition to taking care of ourselves emotionally , mentally and physically. He understands just how much many of us forget to not forget about loving and taking care of ourselves , wit
+    source: "Google"
+  - author: "Mafer G."
+    rating: 5
+    date: "2022-03-14"
+    text: >-
+      I had a vaginal reconstruction after childbirth and it has been 8 months and I am very satisfied with the results. The nurse was in communication with me the entire time through the recovery. The doctor would always answer all my questions and the whole process was very smooth.
+    source: "Google"
+  - author: "Liat B."
+    rating: 5
+    date: "2016-05-18"
+    text: >-
+      The best gynecologist and obstetrician you can ask for , I always recommend him to anyone how ask me if had 2 of my babies delivered by him. He is knowledgeable, true ,nice and a professional , makes you feel safe ! As I said before THE BEST !!!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/the-center-for-cosmetic-reconstructive-gynecology.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

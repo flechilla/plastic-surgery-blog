@@ -1,0 +1,60 @@
+name: "Farber Plastic Surgery - Scott Farber MD"
+slug: farber-plastic-surgery-scott-farber-md
+city: delray-beach
+cityDisplay: "Delray Beach"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "526 SE 5th Ave A, Delray Beach, FL 33483"
+zipCode: "33483"
+coordinates:
+  lat: 26.452840799999997
+  lng: -80.068141
+phone: "(561) 503-2700"
+website: "https://www.farberplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14118631701610923240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Farber Plastic Surgery - Scott Farber MD is a plastic surgery practice located in Delray Beach, FL. With a 4.6-star rating from 134 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.6
+reviewCount: 134
+reviews:
+  - author: "Jaclyn B."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Choosing Dr. Farber was one of the best decisions I’ve ever made. I’ve seen countless before and after photos, and they truly speak for themselves. His attention to detail and consistently stunning results immediately impressed me. Even before my first consultation, I knew I was in the right hands.  I am about three months post-op from my breast augmentation and lift, and I genuinely could not be 
+    source: "Google"
+  - author: "Meagan L."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      Dr. Farber is a true perfectionist and an absolute ARTIST who clearly takes his craft seriously. He was my first and only consultation! His expertise and approach were convincing enough from the start. He radiates confidence. I had a breast lift, implant and internal bra. He was conservative and attentive throughout the entire healing process, checking in every step of the way and never rushing a 
+    source: "Google"
+  - author: "Kid C."
+    rating: 5
+    date: "2025-11-15"
+    text: >-
+      It's been exactly ONE YEAR since I had my breast augmentation with the wonderful Dr. Farber. There is NO other doctor I would have trusted with my surgery. I had my first augmentation 19 years ago and knew it was time to get them replaced. Dr. Farber and I had the same vision for the beginning, and he and his entire staff were super informative every second of the way, from when I had my initial c
+    source: "Google"
+  - author: "Lindsay R."
+    rating: 5
+    date: "2025-10-14"
+    text: >-
+      I am just about one year post-op from my breast augmentation with Dr. Farber and I truly cannot say enough amazing things about him and his entire team. From my very first interaction with the office, they were incredibly kind, responsive, and attentive. Every question I had—big or small—was answered promptly and with genuine care.  My initial consultation with Dr. Farber was a 10/10. He carries s
+    source: "Google"
+  - author: "April S."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      Dr. Farber is not just a surgeon, he's an artist. I've never worked with someone who cares more about his patients' outcomes and pays such attention to detail. My results were amazing and as this was an exchange and downsize, that's phenomenal. With the level of work he does, I think he should charge more.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/farber-plastic-surgery-scott-farber-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

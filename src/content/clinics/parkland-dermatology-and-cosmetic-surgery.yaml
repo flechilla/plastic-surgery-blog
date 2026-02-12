@@ -1,0 +1,60 @@
+name: "Parkland Dermatology and Cosmetic Surgery"
+slug: parkland-dermatology-and-cosmetic-surgery
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "1515 S Federal Hwy # 200, Boca Raton, FL 33432"
+zipCode: "33432"
+coordinates:
+  lat: 26.3357551
+  lng: -80.0885385
+phone: "(754) 999-3376"
+website: "http://www.parklanddermatology.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5303763614419367007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Parkland Dermatology and Cosmetic Surgery is a plastic surgery practice located in Boca Raton, FL. With a 4.8-star rating from 901 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 901
+reviews:
+  - author: "Tyan M."
+    rating: 5
+    date: "2024-08-09"
+    text: >-
+      Great service as always. Dr. Stephen’s is patient, attentive, and knowledgeable. She really takes the time to listen and give you recommendations based on your needs. It never feels like she is pushing products or services on you and provides an economical option for her recommendations. The staff is also really pleasant and respectful. The in office wait is typically really long, but they are awa
+    source: "Google"
+  - author: "j h."
+    rating: 5
+    date: "2024-05-24"
+    text: >-
+      Dr. Stephens, is without a doubt, the most exceptional dermatologist I have ever had the pleasure of visiting. Her bedside manner is unparalleled, instantly putting me at ease and assuring me that I was in the most capable hands. Her expertise, coupled with her genuine care and concern for her patients, made my experience truly remarkable. Thanks to her skilled treatment, I walked out of her offic
+    source: "Google"
+  - author: "Taji P."
+    rating: 5
+    date: "2024-06-27"
+    text: >-
+      Dr Stephens is very compassionate and professional. She assessed my skin, listened to my concerns and worked with me on a plan to address my issues. I highly recommend her. I have been to doctors in the past who only want you to do as they say. I like Dr Stephens because I feel like we are working as a team for my best outcome.
+    source: "Google"
+  - author: "Shanneil C."
+    rating: 5
+    date: "2023-09-23"
+    text: >-
+      First of all the entire staff from check in to check out was incredibly kind & courteous. The entire office is very professional, clean & organized. Dr. Stephens is so patient & helpful. She was extremely understanding towards all my concerns & she made me feel heard. I’m looking forward to our discussed regimen. I  definitely recommend this practice. Thank you Dr. Stephens & your amazing staff fo
+    source: "Google"
+  - author: "shanell d."
+    rating: 5
+    date: "2023-09-14"
+    text: >-
+      My 1st visit with Dr. Stephens was great. There was not a long wait time and her staff was very professional and attentive. Dr. Stephens listened to all of my concerns,  completed a thorough check-up to conclude  on a plan of action for each issue. I especially like how she had her staff take notes. This allowed her to be fully present while I was talking to her. She explained her initial diagnosi
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/parkland-dermatology-and-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Venus Med Spa"
+slug: venus-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "6000 Glades Road, suite1055 B, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.3649097
+  lng: -80.1311583
+phone: "(561) 509-5394"
+website: "http://www.venusmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14020196794071120144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Venus Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 4.3-star rating from 52 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.3
+reviewCount: 52
+reviews:
+  - author: "Cheryl M."
+    rating: 5
+    date: "2024-06-17"
+    text: >-
+      I absolutely love coming to Venus Medspa because of the exceptional service I get every time for years!!!  Jessica couldn’t be sweeter and more helpful when making appointments! She’s always so upbeat and kind and goes out of her way to call me if there are specials or certain skin care products that come in. Lisa is the nurse practitioner/injector who is probably one of the best!! It’s so importa
+    source: "Google"
+  - author: "Melanie R."
+    rating: 5
+    date: "2024-02-06"
+    text: >-
+      I have been going to Lisa at Venus for years for my Dysport and she is the BEST! Shes a licensed nurse practitioner so she is very skilled, knowledgeable, patient, and sweet. She works with you to help you decide what products would be best for your face for improvements. I have referred many of my friends and family to her and they love her too! She is stuck with me ha! Try her out you will be ve
+    source: "Google"
+  - author: "LBTS W."
+    rating: 5
+    date: "2024-07-18"
+    text: >-
+      Lisa ♛ is THE BOTOX professional of South Florida, Hands down. ★★★★★ if I could give 10 stars I would ! Botox®, Dysport®, Daxxify,: had all of them.  I have been to many places from Atlanta to Aventura; I would say i have experience with Neurotoxins services.  My last injection was so awful I assumed I became immune to neurotoxins :o).  I am beyond trilled that i got it done at Venus once again.  
+    source: "Google"
+  - author: "Shanese L."
+    rating: 5
+    date: "2020-09-30"
+    text: >-
+      This location is amazing! I’ve been here twice with Lisa and she is absolutely great. I’ve done one syringe in my lips each time and she works with me to get the exact look and shape I’m going for. Lisa corrected a slight droop I had on one side of my lip and she also fixed my lip from going up on one side when I would talk. These are things I didn’t expect to be fixed with lip injections since I 
+    source: "Google"
+  - author: "Antonio E."
+    rating: 5
+    date: "2021-05-17"
+    text: >-
+      Venus med spa is beyond fabulous. The staff is so sweet and knowledgeable. Jessica at the front desk was warm and welcoming. Answered all my questions with ease. Lisa, the injector is by far the best I’ve ever used. Gentle, knowledgeable, caring. I could go on and on. Life long client here and I’d refer them to anyone.
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/venus-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

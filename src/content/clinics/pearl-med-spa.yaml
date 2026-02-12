@@ -1,0 +1,60 @@
+name: "Pearl Med Spa"
+slug: pearl-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "Westwinds Plaza, 9774 Glades Rd A-7, Boca Raton, FL 33434"
+zipCode: "33434"
+coordinates:
+  lat: 26.367348099999997
+  lng: -80.1995792
+phone: "(754) 282-0822"
+website: "https://pearllasercenter.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4406584464481888943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Pearl Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 4.8-star rating from 139 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 139
+reviews:
+  - author: "Stephanie C."
+    rating: 5
+    date: "2025-02-17"
+    text: >-
+      On my last visit, the Provider was Ericka & the Receptionist is Natalia. Can I just say that these ladies are absolutely top notch!! The service is incredible, they make you feel right at home. They do fantastic work and I’m always pleased with the results and they last!! They answer all of your questions and the prices are amazing!! I will always be a customer. I’m so happy to be a part of this P
+    source: "Google"
+  - author: "MCM"
+    rating: 5
+    date: "2024-09-05"
+    text: >-
+      Love this gem of a med spa! Ericka is a fantastic NP. I love how talented she is at injections and she can interpret what you want and are after aesthetically. My face looks refreshed after an appointment without giving me uncanny valley vibes. I love it and love that I had little to no bruising in the days after. Before my appointment I had a facial with Kim and my skin looks dewy and even. Highl
+    source: "Google"
+  - author: "Iulia N."
+    rating: 5
+    date: "2024-04-07"
+    text: >-
+      This place is amazing! Ericka was so gentle and knowledgeable during my laser hair removal session. She made sure she didn't miss a spot and I was comfortable during the session. The whole experience was amazing. Moreover, I got a follow-up call to make sure I was doing well the next day which I truly appreciate. It is such a professional approach! Besides, my mom had her Botox appointment, and th
+    source: "Google"
+  - author: "Chana S."
+    rating: 5
+    date: "2025-01-17"
+    text: >-
+      I recently visited Pearl Med Spa in Boca Raton for a consultation on smile line fillers, and I am thoroughly impressed with the experience. From the moment I stepped in, I was warmly greeted by Raquel at the front desk. Her friendly demeanor and professional approach set the perfect tone for my visit. Raquel was incredibly efficient and ensured that all the necessary paperwork was completed smooth
+    source: "Google"
+  - author: "Tesa B."
+    rating: 5
+    date: "2024-07-18"
+    text: >-
+      The ladies at Pearl Med Spa area absolutely fantastic, as were the results from my (botox) injections. Not only was the service handled with expert care (thanks, Ericka!) but the staff went out of their way to make sure I was welcome, comfortable and taken care of throughout my treatment- even going as far as to offer a touch-up service and 24-hour check in. I truly can't sing the praises of these
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/pearl-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

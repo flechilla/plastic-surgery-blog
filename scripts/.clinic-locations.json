@@ -27,12 +27,14 @@
         {
           "city": "fort-lauderdale",
           "state": "FL",
-          "status": "running"
+          "status": "done",
+          "clinics": 68,
+          "date": "2026-02-12"
         },
         {
           "city": "boca-raton",
           "state": "FL",
-          "status": "queued"
+          "status": "running"
         },
         {
           "city": "west-palm-beach",

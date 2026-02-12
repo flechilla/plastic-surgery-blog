@@ -1,0 +1,60 @@
+name: "Albert Dabbah, MD - Plastic Surgeon Boca Raton, FL"
+slug: albert-dabbah-md-plastic-surgeon-boca-raton-fl
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "1599 NW 9th Ave STE 1, Boca Raton, FL 33486"
+zipCode: "33486"
+coordinates:
+  lat: 26.363293199999998
+  lng: -80.1050375
+phone: "(561) 488-1700"
+website: "http://www.doctordabbah.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6732449224674906982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Albert Dabbah, MD - Plastic Surgeon Boca Raton, FL is a plastic surgery practice located in Boca Raton, FL. With a 4.8-star rating from 97 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 97
+reviews:
+  - author: "marcy r."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      Dr. Dabbah is an incredibly talented plastic surgeon. His expertise is evident in everything he does, and his calm, honest approach immediately puts you at ease. He takes the time to explain everything clearly and is always attentive and reassuring. The office has a very calming atmosphere, and from the moment you walk in, you’re treated with genuine care and made to feel truly special. I am extre
+    source: "Google"
+  - author: "S C."
+    rating: 5
+    date: "2025-12-09"
+    text: >-
+      I had a great experience during the surgery for my back where I needed removal of a large cyst. The staff at the surgical center in Coconut creek where the removal was done was very attentive and so caring. Dr. Dabbah not only kept me calm and painless. He did such an outstanding job on the suture and I felt no pain at all. He made my experience very comfortable and I will recommend him to other f
+    source: "Google"
+  - author: "Lisa K."
+    rating: 5
+    date: "2025-06-05"
+    text: >-
+      Dr Dabbah is an extremely skilled Surgeon. He’s excellent at his craft. I needed a large percentage of my forehead opened up and a skin lesion removed and my scar is practically invisible and it’s only been a few months. I would highly recommend him. The ladies in the office couldn’t be sweeter and more helpful. If you’re looking for a great surgeon in the Palm Beach area, he’s your man.
+    source: "Google"
+  - author: "Carl S."
+    rating: 5
+    date: "2025-07-08"
+    text: >-
+      Dr.Abbah is a premier plastic surgeon with exquisite attention to detail. His staff are fantastic as well . You may find someone “as good”  but not better !! He does plastic as well as cancer reconstructive surgeries..
+    source: "Google"
+  - author: "Stacie W."
+    rating: 5
+    date: "2024-07-03"
+    text: >-
+      Dr. Dabbah and his staff are wonderful! They made it such a pleasant experience. I never had to wait, all of the staff are very friendly and approachable. The doctor is very informative and knowledgeable. I am very pleased with the surgery overall and the results. I definitely recommend him!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/albert-dabbah-md-plastic-surgeon-boca-raton-fl.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

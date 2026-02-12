@@ -1,0 +1,60 @@
+name: "Elegant Youth MedSpa"
+slug: elegant-youth-medspa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "23014 Sandalfoot Plaza Dr, Boca Raton, FL 33428"
+zipCode: "33428"
+coordinates:
+  lat: 26.3344572
+  lng: -80.2011783
+phone: "(561) 717-8081"
+website: "http://www.elegantyouthboca.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7947530453167230296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Elegant Youth MedSpa is a plastic surgery practice located in Boca Raton, FL. With a 5-star rating from 55 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 55
+reviews:
+  - author: "Isabella M."
+    rating: 5
+    date: "2025-08-29"
+    text: >-
+      I had an absolutely fantastic experience with Elena and the team at Elegant Youth MedSpa! From start to finish, she was incredibly professional and made me feel completely at ease. Her expertise is unmatched, and the best part—there was zero bruising after the Botox procedure! I'm beyond thrilled with my results. Without a doubt, I'll be returning and highly recommend Elena to anyone looking for t
+    source: "Google"
+  - author: "jenny p."
+    rating: 5
+    date: "2025-09-03"
+    text: >-
+      I recently did PRF gel under my eyes along with Botox, and I’m very happy with the results. Elena, the nurse practitioner, is amazingly skilled and caring. My under-eyes look much less hollow and dark, which is a big change. I’ve always had deep, dark circles with light skin. The procedure itself was painless, but I almost fainted when giving blood, and the staff were incredibly supportive. The cl
+    source: "Google"
+  - author: "Irina S."
+    rating: 5
+    date: "2025-08-28"
+    text: >-
+      I had BCP-157 peptide treatment with Elena to heal a sports injury, and as a professional gymnast, I can honestly say the results were amazing. On top of that, I also had fillers and Botox with her, and it was the best experience I’ve ever had. Elena is highly skilled, precise, and knows exactly how to deliver natural, beautiful results. I highly recommend her for both recovery treatments and beau
+    source: "Google"
+  - author: "charles w."
+    rating: 5
+    date: "2025-08-18"
+    text: >-
+      I have been coming to Elegant Youth for the past few months, and am exceptionally satisfied with all their services. I primarily come for weekly NAD injections, which have given me a rise in energy and an overall boost in my immune response system. I also have responded well to B12 injections and vitamin D injections, have raised my serum levels. Samantha and Ester have exceeded my expectations in
+    source: "Google"
+  - author: "Khat M."
+    rating: 5
+    date: "2026-01-09"
+    text: >-
+      Elena has amazing skill and artistry with xeomin injections- my face looks amazingly refreshed and balanced. Highly recommend!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/elegant-youth-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

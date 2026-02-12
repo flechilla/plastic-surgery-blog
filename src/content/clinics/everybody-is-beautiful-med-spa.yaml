@@ -1,0 +1,60 @@
+name: "Everybody Is Beautiful Med Spa"
+slug: everybody-is-beautiful-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "2499 Glades Rd #202, Boca Raton, FL 33431"
+zipCode: "33431"
+coordinates:
+  lat: 26.370103399999998
+  lng: -80.1371063
+phone: "(561) 756-8550"
+website: "http://www.ebbmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12590951919638590308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Everybody Is Beautiful Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 4.9-star rating from 107 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 107
+reviews:
+  - author: "Lynne T."
+    rating: 5
+    date: "2025-10-28"
+    text: >-
+      I went in to get a consultation from Aysun.  She and her husband have excellent customer service and a very clean salon.  I was really nervous because someone else had really messed up my brows.   Aysun looked at them and gave me hope that she could fix them.  And she did.  They are beautiful and she was very professional and fast telling me through the whole process what was going on and letting 
+    source: "Google"
+  - author: "Trish S."
+    rating: 5
+    date: "2025-12-09"
+    text: >-
+      Very nice med spa & staff. Helen is the lip queen! Great at all injectables & Laser treatments. Alyssa for facials & skin care. Always friendly & welcoming!
+    source: "Google"
+  - author: "Cate P."
+    rating: 5
+    date: "2025-07-24"
+    text: >-
+      This place is great!! I had my second procedure done today with Jessica and could not be happier with the results and service I received. At both sessions, the staff has been warm and welcoming, professional, and always offered to see if there are any promos/ deals to offer me. before the procedure, Jessica thoroughly went over the anticipated results and made sure I was comfortable. I also always
+    source: "Google"
+  - author: "Elane C."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I’m a returning customer and I have to say, by far, this place is AMAZING. The staff, their procedures, the personalized and undivided attention they give to everyone are absolutely exceptional.
+    source: "Google"
+  - author: "Ana T."
+    rating: 5
+    date: "2025-05-22"
+    text: >-
+      ❤️💙  I can't say enough wonderful things about Everybody is Beautiful Med Spa! I've been a loyal client for the past four years, and every visit has been a fantastic experience. The owner is truly amazing—her expertise and dedication to her clients shine through in everything she does. The quality of care and attention to detail is unmatched. The staff is friendly and knowledgeable, making you fe
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/everybody-is-beautiful-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

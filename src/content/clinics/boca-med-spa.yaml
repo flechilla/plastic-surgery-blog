@@ -1,0 +1,60 @@
+name: "Boca Med Spa"
+slug: boca-med-spa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "600 S Dixie Hwy Suite 105 600 Building, Boca Raton, FL 33432"
+zipCode: "33432"
+coordinates:
+  lat: 26.3438216
+  lng: -80.0881052
+phone: "(561) 447-2240"
+website: "http://www.bocamedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17279699877829240650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Boca Med Spa is a plastic surgery practice located in Boca Raton, FL. With a 4.6-star rating from 59 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.6
+reviewCount: 59
+reviews:
+  - author: "Heather D."
+    rating: 5
+    date: "2025-10-20"
+    text: >-
+      I can’t say enough amazing things about Monica and the services she provides. About five years ago I went to Monica on a Groupon for a facial. She asked if I would like an evaluation of my skin and I absolutely did. She discussed in detail how she can go about getting my skin looking amazing, getting rid of pigmentation and overall brightening and plumping of my skin. Over the course of the first 
+    source: "Google"
+  - author: "Chantal B."
+    rating: 1
+    date: "2025-08-29"
+    text: >-
+      I wish I could say something positive, but my experience with Monica at Boca Med Spa was terrible. I followed all her recommendations, spent a lot of money, and tried multiple treatments, but my skin didn’t improve at all—if anything, it looks worse. I went in for a chemical peel to fix dark spots and uneven skin, and instead I ended up with irritation, redness, and no noticeable results.
+    source: "Google"
+  - author: "Laura C."
+    rating: 5
+    date: "2025-12-19"
+    text: >-
+      All of my chemical peels with Monica have been amazing! She’s an expert on this and no other aesthetician I have been to has matched her results.
+    source: "Google"
+  - author: "Pareen “. D."
+    rating: 5
+    date: "2025-06-14"
+    text: >-
+      Monica is hands down the BEST esthetician in Boca. My skin is transformed, for the first time in my life I get compliments on my skin. Anyone can have flawless, beautiful, skin, if they follow Monica's recommendations. I've been going to Monica for 4 years and have had EVERY service she offers, and each one has resulted in Al outcome. Also I have cheated on her at times, using Groupons etc. and al
+    source: "Google"
+  - author: "Megan P."
+    rating: 5
+    date: "2024-11-18"
+    text: >-
+      I came to Boca Med Spa two months before my wedding for a facial and I am so glad I did. Monica took so much time and care during my consultation and she made a plan to get my skin wedding ready. Monica ended up doing a chemical peel based on her assessment and listening to my concerns. My skin truly has never looked better. She is so knowledgeable about what she does and she has completely change
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/boca-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

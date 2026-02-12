@@ -1,0 +1,60 @@
+name: "Bare Medspa"
+slug: bare-medspa
+city: boca-raton
+cityDisplay: "Boca Raton"
+state: FL
+stateFullName: Florida
+county: "Palm Beach County"
+neighborhood: ""
+address: "133 Via Naranjas Unit 47, Boca Raton, FL 33432"
+zipCode: "33432"
+coordinates:
+  lat: 26.3470244
+  lng: -80.0846806
+phone: "(954) 228-0078"
+website: "https://baremedspagroup.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7058748065050485710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Bare Medspa is a plastic surgery practice located in Boca Raton, FL. With a 4.9-star rating from 28 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 28
+reviews:
+  - author: "Diana M."
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      I had such a great experience with my laser hair removal session. Stefany was absolutely lovely so professional, gentle, and made me feel completely comfortable the entire time. The office is spotless, beautiful, and very welcoming. They also offer facials and eyelash services, which I can’t wait to come back and try. Highly recommend this place if you’re looking for quality service and amazing ca
+    source: "Google"
+  - author: "Jessica S."
+    rating: 5
+    date: "2026-01-13"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ I cannot say enough good things about Bare Medspa. I’ve been getting laser hair removal on my legs and the results have been amazing. From the very first appointment, the experience has been nothing short of exceptional.  The team is incredibly friendly, professional, and flexible with scheduling, which makes everything so easy. They go out of their way to make you feel completely comfo
+    source: "Google"
+  - author: "Roxanna H."
+    rating: 5
+    date: "2025-11-13"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ The Best Laser Hair Removal Experience!  I’ve tried a few different laser hair removal places, and this one is by far the best! From the moment I walked in, the staff made me feel so comfortable and explained every step of the process. The treatment itself was quick, virtually painless, and I noticed a huge difference after just a few sessions. The space is super clean, modern, and they
+    source: "Google"
+  - author: "Emily M."
+    rating: 5
+    date: "2026-01-07"
+    text: >-
+      I’ve been doing laser hair removal at Bare MedSpa in Boca Raton and recently tried their new Edgewater location, both were amazing! Super clean, cute spaces and the tech always made me feel really comfortable. Nothing beats these results for this price, highly recommend if you’re thinking about laser!
+    source: "Google"
+  - author: "Vitoria D."
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      My favorite place to go!! Laser machine is completely silent and pain free and the results are almost instant! First visit my hairs were already growing back slower and now basically none!! Cant wait for my next appt, I’m SO thankful I started!!! 10/10 recommend!!!
+    source: "Google"
+logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/bare-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
