@@ -1,0 +1,60 @@
+name: "Miami Surgical Center Cosmetics"
+slug: miami-surgical-center-cosmetics
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Flagami"
+address: "5733 NW 7th St, Miami, FL 33126"
+zipCode: "33126"
+coordinates:
+  lat: 25.7796079
+  lng: -80.2901729
+phone: "(305) 591-8989"
+website: "https://miamisurgicalcenter.com/"
+googleMapsUrl: "https://maps.google.com/?cid=2019560757804926068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Surgical Center Cosmetics is a plastic surgery practice located in Miami, FL. With a 4.1-star rating from 529 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.1
+reviewCount: 529
+reviews:
+  - author: "Jamie M."
+    rating: 1
+    date: "2025-06-04"
+    text: >-
+      Save yourself. I asked for a thigh lift. Woke up from surgery and only had thigh lipo. They gas lighted me for a year and said basically to wear the farmer and that it takes time to heal. It’s hard to get anyone even on the phone. Not to mention my legs are just deformed worse and they focused on one part of the thigh so only that’s now indented and made my legs look worse. Money was never the iss
+    source: "Google"
+  - author: "7311 3."
+    rating: 5
+    date: "2020-08-09"
+    text: >-
+      It has been two months since my tummy tuck at the Miami Surgical Center.  My experience was remarkable, incredibly happy with the service and care of everyone, from the doctor to the professional staff. Lily is excellent, responded all my questions, genuinely nice and was always available. When first walked in for the consult, everyone made me feel at ease and comfortable. After the surgery I rece
+    source: "Google"
+  - author: "Rosy R."
+    rating: 5
+    date: "2023-02-17"
+    text: >-
+      Highly recommended, since I started this process I felt safe. Unlike other places where I requested a quotation, they request all of the labs, and examinations, which gave me the confidence to proceed with Miami Surgical Center. All the staff was attentive and in communication with me all the time.  The process was smooth and all doubts were clarified before the surgery.  After surgery, the post-o
+    source: "Google"
+  - author: "Davine G."
+    rating: 4
+    date: "2023-06-30"
+    text: >-
+      Customer service was great overall when you do reach someone to talk to. My surgeon was amazing during and after surgery my post Op care was great as well. Never had an issue they answered all my questions and help me fixed any issues I had. Would definitely recommend here for surgery. I have a history of clotting and they took all the necessary procedures to make sure I had a healthy surgery and 
+    source: "Google"
+  - author: "Caroline M."
+    rating: 5
+    date: "2023-07-02"
+    text: >-
+      Great experience and my results are PHENOMENAL! I am extremely satisfied. They have really great doctors. You just have to really stay on the front office because they are so busy. Call if you have any questions. Best time to call is early in the mornings before noon. They will get back with you if noone is available to answer your call. Be sure to get cleared by your primary doctor before paying 
+    source: "Google"
+logo: "/images/clinics/logos/miami-surgical-center-cosmetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

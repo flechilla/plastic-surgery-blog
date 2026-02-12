@@ -1,0 +1,60 @@
+name: "My Cosmetic Surgery"
+slug: my-cosmetic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "6166 SW 8th St, Miami, FL 33144"
+zipCode: "33144"
+coordinates:
+  lat: 25.762845799999997
+  lng: -80.2949376
+phone: "(305) 264-9636"
+website: "https://mycosmeticsurgerymiami.com/"
+googleMapsUrl: "https://maps.google.com/?cid=17359701746087317926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  My Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 3.5-star rating from 523 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 3.5
+reviewCount: 523
+reviews:
+  - author: "Zuyette R."
+    rating: 5
+    date: "2025-12-28"
+    text: >-
+      I have been a client at my cosmetic since 2018, and I have nothing but great things to say about this establishment. Starting with Dr. Luke Gutwein who has been my surgeon for the last two operations. He is very kind,  patient and knowledgeable and I have a 100% trust in his work. The staff is also very helpful and I appreciated my coordinator Yarianna for guiding me thru this process with so much
+    source: "Google"
+  - author: "Lourdes G."
+    rating: 5
+    date: "2026-01-25"
+    text: >-
+      I want to write this review for Yanelis Zladivar, the best doing lymphatic massage, I'm really happy with my recovery, she's compassionate,  she's always smiling and very professional, attentive and very comprehensive with the patient. I'm very happy with my results
+    source: "Google"
+  - author: "Zur H."
+    rating: 5
+    date: "2025-08-01"
+    text: >-
+      Yurdeti is absolutely amazing! I've been seeing her for radiofrequency and massage treatments at my cosmetic surgery, and I couldn't be happier with the results. She is incredibly knowledgeable and professional, and she always makes me feel comfortable and at ease during every session. The radiofrequency treatments have really helped with tightening my skin, and her lymphatic drainage massages are
+    source: "Google"
+  - author: "Liuska F."
+    rating: 1
+    date: "2025-10-15"
+    text: >-
+      This clinic is the worst. I've been trying to get my deposit back for a long time now and they refuse to do so. Every time I call is a different story. I call them or text them every week. All I get from them is excuses. Do not go to this place, I REPEAT, run away from this place as fast as you can. I paid $1550 4 years ago, and I haven't gotten my money back yet.
+    source: "Google"
+  - author: "Jossy A."
+    rating: 1
+    date: "2025-09-09"
+    text: >-
+      I got the worst experience with the doctor Jeffrey. Please do not go to the doctor or any of them the clinic it’s disgusting. They’re rushing to get your money and sign papers and then they don’t even answer you when you call for a refund the job Doctor did go run and he do not want to fix it and I have to pay another doctor in the same clinic to fix my problem. $4500 more so sad.
+    source: "Google"
+logo: "/images/clinics/logos/my-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

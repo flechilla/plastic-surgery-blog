@@ -1,0 +1,60 @@
+name: "Brickell Cosmetic Center-Aesthetics & Dermatology"
+slug: brickell-cosmetic-center-aesthetics-dermatology
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coral Way"
+address: "2730 SW 3rd Ave Ste 100, Miami, FL 33129"
+zipCode: "33129"
+coordinates:
+  lat: 25.7545932
+  lng: -80.2099224
+phone: "(305) 456-6001"
+website: "https://brickellcosmetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=15002739178716080008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Brickell Cosmetic Center-Aesthetics & Dermatology is a plastic surgery practice located in Miami, FL. With a 4.6-star rating from 417 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.6
+reviewCount: 417
+reviews:
+  - author: "Jessa"
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      The staff here are beautiful inside and out. They are very inviting and make you feel welcomed. Paige did my Botox today, I’m sure I’ll be back for more. Elated to have found this little gem in Brickell🤍
+    source: "Google"
+  - author: "Mortal B. F."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      Travis and I came to Brickell Cosmetic Center for Hydrafacials and had an amazing experience. From the moment we walked in, the staff was welcoming, professional, and made us feel completely comfortable. The space is beautiful, clean, and very relaxing.  The Hydrafacials were incredible—thorough, relaxing, and left our skin glowing. You can tell the team is extremely knowledgeable and truly cares 
+    source: "Google"
+  - author: "Vanessa S."
+    rating: 5
+    date: "2025-10-17"
+    text: >-
+      Brickell Cosmetic Center is incredibly professional from start to finish. During my first visit, I met with a dermatologist provider who created a personalized skincare plan just for me. They performed a full skin analysis- including a detailed map that broke down my bacteria levels, sun exposure, and overall condition- which really helped me understand what my skin needed. We started with The Per
+    source: "Google"
+  - author: "Maria E. A."
+    rating: 5
+    date: "2025-10-29"
+    text: >-
+      I’ve been a client of Brickell Cosmetic Center for over 10 years, and they’ve kept my skin looking great all this time. Their professionalism and consistency is incredible. The team always follows up after every visit and truly cares about your results. Julie, the owner, is always present, involved, and makes sure everything runs perfectly. The staff is kind, skilled, and welcoming. After a decade
+    source: "Google"
+  - author: "Travis H."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      It was amazing!! I had never had one before and was a little nervous but the experience was eye opening and fun! The team was great and made me feel welcome during our visit. I will definitely be returning for another hydro facial experience!!!
+    source: "Google"
+logo: "/images/clinics/logos/brickell-cosmetic-center-aesthetics-dermatology.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

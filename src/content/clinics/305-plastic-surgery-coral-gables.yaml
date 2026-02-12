@@ -1,0 +1,60 @@
+name: "305 Plastic Surgery Coral Gables"
+slug: 305-plastic-surgery-coral-gables
+city: coral-gables
+cityDisplay: "Coral Gables"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Flagami"
+address: "564 SW 42nd Ave 3rd floor, Coral Gables, FL 33134"
+zipCode: "33134"
+coordinates:
+  lat: 25.7660523
+  lng: -80.2636181
+phone: "(305) 209-1030"
+website: "https://305plasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=13370284167070739546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  305 Plastic Surgery Coral Gables is a plastic surgery practice located in Coral Gables, FL. With a 4.1-star rating from 2529 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.1
+reviewCount: 2529
+reviews:
+  - author: "Cassandra S."
+    rating: 1
+    date: "2025-12-11"
+    text: >-
+      I have had the worst experience with this office recently. Dr. Brewsters direct office to be exact. I paid a deposit and booked a procedure through Nathalie with Dr. Brewster specifically back on November 4th. My scheduled surgery date is January 20th. Just yesterday, over a month after booking I received a text message, not even a proper phone call but a text message from his nurse named Willmary
+    source: "Google"
+  - author: "Nicole L."
+    rating: 5
+    date: "2026-01-30"
+    text: >-
+      I had a wonderful  experience with 305 Plastic Surgery! Everything went according to plan Dr. Nosrati took his time with me and making sure I understood everything that I was about to get myself into and I really appreciate it. The staff was wonderful as well. Through the beginning process all the way to the end of this journey.You’re guys are the best continue to make Woman body, the dream that t
+    source: "Google"
+  - author: "Aljoe W."
+    rating: 5
+    date: "2025-11-08"
+    text: >-
+      Incredible massage experience every time! My massage therapist is truly amazing — professional, knowledgeable, and attentive to every detail. She always take the time to listen to what I need and tailor the session perfectly. I leave each appointment feeling completely relaxed, rejuvenated, and free of tension. The atmosphere is calming, and their skill level is unmatched. I can honestly say these
+    source: "Google"
+  - author: "Sophia S."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      I had a breast reduction and lift with Dr. Nosrati on 12/15/2025 and I'm currently one day post-op. I love my new breast. He did an amazing job. I will be back in March for lipo 360. I can't wait to see him again. Dr. Nosrati has lovely bed side manner and is very efficient and effective with communication on your needs and he listens. Book with him immediately!!!!
+    source: "Google"
+  - author: "Meleka T."
+    rating: 5
+    date: "2025-09-06"
+    text: >-
+      I had an amazing experience at 305 Plastic Surgery for my lymphatic massage! The therapist was extremely knowledgeable and took the time to explain everything to me, which made me feel very comfortable. The massage itself was excellent—she really knew what she was doing and focused on the areas that needed the most attention. When I left, I felt so much lighter and refreshed. Honestly, it was one 
+    source: "Google"
+logo: "/images/clinics/logos/305-plastic-surgery-coral-gables.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
