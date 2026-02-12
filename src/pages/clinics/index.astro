@@ -1,24 +1,27 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '@layouts/BaseLayout.astro';
-import CityCard from '@components/CityCard.astro';
-import ClinicCard from '@components/ClinicCard.astro';
+import ClinicDirectory from '@components/ClinicDirectory';
+import type { ClinicData } from '@components/ClinicDirectory';
 
-const allCities = await getCollection('cities');
 const allClinics = await getCollection('clinics');
 
-// Count clinics per city
-const clinicCounts = new Map<string, number>();
-for (const clinic of allClinics) {
-  const city = clinic.data.city;
-  clinicCounts.set(city, (clinicCounts.get(city) || 0) + 1);
-}
-
-// Featured clinics
-const featuredClinics = allClinics
-  .filter((c) => c.data.featured)
-  .sort((a, b) => b.data.rating - a.data.rating)
-  .slice(0, 3);
+// Build serializable clinic data for the React component
+const clinicData: ClinicData[] = allClinics.map((c) => ({
+  name: c.data.name,
+  slug: c.data.slug,
+  city: c.data.city,
+  cityDisplay: c.data.cityDisplay || c.data.city.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+  address: c.data.address,
+  phone: c.data.phone,
+  rating: c.data.rating,
+  reviewCount: c.data.reviewCount,
+  specialties: c.data.specialties,
+  googleCategoryDisplay: c.data.googleCategoryDisplay || '',
+  description: c.data.description,
+  verified: c.data.verified,
+  featured: c.data.featured,
+}));
 ---
 
 <BaseLayout
@@ -72,77 +75,11 @@ const featuredClinics = allClinics
     <div class="h-px bg-gradient-to-r from-transparent via-warm-sand/60 to-transparent"></div>
   </section>
 
-  <!-- Browse by City -->
-  <section class="bg-white py-16 md:py-24">
-    <div class="mx-auto max-w-7xl px-6 lg:px-10">
-      <div class="animate-on-scroll mb-10">
-        <p class="mb-2 text-xs font-medium uppercase tracking-[0.2em] text-rose-gold">
-          Browse by Location
-        </p>
-        <h2 class="font-serif text-3xl font-medium text-charcoal md:text-4xl">
-          Top cities
-        </h2>
-        <p class="mt-3 max-w-lg text-sm leading-relaxed text-charcoal/50">
-          Explore clinics in the most sought-after destinations for plastic surgery.
-        </p>
-      </div>
-      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {allCities.map((city, i) => (
-          <div class={`animate-on-scroll stagger-${(i % 4) + 1}`}>
-            <CityCard
-              name={city.data.name}
-              state={city.data.state}
-              slug={city.data.slug}
-              clinicCount={clinicCounts.get(city.data.slug) || 0}
-              description={city.data.description}
-              coverImage={city.data.coverImage}
-            />
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Featured Clinics -->
-  {featuredClinics.length > 0 && (
-    <section class="bg-ivory py-16 md:py-24">
-      <div class="mx-auto max-w-7xl px-6 lg:px-10">
-        <div class="animate-on-scroll mb-10">
-          <p class="mb-2 text-xs font-medium uppercase tracking-[0.2em] text-rose-gold">
-            Featured
-          </p>
-          <h2 class="font-serif text-3xl font-medium text-charcoal md:text-4xl">
-            Top-rated clinics
-          </h2>
-          <p class="mt-3 max-w-lg text-sm leading-relaxed text-charcoal/50">
-            Highly rated practices chosen for their exceptional patient care and surgical outcomes.
-          </p>
-        </div>
-        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {featuredClinics.map((clinic, i) => (
-            <div class={`animate-on-scroll stagger-${(i % 4) + 1}`}>
-              <ClinicCard
-                name={clinic.data.name}
-                slug={clinic.data.slug}
-                citySlug={clinic.data.city}
-                address={clinic.data.address}
-                phone={clinic.data.phone}
-                rating={clinic.data.rating}
-                reviewCount={clinic.data.reviewCount}
-                specialties={clinic.data.specialties}
-                description={clinic.data.description}
-                verified={clinic.data.verified}
-                featured={clinic.data.featured}
-              />
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  )}
+  <!-- Interactive Clinic Directory -->
+  <ClinicDirectory client:load clinics={clinicData} />
 
   <!-- Trust Section -->
-  <section class="bg-white py-16 md:py-24">
+  <section class="bg-ivory py-16 md:py-24">
     <div class="mx-auto max-w-7xl px-6 lg:px-10">
       <div class="animate-on-scroll rounded-3xl bg-gradient-to-br from-charcoal to-soft-navy p-10 md:p-16">
         <div class="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
