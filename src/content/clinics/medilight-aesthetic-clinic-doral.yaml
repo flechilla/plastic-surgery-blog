@@ -1,0 +1,60 @@
+name: "Medilight Aesthetic Clinic - Doral"
+slug: medilight-aesthetic-clinic-doral
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "7910 NW 25th St suite 202, Doral, FL 33122"
+zipCode: "33122"
+coordinates:
+  lat: 25.796452799999997
+  lng: -80.3257497
+phone: "(786) 413-0785"
+website: "http://medilight.us/en/"
+googleMapsUrl: "https://maps.google.com/?cid=6140979630713237578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Medilight Aesthetic Clinic - Doral is a plastic surgery practice located in Doral, FL. With a 4.8-star rating from 245 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 245
+reviews:
+  - author: "Mari D."
+    rating: 5
+    date: "2025-07-18"
+    text: >-
+      I had a great experience at Medilight Doral! The staff is incredibly professional and friendly, making me feel comfortable from the moment I walked in. I was also very impressed by how modern and well-equipped the facility is. The consultation was thorough and informative, and I left feeling confident about my next steps. I'm definitely looking forward to my next procedure!
+    source: "Google"
+  - author: "Diana M."
+    rating: 5
+    date: "2025-04-21"
+    text: >-
+      I had such a wonderful experience. From the moment I walked in, the customer service was warm, welcoming, and attentive. The space is clean, calming, and beautifully designed—perfect for relaxing and resetting.  I was so impressed with the attention to detail and care taken during the treatment. My esthetician was knowledgeable, gentle, and took the time to understand my skin type and goals. My fa
+    source: "Google"
+  - author: "Yadira R."
+    rating: 5
+    date: "2025-07-05"
+    text: >-
+      Customer services are essential in maintaining positive interactions with every customer. Delivering a great experience is the key to customer satisfaction and loyalty. Professionalism reflects the standard of conduct expected when interacting with customers. Therefore, these aspects contribute to building trust and long-term relationships. Ultimately, focusing on these elements can significantly 
+    source: "Google"
+  - author: "Jose F."
+    rating: 5
+    date: "2023-02-14"
+    text: >-
+      Amazing experience! Super clean super professional. Super modern technology. Everyone who works there is super nice to you as soon as you enter. You feel welcome. I got a face clean and they really know how to work it out.  So glad I found this place
+    source: "Google"
+  - author: "Laila B."
+    rating: 5
+    date: "2025-12-07"
+    text: >-
+      I had a great experience at Medilight Center !! The costumer service are very nice , welcoming and attentive. 💯 recommended!!
+    source: "Google"
+logo: "/images/clinics/logos/medilight-aesthetic-clinic-doral.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

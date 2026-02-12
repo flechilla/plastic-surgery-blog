@@ -1,0 +1,60 @@
+name: "Doral Medical Aesthetics"
+slug: doral-medical-aesthetics
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "8725 NW 18th Terrace #102, Doral, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.7918377
+  lng: -80.3378681
+phone: "(305) 515-0285"
+website: "https://www.doralmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5875057306851252272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Doral Medical Aesthetics is a plastic surgery practice located in Doral, FL. With a 5-star rating from 116 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 116
+reviews:
+  - author: "Pat c."
+    rating: 5
+    date: "2026-01-20"
+    text: >-
+      From the moment I walked in, I felt genuinely welcomed. The entire team is incredibly sweet, attentive, and truly cares about making you feel comfortable and heard. The customer service is outstanding—thoughtful, professional, and full of positive energy. You can tell everyone loves what they do, and it shows in every interaction. This place is a gem, and I can’t recommend it enough!
+    source: "Google"
+  - author: "Rochelle P."
+    rating: 5
+    date: "2025-12-18"
+    text: >-
+      Booking my Morpheus8 treatment was very easy, and communication before my appointment was seamless. When I arrived at the office, the entire staff was welcoming and kind, which immediately made me feel comfortable.  While performing the treatment on my face, she took her time and never rushed. She made sure I was comfortable throughout the entire process and took the time to educate me every step 
+    source: "Google"
+  - author: "cathy e."
+    rating: 5
+    date: "2025-11-09"
+    text: >-
+      This is THE place to go to for incredible treatments. Maria is not only incredibly knowledgeable but such a pleasure to be treated by. I couldn’t think of going anywhere else. Her entire staff is so professional and the office is immaculate. I love the way my skin looks after my Morpheus treatments. I wish I could give a 10 instead of a 5
+    source: "Google"
+  - author: "ibis r."
+    rating: 5
+    date: "2025-12-05"
+    text: >-
+      Dr. Maria Fernanda, Beatriz, Sofia and Natalie offer the best service and are very positive.  Dr. Maria Fernanda takes the time to listen and offers the best treatments for your specific needs. The entire team makes you feel that you are a part of their family.
+    source: "Google"
+  - author: "heidi r."
+    rating: 5
+    date: "2025-02-01"
+    text: >-
+      Loved my treatment! María Fernanda and all the girls are amazing! Highly recommended if you want to feel pampered and have amazing results.
+    source: "Google"
+logo: "/images/clinics/logos/doral-medical-aesthetics.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

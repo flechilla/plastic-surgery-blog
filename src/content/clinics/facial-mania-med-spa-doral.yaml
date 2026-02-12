@@ -1,0 +1,60 @@
+name: "Facial Mania Med Spa Doral"
+slug: facial-mania-med-spa-doral
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "5645 NW 87th Ave #117, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.825769800000003
+  lng: -80.33688599999999
+phone: "(305) 509-8241"
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=9689528230177841374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Facial Mania Med Spa Doral is a plastic surgery practice located in Doral, FL. With a 4.7-star rating from 38 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 38
+reviews:
+  - author: "Kyle H."
+    rating: 5
+    date: "2025-08-26"
+    text: >-
+      I had the most incredible experience at Fascial Mania Med Spa Doral! From the moment I walked in, I was greeted with warmth and professionalism. The atmosphere is spotless, modern, and relaxing—instantly putting me at ease. My treatment was customized to my needs, and the attention to detail was beyond impressive. The staff is highly knowledgeable, explained every step, and made me feel completely
+    source: "Google"
+  - author: "Kathryn G."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      I had an amazing experience at Facial Mania Spa in Doral! My esthetician Eliany was absolutely wonderful !!! She is super gentle, knowledgeable, and took her time to explain each step of the facial. My skin felt so refreshed, clean, and glowing afterward. The atmosphere was relaxing from start to finish, and you can tell she really cares about her clients. Highly recommend booking with her if you 
+    source: "Google"
+  - author: "Maday C."
+    rating: 5
+    date: "2025-10-09"
+    text: >-
+      Mabel was amazing. I did a HydraOxygen Facial. She thoroughly explained everything on all my skin needs. Thankful for all her tips and suggestions.
+    source: "Google"
+  - author: "Uma I."
+    rating: 5
+    date: "2025-08-14"
+    text: >-
+      I just went to Facial Mania Med Spa Doral; what a wonderful place! I got my facial balancing and full face of tox done - booking was so fast and easy, my injector was knowledgeable and gentle. The place is very cute and the staff was hospitable. All the way around was such a great experience and worth investing into membership. I got a Diamond membership- and booked my hydro facial in 2 weeks! I a
+    source: "Google"
+  - author: "Adriana V."
+    rating: 5
+    date: "2025-11-14"
+    text: >-
+      Both Christina and a girl at the front desk made me feel super comfortable. They were very friendly and they provided me with all the information I needed to make a decision on what to do to myself. It was my first time and although I can’t see the final results yet, I know they’re gonna be amazing. See you guys in two weeks.
+    source: "Google"
+logo: "/images/clinics/logos/facial-mania-med-spa-doral.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

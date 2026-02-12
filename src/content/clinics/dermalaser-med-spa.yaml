@@ -1,0 +1,60 @@
+name: "Dermalaser Med Spa"
+slug: dermalaser-med-spa
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "10560 NW 27th St #102, Doral, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.7984439
+  lng: -80.3678462
+phone: "(305) 629-9064"
+website: "http://www.dermalaser.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18401235645519191179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Dermalaser Med Spa is a plastic surgery practice located in Doral, FL. With a 5-star rating from 271 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 271
+reviews:
+  - author: "Boo B."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      i have been a customer since 2015.Dermalaser has been very persistent in their high quality services and great customer service. Now my daughters are enjoying their services and products too. Stephany and Marisol will take great caer of your needs.
+    source: "Google"
+  - author: "Gerardo C."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      I’ve been a loyal client at Dermalaser for years, and I can confidently say it’s one of the best decisions I’ve made for my skin and self-care. Marisol and Stephanie bring exceptional expertise and genuine passion to every treatment—their combined experience shines through in the consistently outstanding results. What truly sets this place apart is the warm, welcoming atmosphere: from the moment y
+    source: "Google"
+  - author: "Malena"
+    rating: 5
+    date: "2025-11-01"
+    text: >-
+      I’m so glad I found Dermalaser. From the start, I felt completely at ease. Liz at the front desk is super friendly, and Marisol, the owner and my laser tech, is amazing. She is warm, professional, and clearly knows what she is doing. We are both from Honduras, which made me feel even more at home. I actually passed on a cheaper quote elsewhere because I trusted Marisol’s experience and felt genuin
+    source: "Google"
+  - author: "Kate A."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      I had such a great experience at Dermalaser Med Spa! Stephanie treated me wonderfully—she was kind, professional, and made me feel completely comfortable throughout the process. What really stood out were the amazing deals I received. It never felt overpriced or out of reach, which I really appreciated. I’m so happy I found this place and will definitely be coming back since I bought a membership 
+    source: "Google"
+  - author: "Mariemilia C."
+    rating: 5
+    date: "2025-12-09"
+    text: >-
+      This place is truly magical. From the moment you walk in, you can feel the stress melt away and a wave of calm take over. Marisol has a gift—not only does she make your skin glow, she makes your soul smile. Her attention to detail, her gentle energy, and the way she makes you feel cared for is unmatched. I walked out feeling refreshed, radiant, and completely renewed.  10/10 recommend — this is se
+    source: "Google"
+logo: "/images/clinics/logos/dermalaser-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

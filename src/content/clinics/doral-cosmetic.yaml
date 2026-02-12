@@ -1,0 +1,60 @@
+name: "Doral Cosmetic"
+slug: doral-cosmetic
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "8249 NW 36th St #104, Doral, FL 33166"
+zipCode: "33166"
+coordinates:
+  lat: 25.8103339
+  lng: -80.3307978
+phone: "(786) 953-7209"
+website: "https://doralcosmetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14553485685416597976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Doral Cosmetic is a plastic surgery practice located in Doral, FL. With a 4.9-star rating from 61 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 61
+reviews:
+  - author: "Glenda E. M."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      This is an amazing place with amazing people who really know to treat you and really know your needs. They have a variety of treatments. Omar at the front desk he is the best, always helpful and nice. I highly recommend this place.
+    source: "Google"
+  - author: "Lisandra A. (."
+    rating: 5
+    date: "2025-06-04"
+    text: >-
+      Excellent place, this is my second time, love how natural my face looks after the treatment affordable price and the personal experience are amazing! Highly recommend it ! Excellente lugar y servicio
+    source: "Google"
+  - author: "Nadia Y."
+    rating: 1
+    date: "2024-11-27"
+    text: >-
+      GOOD LUCK trying to get an appointment.  I have called, emailed, and when that didn't work (with no return call of course) I booked on their website.  I showed up yesterday for my appointment, and the door's locked.  I called to let them know I was there, and of course no answer.  BEYOND ridiculous (and I hate leaving bad reviews)..but you've been warned.  Go find somewhere else, that you don't ha
+    source: "Google"
+  - author: "Yai G."
+    rating: 5
+    date: "2023-05-03"
+    text: >-
+      I came to this beautiful location with high hopes based on these amazing reviews and I am so glad I did! I had weight loss injections and laser which was done extremely professionally and efficiently. Doral cosmetics has helped me achieve my dream body and I’m beyond happy with their services! Will be recommending to all my friends.
+    source: "Google"
+  - author: "Glori P."
+    rating: 5
+    date: "2023-05-27"
+    text: >-
+      I came to Doral Cosmetic, to have done the Dysport treatment Amazing service and lovely people, they make you feel very welcomed. Even though this was not my first time having this treatment it was the first time having this treatment at this location,  and the Doctor took her time explaining all the procedure. I will definitely be back. I recommend them.
+    source: "Google"
+logo: "/images/clinics/logos/doral-cosmetic.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

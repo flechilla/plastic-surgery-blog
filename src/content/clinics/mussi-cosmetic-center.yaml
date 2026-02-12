@@ -1,0 +1,31 @@
+name: "Mussi Cosmetic Center"
+slug: mussi-cosmetic-center
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2001 NW 107th Ave, Doral, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.7920096
+  lng: -80.36825739999999
+phone: ""
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=9491726570503830359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Mussi Cosmetic Center is a plastic surgery practice located in Doral, FL.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 0
+reviewCount: 0
+reviews:
+
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

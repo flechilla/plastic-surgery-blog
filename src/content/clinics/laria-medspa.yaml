@@ -1,0 +1,60 @@
+name: "Laria MedSpa"
+slug: laria-medspa
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "5751 Bird Rd Suite A, Miami, FL 33155"
+zipCode: "33155"
+coordinates:
+  lat: 25.7347322
+  lng: -80.2878327
+phone: "(305) 299-7290"
+website: "https://lariamedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=11777612678120189331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Laria MedSpa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 348 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 348
+reviews:
+  - author: "Gabriela G. P."
+    rating: 5
+    date: "2025-10-28"
+    text: >-
+      Laria Spa – Amazing Facial! I had the best facial experience at Lara Spa! The atmosphere is relaxing and elegant, and the staff is incredibly professional and caring. My skin felt deeply cleansed, hydrated, and glowing afterward. Truly a luxurious experience — I can’t wait to go back! 💆‍♀️✨
+    source: "Google"
+  - author: "E L."
+    rating: 5
+    date: "2025-08-31"
+    text: >-
+      Absolutely impressed with this medical spa! The level of care and professionalism is outstanding. The staff truly go above and beyond to make you feel comfortable, and they only use high-quality products that deliver amazing results. The treatments are top-notch, and you can really see how much they value their clients. Highly recommend to anyone looking for excellent beauty services and genuine c
+    source: "Google"
+  - author: "Sony B."
+    rating: 5
+    date: "2025-08-31"
+    text: >-
+      Very impressed with this spa! High of care and professionalism. The staff go above and beyond they only use high-quality products that deliver amazing results. The treatments are excellent. Highly recommend to anyone looking for excellent beauty services and genuine customer care!
+    source: "Google"
+  - author: "Suzoo S."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      First time visiting this business and I was truly impressed & will return.  The location is centrally located with ample parking.  The offices are neat and clean.  The staff are very personable & professional.  Definitely consider them for all your skincare needs.
+    source: "Google"
+  - author: "Isabela U. C."
+    rating: 5
+    date: "2025-04-17"
+    text: >-
+      Live in NYC have been to every single place there (Lara Dvegan, Yulia Gerschnik, Rescue Spa, JTav, Daphne) and quite frankly NONE of it compares to Laria. The level of care, service, expertise, quality of products, and most importantly the LOVE by which they do everything. I now come to visit my parents more often so I can also go to Laria to get everything done. Best kept secret!!!!!!!!! I like t
+    source: "Google"
+logo: "/images/clinics/logos/laria-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

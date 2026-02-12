@@ -1,0 +1,60 @@
+name: "Daly's MedSpa"
+slug: daly-s-medspa
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "10560 NW 27th St suite 102 C, Doral, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.7984789
+  lng: -80.3678224
+phone: "(305) 877-0176"
+website: "https://blrux.myaestheticrecord.com/online-booking"
+googleMapsUrl: "https://maps.google.com/?cid=15658828434325025320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Daly's MedSpa is a plastic surgery practice located in Doral, FL. With a 5-star rating from 17 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 17
+reviews:
+  - author: "Estelle M. V."
+    rating: 5
+    date: "2025-06-19"
+    text: >-
+      ⭐⭐⭐⭐⭐  I had an incredible experience with Daly's MedSpa,  and I couldn’t be more grateful for her exceptional care and support. From the moment I reached out, she was professional, compassionate, knowledgeable and attentive to my needs. She took the time to understand my health concerns and provided personalized solutions that truly made a difference.  Thanks to her expertise and dedication, I am
+    source: "Google"
+  - author: "Adrian M."
+    rating: 5
+    date: "2025-06-19"
+    text: >-
+      Dalila is incredibly knowledgeable and truly goes above and beyond for her patients. She takes the time to understand your needs and makes sure you feel supported every step of the way. Her dedication and compassion are evident in everything she does. Highly recommend!
+    source: "Google"
+  - author: "Rebecca J."
+    rating: 5
+    date: "2025-06-19"
+    text: >-
+      What a wonderful experience with Dalila! She takes her time to truly listen and create a plan that’s completely tailored to you. She explains everything with such kindness and endless patience, making you feel completely cared for and at ease throughout the entire process. I couldn’t recommend her more!
+    source: "Google"
+  - author: "Juan A. S."
+    rating: 5
+    date: "2025-06-19"
+    text: >-
+      I wholeheartedly endorse Daly's Med Spa for their outstanding care and dedication to their patients. The team's expertise and compassion have been instrumental in not only maintaining my health but also significantly improving my quality of life, especially after my transplant. Their in-depth knowledge of medicine and personalized approach have been invaluable in my recovery and ongoing well-being
+    source: "Google"
+  - author: "Beverly G."
+    rating: 5
+    date: "2025-07-08"
+    text: >-
+      Genuinely, if you are interested in meeting someone who has your best interest at top of mind, actively listens to you and helps you become the best version of yourself (internally and externally), Dalila is your person and Daly’s MedSpa is where to go! Cannot recommend enough! I would give 10 stars if I could!
+    source: "Google"
+logo: "/images/clinics/logos/daly-s-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

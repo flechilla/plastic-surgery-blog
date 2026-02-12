@@ -1,0 +1,60 @@
+name: "Avana Plastic Surgery"
+slug: avana-plastic-surgery
+city: hialeah
+cityDisplay: "Hialeah"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "7802 NW 103rd St suite 106, Hialeah, FL 33016"
+zipCode: "33016"
+coordinates:
+  lat: 25.866498
+  lng: -80.324972
+phone: "(786) 461-1003"
+website: "https://avanaplasticsurgery.com/hialeah-gardens"
+googleMapsUrl: "https://maps.google.com/?cid=6919212913034966561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Avana Plastic Surgery is a plastic surgery practice located in Hialeah, FL. With a 4.8-star rating from 250 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 250
+reviews:
+  - author: "Destiny p."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      I chose avan plastic surgery for my bbl revision .I had a bbl 2 years ago at what I would consider a chop shop. I originally booked with a plastic surgery center in miami lakes, pick my surgeon paid up front for my surgery and picked a day the doctor works. Once I showed up for my pre op , mind you I traveled from Wisconsin,  they told me my surgeon doesn't work on Thursday which I was furious sin
+    source: "Google"
+  - author: "Diana J."
+    rating: 5
+    date: "2025-10-07"
+    text: >-
+      Without a doubt, the best clinic 100%. From the very first moment, I received impeccable care from a professional team that made me feel safe and cared for at all times. I wouldn’t change my choice for anything ,it was truly the best decision I could have made.  Dr. Stephanie Luster is an amazing surgeon with incredible talent and a warm, human touch that makes all the difference. I also want to h
+    source: "Google"
+  - author: "Alanis R."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      I loved my experience here at Avana Plastic Surgery. The treatment of all staff was amazing. They were very attentive, supportive, helpful and friendly. Any questions I ever had I just gave them a call and they were there to help. I felt so comfortable with everything because of their amazing treatment! Thank you so much for everything. I loved my results as well. Dr Shane McDaniel was the best ev
+    source: "Google"
+  - author: "Jess"
+    rating: 5
+    date: "2025-11-05"
+    text: >-
+      Had a great experience here. The facility is very clean and aesthetically pleasing. Even though it was busy, the staff was friendly, organized, and helpful, I really can’t say enough about the staff, from the girls at the front to the girls in the back, the masseuses, anesthesiologist, and Dr. I  Felt very comfortable the whole time. I highly recommend Avana. They also offer many services other th
+    source: "Google"
+  - author: "Doni C."
+    rating: 5
+    date: "2025-10-21"
+    text: >-
+      Avana was so organized! I saw my Dr Luster quite a few times and she was available for any questions. My massages were good and i was seen promptly. I love my results if i was to come back i would choose them again!
+    source: "Google"
+logo: "/images/clinics/logos/avana-plastic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Meridian Cosmetic By Dr Ron DeMeo MD"
+slug: meridian-cosmetic-by-dr-ron-demeo-md
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: "Coral Way"
+address: "2801 SW 3rd Ave 3rd floor, Miami, FL 33129"
+zipCode: "33129"
+coordinates:
+  lat: 25.753828799999997
+  lng: -80.20988720000001
+phone: "(305) 695-1506"
+website: "https://meridiancosmetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=5498881695765234551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Meridian Cosmetic By Dr Ron DeMeo MD is a plastic surgery practice located in Miami, FL. With a 4.2-star rating from 79 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.2
+reviewCount: 79
+reviews:
+  - author: "Madelene L. D. G."
+    rating: 5
+    date: "2025-12-28"
+    text: >-
+      I’ve been a patient of Dr. De Meo for many years, and I couldn’t be more grateful for the care he provides. He handles my medical Botox treatments for migraines, along with other aesthetic procedures, and the results have always been excellent. The entire staff is professional, polite, and truly makes you feel cared for from the moment you walk in.  My husband also sees Dr. De Meo for his knee, sh
+    source: "Google"
+  - author: "Phokham S."
+    rating: 5
+    date: "2025-09-26"
+    text: >-
+      I’ve been coming to Dr. Ron for years and I can honestly say he is the BEST in Miami! His technique is flawless, natural, and he always knows exactly what I need to look refreshed without overdoing it. He takes the time to explain everything, makes me feel completely comfortable, and his results are consistently amazing. I trust him 100%—wouldn’t let anyone else touch my face! If you’re looking fo
+    source: "Google"
+  - author: "Paulina A."
+    rating: 5
+    date: "2024-11-27"
+    text: >-
+      I recently had the pleasure of visiting Dr. Ron for a PDO thread lift procedure, and I can't express enough how amazing he is! From the moment I met him, I felt a genuine sense of trust. Before my appointment with Dr. Ron, I consulted with another provider whose pricing was quite tempting, but I didn’t feel comfortable moving forward with them. Trusting my instincts turned out to be the best decis
+    source: "Google"
+  - author: "Justine P."
+    rating: 5
+    date: "2025-09-25"
+    text: >-
+      Hands down best Doctor! Not only is he extremely educated and very knowledgeable about everything that he does, but he’s extremely passionate About his patience and his work! I wouldn’t trust anyone else!
+    source: "Google"
+  - author: "lauren E."
+    rating: 5
+    date: "2024-07-09"
+    text: >-
+      Dr. Ron is an outstanding cosmetic surgeon! I had a the Next Level face and neck lift and the results are beyond my wildest dreams. He is not only highly skilled but also very kind and understanding. The entire staff made the process smooth and stress-free. I appreciated the detailed explanations and the genuine care they provided. I highly recommend Dr. Ron to anyone looking to enhance their appe
+    source: "Google"
+logo: "/images/clinics/logos/meridian-cosmetic-by-dr-ron-demeo-md.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

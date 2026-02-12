@@ -1,0 +1,60 @@
+name: "Soleil Med Spa"
+slug: soleil-med-spa
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "10570 NW 27th St STE H102, Doral, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.798237200000003
+  lng: -80.3678927
+phone: "(305) 963-8237"
+website: "https://linktr.ee/soleilbeautyspa91"
+googleMapsUrl: "https://maps.google.com/?cid=16514258076812061991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Soleil Med Spa is a plastic surgery practice located in Doral, FL. With a 4.7-star rating from 89 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 89
+reviews:
+  - author: "Bruna A."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      I went for laser hair removal. Excellent service, staff super friendly, clean facility. Felt really welcomed. Did full body hair removal it was quick and painless. Can’t wait for the final results ☺️
+    source: "Google"
+  - author: "Digna M."
+    rating: 5
+    date: "2025-11-22"
+    text: >-
+      Nice place, clean, very professional, friendly, and the prices are incredibly low. Delianis was the person who performed my laser, she is very kind and knowing the procedure she is doing. I recommend Soleil 💯
+    source: "Google"
+  - author: "Livan L."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      I’m loving my results with Soleil Med Spa, the service is amazing it’s professional and it’s effective. Delianys does a great job when I go there for my sessions
+    source: "Google"
+  - author: "Elizabeth Y."
+    rating: 5
+    date: "2025-11-19"
+    text: >-
+      Excellent laser hair removal service. The staff is professional, attentive, and explains everything clearly. The place is clean, modern, and the results are noticeable from the first sessions. Highly recommended.
+    source: "Google"
+  - author: "Sebastien A."
+    rating: 5
+    date: "2025-07-29"
+    text: >-
+      I had a PRP session for my hair at Soleil Med Spa, and I couldn’t be happier with the results. From the moment I walked in, I felt welcomed and well taken care of. Brenda was absolutely fantastic — incredibly caring, professional, and gentle throughout the entire process. She explained everything in detail and made sure I was comfortable every step of the way.  The results have been amazing — I’ve
+    source: "Google"
+logo: "/images/clinics/logos/soleil-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

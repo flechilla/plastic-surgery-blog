@@ -1,0 +1,60 @@
+name: "Beyond Health Medspa"
+slug: beyond-health-medspa
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "10344 W Flagler St, Miami, FL 33174"
+zipCode: "33174"
+coordinates:
+  lat: 25.7678869
+  lng: -80.3647012
+phone: "(786) 359-4068"
+website: "https://www.beyondhealthmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=6623113387393590563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Beyond Health Medspa is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 276 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 276
+reviews:
+  - author: "Judith M."
+    rating: 5
+    date: "2025-11-28"
+    text: >-
+      After a long search, I decided to go to Beyond because, in my opinion, Dr. Lillian seemed professional and trustworthy. I must say I was not mistaken. The process was easy, and I’ve already begun to see results, although depending on the procedure, it may take months for them to become fully visible. If someone asked me for advice, I’d tell them to research beforehand to make sure they are truly a
+    source: "Google"
+  - author: "Fanny M."
+    rating: 1
+    date: "2026-01-26"
+    text: >-
+      My experience was unacceptable and unprofessional behavior from the person handling instagran before even my appointment day scheduled for Feb 13 at 2pm, today on intagram I asked are the results permanent? Their answer was " not a single cosmetic treatment in the world is permanent" and very respectful I replied, well I hoped for a nicer response from your business instead of your defensive reply
+    source: "Google"
+  - author: "Gamal E."
+    rating: 5
+    date: "2025-12-23"
+    text: >-
+      Great experience at Beyond Health Medspa. I came in for IV therapy and everything was smooth from start to finish. The staff was professional, knowledgeable, and made me feel comfortable the entire time. The space was clean and relaxing, and they explained the process clearly. I felt refreshed afterward and will definitely be coming back. Highly recommend.
+    source: "Google"
+  - author: "Dennis F."
+    rating: 5
+    date: "2025-12-17"
+    text: >-
+      i’ve always been on the little chubby side and loosing weight has been an issue. If you want to feel safe and on good hands beyond is the place to go. i got a weight loss treatment and the process was smoother than butter bro. the team was awesome, super kind and professional. i feel so confident and im not ashamed that i received help from beyond. 100% would do it again if i had to again. thank y
+    source: "Google"
+  - author: "sonuhbruan"
+    rating: 5
+    date: "2025-12-20"
+    text: >-
+      For YEARS, I’ve been struggling with acne issues, trying countless products and treatments with little to no success. From the very first visit, Dr. Lillian made me feel heard and understood. She took the time to really assess my skin, explain what was going on, and create a treatment plan that actually worked for me. Thanks to her expertise, patience, and genuine care, my skin has improved so muc
+    source: "Google"
+logo: "/images/clinics/logos/beyond-health-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

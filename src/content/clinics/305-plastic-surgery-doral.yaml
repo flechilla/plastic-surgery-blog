@@ -1,0 +1,60 @@
+name: "305 Plastic Surgery Doral"
+slug: 305-plastic-surgery-doral
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "10305 NW 58th St 3rd Floor, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.826513
+  lng: -80.3637619
+phone: "(305) 209-1030"
+website: "https://305plasticsurgery.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=8859166407886158799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  305 Plastic Surgery Doral is a plastic surgery practice located in Doral, FL. With a 3.9-star rating from 22 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 3.9
+reviewCount: 22
+reviews:
+  - author: "Ityra J."
+    rating: 5
+    date: "2025-12-16"
+    text: >-
+      My experience from beginning to end was absolutely pleasant. From the time I left a deposit to the very end when I had my last massage. All of the staff is so pleasant and kind. I had lipo 360 with Dr.Sadio and she is so pleasant and also the anesthesiologist that worked alongside her they were both so very warm and made me feel safe going under. Dr.Sadio shaped me so well. The staff that helped m
+    source: "Google"
+  - author: "T-Lo"
+    rating: 1
+    date: "2026-01-26"
+    text: >-
+      I had a deplorable experience with 305 plastic surgery from beginning to currently.  This involves fraudulent pricing, doctor mix ups, unprofessionalism, mediocre procedures, sexual assault and lack of aftercare practices. Let me start by saying I had a BBL in 2015, lipo in 2021 and a tummy tuck in 2022 all in Houston.  I am not new to plastic surgery.  I researched Dr Sadio for months and saw her
+    source: "Google"
+  - author: "Caridad A."
+    rating: 5
+    date: "2025-09-23"
+    text: >-
+      My experience at 305 has been absolutely amazing! From the very first consultation, the staff made me feel comfortable, informed, and truly cared for. The doctors are highly skilled, attentive, and take the time to answer every question with patience. The clinic itself is modern, clean, and welcoming. My results exceeded my expectations, and I couldn’t be happier with the care I received. I highly
+    source: "Google"
+  - author: "Joe"
+    rating: 1
+    date: "2026-01-01"
+    text: >-
+      Wouldn’t recommend this place at all. Everybody is nice to you before you pay and after your procedure your out the door right away they don’t care about you at all. They would also try to charge more money when you get there even though they said everything is included. The doctors are nice but the staffs are rude and careless . Especially post-op the nurses don’t ever answer your questions or co
+    source: "Google"
+  - author: "Catherin G. F. P."
+    rating: 5
+    date: "2025-09-24"
+    text: >-
+      I had a very positive experience with 305 Plastic Surgery. The facility is well-kept and welcoming, the staff was always supportive, and the doctors were professional and reassuring. I’m pleased with my results and feel confident recommending this clinic.
+    source: "Google"
+logo: "/images/clinics/logos/305-plastic-surgery-doral.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -52,7 +52,7 @@ reviews:
     text: >-
       I’m in love with the results from my surgery !! The staff were all so welcoming and sweet. They made me feel safe and heard throughout the whole process. The apartments were also amazing and I would definitely recommend to other patients!
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/daso-plastic-surgery.jpg"
+logo: "/images/clinics/logos/daso-plastic-surgery.jpg"
 yearEstablished: null
 certifications: []
 verified: false

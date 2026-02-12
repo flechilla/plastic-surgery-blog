@@ -1,0 +1,60 @@
+name: "GLANZ Endocrinology | Aesthetics | Wellness"
+slug: glanz-endocrinology-aesthetics-wellness
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "2000 NW 87th Ave Suite 201, Doral, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.7930298
+  lng: -80.3376143
+phone: "(305) 434-8358"
+website: "http://glanzendocrinology.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+googleMapsUrl: "https://maps.google.com/?cid=9634434420996575822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  GLANZ Endocrinology | Aesthetics | Wellness is a plastic surgery practice located in Doral, FL. With a 4.9-star rating from 229 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 229
+reviews:
+  - author: "IBELIS F."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      Dr. Rivera and her staff were excellent! They were very amicable and patient with me. They always assist and explain everything very well. Her office is up to date with technology which is amazing because she doesn't waste time with paperwork and my appointment goes so much smoother! I highly recommend her above all other doctors!
+    source: "Google"
+  - author: "Laurie A. v. W."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      Dr Rivera has been an incredible help in getting my hormones balanced, and I'm truly grateful for her care. She took the time to review my blood work thoroughly and recommend natural supplements tailored to my needs. She is very easy to talk to, answers all of my questions, and never rushes through appointments, which is something I really value. Scheduling was simple, and her staff is consistentl
+    source: "Google"
+  - author: "Stephanie V."
+    rating: 5
+    date: "2026-01-27"
+    text: >-
+      Excellent experience with Dr. Rivera. Very knowledgeable, patient, and truly listens. Took the time to explain everything clearly and made me feel comfortable and cared for. Front desk Johana was great from the first call I made to make an appt. Highly recommend!
+    source: "Google"
+  - author: "Priscilla T."
+    rating: 5
+    date: "2025-12-11"
+    text: >-
+      Dr. Rivera is truly an exceptional endocrinologist. From the moment I walked into her office, I felt heard, understood, and cared for. She takes the time to listen to every concern, explains complex medical information in a way that is easy to understand, and never rushes through appointments. Her depth of knowledge in thyroid and hormone disorders is unmatched, and her treatment plans are always 
+    source: "Google"
+  - author: "Yanira A."
+    rating: 5
+    date: "2025-12-03"
+    text: >-
+      I am incredibly grateful for the exceptional care Dr. Linette Rivera has provided in helping me manage my diabetes. From the very first appointment, she took the time to truly listen, explain my condition in a way I could understand, and create a treatment plan tailored specifically to my needs. Her compassion, patience, and expertise have made a life-changing difference in my health.  I highly re
+    source: "Google"
+logo: "/images/clinics/logos/glanz-endocrinology-aesthetics-wellness.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

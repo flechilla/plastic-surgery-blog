@@ -1,0 +1,60 @@
+name: "Miami Elegance Medspa"
+slug: miami-elegance-medspa
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "1701 NW 112th Ave ste 107, Miami, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.790252199999998
+  lng: -80.3764575
+phone: "(305) 992-7667"
+website: "https://miamielegance.com/"
+googleMapsUrl: "https://maps.google.com/?cid=14443671646556630501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Elegance Medspa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 187 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 187
+reviews:
+  - author: "Gerardo Z."
+    rating: 5
+    date: "2026-01-12"
+    text: >-
+      I had a great experience at Miami Elegance. From the moment you walk in, the atmosphere feels calm, clean, and very well organized. The staff is professional, welcoming, and genuinely attentive, which makes the entire visit feel comfortable and stress free.  Everything is handled with care and attention to detail, and you can tell that procedures are done thoughtfully and with a strong focus on qu
+    source: "Google"
+  - author: "Belkys C."
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      I absolutely love Miami Elegance MedSpa! The staff is amazing, everyone is so kind, professional, and makes you feel truly cared for. The prices are more than affordable, especially for the quality of the treatments. I’ve had my lips done at other places before, but this time I truly loved my results. This has been my favorite experience so far, and I will definitely be coming back. Highly recomme
+    source: "Google"
+  - author: "Ubaldo B."
+    rating: 5
+    date: "2026-01-06"
+    text: >-
+      I’ve been coming to Miami Elegance MedSpa regularly and I honestly couldn’t be happier. I get Botox here and also do monthly IV therapy. Before starting the IVs, I was getting sick all the time, but since I’ve been doing them consistently, I hardly ever get sick anymore. The staff is professional, knowledgeable, and makes the whole experience easy and comfortable. The prices are very reasonable, a
+    source: "Google"
+  - author: "GLENDA G."
+    rating: 5
+    date: "2025-07-27"
+    text: >-
+      Absolutely loved my experience at this med spa! My lips came out perfect—natural, plump, and exactly what I wanted. The staff was so professional and made me feel super comfortable. Highly recommend!
+    source: "Google"
+  - author: "Evelyn C."
+    rating: 5
+    date: "2025-07-27"
+    text: >-
+      I LOVE THIS PLACE! Annette has the most gentle hands, the office is beautiful and clean! and the staff all treat you like family and walk you thru the whole process as many times as you need! i would recommend this place with my eyes closed 100 times.
+    source: "Google"
+logo: "/images/clinics/logos/miami-elegance-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

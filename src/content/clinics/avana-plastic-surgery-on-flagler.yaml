@@ -52,7 +52,7 @@ reviews:
     text: >-
       I love my doctor and I'm happy with my results but the follow through before and after with the team is bad bad. It's so bad that it makes u feel unsure you are doing the  right thing when asking for a refund or a second round because u desire your dream body and that's sad because they are sweet in person .. I have to go through the stress of calling every day 3 times a day and get the run around
     source: "Google"
-logo: "https://conhwvd8egte8rkr.public.blob.vercel-storage.com/images/clinics/logos/avana-plastic-surgery-on-flagler.jpg"
+logo: "/images/clinics/logos/avana-plastic-surgery-on-flagler.jpg"
 yearEstablished: null
 certifications: []
 verified: false

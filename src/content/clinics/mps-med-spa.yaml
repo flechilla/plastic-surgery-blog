@@ -1,0 +1,42 @@
+name: "MPS Med Spa"
+slug: mps-med-spa
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "9408 SW 87th Ave Suite 301, Miami, FL 33176"
+zipCode: "33176"
+coordinates:
+  lat: 25.6821584
+  lng: -80.3358456
+phone: "(305) 203-1424"
+website: "http://www.miamiplasticsurgery.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18067339087216753134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  MPS Med Spa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 2 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 2
+reviews:
+  - author: "TONY R."
+    rating: 5
+    date: "2020-06-30"
+    text: >-
+      Dr Kelly and his staff are extremely profesional, his office is complying with the new regulations and norms and during my visits I have always felt extremely safe. I have always had wonderful experiences and results during my treatments with Dr. Kelly and his staff.  Highly recommended !!! I love them !!! Maria Raide😀😷👍
+    source: "Google"
+  - author: "jorge h."
+    rating: 5
+    date: "2020-07-01"
+    text: >-
+      
+    source: "Google"
+logo: "/images/clinics/logos/mps-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

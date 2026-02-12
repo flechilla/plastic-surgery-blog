@@ -1,0 +1,60 @@
+name: "Miami Life Cosmetic Center Plantation"
+slug: miami-life-cosmetic-center-plantation
+city: plantation
+cityDisplay: "Plantation"
+state: FL
+stateFullName: Florida
+county: "Broward County"
+neighborhood: ""
+address: "1725 N University Dr, Plantation, FL 33322"
+zipCode: "33322"
+coordinates:
+  lat: 26.1476501
+  lng: -80.25770159999999
+phone: "(305) 507-8848"
+website: "https://miamilifecosmetic.com/"
+googleMapsUrl: "https://maps.google.com/?cid=4149297131490832773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Life Cosmetic Center Plantation is a plastic surgery practice located in Plantation, FL. With a 4.7-star rating from 101 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.7
+reviewCount: 101
+reviews:
+  - author: "Ms C."
+    rating: 5
+    date: "2026-01-15"
+    text: >-
+      Dr James Mcadoo is the best cosmetic surgeon in Miami This wasn’t my first, second, or even third cosmetic surgery, but this was my best experience. From the very beginning, everything went smoothly. Scheduling was easy, the pricing was affordable There were a couple times it was hard to reach the office, but they always called me back They're not like other cosmetic centers.. when they get your m
+    source: "Google"
+  - author: "Blake M."
+    rating: 5
+    date: "2026-01-29"
+    text: >-
+      SNATCH ME, PLEASE! I just had a fantastic experience at Miami Life Cosmetic, Plantation and I’m thrilled to share it with you! They’re an incredible surgical center in South Florida, and I’ve had the pleasure of working with them multiple times.  Over six months ago, Dr. Mcadoo performed a tummy tuck on me. I was a bit nervous about the possibility of scarring or recovery, but Dr. Mcadoo and his a
+    source: "Google"
+  - author: "aleksandra c."
+    rating: 5
+    date: "2025-11-07"
+    text: >-
+      I had wonderful experience with Miami plastic plantation. Doctor Kagan is very kind and has a great bedside manner , he listened what I wanted carefully and he 100% delivered it. He also made sure I received my post op instructions. I’m currently 4 days post op but I love my results already! Lisa was my anesthesiologist- very attentive and sweet , she made me feel at ease and stress free . Everyon
+    source: "Google"
+  - author: "Daniela R."
+    rating: 5
+    date: "2025-12-01"
+    text: >-
+      I recently had my procedure done with Dr. Kagan at Miami Life, and I honestly couldn’t be happier with my results. From the moment I walked in, the team made me feel comfortable, informed, and genuinely cared for.Dr. Kagan is a true artist. He explained everything with patience, listened to what I wanted, and delivered results that were even better than what I imagined. His precision, confidence, 
+    source: "Google"
+  - author: "Faith A."
+    rating: 4
+    date: "2025-12-21"
+    text: >-
+      I’m almost 2 months po breast reduction with Dr Kagan and I love my results. Dr Kagan was nice and the follow up calls/check-ins from the staff were very nice even up till my 1 month mark they still called to check in on me. I had a minor complication with an opening on my incision which the staff immediately scheduled a FaceTime call with me (I’m out of state) and Kagan where he was able to advis
+    source: "Google"
+logo: "/images/clinics/logos/miami-life-cosmetic-center-plantation.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

@@ -1,0 +1,60 @@
+name: "Marino Wellness & Medspa"
+slug: marino-wellness-medspa
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "3399 NW 72nd Ave #107, Doral, FL 33122"
+zipCode: "33122"
+coordinates:
+  lat: 25.8058177
+  lng: -80.31251879999999
+phone: "(786) 566-1688"
+website: "https://marinowellnessmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=12348550431370144137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Marino Wellness & Medspa is a plastic surgery practice located in Doral, FL. With a 5-star rating from 89 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 89
+reviews:
+  - author: "Eddie S."
+    rating: 4
+    date: "2025-08-26"
+    text: >-
+      Lisbeth was amazing. She explained the good and the bad about this journey I’m about to make. I felt comfortable with the first time visit. Very confident that I will accomplish my goal. Will pass on the word about Marino Wellness
+    source: "Google"
+  - author: "Sheila C."
+    rating: 5
+    date: "2024-10-29"
+    text: >-
+      I received my package!! Im very excited! Everything came in perfect condition. Dr.Marino @ Marino Wellness & Spa is very attentive since day 1. I highly recommend! If i could give 10 stars I would!
+    source: "Google"
+  - author: "Raul J. C. R."
+    rating: 5
+    date: "2025-09-01"
+    text: >-
+      Awesome place to relax and get the best treatment possible. Highly recommend the full facial. I will definitely come back.
+    source: "Google"
+  - author: "Susan W. B."
+    rating: 5
+    date: "2023-06-27"
+    text: >-
+      Today Lisbeth administered an Immune Booster, it was an over all Amazing experience, 5 starts in service, convenient and the best treatment, i feel better already. Recommend 150 % and awesome for health and wellness.
+    source: "Google"
+  - author: "Marguina F."
+    rating: 5
+    date: "2025-01-30"
+    text: >-
+      I've been using them for the last month and I couldn't be happier. I live out of state and get my meds on time. Lisbeth is a doll. Very patient, always trying to help you so your progress of losing those unwanted pounds are easy and smooth. Thank you! I just order my second dose and looking forward to more pounds away. Recommend them 100%
+    source: "Google"
+logo: "/images/clinics/logos/marino-wellness-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

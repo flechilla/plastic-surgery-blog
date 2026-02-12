@@ -1,0 +1,60 @@
+name: "Beauty Empire Med Spa"
+slug: beauty-empire-med-spa
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "3601 NW 107th Ave unit 103, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.8074837
+  lng: -80.36843350000001
+phone: "(305) 967-8555"
+website: "http://www.thebeautyempirespa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=7548871727691570018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Beauty Empire Med Spa is a plastic surgery practice located in Doral, FL. With a 4.9-star rating from 33 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 33
+reviews:
+  - author: "Paola A. P. d."
+    rating: 5
+    date: "2024-10-22"
+    text: >-
+      I’ve been coming to this spa since it opened, and honestly, I haven’t felt the need to look for another place. This spa has everything you need to feel at home: professionalism, great customer service, and good prices (they’re always offering deals and specials). I’ve done IV therapy, facials, PRP, laser hair removal, and Botox, and all of them have been excellent! Don’t hesitate to visit!
+    source: "Google"
+  - author: "Ted M."
+    rating: 5
+    date: "2024-01-10"
+    text: >-
+      "Paula provided an exceptional laser treatment! Her professionalism and expertise were evident throughout the session. She was attentive, knowledgeable, and ensured a comfortable experience. I'm highly satisfied with the results and would definitely recommend her services to others."
+    source: "Google"
+  - author: "Eduardo P."
+    rating: 5
+    date: "2025-06-11"
+    text: >-
+      The best place I’ve ever found in Miami. Everyone is so friendly and welcoming. I’m more than satisfied with my results!
+    source: "Google"
+  - author: "valentina d."
+    rating: 5
+    date: "2024-01-11"
+    text: >-
+      Beautiful spa with calming energy. I got lazer with Paula and she guided me with each thing she was going to do and it was mostly painless with her skilled hand. Paula and all the staff were extremely welcoming and friendly.
+    source: "Google"
+  - author: "Barbaro S."
+    rating: 5
+    date: "2022-02-04"
+    text: >-
+      Incredible service ladies!! Thank you. My face feels amazing. I am so looking forward to my next appointment. I highly recommend to give this spa a try!
+    source: "Google"
+logo: "/images/clinics/logos/beauty-empire-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

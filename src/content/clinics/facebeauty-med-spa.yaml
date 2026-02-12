@@ -1,0 +1,60 @@
+name: "FaceBeauty Med Spa"
+slug: facebeauty-med-spa
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "10305 NW 41st St suite 203, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.812271
+  lng: -80.36265499999999
+phone: "(786) 780-1180"
+website: "https://www.fbmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3472795732622970808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  FaceBeauty Med Spa is a plastic surgery practice located in Doral, FL. With a 5-star rating from 299 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 299
+reviews:
+  - author: "Ellen I."
+    rating: 5
+    date: "2025-03-01"
+    text: >-
+      I had an amazing experience FaceBeauty! The place is beautiful, well-maintained, and has a relaxing atmosphere. They use high-quality products, which makes all the difference. The entire team is extremely attentive and professional, always ensuring that clients feel comfortable.  A special mention to Mildred—she is not only an excellent professional but also incredibly careful, detail-oriented, an
+    source: "Google"
+  - author: "Dani"
+    rating: 5
+    date: "2024-12-07"
+    text: >-
+      It was my first time coming here, the staff is very professional. Makes sure to make you feel comfortable and confident. I loved how my lips looked after the treatment. Mildred is amazing at what she does and makes sure you are okay every step of the way. I appreciated how the product and process was explained and shown to me, made me feel included on what was going on. Amazing office and job.
+    source: "Google"
+  - author: "Uma J."
+    rating: 5
+    date: "2024-12-06"
+    text: >-
+      This was my first visit with Dr. Andrea Urdaneta , I found her to be extremely professional, she took her time explaining the procedure to me.i highly recommend her. Very Happy with the results. The nurse Mildred Mitdrey, Reception staff Katyan, Daniela and Adri were supper professional , helpful and kind. I will definetely come back.
+    source: "Google"
+  - author: "Sofia H."
+    rating: 5
+    date: "2025-08-16"
+    text: >-
+      Such a relaxing experience. Top 10 experiences of my life, it was so comfy and so peaceful.
+    source: "Google"
+  - author: "Berenice N. N. H."
+    rating: 5
+    date: "2024-02-22"
+    text: >-
+      Amazing experience. The staff is super friendly, very knowledgeable of their products, they took great care of me and took the time to understand what I was looking for and gave me some perspective on my skin goals. Love the results, noticed a huge difference on my skin after the very first procedure, I also tried out several of their products and fell in love with their personal skincare line. 10
+    source: "Google"
+logo: "/images/clinics/logos/facebeauty-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

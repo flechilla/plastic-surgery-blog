@@ -1,0 +1,60 @@
+name: "Nikki’s plastic surgery"
+slug: nikki-s-plastic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "777 NW 72nd Ave STE 1027, Miami, FL 33126"
+zipCode: "33126"
+coordinates:
+  lat: 25.7793408
+  lng: -80.31024699999999
+phone: ""
+website: null
+googleMapsUrl: "https://maps.google.com/?cid=3510016694495466610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Nikki’s plastic surgery is a plastic surgery practice located in Miami, FL. With a 4.8-star rating from 30 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 30
+reviews:
+  - author: "Mateo"
+    rating: 2
+    date: "2025-11-25"
+    text: >-
+      I paid for my sister to have a rhinoplasty at Nikkis Plastic Surgery, and honestly, the staff's service was terrible. On social media, everything seems perfect, but in person, the treatment is cold and unfriendly from the moment you arrive. The only redeeming feature is the surgeon, Pablo, who is truly professional and clearly knows what he's doing. I wish the rest of the team were as skilled as h
+    source: "Google"
+  - author: "Dariana R. G."
+    rating: 5
+    date: "2026-02-11"
+    text: >-
+      Me fue super bien, te atienden bien y es lo mejor del mundo, espero y sigan así, ES LA MEJOR CLÍNICA DE CIRUGÍA PLÁSTICA 🤭🫶🏻
+    source: "Google"
+  - author: "paula b."
+    rating: 5
+    date: "2026-02-09"
+    text: >-
+      
+    source: "Google"
+  - author: "Fabiola E. S."
+    rating: 5
+    date: "2026-02-09"
+    text: >-
+      
+    source: "Google"
+  - author: "Muñeca E."
+    rating: 5
+    date: "2026-02-07"
+    text: >-
+      
+    source: "Google"
+logo: null
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

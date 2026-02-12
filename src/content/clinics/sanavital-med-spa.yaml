@@ -1,0 +1,60 @@
+name: "Sanavital Med Spa"
+slug: sanavital-med-spa
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "8726 NW 26th St #17, Doral, FL 33172"
+zipCode: "33172"
+coordinates:
+  lat: 25.7974942
+  lng: -80.3385266
+phone: "(786) 630-0084"
+website: "https://www.sanavitalmedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=18211367217888108800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Sanavital Med Spa is a plastic surgery practice located in Doral, FL. With a 5-star rating from 578 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 578
+reviews:
+  - author: "Dalgys M. G."
+    rating: 5
+    date: "2025-11-12"
+    text: >-
+      Thanks Maria José. You did an amazing job on my  eyebrows! Very professional, gentle, and detailed. I love the shape and how natural they look. Highly recommended! 💕
+    source: "Google"
+  - author: "Deyanira A."
+    rating: 5
+    date: "2024-08-17"
+    text: >-
+      Great experience.  Very professional and the results after my treatment was exactly what I wanted . I would recommend it to everyone
+    source: "Google"
+  - author: "Mirna O."
+    rating: 5
+    date: "2025-03-01"
+    text: >-
+      The woman who helped me today was Maria José and she is very professional  when it comes to doing her job. She was very attentive and made me feel comfortable throughout the entire process. I 100% recommend this place.
+    source: "Google"
+  - author: "Jonathan F."
+    rating: 5
+    date: "2025-01-26"
+    text: >-
+      Excellent people, services and attention! It was my first time with my wife and from entering the local to the end, everything was top notch! Even tea and snacks! Totally and 100% recommended! Even the men reading, come, you won’t regret!
+    source: "Google"
+  - author: "Viviana M."
+    rating: 5
+    date: "2024-08-22"
+    text: >-
+      If you’re looking for the best pigmentation place in Florida  with great customer service, results and best prices, then stop looking . This is the place !!  They explain everything to you , answer all your question’s and are so kind. My husband went in nervous and they made him feel so comfortable. I would highly recommend and will be coming back.
+    source: "Google"
+logo: "/images/clinics/logos/sanavital-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

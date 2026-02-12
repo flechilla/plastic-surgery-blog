@@ -1,0 +1,60 @@
+name: "Harmony Med Spa"
+slug: harmony-med-spa
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "4005 NW 114th Ave UNIT 12, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.8106203
+  lng: -80.38069410000001
+phone: "(305) 878-9195"
+website: "https://www.instagram.com/harmonybeautymed?igsh=YmVlOWJlc3RiNG1l"
+googleMapsUrl: "https://maps.google.com/?cid=1039677135781346699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Harmony Med Spa is a plastic surgery practice located in Doral, FL. With a 4.9-star rating from 30 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 30
+reviews:
+  - author: "M T."
+    rating: 5
+    date: "2026-01-14"
+    text: >-
+      Great experience with my laser hair removal treatments. The spa is clean and welcoming, and the staff is professional, knowledgeable, and attentive. Treatments are quick, comfortable, and effective. Highly recommend!
+    source: "Google"
+  - author: "GRiSZ G."
+    rating: 5
+    date: "2025-03-19"
+    text: >-
+      This place was a beautiful experience. Andrea was a sweetheart and so was the lady at the reception desk. I didn’t get her name, but she was also super nice and helpful. They took very good care of me. My skin feels fabulous. I will be returning and I appreciate the experience that was given to me at this spa, it was definitely therapeutic. 10 out of 10, definitely recommend.
+    source: "Google"
+  - author: "Maria C."
+    rating: 5
+    date: "2025-08-09"
+    text: >-
+      Great service, everyone is very friendly. Thank you to Daniela for an amazing facial.
+    source: "Google"
+  - author: "Amy N."
+    rating: 5
+    date: "2025-04-16"
+    text: >-
+      Amazing experience! My skin feels great and the staff was very kind and caring. Highly recommend and would come again.
+    source: "Google"
+  - author: "Marianne P."
+    rating: 5
+    date: "2025-03-15"
+    text: >-
+      Place was super clean and pretty. Everyone was super friendly. The spa is honestly full circle. They also have ALOT of services. HIGHLY recommend!
+    source: "Google"
+logo: "/images/clinics/logos/harmony-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

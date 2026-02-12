@@ -1,0 +1,60 @@
+name: "White Coat Med Spa"
+slug: white-coat-med-spa
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "7319 NW 36th St, Miami, FL 33166"
+zipCode: "33166"
+coordinates:
+  lat: 25.809933299999997
+  lng: -80.3155639
+phone: "(305) 565-9016"
+website: "https://whitecoatmedspa.com/sobre-nosotros/"
+googleMapsUrl: "https://maps.google.com/?cid=12734669209589415915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  White Coat Med Spa is a plastic surgery practice located in Miami, FL. With a 5-star rating from 217 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 217
+reviews:
+  - author: "Yazmin A."
+    rating: 5
+    date: "2025-12-22"
+    text: >-
+      Amazing. Love the results,  the doctor and the experience. They make me feel very comfortable and like they really care. The doctor always takes his time to ensure I am satisfied and that my lips look great. I will not go to any other cosmetic place. This is my place!!!
+    source: "Google"
+  - author: "Ana W."
+    rating: 5
+    date: "2025-09-08"
+    text: >-
+      I had a fagreat experience with Dr. Betancourt. From the moment I walked in, he made me feel comfortable and truly listened to what I was hoping to achieve. He’s not only knowledgeable and experienced in cosmetic procedures, but also very friendly and approachable—which made the entire process smooth and stress-free. I felt like he genuinely cared about delivering results that aligned with my goal
+    source: "Google"
+  - author: "Claudia M."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      Super attention, they explain everything to you, they advise you, they make you recommendations accordingly They don't just sell you a product to sell, They serve you at the comfort and convenience of the patient client
+    source: "Google"
+  - author: "JESUS M."
+    rating: 5
+    date: "2025-09-26"
+    text: >-
+      On this occasion the patient was my wife and it was a spectacular attention, and the best, their team is special no pain they make you feel at home the best without a doubt, everything is well explained and above all a wonderful work that you will not regret, 1000% recommended
+    source: "Google"
+  - author: "Yanitza G."
+    rating: 5
+    date: "2026-01-03"
+    text: >-
+      The Provider(s) are professional, attentive, highly skilled, and knowledgeable. I would definitely recommend doing business with White Coat Med Spa - excellent service!
+    source: "Google"
+logo: "/images/clinics/logos/white-coat-med-spa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

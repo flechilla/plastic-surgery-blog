@@ -1,0 +1,54 @@
+name: "Miami Cosmetic Surgery"
+slug: miami-cosmetic-surgery
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "7325 NW 46th St, Miami, FL 33166"
+zipCode: "33166"
+coordinates:
+  lat: 25.8154177
+  lng: -80.3171273
+phone: "(786) 271-2214"
+website: "https://miamicosmeticsurgery.net/"
+googleMapsUrl: "https://maps.google.com/?cid=4603647218414399242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Miami Cosmetic Surgery is a plastic surgery practice located in Miami, FL. With a 5-star rating from 4 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 5
+reviewCount: 4
+reviews:
+  - author: "Armin L. L."
+    rating: 5
+    date: "2023-09-02"
+    text: >-
+      Thanks to Jose for taking the time to really help me out. You're the best, Jose, and I felt so secure talking to you. Ladies, if you're looking for help, Jose from Miami Cosmetic Surgery is your go-to guy for the entire process, even post-op. Had my Lipo 360 with BBL in Miami on 8/12/23 and I have zero regrets choosing Miami for my transformation. Thank you, thank you!!!
+    source: "Google"
+  - author: "Yudith M."
+    rating: 5
+    date: "2023-09-01"
+    text: >-
+      Super happy with my results, 100% recommend! If you're looking for the best prices and top quality in Miami, Miami Cosmetic Surgery is the place to go. Got a mommy makeover with a tummy tuck and breast lift, and I couldn't be more pleased.
+    source: "Google"
+  - author: "Yanisbel L."
+    rating: 5
+    date: "2023-09-01"
+    text: >-
+      Wow, just wow! I got a Mini BBL in Miami at Miami Cosmetic Surgery, and it was the best decision ever. I was looking for a subtle change and they totally nailed it! Excellent service and fair pricing. Five stars all the way!
+    source: "Google"
+  - author: "YONAL A."
+    rating: 5
+    date: "2023-09-01"
+    text: >-
+      OMG, Miami Cosmetic Surgery, you guys rock! Huge thanks to Lisi for hooking me up with an awesome deal on my skinny bbl in Miami. Y'all are the best, seriously!!
+    source: "Google"
+logo: "/images/clinics/logos/miami-cosmetic-surgery.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

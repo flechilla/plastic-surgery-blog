@@ -1,0 +1,60 @@
+name: "Aromas Medspa at Doral"
+slug: aromas-medspa-at-doral
+city: doral
+cityDisplay: "Doral"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "9831 NW 58th St UNIT 149, Doral, FL 33178"
+zipCode: "33178"
+coordinates:
+  lat: 25.8269543
+  lng: -80.35517999999999
+phone: "(305) 591-3005"
+website: "https://aromaslaser.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+googleMapsUrl: "https://maps.google.com/?cid=7598589175839512118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Aromas Medspa at Doral is a plastic surgery practice located in Doral, FL. With a 4.8-star rating from 656 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.8
+reviewCount: 656
+reviews:
+  - author: "Alejandra R."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Always such a pleasure coming to Aromas Medspa for high quality treatments with a great price. The staff is friendly and knowledgeable and the spa is clean and hygienic. Every service I have gotten so far has left me feeling confident and refreshed. I recommend this spa to all my friends!! 10/10
+    source: "Google"
+  - author: "Andrés T."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      I had an excellent experience at Aromas Med Spa in Doral. The staff is incredibly professional, knowledgeable, and makes you feel comfortable from the moment you arrive. The service is outstanding, and I couldn’t be happier with the laser hair removal treatments, the results have been amazing. I highly recommend this place to anyone looking for quality care and great results.
+    source: "Google"
+  - author: "Harriet K."
+    rating: 5
+    date: "2026-01-22"
+    text: >-
+      Love Aromas & especially Nayla! I wouldn’t trust anyone else in Miami for my Botox. The team are so friendly and professional and put me at ease for my first even Botox. I was nervous to begin my aesthetic journey and they listened to the look I was going for, I’m so happy with my results!
+    source: "Google"
+  - author: "July S."
+    rating: 5
+    date: "2026-01-24"
+    text: >-
+      I have been coming here over the years for my facials. Always an amazing experience. The staff makes you feel right at home. Extremely happy with ny results.
+    source: "Google"
+  - author: "H Z."
+    rating: 5
+    date: "2026-01-23"
+    text: >-
+      Great experience with Nayla. She’s knowledgeable, professional, and makes you feel comfortable from start to finish. The space is clean, relaxing, and the service felt very personalized. Highly recommend.
+    source: "Google"
+logo: "/images/clinics/logos/aromas-medspa-at-doral.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"

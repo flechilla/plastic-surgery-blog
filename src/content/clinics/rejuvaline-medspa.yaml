@@ -1,0 +1,60 @@
+name: "Rejuvaline Medspa"
+slug: rejuvaline-medspa
+city: miami
+cityDisplay: "Miami"
+state: FL
+stateFullName: Florida
+county: "Miami-Dade County"
+neighborhood: ""
+address: "6700 SW 21st St, Miami, FL 33155"
+zipCode: "33155"
+coordinates:
+  lat: 25.7510825
+  lng: -80.30378569999999
+phone: "(305) 266-0006"
+website: "http://www.rejuvalinemedspa.com/"
+googleMapsUrl: "https://maps.google.com/?cid=3894797377316514482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+description: >-
+  Rejuvaline Medspa is a plastic surgery practice located in Miami, FL. With a 4.9-star rating from 237 reviews, they offer cosmetic and reconstructive surgery services.
+specialties:
+  - "Plastic Surgery"
+  - "Cosmetic Surgery"
+rating: 4.9
+reviewCount: 237
+reviews:
+  - author: "Alexander B."
+    rating: 5
+    date: "2026-01-28"
+    text: >-
+      I’ve been going to Rejuvaline MedSpa for almost two years now, and I can honestly say it’s the best med spa experience I’ve ever had. Natalie is hands-down the best injector she is incredibly knowledgeable, skilled, and truly listens to what you want. She has such a great eye for natural results and always makes me feel confident and comfortable with every treatment.  Beyond Natalie, the entire sp
+    source: "Google"
+  - author: "Christina G."
+    rating: 5
+    date: "2026-01-19"
+    text: >-
+      I had an amazing experience at Rejuvaline Medspa with Javi and the entire team. From the moment I walked in, I felt welcomed, heard, and truly cared for. Javi is incredibly knowledgeable and took the time to explain everything in detail, making sure I was comfortable and confident every step of the way. The team is professional, attentive, and genuinely focused on the patient experience—not rushed
+    source: "Google"
+  - author: "Eduardo V. (. O."
+    rating: 5
+    date: "2026-01-31"
+    text: >-
+      What a great experience! I will definitely be back.  The staff was great! The facility super clean.
+    source: "Google"
+  - author: "Jusett K."
+    rating: 5
+    date: "2025-11-27"
+    text: >-
+      ⭐️⭐️⭐️⭐️⭐️ Rejuvaline is amazing! My esthetician Odette is incredibly skilled, gentle, and truly cares about my skin. The spa is clean, relaxing, and beautifully set up. I always leave glowing and refreshed. Highly recommend Rejuvaline for anyone looking for top-tier skincare and a peaceful, luxurious experience that treats you like family from the reception through every treatment offered.!!
+    source: "Google"
+  - author: "elsa d."
+    rating: 5
+    date: "2025-11-16"
+    text: >-
+      First time visiting Rejuvaline Medspa and referred by a close friend of mine. I’ve been wanting to enhance my lips and to have a natural result but the fear of not knowing the ending result or being too dramatic had me doubting the procedure for several years. I’ve been following Natalie and her work is phenomenal to say the least. Meeting her today and getting my lip fillers for the first time wa
+    source: "Google"
+logo: "/images/clinics/logos/rejuvaline-medspa.jpg"
+yearEstablished: null
+certifications: []
+verified: false
+featured: false
+lastUpdated: "2026-02-12"
